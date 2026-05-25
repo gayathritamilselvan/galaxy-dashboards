@@ -166,6 +166,21 @@
             color: #8b949e;
         }
         .legend span { margin-right: 16px; }
+        .global-filter-bar {
+            padding: 12px 24px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            margin-bottom: 24px;
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+        .global-filter-bar label {
+            font-size: 14px;
+            color: #c9d1d9;
+            font-weight: 500;
+        }
     </style>
 </head>
 <body>
@@ -175,13 +190,20 @@
             <div class="meta">Celeste & Mars Teams | blackboard-learn/ultra | Last 30 days</div>
         </div>
         <div style="text-align:right">
-            <div class="meta" id="lastUpdated">Generated: 2026-05-25 17:02:09</div>
+            <div class="meta" id="lastUpdated">Generated: 2026-05-25 18:36:55</div>
             <span class="refresh-btn" style="cursor:default;background:#30363d;">Data refreshed by admin</span>
         </div>
     </div>
 
+    <div class="global-filter-bar">
+        <label>Filter by Team: <select id="teamFilter" class="filter-select" onchange="filterByTeam(this.value)">
+            <option value="">All Teams</option>
+            <option value="Celeste">Celeste</option><option value="Mars">Mars</option>
+        </select></label>
+    </div>
+
     
-        <div class="team-section">
+        <div class="team-section" data-team="Celeste">
             <h2 class="team-header team-celeste">Celeste Team
                 <span class="team-stats">
                     Total: 10 | Open: 1 | Draft: 5 | Merged: 4 | Closed: 0
@@ -344,10 +366,10 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Mars">
             <h2 class="team-header team-mars">Mars Team
                 <span class="team-stats">
-                    Total: 54 | Open: 13 | Draft: 12 | Merged: 25 | Closed: 4
+                    Total: 54 | Open: 14 | Draft: 11 | Merged: 25 | Closed: 4
                 </span>
             </h2>
             <div class="filter-bar">
@@ -386,11 +408,11 @@
                             <td>—</td>
                             <td><span class="addressed-na">—</span></td>
                         </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-05-23" data-changes="no-changes">
+                        <tr class="state-open" data-state="Open" data-date="2026-05-23" data-changes="no-changes">
                             <td><a href="https://github.com/blackboard-learn/ultra/pull/16265" target="_blank">#16265</a></td>
                             <td class="title-cell" title="Feature/AB#678858 graded forms grade details panel uia">Feature/AB#678858 graded forms grade details panel uia</td>
                             <td>AshwinArumugamMani</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span></td>
+                            <td><span class="badge" style="background:#238636">Open</span></td>
                             <td>2026-05-23</td>
                             <td>—</td>
                             <td>—</td>
@@ -1089,6 +1111,17 @@
     </div>
 
     <script>
+
+    function filterByTeam(team) {
+        const sections = document.querySelectorAll('.team-section');
+        sections.forEach(s => {
+            if (!team || s.dataset.team === team) {
+                s.style.display = '';
+            } else {
+                s.style.display = 'none';
+            }
+        });
+    }
 
     function applyFilters(el) {
         // Find the team-section this filter belongs to

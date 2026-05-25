@@ -177,6 +177,21 @@
             color: #8b949e;
         }
         .legend span { margin-right: 16px; }
+        .global-filter-bar {
+            padding: 12px 24px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            margin-bottom: 24px;
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+        .global-filter-bar label {
+            font-size: 14px;
+            color: #c9d1d9;
+            font-weight: 500;
+        }
     </style>
 </head>
 <body>
@@ -191,13 +206,20 @@
             </div>
         </div>
         <div style="text-align:right">
-            <div class="meta" id="lastUpdated">Generated: 2026-05-25 18:23:56</div>
+            <div class="meta" id="lastUpdated">Generated: 2026-05-25 18:42:03</div>
             <span class="refresh-btn" style="cursor:default;background:#30363d;">Data refreshed by admin</span>
         </div>
     </div>
 
+    <div class="global-filter-bar">
+        <label>Filter by Team: <select id="teamFilter" class="filter-select" onchange="filterByTeam(this.value)">
+            <option value="">All Teams</option>
+            <option value="Celeste">Celeste</option><option value="Mars">Mars</option><option value="Pallavas">Pallavas</option><option value="Pandias">Pandias</option><option value="Cholas">Cholas</option><option value="Supernova">Supernova</option><option value="Starlite">Starlite</option><option value="Elite">Elite</option><option value="Nayakas">Nayakas</option><option value="Oxygen">Oxygen</option>
+        </select></label>
+    </div>
+
     
-        <div class="team-section">
+        <div class="team-section" data-team="Celeste">
             <h2 class="team-header" style="background: linear-gradient(90deg, #1a2a3d, #0d1117); border-left: 4px solid #79c0ff;">Celeste Team
                 <span class="team-stats">
                     Total: 10 | Open: 1 | Draft: 5 | Merged: 4 | Closed: 0
@@ -360,7 +382,7 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Mars">
             <h2 class="team-header" style="background: linear-gradient(90deg, #3d1a1a, #0d1117); border-left: 4px solid #f97583;">Mars Team
                 <span class="team-stats">
                     Total: 54 | Open: 14 | Draft: 11 | Merged: 25 | Closed: 4
@@ -1095,7 +1117,7 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Pallavas">
             <h2 class="team-header" style="background: linear-gradient(90deg, #1a4a3a, #0d1117); border-left: 4px solid #2dd4bf;">Pallavas Team
                 <span class="team-stats">
                     Total: 25 | Open: 9 | Draft: 3 | Merged: 10 | Closed: 3
@@ -1453,7 +1475,7 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Pandias">
             <h2 class="team-header" style="background: linear-gradient(90deg, #3d2d1a, #0d1117); border-left: 4px solid #f59e0b;">Pandias Team
                 <span class="team-stats">
                     Total: 34 | Open: 6 | Draft: 6 | Merged: 17 | Closed: 5
@@ -1928,7 +1950,7 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Cholas">
             <h2 class="team-header" style="background: linear-gradient(90deg, #1a2a4a, #0d1117); border-left: 4px solid #60a5fa;">Cholas Team
                 <span class="team-stats">
                     Total: 24 | Open: 7 | Draft: 9 | Merged: 7 | Closed: 1
@@ -2273,7 +2295,7 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Supernova">
             <h2 class="team-header" style="background: linear-gradient(90deg, #3d1a4a, #0d1117); border-left: 4px solid #c084fc;">Supernova Team
                 <span class="team-stats">
                     Total: 15 | Open: 4 | Draft: 2 | Merged: 9 | Closed: 0
@@ -2501,7 +2523,7 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Starlite">
             <h2 class="team-header" style="background: linear-gradient(90deg, #1a3d3d, #0d1117); border-left: 4px solid #22d3ee;">Starlite Team
                 <span class="team-stats">
                     Total: 31 | Open: 7 | Draft: 7 | Merged: 12 | Closed: 5
@@ -2937,7 +2959,7 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Elite">
             <h2 class="team-header" style="background: linear-gradient(90deg, #2d1a3d, #0d1117); border-left: 4px solid #f472b6;">Elite Team
                 <span class="team-stats">
                     Total: 13 | Open: 2 | Draft: 2 | Merged: 4 | Closed: 5
@@ -3139,7 +3161,7 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Nayakas">
             <h2 class="team-header" style="background: linear-gradient(90deg, #2d3d1a, #0d1117); border-left: 4px solid #a3e635;">Nayakas Team
                 <span class="team-stats">
                     Total: 5 | Open: 2 | Draft: 0 | Merged: 3 | Closed: 0
@@ -3237,7 +3259,7 @@
                 </table>
             </div>
         </div>
-        <div class="team-section">
+        <div class="team-section" data-team="Oxygen">
             <h2 class="team-header" style="background: linear-gradient(90deg, #1a3d2a, #0d1117); border-left: 4px solid #34d399;">Oxygen Team
                 <span class="team-stats">
                     Total: 10 | Open: 8 | Draft: 1 | Merged: 0 | Closed: 1
@@ -3410,6 +3432,17 @@
     </div>
 
     <script>
+
+    function filterByTeam(team) {
+        const sections = document.querySelectorAll('.team-section');
+        sections.forEach(s => {
+            if (!team || s.dataset.team === team) {
+                s.style.display = '';
+            } else {
+                s.style.display = 'none';
+            }
+        });
+    }
 
     function applyFilters(el) {
         const section = el.closest('.team-section');

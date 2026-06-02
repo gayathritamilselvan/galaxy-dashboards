@@ -94,7 +94,7 @@ DISPLAY_NAMES = {
 }
 
 TECH_LEADS = {"tbednarekbb", "johntrianat", "stormojm", "priceld", "rpetersonbb", "davtohbb", "varju", "ftclausen", "ewpreston", "alwongbb", "kkuppula", "lanceneumannblackboard", "sathyamoorthy612"}
-CES_REVIEWERS = {"zachariah-mcfadden", "db725-bb", "p64b", "saidcueter27", "carloscarrenod", "lapv1992", "sdash1908"}
+CES_REVIEWERS = {"covertcj", "stormojm", "priceld", "bbnkamper", "bbmnatarajan", "johntrianat", "davtohbb", "dsoto-bb", "jkhan07"}
 VS_REVIEWERS = {"amyers-blackboard", "kapalanisamy", "hariharanmohanakrishnan"}
 
 user_to_team = {}
@@ -204,13 +204,17 @@ for i, pr in enumerate(all_prs):
     
     for reviewer, rev_state in reviewer_states.items():
         if rev_state == "APPROVED":
+            matched = False
             if reviewer in TECH_LEADS:
                 approvals.add("tech")
-            elif reviewer in CES_REVIEWERS:
+                matched = True
+            if reviewer in CES_REVIEWERS:
                 approvals.add("ces")
-            elif reviewer in VS_REVIEWERS:
+                matched = True
+            if reviewer in VS_REVIEWERS:
                 approvals.add("vs")
-            else:
+                matched = True
+            if not matched:
                 approvals.add("team")
         elif rev_state == "CHANGES_REQUESTED":
             changes_requested_by.add(reviewer)

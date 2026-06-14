@@ -4219,14 +4219,14 @@
       "display_name": "Kirubakaran R",
       "team": "Elite",
       "period": "S12",
-      "reviews_submitted": 27,
-      "prs_reviewed": 16,
-      "approval_rate": 40.7,
-      "avg_response_time": 64.3,
-      "comment_count": 25,
-      "prs_commented_on": 8,
-      "comments_on_reviewed": 25,
-      "avg_comments_on_reviewed": 1.6
+      "reviews_submitted": 28,
+      "prs_reviewed": 17,
+      "approval_rate": 39.3,
+      "avg_response_time": 75.8,
+      "comment_count": 26,
+      "prs_commented_on": 9,
+      "comments_on_reviewed": 26,
+      "avg_comments_on_reviewed": 1.5
     },
     {
       "member": "srujankusuma3232",
@@ -5283,13 +5283,13 @@
       "display_name": "Kirubakaran R",
       "team": "Elite",
       "period": "ALL",
-      "reviews_submitted": 166,
-      "prs_reviewed": 114,
-      "approval_rate": 50.0,
-      "avg_response_time": 94.3,
-      "comment_count": 205,
-      "prs_commented_on": 59,
-      "comments_on_reviewed": 205,
+      "reviews_submitted": 167,
+      "prs_reviewed": 115,
+      "approval_rate": 50.3,
+      "avg_response_time": 95.8,
+      "comment_count": 206,
+      "prs_commented_on": 60,
+      "comments_on_reviewed": 206,
       "avg_comments_on_reviewed": 1.8
     },
     {
@@ -9628,5 +9628,5 @@
     }
   ],
   "total_prs": 188,
-  "fetched_at": "2026-06-13 15:25:30"
+  "fetched_at": "2026-06-14 08:13:47"
 }

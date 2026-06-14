@@ -4219,14 +4219,14 @@
       "display_name": "Kirubakaran R",
       "team": "Elite",
       "period": "S12",
-      "reviews_submitted": 28,
-      "prs_reviewed": 17,
-      "approval_rate": 39.3,
-      "avg_response_time": 75.8,
-      "comment_count": 26,
-      "prs_commented_on": 9,
-      "comments_on_reviewed": 26,
-      "avg_comments_on_reviewed": 1.5
+      "reviews_submitted": 30,
+      "prs_reviewed": 19,
+      "approval_rate": 36.7,
+      "avg_response_time": 83.6,
+      "comment_count": 37,
+      "prs_commented_on": 10,
+      "comments_on_reviewed": 37,
+      "avg_comments_on_reviewed": 1.9
     },
     {
       "member": "srujankusuma3232",
@@ -5283,14 +5283,14 @@
       "display_name": "Kirubakaran R",
       "team": "Elite",
       "period": "ALL",
-      "reviews_submitted": 167,
-      "prs_reviewed": 115,
-      "approval_rate": 50.3,
-      "avg_response_time": 95.8,
-      "comment_count": 206,
-      "prs_commented_on": 60,
-      "comments_on_reviewed": 206,
-      "avg_comments_on_reviewed": 1.8
+      "reviews_submitted": 169,
+      "prs_reviewed": 117,
+      "approval_rate": 49.7,
+      "avg_response_time": 96.7,
+      "comment_count": 217,
+      "prs_commented_on": 61,
+      "comments_on_reviewed": 217,
+      "avg_comments_on_reviewed": 1.9
     },
     {
       "member": "bharathikannaa",
@@ -8483,7 +8483,7 @@
       "period": "S12",
       "prs_authored": 1,
       "avg_pr_age": null,
-      "avg_pr_size": 746.0,
+      "avg_pr_size": 863.0,
       "avg_review_cycle": 2.0
     },
     {
@@ -8764,7 +8764,7 @@
       "prs_authored": 2,
       "avg_pr_age": null,
       "avg_pr_size": 264.0,
-      "avg_review_cycle": 2.0
+      "avg_review_cycle": 2.5
     },
     {
       "member": "gulshan-antho",
@@ -9263,7 +9263,7 @@
       "period": "ALL",
       "prs_authored": 14,
       "avg_pr_age": 271.9,
-      "avg_pr_size": 221.7,
+      "avg_pr_size": 230.1,
       "avg_review_cycle": 1.36
     },
     {
@@ -9474,7 +9474,7 @@
       "prs_authored": 15,
       "avg_pr_age": 439.1,
       "avg_pr_size": 578.1,
-      "avg_review_cycle": 0.93
+      "avg_review_cycle": 1.0
     },
     {
       "member": "omswarooprk",
@@ -9628,5 +9628,5 @@
     }
   ],
   "total_prs": 188,
-  "fetched_at": "2026-06-14 08:13:47"
+  "fetched_at": "2026-06-14 15:36:52"
 }

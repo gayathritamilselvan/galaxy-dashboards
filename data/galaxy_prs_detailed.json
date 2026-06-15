@@ -1,5 +1,139 @@
 [
   {
+    "number": 16788,
+    "title": "azure check",
+    "author_login": "Ram-G-BB",
+    "author_name": "Ram G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-06-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16788"
+  },
+  {
+    "number": 16787,
+    "title": "AB#684423 Post Individual Grade button remains enabled after posting a grade for a manual item in the Grade Details panel.",
+    "author_login": "smurugasan-bbdn",
+    "author_name": "Sounder Murugasan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16787"
+  },
+  {
+    "number": 16784,
+    "title": "Feature/AB#578857 localization for moving folders into other folders",
+    "author_login": "Anshu972438",
+    "author_name": "Anshu",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-06-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16784"
+  },
+  {
+    "number": 16775,
+    "title": "AB#671784 large mcq with images perfomance issue throws page unresponsive in flex grading page",
+    "author_login": "Subashree-b",
+    "author_name": "Subashree B",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-06-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16775"
+  },
+  {
+    "number": 16773,
+    "title": "Bugfix/AB#682025 - Fix group context resolution in Grade Detail Panel and Flex Grading navigation for group assessments",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16773"
+  },
+  {
+    "number": 16772,
+    "title": "AB#675589 Route changes for LOR permissions menu item to show permission peek panel",
+    "author_login": "tsyed-bbdn",
+    "author_name": "Tausif Syed",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-06-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16772"
+  },
+  {
     "number": 16769,
     "title": "AB#661493 Fix OOPS Error while deleting AI Playground Conversation while response generation",
     "author_login": "SuryaMadhanlal-5252",
@@ -55,9 +189,10 @@
     "created_at": "2026-06-15",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -117,12 +252,12 @@
     "title": "Bugfix/ab#684719 improve build stability",
     "author_login": "Ram-G-BB",
     "author_name": "Ram G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-15",
+    "closed_at": "2026-06-15",
     "approvals": [
       "team",
       "vs"
@@ -162,7 +297,7 @@
     "title": "Bugfix/AB#679084 - Accommodation section - Due date  issue fix ",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-12",
@@ -277,18 +412,18 @@
     "title": "Bugfix - AB#684013 : Overall Grade Pill Displays Null/Blank Values After Applying Category Filter in New Gradebook Grid View",
     "author_login": "akash05-bb",
     "author_name": "Akash M",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-11",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -420,11 +555,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -897,12 +1032,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -933,15 +1068,15 @@
   },
   {
     "number": 16644,
-    "title": "AB#683408 Release conditions banner message for grade details panel",
+    "title": "AB#684696 Release conditions banner message for grade details panel",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-15",
+    "closed_at": "2026-06-15",
     "approvals": [
       "ces",
       "team",
@@ -966,12 +1101,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1202,6 +1337,7 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
+      "priceld",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1235,12 +1371,12 @@
     "title": "AB#682636 UI Updates on Flashcards Content Preview screen ",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-08",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-15",
+    "closed_at": "2026-06-15",
     "approvals": [
       "ces",
       "team",
@@ -1370,12 +1506,12 @@
     "title": "Bugfix - AB#682381 - Gradebook mobile view UI issues due to new grid view",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-08",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-15",
+    "closed_at": "2026-06-15",
     "approvals": [
       "ces",
       "team",
@@ -1789,12 +1925,12 @@
     "title": "AB#672242 - Anonymous Assessment & forms Accommodation changes",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-04",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-15",
+    "closed_at": "2026-06-15",
     "approvals": [
       "ces",
       "team",
@@ -1835,12 +1971,12 @@
     "title": "bugfix/AB#679776 - Multiple Overall Grade Notation Popovers Spawn Automatically After Creating a New Grade Notation",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-03",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-15",
+    "closed_at": "2026-06-15",
     "approvals": [
       "ces",
       "team",
@@ -1904,12 +2040,12 @@
     "title": "bugfix/AB#682893-overall grade click navigation ",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-03",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-15",
+    "closed_at": "2026-06-15",
     "approvals": [
       "ces",
       "team"
@@ -2143,10 +2279,8 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "kirubakaranrbb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16464"
   },
   {
@@ -4782,6 +4916,28 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16085"
   },
   {
+    "number": 8322,
+    "title": "AB#684745 - updating the postgres16 minor version from 16.10 to 16.14",
+    "author_login": "manojchandrashekar29",
+    "author_name": "Manoj C",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-06-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8322"
+  },
+  {
     "number": 8321,
     "title": "Bugfix/AB#668991 External Guest Users Unable to View Uploaded Image and access Discussion Tab",
     "author_login": "harshitha786",
@@ -4809,23 +4965,22 @@
     "title": "AB#684425 - Unable to edit and save UEF placement configuration from LTI Tool Providers page",
     "author_login": "AdhithiyaHBB",
     "author_name": "Adhithiya H",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-06-12",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "pkumarr07"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8317"
   },
   {
@@ -4846,8 +5001,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "pkumarr07"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8313"
   },
   {
@@ -5341,12 +5498,12 @@
     "title": "AB#668352-Fetch course accommodation members assigned to group for assessment detail",
     "author_login": "MartinRodgers0007",
     "author_name": "Martin Rodgers",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-05-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-15",
+    "closed_at": "2026-06-15",
     "approvals": [
       "team",
       "tech"

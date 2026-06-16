@@ -1,5 +1,27 @@
 [
   {
+    "number": 16809,
+    "title": "AB#684743 Posted label is displayed in Grade Details panel after saving text for an Add Text Item",
+    "author_login": "smurugasan-bbdn",
+    "author_name": "Sounder Murugasan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16809"
+  },
+  {
     "number": 16798,
     "title": "Feature/AB#684863 Tabbed home",
     "author_login": "srujankusuma3232",
@@ -26,22 +48,24 @@
     "title": "feature/AB#684931 Brand assist variant crud",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-06-16",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16797"
   },
   {
@@ -206,18 +230,18 @@
     "title": "AB#661493 Fix OOPS Error while deleting AI Playground Conversation while response generation",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-15",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -305,15 +329,17 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "jkhan07"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16762"
   },
   {
@@ -419,11 +445,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -692,10 +718,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -805,9 +831,10 @@
     "created_at": "2026-06-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -827,9 +854,10 @@
     "created_at": "2026-06-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -935,7 +963,7 @@
     "title": "AB#682642-Add Activity run GET endpoint",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-10",
@@ -1014,10 +1042,10 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -1400,15 +1428,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "priceld",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1830,12 +1857,12 @@
     "title": "AB#682639 student view fullpage header integration",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-04",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "ces",
       "team",
@@ -2088,12 +2115,12 @@
     "title": "bugfix/AB#682209 - First Two Rows in New Gradebook Grid View Are Truncated at the Top of the Screen for Safari Browser",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-03",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "ces",
       "team",
@@ -2336,12 +2363,12 @@
     "title": "AB#681683 - Refactor add-feedback row component and implement collapsed/expanded feedback ",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "ces",
       "team",
@@ -2677,15 +2704,15 @@
   },
   {
     "number": 16419,
-    "title": "AB#679405-100-Percent-confidence achived Screen student view",
+    "title": "AB#682643-100-Percent-confidence achived Screen student view",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-01",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "ces",
       "team",
@@ -3228,12 +3255,12 @@
     "title": "bugfix/AB#680612-Overall grade does not update after deleting column in new grid",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-05-27",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "ces",
       "team",
@@ -3870,12 +3897,12 @@
     "title": "AB#672242 Button navigation to launch LTI tool in Grade detail panel",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-05-21",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "ces",
       "team",
@@ -4987,6 +5014,29 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16085"
   },
   {
+    "number": 8326,
+    "title": "Bugfix/AB#664256 - Fix IP Restriction Bypass During Assessment Attempt Creation",
+    "author_login": "ranjith-r-anthology",
+    "author_name": "Ranjith Ramasamy",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-06-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8326"
+  },
+  {
     "number": 8322,
     "title": "AB#684745 - updating the postgres16 minor version from 16.10 to 16.14",
     "author_login": "manojchandrashekar29",
@@ -5098,8 +5148,11 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "sakthi-selvapriya",
+      "varju"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8295"
   },
   {

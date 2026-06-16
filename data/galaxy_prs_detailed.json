@@ -1,5 +1,73 @@
 [
   {
+    "number": 16798,
+    "title": "Feature/AB#684863 Tabbed home",
+    "author_login": "srujankusuma3232",
+    "author_name": "Srujan Kusuma",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-06-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16798"
+  },
+  {
+    "number": 16797,
+    "title": "feature/AB#684931 Brand assist variant crud",
+    "author_login": "srujankusuma3232",
+    "author_name": "Srujan Kusuma",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-06-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16797"
+  },
+  {
+    "number": 16795,
+    "title": "Bugfix/AB#579221 implement UI a for new grade grid view",
+    "author_login": "mjaifank",
+    "author_name": "Mjaifan K",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-06-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "vs"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16795"
+  },
+  {
     "number": 16788,
     "title": "azure check",
     "author_login": "Ram-G-BB",
@@ -144,9 +212,10 @@
     "created_at": "2026-06-15",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -206,18 +275,18 @@
     "title": "AB#680292 - New Grid View becomes invisible in HCM Version Bump",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -479,7 +548,7 @@
     "title": " AB#682578-disabled the grader note for anonymous assessment",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-11",
@@ -571,12 +640,12 @@
     "title": "feature/AB#684228 Page type parameterize getData",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-06-11",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "ces",
       "team",
@@ -616,15 +685,16 @@
     "title": "feature/AB#683420-place add icon inside header cell for ax-up down navigation",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-11",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -638,12 +708,12 @@
     "title": "AB#679075 - Peer-grading  & due date time field validation errors ",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-11",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-16",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -779,9 +849,10 @@
     "created_at": "2026-06-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -801,9 +872,10 @@
     "created_at": "2026-06-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -909,12 +981,12 @@
     "title": "feature/AB#668352 - show accommodation details for group content in assessment detail panel",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -1032,13 +1104,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16655"
@@ -1117,12 +1188,12 @@
     "title": "AB#680651 unquarantine ptid 2733615",
     "author_login": "Gandipavankumar",
     "author_name": "Pavan Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "team",
       "vs"
@@ -2675,15 +2746,15 @@
   },
   {
     "number": 16414,
-    "title": "AB#679404-Updated Deck completion/Progress breakdown summary screen",
+    "title": "AB#682645-Updated Deck completion/Progress breakdown summary screen",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-01",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "team",
       "vs"
@@ -2815,12 +2886,12 @@
     "title": "Feature/AB#672243-Cell highlight and focus management for cell click in gradebook grid",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-05-29",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "ces",
       "team",
@@ -3340,12 +3411,12 @@
     "title": "Bugfix/AB#672243-Fix diagonal focus jump during vertical keyboard navigation in gradebook grid",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-05-25",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "ces",
       "team",
@@ -4821,12 +4892,12 @@
     "title": "AB#681280-Grade-detail-panel-LTI-changes",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-05-18",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-16",
+    "closed_at": "2026-06-16",
     "approvals": [
       "team"
     ],
@@ -4844,12 +4915,12 @@
     "title": "feature/AB#678758 Add ASSIST tab to Institution Page",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-05-18",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-16",
     "approvals": [
       "team"
     ],
@@ -4872,12 +4943,12 @@
     "title": "feature/AB#678757 Add hooks and utilities for ASSIST tab feature",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-05-18",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-16",
     "approvals": [
       "team",
       "tech"
@@ -4979,8 +5050,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "lanceneumannblackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8317"
   },
   {

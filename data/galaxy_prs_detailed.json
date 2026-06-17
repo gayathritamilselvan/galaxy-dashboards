@@ -1,5 +1,116 @@
 [
   {
+    "number": 16816,
+    "title": "AB#682554 - Journal/Discussions feedbacks is duplicated between attempt feedback and note to sutdent",
+    "author_login": "rag-bbdn",
+    "author_name": "Ragavendran",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16816"
+  },
+  {
+    "number": 16815,
+    "title": "AB#684727 Add unsaved changes confirmation dialog to Flashcard Review page",
+    "author_login": "SuryaMadhanlal-5252",
+    "author_name": "Surya Madhanlal",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-06-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16815"
+  },
+  {
+    "number": 16814,
+    "title": "Bugfix/ab 684707 bug bash instance temp branch",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-06-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16814"
+  },
+  {
+    "number": 16813,
+    "title": "AB#682596- api integration for last card and summary buttons",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-06-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16813"
+  },
+  {
+    "number": 16812,
+    "title": "bugfix/AB#680441-new-gradebook-view-PTID=213-2993",
+    "author_login": "DineshRajendranBB",
+    "author_name": "Dinesh Rajendran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-06-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16812"
+  },
+  {
     "number": 16809,
     "title": "AB#684743 Posted label is displayed in Grade Details panel after saving text for an Add Text Item",
     "author_login": "smurugasan-bbdn",
@@ -73,12 +184,12 @@
     "title": "Bugfix/AB#579221 implement UI a for new grade grid view",
     "author_login": "mjaifank",
     "author_name": "Mjaifan K",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-16",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-17",
+    "closed_at": "2026-06-17",
     "approvals": [
       "team",
       "vs"
@@ -336,10 +447,8 @@
       "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "jkhan07"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16762"
   },
   {
@@ -435,15 +544,15 @@
   },
   {
     "number": 16743,
-    "title": "AB#683408 Student does not have banner message for grade details panel",
+    "title": "AB#684897 Student does not have banner message for grade details panel",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-12",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-17",
+    "closed_at": "2026-06-17",
     "approvals": [
       "ces",
       "team",
@@ -581,11 +690,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -940,7 +1049,7 @@
     "title": "AB#682642)-Add POST /runs start activity run endpoint ",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-10",
@@ -977,8 +1086,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16682"
   },
   {
@@ -1087,10 +1198,10 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -1435,10 +1546,8 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16605"
   },
   {
@@ -2046,12 +2155,12 @@
     "title": "AB#680341-Bugfix/ab-680341 content is no longer available dialog appears when opening the grade details panel for a discussion",
     "author_login": "BavithraM",
     "author_name": "Bavithra M",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-04",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-17",
+    "closed_at": "2026-06-17",
     "approvals": [
       "ces",
       "team",
@@ -4990,28 +5099,6 @@
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16087"
-  },
-  {
-    "number": 16085,
-    "title": "Feature/group spike work",
-    "author_login": "BharathiKannaa",
-    "author_name": "Bharathi Kanna",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-05-17",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16085"
   },
   {
     "number": 8326,

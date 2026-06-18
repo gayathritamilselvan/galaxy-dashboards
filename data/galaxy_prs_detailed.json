@@ -1,12 +1,12 @@
 [
   {
-    "number": 16846,
-    "title": "Bugfix/AB#684904 - Fix : Oops Error When Description Contains HTML Tags in Manual Column and Text Item",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
+    "number": 16856,
+    "title": "Oven Run#1",
+    "author_login": "vasan1990",
+    "author_name": "Vasan",
     "state": "Draft",
     "repo": "Ultra",
-    "team": "Pallavas",
+    "team": "Elite",
     "created_at": "2026-06-18",
     "merged_at": null,
     "closed_at": null,
@@ -19,16 +19,60 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16846"
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16856"
   },
   {
-    "number": 16845,
-    "title": "Feature/AB#668658 Remove MembershipIds & GroupIds from GET query params",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
+    "number": 16853,
+    "title": "AB#684261 - Peer grading changes and error validation",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
     "state": "Draft",
     "repo": "Ultra",
-    "team": "Pandias",
+    "team": "Mars",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16853"
+  },
+  {
+    "number": 16852,
+    "title": "Bugfix/AB#684441 - Show 'Note to Student' and Hide 'Attempt Feedback' for Manual Items",
+    "author_login": "ranjith-r-anthology",
+    "author_name": "Ranjith Ramasamy",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Celeste",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16852"
+  },
+  {
+    "number": 16851,
+    "title": "AB#682578-Anonymous Grader notes",
+    "author_login": "sharmilahameed",
+    "author_name": "Sharmila Begam Hameed",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
     "created_at": "2026-06-18",
     "merged_at": null,
     "closed_at": null,
@@ -38,6 +82,98 @@
     "pending": [
       "Tech Lead Review",
       "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16851"
+  },
+  {
+    "number": 16850,
+    "title": "bugfix/AB#683114 - Gradebook Grid View: Clicking Sorting icon opens Divider (+) menu when hovering near both controls",
+    "author_login": "manoharan100",
+    "author_name": "Manoharan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16850"
+  },
+  {
+    "number": 16848,
+    "title": "Bugfix/AB#685816 - Improve contrast of override grade pills on alternating shaded rows",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16848"
+  },
+  {
+    "number": 16846,
+    "title": "Bugfix/AB#684904 - Fix : Oops Error When Description Contains HTML Tags in Manual Column and Text Item",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "ces",
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16846"
+  },
+  {
+    "number": 16845,
+    "title": "Feature/AB#668658 Remove MembershipIds & GroupIds from GET query params",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "ces",
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -116,12 +252,12 @@
     "title": "AB#685546 - Localisation changes for grade detail panel",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-17",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "ces",
       "team"
@@ -180,7 +316,7 @@
   },
   {
     "number": 16816,
-    "title": "AB#682554 - Journal/Discussions feedbacks is duplicated between attempt feedback and note to sutdent",
+    "title": "AB#682554 - Journal/Discussions feedbacks is duplicated and enabled group assessment feedback",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
     "state": "Open",
@@ -295,18 +431,18 @@
     "title": "AB#684743 Posted label is displayed in Grade Details panel after saving text for an Add Text Item",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-16",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -410,7 +546,7 @@
     "title": "AB#684423 Post Individual Grade button remains enabled after posting a grade for a manual item in the Grade Details panel.",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-15",
@@ -507,13 +643,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16772"
@@ -615,12 +750,12 @@
     "title": "AB#683388  - Incorrect Overall Grade Percentage Calculation for Overridden Grades in New Grid View",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "ces",
       "team"
@@ -1161,7 +1296,7 @@
     "title": "AB#682642-Activity run dux - fetchRecentRun-reducer-selectors",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-10",
@@ -1175,10 +1310,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "azaraman"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16690"
   },
   {
@@ -1239,11 +1372,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -1499,8 +1632,11 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "dsoto-bb",
+      "priceld"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16641"
   },
   {
@@ -1666,12 +1802,12 @@
     "title": "AB#681683 - Align Feedback Labels with New Grade Detail Panel Implementation",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-08",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "ces",
       "team",
@@ -1688,12 +1824,12 @@
     "title": "bugfix/AB#683114 - Gradebook Grid View:  Clicking Sorting icon opens Divider (+) menu when hovering near both controls",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-08",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-18",
     "approvals": [
       "team"
     ],
@@ -2193,12 +2329,12 @@
     "title": "AB#683024-Feature/ab 672269 implementation for collect offline submissions grade detail panel",
     "author_login": "BavithraM",
     "author_name": "Bavithra M",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-04",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "ces",
       "team",
@@ -4279,12 +4415,12 @@
     "title": "Feature/AB#680254 move edit pencil icon to dedicated header row",
     "author_login": "gowthamanpalani",
     "author_name": "Gowthaman Palani",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-05-21",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "ces",
       "team",
@@ -5069,6 +5205,28 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16124"
   },
   {
+    "number": 8347,
+    "title": "Bugfix/AB#685575 EnableVIEW_PERMISSION_INSTRUCTOR_WITHOUT_SCORES role users to access grades API and View Attempts",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Pandias",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8347"
+  },
+  {
     "number": 8341,
     "title": "AB#675678-Implement guest user handling for TDM catalog redirection",
     "author_login": "Ashish-Anthology",
@@ -5141,7 +5299,7 @@
     "title": "AB#684745 - updating the postgres16 minor version from 16.10 to 16.14",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Celeste",
     "created_at": "2026-06-15",
@@ -5201,6 +5359,7 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
+      "esnadoval",
       "lanceneumannblackboard"
     ],
     "changes_addressed": "no",
@@ -5375,12 +5534,12 @@
     "title": "Bugfix/AB#682183 Implement to optimize gb2_score_attempt_vw to use Model-Specific View to Eliminate UNION ALL",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pandias",
     "created_at": "2026-06-05",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "team",
       "tech"
@@ -5628,7 +5787,7 @@
     "title": "Bugfix/AB#672469-Fix Entitlement Check Order in GradebookRestServiceHelper#getGradebookColumnViewPermission()",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Pandias",
     "created_at": "2026-05-25",
@@ -5643,7 +5802,6 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "bbsaraswathikanniappan",
       "lanceneumannblackboard"
     ],
     "changes_addressed": "no",
@@ -5700,12 +5858,12 @@
     "title": "Bugfix/AB#680307 - Path traversal issue in public batch endpoint",
     "author_login": "Dinesh-Chandra832",
     "author_name": "Dinesh Chandra",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-05-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "team",
       "tech"

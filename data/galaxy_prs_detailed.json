@@ -1,5 +1,117 @@
 [
   {
+    "number": 16846,
+    "title": "Bugfix/AB#684904 - Fix : Oops Error When Description Contains HTML Tags in Manual Column and Text Item",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16846"
+  },
+  {
+    "number": 16845,
+    "title": "Feature/AB#668658 Remove MembershipIds & GroupIds from GET query params",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16845"
+  },
+  {
+    "number": 16844,
+    "title": "AB#684510-Post individual grade disabled for Grader",
+    "author_login": "sharmilahameed",
+    "author_name": "Sharmila Begam Hameed",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16844"
+  },
+  {
+    "number": 16843,
+    "title": "Bugfix/AB#684578 - Fix Grade Detail Panel Accordian Focus Not Fully Covered",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16843"
+  },
+  {
+    "number": 16842,
+    "title": "Add ViewGrades entitlement validation to new gradebook grid/mastery views",
+    "author_login": "PriyadarshiniSaravanan",
+    "author_name": "Priyadarshini S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-06-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16842"
+  },
+  {
     "number": 16823,
     "title": "AB#685546 - Localisation changes for grade detail panel",
     "author_login": "rag-bbdn",
@@ -167,12 +279,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -189,9 +301,10 @@
     "created_at": "2026-06-16",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -303,9 +416,10 @@
     "created_at": "2026-06-15",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -948,10 +1062,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "prasannajayasankar"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16702"
   },
   {
@@ -1601,12 +1713,12 @@
     "title": "AB#682276- Note to Student added in Flex grading page",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-08",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "ces",
       "team",
@@ -1873,12 +1985,12 @@
     "title": "Feature/AB#514831 Remove DirectGradeMapping Feature Flag",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-05",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "ces",
       "team",
@@ -2610,12 +2722,12 @@
     "title": "Feature/AB#680227 - Rename Cloud Document Features to  Microsoft Embedded Cloud Document and Microsoft Cloud Collaboration (Localization Updates)",
     "author_login": "Dinesh-Chandra832",
     "author_name": "Dinesh Chandra",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Nayakas",
     "created_at": "2026-06-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "ces",
       "team",
@@ -4957,130 +5069,16 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16124"
   },
   {
-    "number": 16119,
-    "title": "Feature/AB#678584 uia accommodation main exempt",
-    "author_login": "AshwinArumugamMani",
-    "author_name": "Ashwin Arumugam Mani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-18",
-    "merged_at": "2026-05-20",
-    "closed_at": "2026-05-20",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16119"
-  },
-  {
-    "number": 16113,
-    "title": "AB#678870- Reconcile Grade implementation for new gradebook view",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-18",
-    "merged_at": "2026-05-27",
-    "closed_at": "2026-05-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16113"
-  },
-  {
-    "number": 16111,
-    "title": "Feature/AB#671271 - Save for Everyone option in Group Grade override",
-    "author_login": "gowthamanpalani",
-    "author_name": "Gowthaman Palani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-18",
-    "merged_at": "2026-05-29",
-    "closed_at": "2026-05-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16111"
-  },
-  {
-    "number": 16110,
-    "title": "Feature/AB#671271 add updateGradeByMemberGrades action and group membership resolution infra",
-    "author_login": "gowthamanpalani",
-    "author_name": "Gowthaman Palani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-18",
-    "merged_at": "2026-05-21",
-    "closed_at": "2026-05-21",
-    "approvals": [
-      "ces",
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16110"
-  },
-  {
-    "number": 16109,
-    "title": "Feature/ AB#668654-Implement disable for sendRemainder when Column is not visible",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-18",
-    "merged_at": "2026-05-19",
-    "closed_at": "2026-05-19",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16109"
-  },
-  {
-    "number": 16102,
-    "title": "bugfix/AB-668403-gradebook-redesign-grid-view\u2014PTID-5041",
-    "author_login": "Gandipavankumar",
-    "author_name": "Pavan Kumar G",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-05-18",
+    "number": 8341,
+    "title": "AB#675678-Implement guest user handling for TDM catalog redirection",
+    "author_login": "Ashish-Anthology",
+    "author_name": "Ashish Sah",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-06-18",
     "merged_at": null,
-    "closed_at": "2026-05-18",
+    "closed_at": null,
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -5090,19 +5088,19 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16102"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8341"
   },
   {
-    "number": 16090,
-    "title": "AB#681280-Grade-detail-panel-LTI-changes",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-18",
-    "merged_at": "2026-06-16",
-    "closed_at": "2026-06-16",
+    "number": 8337,
+    "title": "AB#684923 LOR permission attributes' toggle state synced to child courses",
+    "author_login": "tsyed-bbdn",
+    "author_name": "Tausif Syed",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Supernova",
+    "created_at": "2026-06-17",
+    "merged_at": null,
+    "closed_at": null,
     "approvals": [
       "team"
     ],
@@ -5113,61 +5111,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16090"
-  },
-  {
-    "number": 16088,
-    "title": "feature/AB#678758 Add ASSIST tab to Institution Page",
-    "author_login": "srujankusuma3232",
-    "author_name": "Srujan Kusuma",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-05-18",
-    "merged_at": null,
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "dsoto-bb",
-      "priceld",
-      "sathyamoorthy612",
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16088"
-  },
-  {
-    "number": 16087,
-    "title": "feature/AB#678757 Add hooks and utilities for ASSIST tab feature",
-    "author_login": "srujankusuma3232",
-    "author_name": "Srujan Kusuma",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-05-18",
-    "merged_at": null,
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "indumathithulasi2203",
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16087"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8337"
   },
   {
     "number": 8326,

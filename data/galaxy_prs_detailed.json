@@ -1,5 +1,50 @@
 [
   {
+    "number": 16905,
+    "title": "feature/AB#579044 -  LOR Move to Top, Move Up, Move Down, Move to Bottom - Localization PR",
+    "author_login": "bhuvaneswarisbb",
+    "author_name": "Bhuvaneswari S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-06-19",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16905"
+  },
+  {
+    "number": 16904,
+    "title": "Bugfix - AB#685925 - New Gradebook Grid view - Keyboard navigation - Overall grade pill edit mode trigger on cell navigation",
+    "author_login": "KirubakaranRBB",
+    "author_name": "Kirubakaran R",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-06-19",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16904"
+  },
+  {
     "number": 16856,
     "title": "Oven Run#1",
     "author_login": "vasan1990",
@@ -32,9 +77,10 @@
     "created_at": "2026-06-18",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -54,9 +100,10 @@
     "created_at": "2026-06-18",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -70,12 +117,12 @@
     "title": "AB#682578-Anonymous Grader notes",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-18",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-19",
+    "closed_at": "2026-06-19",
     "approvals": [
       "team"
     ],
@@ -93,7 +140,7 @@
     "title": "bugfix/AB#683114 - Gradebook Grid View: Clicking Sorting icon opens Divider (+) menu when hovering near both controls",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-18",
@@ -214,9 +261,10 @@
     "created_at": "2026-06-18",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -243,8 +291,11 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "kirubakaranrbb",
+      "subashree-b"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16842"
   },
   {
@@ -297,12 +348,12 @@
     "title": "Feature/AB#683114-Added Iconbutton size varient  bb-ui version bump to ultra",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-17",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-19",
+    "closed_at": "2026-06-19",
     "approvals": [
       "ces",
       "team",
@@ -408,12 +459,12 @@
     "title": "bugfix/AB#680441-new-gradebook-view-PTID=213-2993",
     "author_login": "DineshRajendranBB",
     "author_name": "Dinesh Rajendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-16",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-18",
+    "closed_at": "2026-06-18",
     "approvals": [
       "team",
       "vs"
@@ -833,8 +884,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "subashree-b"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16745"
   },
   {
@@ -1459,12 +1512,12 @@
     "title": "feature/AB#683580-show check icon when column is in edit mode in new gradebook grid ",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-19",
+    "closed_at": "2026-06-19",
     "approvals": [
       "ces",
       "team",
@@ -4843,370 +4896,8 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16181"
   },
   {
-    "number": 16175,
-    "title": "AB#679119 - Grid Column Header Icon alignment change",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-05-27",
-    "closed_at": "2026-05-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16175"
-  },
-  {
-    "number": 16171,
-    "title": "Feature/ab 667382 cell selection and navigation effect clean",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-19",
-    "merged_at": null,
-    "closed_at": "2026-05-25",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16171"
-  },
-  {
-    "number": 16166,
-    "title": "feature/AB#672812 - Add Content Settings tab component to Folder, Document, and File Settings peek panels",
-    "author_login": "kesavanazhagarsamy",
-    "author_name": "Kesavan Azhagarsamy",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-06-11",
-    "closed_at": "2026-06-11",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16166"
-  },
-  {
-    "number": 16163,
-    "title": "feature/AB#680544 - Created the Contents Settings tab component localisation changes.",
-    "author_login": "kesavanazhagarsamy",
-    "author_name": "Kesavan Azhagarsamy",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-05-22",
-    "closed_at": "2026-05-22",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16163"
-  },
-  {
-    "number": 16159,
-    "title": "feature/AB#672812 - Created the Contents Settings tab component and added it to the Learning Module Settings peek panel",
-    "author_login": "kesavanazhagarsamy",
-    "author_name": "Kesavan Azhagarsamy",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-06-10",
-    "closed_at": "2026-06-10",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16159"
-  },
-  {
-    "number": 16155,
-    "title": "Bugfix/AB#557185 - Generic LTI icon sometimes used while Navigating in Module",
-    "author_login": "Dinesh-Chandra832",
-    "author_name": "Dinesh Chandra",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-06-03",
-    "closed_at": "2026-06-03",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16155"
-  },
-  {
-    "number": 16154,
-    "title": "Feature/AB#549092-WDIO migration for PTID-954 from Protractor",
-    "author_login": "Ram-G-BB",
-    "author_name": "Ram G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-05-20",
-    "closed_at": "2026-05-20",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16154"
-  },
-  {
-    "number": 16153,
-    "title": "AB#678900 Render activity flashcards in flashcard review content tab",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-06-04",
-    "closed_at": "2026-06-04",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16153"
-  },
-  {
-    "number": 16151,
-    "title": "AB#678900 Integrate activity flashcards fetch in learn-data-services",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-06-03",
-    "closed_at": "2026-06-03",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16151"
-  },
-  {
-    "number": 16149,
-    "title": "bugfix/AB#675710-new-gradebook-view-PTID=4368,4375",
-    "author_login": "DineshRajendranBB",
-    "author_name": "Dinesh Rajendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-05-21",
-    "closed_at": "2026-05-21",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16149"
-  },
-  {
-    "number": 16139,
-    "title": "bugFix/AB-679070  - Display Name Order Inconsistency Between Grid View and Filter When \u201cLast Name, First Name\u201d Toggle Is Enabled",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-05-26",
-    "closed_at": "2026-05-26",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16139"
-  },
-  {
-    "number": 16130,
-    "title": "Bugfix/AB#668403-gradebook-redesign-gridview-PTID-5041",
-    "author_login": "Gandipavankumar",
-    "author_name": "Pavan Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-05-22",
-    "closed_at": "2026-05-22",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16130"
-  },
-  {
-    "number": 16129,
-    "title": "AB#678900 Add activity flashcards GET request in foundations-api-client",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-06-03",
-    "closed_at": "2026-06-03",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16129"
-  },
-  {
-    "number": 16128,
-    "title": "AB#675664 - ActionMenu in instructor course details portal crashes with MUI useTheme() null error on synced courses",
-    "author_login": "AdhithiyaHBB",
-    "author_name": "Adhithiya H",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-05-19",
-    "merged_at": "2026-05-28",
-    "closed_at": "2026-05-28",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16128"
-  },
-  {
-    "number": 16126,
-    "title": "AB#675550 Office files still don't display inline Multiple Choice and True/False Questions",
-    "author_login": "manojchandrashekar29",
-    "author_name": "Manoj C",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Celeste",
-    "created_at": "2026-05-19",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16126"
-  },
-  {
-    "number": 16124,
-    "title": "AB#671122 Implementation of Manual item display changes",
-    "author_login": "smurugasan-bbdn",
-    "author_name": "Sounder Murugasan",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-19",
-    "merged_at": null,
-    "closed_at": "2026-05-27",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16124"
-  },
-  {
     "number": 8347,
-    "title": "Bugfix/AB#685575 EnableVIEW_PERMISSION_INSTRUCTOR_WITHOUT_SCORES role users to access grades API and View Attempts",
+    "title": "Bugfix/AB#685575 Enable VIEW_PERMISSION_INSTRUCTOR_WITHOUT_SCORES role users to access grades API and View Attempts",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
     "state": "Draft",
@@ -5305,10 +4996,11 @@
     "created_at": "2026-06-15",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5370,7 +5062,7 @@
     "title": "AB#456170 - Learn not applying lower case to domains coming from the Developer Portal when registering LTI tools",
     "author_login": "AdhithiyaHBB",
     "author_name": "Adhithiya H",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-06-12",
@@ -5599,7 +5291,7 @@
   },
   {
     "number": 8254,
-    "title": "Bugfix/ AB#580971  Needs Grading Count Mismatch for FIRST/LAST Aggregation in Summary API",
+    "title": "Bugfix/AB#580971  Needs Grading Count Mismatch for FIRST/LAST Aggregation in Summary API",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
     "state": "Open",
@@ -6015,75 +5707,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8132"
-  },
-  {
-    "number": 8125,
-    "title": "AB#670546 Submission points are higher than the maximum allowed by the rubric",
-    "author_login": "ramanidharanr",
-    "author_name": "Ramanidharan R",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Elite",
-    "created_at": "2026-05-19",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8125"
-  },
-  {
-    "number": 8122,
-    "title": "Feature/AB#678907 - new endpoint to support multiple groupIds",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Closed",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-05-19",
-    "merged_at": null,
-    "closed_at": "2026-05-21",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "bbsaraswathikanniappan",
-      "rajeshblackboard"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8122"
-  },
-  {
-    "number": 8120,
-    "title": "Bugfix/ab 577692 asset processor score not being posted in learn",
-    "author_login": "AdhithiyaHBB",
-    "author_name": "Adhithiya H",
-    "state": "Draft",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-05-19",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8120"
   }
 ]

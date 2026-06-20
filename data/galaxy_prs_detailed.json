@@ -1,5 +1,255 @@
 [
   {
+    "number": 16949,
+    "title": "Bugfix/AB#684755 - \"Oops, Something Broke\" error is displayed when reducing Allowed Attempts via Add/Edit Exception after updating accommodations",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16949"
+  },
+  {
+    "number": 16948,
+    "title": "AB#684828-Bugfix/ab-684828 grade details panel updates discussion submitted date based on instructor activity instead of student submission",
+    "author_login": "BavithraM",
+    "author_name": "Bavithra M",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16948"
+  },
+  {
+    "number": 16946,
+    "title": "AB#685832 Grade detail panel navigation change for scorm from grade icon",
+    "author_login": "pradeep-prasath123",
+    "author_name": "Pradeep Prasath",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16946"
+  },
+  {
+    "number": 16945,
+    "title": "Bugfix - AB#685377 - New Gradebook Grid view does not refresh grades for schema change from assessment details panel",
+    "author_login": "KirubakaranRBB",
+    "author_name": "Kirubakaran R",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16945"
+  },
+  {
+    "number": 16944,
+    "title": "bugfix/AB#682209 - First Two Rows in New Gradebook Grid View Are Truncated at the Top of the Screen for Safari Browser",
+    "author_login": "manoharan100",
+    "author_name": "Manoharan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16944"
+  },
+  {
+    "number": 16943,
+    "title": "Search Flickers Fix",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16943"
+  },
+  {
+    "number": 16942,
+    "title": "AB#684914-refresh issue fix for item exception",
+    "author_login": "LalithBB",
+    "author_name": "Lalith",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16942"
+  },
+  {
+    "number": 16941,
+    "title": "bugfix/AB#684945-calculated values are not updated after adding or editing grades for group-content",
+    "author_login": "Subbalakshmi-bb",
+    "author_name": "Subbalakshmi",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "gowthamanpalani"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16941"
+  },
+  {
+    "number": 16940,
+    "title": "Bugfix/AB#685767-Fix: Navigation Buttons Remain Disabled After Clearing Student Filters",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16940"
+  },
+  {
+    "number": 16939,
+    "title": "AB#686221- Accommodation section Performance optimization",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16939"
+  },
+  {
+    "number": 16938,
+    "title": "AB#685188 Only one informational banner is displayed when an assessment has both Anonymous Grading and Release Conditions enabled",
+    "author_login": "smurugasan-bbdn",
+    "author_name": "Sounder Murugasan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16938"
+  },
+  {
     "number": 16931,
     "title": "Bugfix/AB#685830-Post Button State Does Not Update After Grade Entry Until Page Refresh",
     "author_login": "arunkumaranth",
@@ -56,16 +306,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces"
+      "ces",
+      "team"
     ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "kirubakaranrbb",
-      "mohamedtharik8883"
+      "kirubakaranrbb"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16927"
@@ -98,23 +347,22 @@
     "title": "AB#686169 - Applying filter changes the height of the Toolbar in new grid view",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "kirubakaranrbb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16925"
   },
   {
@@ -265,9 +513,10 @@
     "created_at": "2026-06-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -278,26 +527,25 @@
   },
   {
     "number": 16913,
-    "title": "Performance optimisation changes",
+    "title": "AB#686221 - Performance optimisation for Assessment feedback and grader notes",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "gulshan-antho"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16913"
   },
   {
@@ -327,23 +575,22 @@
     "title": "AB#685898 - Overall Grade Editing Causes Pill Flicker ",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "kirubakaranrbb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16909"
   },
   {
@@ -625,7 +872,7 @@
     "title": "Bugfix/AB#684578 - Fix Grade Detail Panel Accordian Focus Not Fully Covered",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-18",
@@ -769,9 +1016,10 @@
     "created_at": "2026-06-17",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -813,9 +1061,10 @@
     "created_at": "2026-06-17",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -1652,7 +1901,7 @@
     "title": "AB#682641-Integrate activity run persistence into flashcard navigator",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-10",
@@ -2828,12 +3077,12 @@
     "title": "AB#682596 - Action logic for practice N cards in summary deck card",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-04",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-20",
+    "closed_at": "2026-06-20",
     "approvals": [
       "ces",
       "team",

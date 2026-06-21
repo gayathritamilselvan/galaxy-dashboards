@@ -3729,10 +3729,10 @@
       "display_name": "Ravi Kumar N",
       "team": "Starlite",
       "period": "POST_S12",
-      "reviews_submitted": 8,
-      "prs_reviewed": 8,
+      "reviews_submitted": 11,
+      "prs_reviewed": 11,
       "approval_rate": 100.0,
-      "avg_response_time": 9.5,
+      "avg_response_time": 51.7,
       "comment_count": 0,
       "prs_commented_on": 0,
       "comments_on_reviewed": 0,
@@ -5843,10 +5843,10 @@
       "display_name": "Ravi Kumar N",
       "team": "Starlite",
       "period": "ALL",
-      "reviews_submitted": 185,
-      "prs_reviewed": 100,
-      "approval_rate": 42.7,
-      "avg_response_time": 119.8,
+      "reviews_submitted": 188,
+      "prs_reviewed": 103,
+      "approval_rate": 43.6,
+      "avg_response_time": 121.1,
       "comment_count": 103,
       "prs_commented_on": 25,
       "comments_on_reviewed": 103,
@@ -8771,6 +8771,26 @@
       "avg_review_cycle": 2.0
     },
     {
+      "member": "bharathikannaa",
+      "display_name": "Bharathi Kanna",
+      "team": "Starlite",
+      "period": "POST_S12",
+      "prs_authored": 1,
+      "avg_pr_age": null,
+      "avg_pr_size": 191.0,
+      "avg_review_cycle": 0.0
+    },
+    {
+      "member": "bharathikannaa",
+      "display_name": "Bharathi Kanna",
+      "team": "Starlite",
+      "period": "S11",
+      "prs_authored": 3,
+      "avg_pr_age": 120.5,
+      "avg_pr_size": 432.3,
+      "avg_review_cycle": 0.0
+    },
+    {
       "member": "aarthirajaram",
       "display_name": "Aarthi Rajaram",
       "team": "Pallavas",
@@ -9761,16 +9781,6 @@
       "avg_review_cycle": 0.0
     },
     {
-      "member": "bharathikannaa",
-      "display_name": "Bharathi Kanna",
-      "team": "Starlite",
-      "period": "S11",
-      "prs_authored": 3,
-      "avg_pr_age": 120.5,
-      "avg_pr_size": 432.3,
-      "avg_review_cycle": 0.0
-    },
-    {
       "member": "sindhu-nagarajan",
       "display_name": "Sindhu Nagarajan",
       "team": "Celeste",
@@ -10045,10 +10055,10 @@
       "display_name": "Bharathi Kanna",
       "team": "Starlite",
       "period": "ALL",
-      "prs_authored": 19,
+      "prs_authored": 20,
       "avg_pr_age": 227.6,
-      "avg_pr_size": 568.2,
-      "avg_review_cycle": 0.68
+      "avg_pr_size": 549.3,
+      "avg_review_cycle": 0.65
     },
     {
       "member": "vasan1990",
@@ -10511,6 +10521,6 @@
       "avg_review_cycle": 0.0
     }
   ],
-  "total_prs": 259,
-  "fetched_at": "2026-06-21 08:24:32"
+  "total_prs": 260,
+  "fetched_at": "2026-06-21 15:35:44"
 }

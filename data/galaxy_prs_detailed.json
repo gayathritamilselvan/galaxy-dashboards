@@ -1,5 +1,51 @@
 [
   {
+    "number": 16954,
+    "title": "AB#686139 - Left and Right arrow navigation - Overall Grade Pill - New Gradebook Grid View",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-06-22",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16954"
+  },
+  {
+    "number": 16953,
+    "title": "feature/AB#684471-note-to-student-flex-uia",
+    "author_login": "AshwinArumugamMani",
+    "author_name": "Ashwin Arumugam Mani",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-22",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/16953"
+  },
+  {
     "number": 16951,
     "title": "fix: added two bugfix",
     "author_login": "BharathiKannaa",
@@ -48,15 +94,16 @@
     "title": "Bugfix/AB#684755 - \"Oops, Something Broke\" error is displayed when reducing Allowed Attempts via Add/Edit Exception after updating accommodations",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-20",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -70,7 +117,7 @@
     "title": "AB#684828-Bugfix/ab-684828 grade details panel updates discussion submitted date based on instructor activity instead of student submission",
     "author_login": "BavithraM",
     "author_name": "Bavithra M",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-20",
@@ -93,7 +140,7 @@
     "title": "AB#685832 Grade detail panel navigation change for scorm from grade icon",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-20",
@@ -191,9 +238,10 @@
     "created_at": "2026-06-20",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -231,15 +279,16 @@
     "title": "Bugfix/AB#685767-Fix: Navigation Buttons Remain Disabled After Clearing Student Filters",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-20",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -253,7 +302,7 @@
     "title": "AB#686221- Accommodation section Performance optimization",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-20",
@@ -282,9 +331,10 @@
     "created_at": "2026-06-20",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -298,7 +348,7 @@
     "title": "Bugfix/AB#685830-Post Button State Does Not Update After Grade Entry Until Page Refresh",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-20",
@@ -327,9 +377,10 @@
     "created_at": "2026-06-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -437,12 +488,12 @@
     "title": "Bugfix/AB#568682 gradebook redesign 3185",
     "author_login": "jsalomi",
     "author_name": "Jeba Salomi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Nayakas",
     "created_at": "2026-06-19",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-22",
+    "closed_at": "2026-06-22",
     "approvals": [
       "team"
     ],
@@ -505,7 +556,7 @@
     "title": "Bugfix/AB#684943 - Rapidly navigating between columns shows stale content in the Assessment Details panel",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-19",
@@ -528,7 +579,7 @@
     "title": "AB#684043 Grade detail panel base structure for peer review submission",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-19",
@@ -551,7 +602,7 @@
     "title": "AB#686160 New Gradebook Grid View Clicking Grade Icon for SCORM Content Results in Oops Error ",
     "author_login": "ramanidharanr",
     "author_name": "Ramanidharan R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-19",
@@ -687,7 +738,7 @@
     "title": "Bugfix - AB#685925 - New Gradebook Grid view - Keyboard navigation - Overall grade pill edit mode trigger on cell navigation",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-19",
@@ -732,7 +783,7 @@
     "title": "AB#684261 - Peer grading changes and error validation",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-18",
@@ -809,10 +860,10 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -984,10 +1035,10 @@
   },
   {
     "number": 16822,
-    "title": "Intial commit",
+    "title": "AB#683285 - Confirmation model for Assessment feedbacks and Grader notes section in grade detail panel",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-17",
@@ -1054,7 +1105,7 @@
     "title": "AB#684727 Add unsaved changes confirmation dialog to Flashcard Review page",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-17",
@@ -1099,7 +1150,7 @@
     "title": "AB#682596- api integration for last card and summary buttons",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-17",
@@ -4352,7 +4403,7 @@
   },
   {
     "number": 16332,
-    "title": "AB#556194 - bugfix/grade redesign gradebook ptid=3980, 3982",
+    "title": "AB#675722 - bugfix/grade redesign gradebook ptid=3971, 4023",
     "author_login": "vasan1990",
     "author_name": "Vasan",
     "state": "Merged",
@@ -4919,85 +4970,61 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16263"
   },
   {
-    "number": 16248,
-    "title": "AB#678583- Grade Details panel Hide Assessment Feedback for Group, Anonymous, and Ungraded Form Submissions",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-22",
-    "merged_at": "2026-06-12",
-    "closed_at": "2026-06-12",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
+    "number": 8360,
+    "title": "AB#684504: Spike-PoC LTI 1.3 Platform Notification Service",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-06-22",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
     "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16248"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8360"
   },
   {
-    "number": 16243,
-    "title": "Bugfix/AB#680431-offline submission label is missing in assessment detail panel",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
+    "number": 8359,
+    "title": "Bugfix/AB#684947 Implement \"needsGradingAttemptCount\" Expand Parameter ",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
+    "state": "Draft",
+    "repo": "Learn",
     "team": "Pandias",
-    "created_at": "2026-05-22",
-    "merged_at": "2026-05-27",
-    "closed_at": "2026-05-27",
+    "created_at": "2026-06-22",
+    "merged_at": null,
+    "closed_at": null,
     "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16243"
-  },
-  {
-    "number": 16241,
-    "title": "bugfix/AB#580521-new-gradebook-view-PTID=4121&4348",
-    "author_login": "DineshRajendranBB",
-    "author_name": "Dinesh Rajendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-05-22",
-    "merged_at": "2026-05-25",
-    "closed_at": "2026-05-25",
-    "approvals": [
-      "team",
-      "vs"
+      "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval"
+      "CES Approval",
+      "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16241"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8359"
   },
   {
-    "number": 16240,
-    "title": "AB#679251 Download Gradebook Includes Non-gradable Items When Only One Gradable Item Exists",
-    "author_login": "ramanidharanr",
-    "author_name": "Ramanidharan R",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-05-22",
+    "number": 8357,
+    "title": "Feature/AB#578857 Enable moving folders into other folders in LOR: add GET /maxFolderDepth endpoint for subtree depth validation",
+    "author_login": "Anshu972438",
+    "author_name": "Anshu",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Supernova",
+    "created_at": "2026-06-21",
     "merged_at": null,
-    "closed_at": "2026-05-27",
+    "closed_at": null,
     "approvals": [
       "team"
     ],
@@ -5007,10 +5034,10 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "kirubakaranrbb"
+      "tsyed-bbdn"
     ],
     "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16240"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8357"
   },
   {
     "number": 8347,
@@ -5170,7 +5197,8 @@
     ],
     "changes_requested_by": [
       "esnadoval",
-      "lanceneumannblackboard"
+      "lanceneumannblackboard",
+      "sakthi-selvapriya"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8317"
@@ -5586,10 +5614,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "indumathithulasi2203"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8168"
   },
   {
@@ -5639,76 +5665,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8166"
-  },
-  {
-    "number": 8159,
-    "title": "Update tech lead name for pd-team-mars",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Mars",
-    "created_at": "2026-05-22",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8159"
-  },
-  {
-    "number": 8158,
-    "title": "Bugfix/AB#680307 - Path traversal issue in public batch endpoint",
-    "author_login": "Dinesh-Chandra832",
-    "author_name": "Dinesh Chandra",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-05-22",
-    "merged_at": "2026-06-18",
-    "closed_at": "2026-06-18",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "sakthi-selvapriya"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8158"
-  },
-  {
-    "number": 8154,
-    "title": "AB#668352-Fetch course accommodation members assigned to group for assessment detail",
-    "author_login": "MartinRodgers0007",
-    "author_name": "Martin Rodgers",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-05-22",
-    "merged_at": "2026-06-15",
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8154"
   }
 ]

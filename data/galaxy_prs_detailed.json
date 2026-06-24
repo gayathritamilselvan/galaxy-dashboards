@@ -1,10 +1,77 @@
 [
   {
+    "number": 17032,
+    "title": "bugfix/AB#684004-Gradebook-redesign mastery-test",
+    "author_login": "Prasannajayasankar",
+    "author_name": "Prasanna Jayasankar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-06-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17032"
+  },
+  {
+    "number": 17029,
+    "title": "ax testing demo instance",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-06-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17029"
+  },
+  {
+    "number": 17024,
+    "title": "Bugfix/AB#684755 - \"Oops, Something Broke\" error is displayed when reducing Allowed Attempts via Add/Edit Exception after updating accommodations",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "ces",
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17024"
+  },
+  {
     "number": 17020,
     "title": "Bugfix - AB#686535 - New Gradebook Grid View - Overall grade pill becomes blank when override value is cleared",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-24",
@@ -27,18 +94,18 @@
     "title": "AB#684250 Peer review button navigation",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-24",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -50,20 +117,19 @@
     "title": "feature/AB#685117-new-gradebook-view-accommodation-UIA",
     "author_login": "DineshRajendranBB",
     "author_name": "Dinesh Rajendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17018"
@@ -162,15 +228,16 @@
     "title": "Bugfix/AB#686519-update current when  when cell have error and attempt un edit mode",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-23",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -206,12 +273,12 @@
     "title": "Bugfix/AB#686402 keyboard focus does not move to assessment detail panel when opened",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
@@ -229,12 +296,12 @@
     "title": "Bugfix/AB#685820 - Attendance Column Sort Breaks After Changing Attendance Value ",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
@@ -275,7 +342,7 @@
     "title": "Bugfix/AB#684005 - Fix keyboard focus restoration in Grade Detail feedback panels",
     "author_login": "ranjith-r-anthology",
     "author_name": "Ranjith Ramasamy",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-06-23",
@@ -298,12 +365,12 @@
     "title": "Feature/AB#686536-column level cell validation and save fix bb-ui version bump",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
@@ -402,10 +469,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "nishavijayakumar"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16980"
   },
   {
@@ -450,10 +515,8 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "dsoto-bb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16968"
   },
   {
@@ -538,15 +601,12 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "amyers-blackboard"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16960"
   },
   {
@@ -554,15 +614,16 @@
     "title": "Bugfix/AB# 671187 - Fix inconsistent focus during vertical keyboard navigation in virtualized grid",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-22",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -659,6 +720,7 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
+      "priceld",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -669,12 +731,12 @@
     "title": "Bugfix/AB#684755 - \"Oops, Something Broke\" error is displayed when reducing Allowed Attempts via Add/Edit Exception after updating accommodations",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-20",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
@@ -692,12 +754,12 @@
     "title": "AB#684828-Bugfix/ab-684828 grade details panel updates discussion submitted date based on instructor activity instead of student submission",
     "author_login": "BavithraM",
     "author_name": "Bavithra M",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
@@ -738,12 +800,12 @@
     "title": "Bugfix - AB#685377 - New Gradebook Grid view does not refresh grades for schema change from assessment details panel",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team"
@@ -830,12 +892,12 @@
     "title": "bugfix/AB#684945-calculated values are not updated after adding or editing grades for group-content",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
@@ -962,10 +1024,8 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "bbnkamper"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16928"
   },
   {
@@ -1044,12 +1104,12 @@
     "title": "bugfix/AB#684430-deleting-last-column-causes-new-grid-to-remain-loading-state",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-19",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
@@ -1136,12 +1196,12 @@
     "title": "Bugfix/AB#684943 - Rapidly navigating between columns shows stale content in the Assessment Details panel",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-19",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
@@ -1665,7 +1725,7 @@
   },
   {
     "number": 16816,
-    "title": "AB#682554 - Journal feedbacks is duplicated and enabled group assessment feedback",
+    "title": "AB#682554 - Hiding attempt feedback for journal and discussion content",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
     "state": "Open",
@@ -1967,12 +2027,12 @@
     "title": "Bugfix/AB#682025 - Fix group context resolution in Grade Detail Panel and Flex Grading navigation for group assessments",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
@@ -2573,8 +2633,10 @@
       "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16700"
   },
   {
@@ -3368,20 +3430,19 @@
     "title": "AB#578299 - Screen reader enhancement in New Grid",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-08",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16590"
@@ -4961,16 +5022,14 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16342"
   },
   {
@@ -5475,6 +5534,50 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16267"
   },
   {
+    "number": 8386,
+    "title": "AB#523331: One SIS Integration enrollment record failure in a Snapshot Flat-File Causes Rest of Records To Fail",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-06-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8386"
+  },
+  {
+    "number": 8383,
+    "title": "AB#684504: Spike-PoC Ensure EULA launch JWT complies with 1EdTech LTI EULA Message spec",
+    "author_login": "Dinesh-Chandra832",
+    "author_name": "Dinesh Chandra",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-06-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8383"
+  },
+  {
     "number": 8375,
     "title": "AB#684504 - Spike - PoC LTI 1.3 Added embed in deep_linking_settings",
     "author_login": "vakrams",
@@ -5501,7 +5604,7 @@
     "title": "AB#684562 Added Grader role permissions to allow Save and Cancel actions for add/edit exceptions in Gradebook submissions",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Mars",
     "created_at": "2026-06-22",
@@ -5747,8 +5850,7 @@
     ],
     "changes_requested_by": [
       "esnadoval",
-      "lanceneumannblackboard",
-      "sakthi-selvapriya"
+      "lanceneumannblackboard"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8317"

@@ -1,5 +1,49 @@
 [
   {
+    "number": 17043,
+    "title": "bugfix/AB#580496-new-gradebook-view-PTID=3791-4919-4947",
+    "author_login": "DineshRajendranBB",
+    "author_name": "Dinesh Rajendran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-06-25",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17043"
+  },
+  {
+    "number": 17033,
+    "title": "test: add gradebook redesign part10 edit-cell scenarios",
+    "author_login": "Prasannajayasankar",
+    "author_name": "Prasanna Jayasankar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-06-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17033"
+  },
+  {
     "number": 17032,
     "title": "bugfix/AB#684004-Gradebook-redesign mastery-test",
     "author_login": "Prasannajayasankar",
@@ -78,11 +122,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -161,12 +205,12 @@
     "title": "Bugfix/AB#684004-Gradebook-redesign mastery-ptid=4381",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-24",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-24",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -235,11 +279,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -326,11 +370,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -349,10 +393,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -561,8 +605,10 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16964"
   },
   {
@@ -621,10 +667,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -929,8 +975,10 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16940"
   },
   {
@@ -938,12 +986,12 @@
     "title": "AB#686221- Accommodation section Performance optimization",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-25",
+    "closed_at": "2026-06-25",
     "approvals": [
       "team"
     ],
@@ -1010,12 +1058,12 @@
     "title": "Bugfix/AB#684206 - Overall Grade notation appears on wrong cell after grid re-sort",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-19",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-25",
+    "closed_at": "2026-06-25",
     "approvals": [
       "ces",
       "team",
@@ -1388,14 +1436,17 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "dsoto-bb",
+      "nguybb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16904"
   },
   {
@@ -1805,17 +1856,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [
-      "amyers-blackboard"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16813"
   },
   {
@@ -2691,15 +2740,15 @@
   },
   {
     "number": 16691,
-    "title": "AB#682642-Activity run dux - startRun & updateRunResult",
+    "title": "AB#685323-Activity run dux - startRun & updateRunResult",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-25",
+    "closed_at": "2026-06-25",
     "approvals": [
       "ces",
       "team",
@@ -2708,10 +2757,8 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16691"
   },
   {
@@ -4362,10 +4409,8 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16446"
   },
   {
@@ -5263,14 +5308,14 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16299"
   },
   {
-    "number": 16294,
-    "title": "bugfix/AB#671471-overall grade label wraps onto two line in new gradebook grid view",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
+    "number": 8392,
+    "title": "AB#684044 - Graders can see assessment attempts of students not assigned to them in parallel grading",
+    "author_login": "PriyadarshiniSaravanan",
+    "author_name": "Priyadarshini S",
     "state": "Draft",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-25",
+    "repo": "Learn",
+    "team": "Elite",
+    "created_at": "2026-06-24",
     "merged_at": null,
     "closed_at": null,
     "approvals": [],
@@ -5282,256 +5327,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16294"
-  },
-  {
-    "number": 16292,
-    "title": "Bugfix/AB#672243-Fix diagonal focus jump during vertical keyboard navigation in gradebook grid",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-25",
-    "merged_at": "2026-06-16",
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16292"
-  },
-  {
-    "number": 16288,
-    "title": "AB#679407-Integrate deck completion summary into flashcard student navigator flow",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-25",
-    "merged_at": "2026-06-05",
-    "closed_at": "2026-06-05",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16288"
-  },
-  {
-    "number": 16286,
-    "title": "AB#672148 Grader note not saving properly",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-25",
-    "merged_at": "2026-06-10",
-    "closed_at": "2026-06-10",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16286"
-  },
-  {
-    "number": 16285,
-    "title": "feature/AB#557332-Display all content types in the LOR move modal",
-    "author_login": "bhuvaneswarisbb",
-    "author_name": "Bhuvaneswari S",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-05-25",
-    "merged_at": "2026-06-03",
-    "closed_at": "2026-06-03",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16285"
-  },
-  {
-    "number": 16283,
-    "title": "Update tech leads and added team Oxygen and Helios",
-    "author_login": "seshadrichowdary",
-    "author_name": "Seshadri Chowdary",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-05-25",
-    "merged_at": "2026-05-27",
-    "closed_at": "2026-05-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16283"
-  },
-  {
-    "number": 16280,
-    "title": "AB#679426-Improve AI flashcard student view progress panel layout",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-25",
-    "merged_at": "2026-05-28",
-    "closed_at": "2026-05-28",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16280"
-  },
-  {
-    "number": 16279,
-    "title": "Feature/AB#679263- Implement non editable cell for non-group-members ",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-25",
-    "merged_at": "2026-06-02",
-    "closed_at": "2026-06-02",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16279"
-  },
-  {
-    "number": 16278,
-    "title": "Feature/AB#679263- Implement non editable cell for non-group-members ",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-25",
-    "merged_at": null,
-    "closed_at": "2026-05-25",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16278"
-  },
-  {
-    "number": 16277,
-    "title": "AB#672148 grader note not saving properly",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-25",
-    "merged_at": null,
-    "closed_at": "2026-05-25",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16277"
-  },
-  {
-    "number": 16276,
-    "title": "Bugfix/ab#549798 migration ptid 2606",
-    "author_login": "Ram-G-BB",
-    "author_name": "Ram G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-25",
-    "merged_at": "2026-05-25",
-    "closed_at": "2026-05-25",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16276"
-  },
-  {
-    "number": 16267,
-    "title": "Bugfix/AB#580495-Gradebook-Redesign-PTID=3005,3006",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-25",
-    "merged_at": null,
-    "closed_at": "2026-05-26",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16267"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8392"
   },
   {
     "number": 8386,
@@ -5611,10 +5407,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5649,12 +5445,12 @@
     "title": "Bugfix/AB#684947 Implement \"needsGradingAttemptCount\" Expand Parameter ",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pandias",
     "created_at": "2026-06-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-24",
+    "closed_at": "2026-06-24",
     "approvals": [
       "team"
     ],
@@ -5711,8 +5507,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "alanacostablackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8347"
   },
   {
@@ -5849,7 +5647,6 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "esnadoval",
       "lanceneumannblackboard"
     ],
     "changes_addressed": "no",
@@ -5914,9 +5711,10 @@
     "created_at": "2026-06-09",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -6223,76 +6021,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8176"
-  },
-  {
-    "number": 8169,
-    "title": "Update tech leads and added team Oxygen and Helios",
-    "author_login": "seshadrichowdary",
-    "author_name": "Seshadri Chowdary",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Oxygen",
-    "created_at": "2026-05-25",
-    "merged_at": "2026-05-27",
-    "closed_at": "2026-05-27",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8169"
-  },
-  {
-    "number": 8168,
-    "title": "Feature/AB#679127- Restrict interactive activity in closed original courses",
-    "author_login": "vijay-8421",
-    "author_name": "Vijaya Sekhar P",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Oxygen",
-    "created_at": "2026-05-25",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "amvegat"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8168"
-  },
-  {
-    "number": 8167,
-    "title": "Bugfix/AB#672469-Fix Entitlement Check Order in GradebookRestServiceHelper#getGradebookColumnViewPermission()",
-    "author_login": "rajeshblackboard",
-    "author_name": "Rajesh",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Pandias",
-    "created_at": "2026-05-25",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8167"
   }
 ]

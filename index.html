@@ -225,7 +225,7 @@
         <div style="text-align:right">
             <div class="meta" id="lastUpdated">Last refresh: 2026-06-25 13:53:30 IST</div>
             <div class="meta">Auto refresh schedule: Every 6 hours</div>
-            <button class="refresh-btn" id="refreshBtn" onclick="refreshDashboard()">&#x21bb; Refresh</button>
+            <span class="refresh-btn" style="cursor:default;background:#30363d;">Data refreshed by admin</span>
         </div>
     </div>
 
@@ -4036,31 +4036,6 @@
 
     <script>
 
-    function pollRefreshCompletion(btn, apiBase) {
-        const startedAt = Date.now();
-        const intervalId = setInterval(() => {
-            fetch(apiBase + '/api/status')
-                .then(r => r.json())
-                .then(status => {
-                    if (!status.running) {
-                        clearInterval(intervalId);
-                        btn.textContent = '✓ Updated';
-                        setTimeout(() => location.reload(), 1200);
-                    } else if (Date.now() - startedAt > 40 * 60 * 1000) {
-                        clearInterval(intervalId);
-                        btn.textContent = '✗ Timed out';
-                        btn.disabled = false;
-                        setTimeout(() => { btn.textContent = '↻ Refresh'; }, 3000);
-                    }
-                })
-                .catch(() => {
-                    clearInterval(intervalId);
-                    btn.textContent = '✗ Server error';
-                    btn.disabled = false;
-                    setTimeout(() => { btn.textContent = '↻ Refresh'; }, 3000);
-                });
-        }, 3000);
-    }
 
 
     function filterByTeam(team) {

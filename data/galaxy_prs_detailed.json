@@ -1,15 +1,173 @@
 [
   {
-    "number": 17085,
-    "title": "feature/AB#687473-grade-details-panel-anonymous-banner-build-break-uia",
-    "author_login": "AshwinArumugamMani",
-    "author_name": "Ashwin Arumugam Mani",
+    "number": 17098,
+    "title": "feature/AB#678457 - Created the permissions settings component localisation changes",
+    "author_login": "kesavanazhagarsamy",
+    "author_name": "Kesavan Azhagarsamy",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-06-26",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17098"
+  },
+  {
+    "number": 17097,
+    "title": "fix: handled flickerig issue on horizontal scroll in new grid view",
+    "author_login": "Subashree-b",
+    "author_name": "Subashree B",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-06-26",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17097"
+  },
+  {
+    "number": 17095,
+    "title": "bugfix/AB#679615-Gradebook-redesign-ptid-170,3007",
+    "author_login": "Prasannajayasankar",
+    "author_name": "Prasanna Jayasankar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-06-26",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17095"
+  },
+  {
+    "number": 17094,
+    "title": "AB#686182 - Edit Cell Lost Focus While Scrolling - New Gradebook Grid View",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-06-26",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17094"
+  },
+  {
+    "number": 17093,
+    "title": "bugfix/AB#687511 - Overall Grade validation missing for invalid comma input in Grade Grid",
+    "author_login": "AsmirKhan7",
+    "author_name": "Asmir Khan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-06-26",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17093"
+  },
+  {
+    "number": 17090,
+    "title": "Bugfix/AB#568743 implement UI a for new grade grid view",
+    "author_login": "mjaifank",
+    "author_name": "Mjaifan K",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-06-26",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17090"
+  },
+  {
+    "number": 17089,
+    "title": "Bugfix/AB#686782 -Fix Grade details panel becomes blank after sorting the column",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
     "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-26",
     "merged_at": null,
     "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17089"
+  },
+  {
+    "number": 17085,
+    "title": "feature/AB#687473-grade-details-panel-anonymous-banner-build-break-uia",
+    "author_login": "AshwinArumugamMani",
+    "author_name": "Ashwin Arumugam Mani",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-26",
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
       "team",
       "vs"
@@ -33,9 +191,10 @@
     "created_at": "2026-06-26",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -55,9 +214,10 @@
     "created_at": "2026-06-26",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -71,19 +231,19 @@
     "title": "feature/AB#5634590-revert-azure-check",
     "author_login": "Ram-G-BB",
     "author_name": "Ram G",
-    "state": "Draft",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-25",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -139,17 +299,18 @@
     "title": "AB#686528-Incorrect icon is displayed for the Note to Student section",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-25",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "ces",
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -253,12 +414,12 @@
     "title": "bugfix/AB#580496-new-gradebook-view-PTID=3791-4919-4947",
     "author_login": "DineshRajendranBB",
     "author_name": "Dinesh Rajendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-25",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
       "team",
       "vs"
@@ -276,15 +437,16 @@
     "title": "bugfix/AB#682503-Implement-UIA-Edit-cell",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -298,12 +460,12 @@
     "title": "bugfix/AB#684004-Gradebook-redesign mastery-test",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
       "team",
       "vs"
@@ -434,15 +596,16 @@
     "title": "AB#684826- Cleared \"Access From\" and \"Access Until\" accommodation dates for a Group Test are restored after page refresh",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-24",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -622,10 +785,10 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -819,12 +982,12 @@
     "title": "BugFix/AB#685513 - Fix unexpected focus shift to Text Grade input when opening Grade Detail panel",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
       "ces",
       "team",
@@ -889,12 +1052,12 @@
     "title": "AB#684727 Fix AI flashcard placement position at course outline ",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
       "ces",
       "team",
@@ -1538,12 +1701,12 @@
     "title": "AB#686160 New Gradebook Grid View Clicking Grade Icon for SCORM Content Results in Oops Error ",
     "author_login": "ramanidharanr",
     "author_name": "Ramanidharan R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-19",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
       "ces",
       "team",
@@ -1724,12 +1887,12 @@
     "title": "AB#684261 - Peer grading changes and error validation",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-18",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
       "ces",
       "team",
@@ -2405,8 +2568,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "sathyamoorthy612"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16767"
   },
   {
@@ -4642,12 +4807,12 @@
     "title": "AB#681692 - New Grid view fails to render during zoom out",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
       "ces",
       "team",
@@ -5463,6 +5628,28 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16322"
   },
   {
+    "number": 8403,
+    "title": "AB#579061-Improper setting of child courses to available by feed file",
+    "author_login": "ravi-anthology",
+    "author_name": "Ravi Prakash Tiwari",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-06-26",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8403"
+  },
+  {
     "number": 8392,
     "title": "AB#684044 - Graders can see assessment attempts of students not assigned to them in parallel grading",
     "author_login": "PriyadarshiniSaravanan",
@@ -5489,7 +5676,7 @@
     "title": "AB#523331: One SIS Integration enrollment record failure in a Snapshot Flat-File Causes Rest of Records To Fail",
     "author_login": "pkumarr07",
     "author_name": "Pradeep Kumar R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-06-24",
@@ -5771,10 +5958,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],

@@ -76,9 +76,10 @@
     "created_at": "2026-06-26",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -2716,12 +2717,12 @@
     "title": "Bugfix/AB#679084 - Accommodation section - Due date  issue fix ",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-12",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-27",
+    "closed_at": "2026-06-27",
     "approvals": [
       "ces",
       "team"
@@ -3122,7 +3123,7 @@
   },
   {
     "number": 16694,
-    "title": "AB#682641-Integrate activity run persistence into flashcard navigator",
+    "title": "AB#685328-Integrate activity run persistence into flashcard navigator",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
     "state": "Open",
@@ -3148,15 +3149,15 @@
   },
   {
     "number": 16692,
-    "title": "AB#682642-useActivityRun hook",
+    "title": "AB#685326-useActivityRun hook",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-27",
+    "closed_at": "2026-06-27",
     "approvals": [
       "ces",
       "team",

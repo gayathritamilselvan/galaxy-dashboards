@@ -1,5 +1,27 @@
 [
   {
+    "number": 17102,
+    "title": "AB#686771 Grade detail panel form group view submission navigation issue fix",
+    "author_login": "pradeep-prasath123",
+    "author_name": "Pradeep Prasath",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-26",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17102"
+  },
+  {
     "number": 17098,
     "title": "feature/AB#678457 - Created the permissions settings component localisation changes",
     "author_login": "kesavanazhagarsamy",
@@ -48,7 +70,7 @@
     "title": "bugfix/AB#679615-Gradebook-redesign-ptid-170,3007",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-26",
@@ -375,16 +397,14 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17051"
   },
   {
@@ -814,8 +834,10 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16987"
   },
   {
@@ -890,12 +912,12 @@
     "title": "AB#684914-refresh issue fix for item exception",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-26",
+    "closed_at": "2026-06-26",
     "approvals": [
       "ces",
       "team",
@@ -3094,10 +3116,8 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16700"
   },
   {
@@ -5513,121 +5533,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16340"
   },
   {
-    "number": 16332,
-    "title": "AB#556194- bugfix/grade redesign gradebook",
-    "author_login": "vasan1990",
-    "author_name": "Vasan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-05-27",
-    "merged_at": "2026-06-03",
-    "closed_at": "2026-06-03",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16332"
-  },
-  {
-    "number": 16331,
-    "title": "Feature/AB#678857 uia reconciler grade details panel",
-    "author_login": "AshwinArumugamMani",
-    "author_name": "Ashwin Arumugam Mani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-27",
-    "merged_at": "2026-05-27",
-    "closed_at": "2026-05-27",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16331"
-  },
-  {
-    "number": 16325,
-    "title": "bugfix/AB#680612-Overall grade does not update after deleting column in new grid",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-27",
-    "merged_at": "2026-06-16",
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16325"
-  },
-  {
-    "number": 16324,
-    "title": "Feature/AB#678856 offline submission grade details panel uia",
-    "author_login": "AshwinArumugamMani",
-    "author_name": "Ashwin Arumugam Mani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-27",
-    "merged_at": "2026-05-28",
-    "closed_at": "2026-05-28",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16324"
-  },
-  {
-    "number": 16322,
-    "title": "feature/AB#679462-new-gradebook-view-Group-UIA",
-    "author_login": "DineshRajendranBB",
-    "author_name": "Dinesh Rajendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-05-27",
-    "merged_at": "2026-05-29",
-    "closed_at": "2026-05-29",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16322"
-  },
-  {
     "number": 8403,
     "title": "AB#579061-Improper setting of child courses to available by feed file",
     "author_login": "ravi-anthology",
@@ -6272,50 +6177,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8229"
-  },
-  {
-    "number": 8200,
-    "title": "AB#679251 Download Gradebook Includes Non-gradable Items When Only One Gradable Item Exists",
-    "author_login": "ramanidharanr",
-    "author_name": "Ramanidharan R",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Elite",
-    "created_at": "2026-05-27",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8200"
-  },
-  {
-    "number": 8192,
-    "title": "AB#579483-New Group member unexpectedly shown create \"1st\" attempt even there was already one",
-    "author_login": "kalimuthupalraj",
-    "author_name": "Kalimuthu Palraj",
-    "state": "Draft",
-    "repo": "Learn",
-    "team": "Celeste",
-    "created_at": "2026-05-27",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8192"
   }
 ]

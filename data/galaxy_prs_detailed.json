@@ -1,5 +1,27 @@
 [
   {
+    "number": 17110,
+    "title": "Bugfix/ab 684421 gradebook redesign refactor",
+    "author_login": "Prasannajayasankar",
+    "author_name": "Prasanna Jayasankar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-06-28",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17110"
+  },
+  {
     "number": 17102,
     "title": "AB#686771 Grade detail panel form group view submission navigation issue fix",
     "author_login": "pradeep-prasath123",
@@ -3521,12 +3543,12 @@
     "title": "AB#679098 - Incorrect label displayed for Time Limit accommodation & confirmation dialog",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-28",
+    "closed_at": "2026-06-28",
     "approvals": [
       "team",
       "vs"

@@ -8939,6 +8939,36 @@
       "avg_review_cycle": 2.0
     },
     {
+      "member": "prasannajayasankar",
+      "display_name": "Prasanna Jayasankar",
+      "team": "Pandias",
+      "period": "POST_S12",
+      "prs_authored": 5,
+      "avg_pr_age": 34.7,
+      "avg_pr_size": 1921.6,
+      "avg_review_cycle": 0.0
+    },
+    {
+      "member": "prasannajayasankar",
+      "display_name": "Prasanna Jayasankar",
+      "team": "Pandias",
+      "period": "S11",
+      "prs_authored": 4,
+      "avg_pr_age": 31.8,
+      "avg_pr_size": 3915.8,
+      "avg_review_cycle": 0.0
+    },
+    {
+      "member": "prasannajayasankar",
+      "display_name": "Prasanna Jayasankar",
+      "team": "Pandias",
+      "period": "S12",
+      "prs_authored": 2,
+      "avg_pr_age": 225.8,
+      "avg_pr_size": 89.5,
+      "avg_review_cycle": 0.0
+    },
+    {
       "member": "pradeep-prasath123",
       "display_name": "Pradeep Prasath",
       "team": "Mars",
@@ -8996,36 +9026,6 @@
       "prs_authored": 1,
       "avg_pr_age": null,
       "avg_pr_size": 601.0,
-      "avg_review_cycle": 0.0
-    },
-    {
-      "member": "prasannajayasankar",
-      "display_name": "Prasanna Jayasankar",
-      "team": "Pandias",
-      "period": "POST_S12",
-      "prs_authored": 4,
-      "avg_pr_age": 34.7,
-      "avg_pr_size": 110.8,
-      "avg_review_cycle": 0.0
-    },
-    {
-      "member": "prasannajayasankar",
-      "display_name": "Prasanna Jayasankar",
-      "team": "Pandias",
-      "period": "S11",
-      "prs_authored": 4,
-      "avg_pr_age": 31.8,
-      "avg_pr_size": 3915.8,
-      "avg_review_cycle": 0.0
-    },
-    {
-      "member": "prasannajayasankar",
-      "display_name": "Prasanna Jayasankar",
-      "team": "Pandias",
-      "period": "S12",
-      "prs_authored": 2,
-      "avg_pr_age": 225.8,
-      "avg_pr_size": 89.5,
       "avg_review_cycle": 0.0
     },
     {
@@ -9165,7 +9165,7 @@
       "period": "POST_S12",
       "prs_authored": 6,
       "avg_pr_age": 112.4,
-      "avg_pr_size": 216.0,
+      "avg_pr_size": 216.3,
       "avg_review_cycle": 0.17
     },
     {
@@ -9394,8 +9394,8 @@
       "team": "Mars",
       "period": "S12",
       "prs_authored": 5,
-      "avg_pr_age": 243.5,
-      "avg_pr_size": 17201.2,
+      "avg_pr_age": 286.3,
+      "avg_pr_size": 679.4,
       "avg_review_cycle": 1.4
     },
     {
@@ -9575,7 +9575,7 @@
       "period": "S12",
       "prs_authored": 5,
       "avg_pr_age": 212.6,
-      "avg_pr_size": 139.8,
+      "avg_pr_size": 138.6,
       "avg_review_cycle": 1.0
     },
     {
@@ -10305,7 +10305,7 @@
       "period": "ALL",
       "prs_authored": 34,
       "avg_pr_age": 160.7,
-      "avg_pr_size": 269.9,
+      "avg_pr_size": 269.7,
       "avg_review_cycle": 0.65
     },
     {
@@ -10363,9 +10363,9 @@
       "display_name": "Prasanna Jayasankar",
       "team": "Pandias",
       "period": "ALL",
-      "prs_authored": 23,
-      "avg_pr_age": 97.0,
-      "avg_pr_size": 2575.2,
+      "prs_authored": 24,
+      "avg_pr_age": 94.4,
+      "avg_pr_size": 2849.8,
       "avg_review_cycle": 0.17
     },
     {
@@ -10614,8 +10614,8 @@
       "team": "Mars",
       "period": "ALL",
       "prs_authored": 30,
-      "avg_pr_age": 292.1,
-      "avg_pr_size": 3405.2,
+      "avg_pr_age": 299.2,
+      "avg_pr_size": 651.6,
       "avg_review_cycle": 0.7
     },
     {
@@ -10645,7 +10645,7 @@
       "period": "ALL",
       "prs_authored": 26,
       "avg_pr_age": 193.2,
-      "avg_pr_size": 353.2,
+      "avg_pr_size": 353.3,
       "avg_review_cycle": 0.77
     },
     {
@@ -10859,6 +10859,6 @@
       "avg_review_cycle": 0.0
     }
   ],
-  "total_prs": 320,
-  "fetched_at": "2026-06-28 07:26:29"
+  "total_prs": 321,
+  "fetched_at": "2026-06-28 15:15:53"
 }

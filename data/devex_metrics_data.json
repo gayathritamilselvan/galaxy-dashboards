@@ -3809,6 +3809,48 @@
       "avg_comments_on_reviewed": 0.0
     },
     {
+      "member": "ashwinarumugammani",
+      "display_name": "Ashwin Arumugam Mani",
+      "team": "Mars",
+      "period": "POST_S12",
+      "reviews_submitted": 11,
+      "prs_reviewed": 7,
+      "approval_rate": 54.5,
+      "avg_response_time": 17.5,
+      "comment_count": 5,
+      "prs_commented_on": 1,
+      "comments_on_reviewed": 5,
+      "avg_comments_on_reviewed": 0.7
+    },
+    {
+      "member": "ashwinarumugammani",
+      "display_name": "Ashwin Arumugam Mani",
+      "team": "Mars",
+      "period": "S11",
+      "reviews_submitted": 11,
+      "prs_reviewed": 10,
+      "approval_rate": 72.7,
+      "avg_response_time": 20.5,
+      "comment_count": 3,
+      "prs_commented_on": 2,
+      "comments_on_reviewed": 3,
+      "avg_comments_on_reviewed": 0.3
+    },
+    {
+      "member": "ashwinarumugammani",
+      "display_name": "Ashwin Arumugam Mani",
+      "team": "Mars",
+      "period": "S12",
+      "reviews_submitted": 6,
+      "prs_reviewed": 5,
+      "approval_rate": 66.7,
+      "avg_response_time": 89.5,
+      "comment_count": 2,
+      "prs_commented_on": 1,
+      "comments_on_reviewed": 2,
+      "avg_comments_on_reviewed": 0.4
+    },
+    {
       "member": "bharathikannaa",
       "display_name": "Bharathi Kanna",
       "team": "Starlite",
@@ -4059,48 +4101,6 @@
       "prs_commented_on": 0,
       "comments_on_reviewed": 0,
       "avg_comments_on_reviewed": 0.0
-    },
-    {
-      "member": "ashwinarumugammani",
-      "display_name": "Ashwin Arumugam Mani",
-      "team": "Mars",
-      "period": "POST_S12",
-      "reviews_submitted": 10,
-      "prs_reviewed": 6,
-      "approval_rate": 50.0,
-      "avg_response_time": 16.4,
-      "comment_count": 5,
-      "prs_commented_on": 1,
-      "comments_on_reviewed": 5,
-      "avg_comments_on_reviewed": 0.8
-    },
-    {
-      "member": "ashwinarumugammani",
-      "display_name": "Ashwin Arumugam Mani",
-      "team": "Mars",
-      "period": "S11",
-      "reviews_submitted": 11,
-      "prs_reviewed": 10,
-      "approval_rate": 72.7,
-      "avg_response_time": 20.5,
-      "comment_count": 3,
-      "prs_commented_on": 2,
-      "comments_on_reviewed": 3,
-      "avg_comments_on_reviewed": 0.3
-    },
-    {
-      "member": "ashwinarumugammani",
-      "display_name": "Ashwin Arumugam Mani",
-      "team": "Mars",
-      "period": "S12",
-      "reviews_submitted": 6,
-      "prs_reviewed": 5,
-      "approval_rate": 66.7,
-      "avg_response_time": 89.5,
-      "comment_count": 2,
-      "prs_commented_on": 1,
-      "comments_on_reviewed": 2,
-      "avg_comments_on_reviewed": 0.4
     },
     {
       "member": "gandipavankumar",
@@ -5759,14 +5759,14 @@
       "display_name": "Pradeep Kumar R",
       "team": "Nayakas",
       "period": "POST_S12",
-      "reviews_submitted": 7,
+      "reviews_submitted": 8,
       "prs_reviewed": 1,
       "approval_rate": 0.0,
-      "avg_response_time": 28.8,
-      "comment_count": 7,
+      "avg_response_time": 34.7,
+      "comment_count": 8,
       "prs_commented_on": 1,
-      "comments_on_reviewed": 7,
-      "avg_comments_on_reviewed": 7.0
+      "comments_on_reviewed": 8,
+      "avg_comments_on_reviewed": 8.0
     },
     {
       "member": "pkumarr07",
@@ -5941,10 +5941,10 @@
       "display_name": "Ashwin Arumugam Mani",
       "team": "Mars",
       "period": "ALL",
-      "reviews_submitted": 50,
-      "prs_reviewed": 40,
-      "approval_rate": 58.0,
-      "avg_response_time": 60.3,
+      "reviews_submitted": 51,
+      "prs_reviewed": 41,
+      "approval_rate": 56.9,
+      "avg_response_time": 59.4,
       "comment_count": 19,
       "prs_commented_on": 10,
       "comments_on_reviewed": 19,
@@ -6585,13 +6585,13 @@
       "display_name": "Pradeep Kumar R",
       "team": "Nayakas",
       "period": "ALL",
-      "reviews_submitted": 76,
+      "reviews_submitted": 77,
       "prs_reviewed": 35,
-      "approval_rate": 34.2,
-      "avg_response_time": 135.3,
-      "comment_count": 70,
+      "approval_rate": 33.8,
+      "avg_response_time": 135.4,
+      "comment_count": 71,
       "prs_commented_on": 17,
-      "comments_on_reviewed": 70,
+      "comments_on_reviewed": 71,
       "avg_comments_on_reviewed": 2.0
     },
     {
@@ -9004,7 +9004,7 @@
       "team": "Pandias",
       "period": "POST_S12",
       "prs_authored": 4,
-      "avg_pr_age": 31.7,
+      "avg_pr_age": 34.7,
       "avg_pr_size": 110.8,
       "avg_review_cycle": 0.0
     },
@@ -9165,7 +9165,7 @@
       "period": "POST_S12",
       "prs_authored": 6,
       "avg_pr_age": 112.4,
-      "avg_pr_size": 205.3,
+      "avg_pr_size": 216.0,
       "avg_review_cycle": 0.17
     },
     {
@@ -10034,8 +10034,8 @@
       "team": "Cholas",
       "period": "S12",
       "prs_authored": 15,
-      "avg_pr_age": 257.0,
-      "avg_pr_size": 438.6,
+      "avg_pr_age": 267.9,
+      "avg_pr_size": 440.4,
       "avg_review_cycle": 0.67
     },
     {
@@ -10225,7 +10225,7 @@
       "period": "S11",
       "prs_authored": 1,
       "avg_pr_age": null,
-      "avg_pr_size": 834.0,
+      "avg_pr_size": 885.0,
       "avg_review_cycle": 3.0
     },
     {
@@ -10364,7 +10364,7 @@
       "team": "Pandias",
       "period": "ALL",
       "prs_authored": 23,
-      "avg_pr_age": 96.4,
+      "avg_pr_age": 97.0,
       "avg_pr_size": 2575.2,
       "avg_review_cycle": 0.17
     },
@@ -10454,8 +10454,8 @@
       "team": "Cholas",
       "period": "ALL",
       "prs_authored": 30,
-      "avg_pr_age": 297.7,
-      "avg_pr_size": 333.1,
+      "avg_pr_age": 303.2,
+      "avg_pr_size": 334.0,
       "avg_review_cycle": 0.7
     },
     {
@@ -10645,7 +10645,7 @@
       "period": "ALL",
       "prs_authored": 26,
       "avg_pr_age": 193.2,
-      "avg_pr_size": 350.7,
+      "avg_pr_size": 353.2,
       "avg_review_cycle": 0.77
     },
     {
@@ -10815,7 +10815,7 @@
       "period": "ALL",
       "prs_authored": 4,
       "avg_pr_age": 298.4,
-      "avg_pr_size": 506.0,
+      "avg_pr_size": 518.8,
       "avg_review_cycle": 2.0
     },
     {
@@ -10860,5 +10860,5 @@
     }
   ],
   "total_prs": 320,
-  "fetched_at": "2026-06-27 15:13:45"
+  "fetched_at": "2026-06-28 07:26:29"
 }

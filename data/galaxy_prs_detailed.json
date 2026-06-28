@@ -70,12 +70,12 @@
     "title": "bugfix/AB#679615-Gradebook-redesign-ptid-170,3007",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-28",
+    "closed_at": "2026-06-28",
     "approvals": [
       "team"
     ],
@@ -3126,12 +3126,12 @@
     "title": "AB#685328-Integrate activity run persistence into flashcard navigator",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-27",
+    "closed_at": "2026-06-27",
     "approvals": [
       "ces",
       "team"
@@ -5326,214 +5326,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16377"
   },
   {
-    "number": 16363,
-    "title": "Bugfix/ab 555846 new gradebook view ptid=4209",
-    "author_login": "Ram-G-BB",
-    "author_name": "Ram G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-28",
-    "merged_at": "2026-05-28",
-    "closed_at": "2026-05-28",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16363"
-  },
-  {
-    "number": 16358,
-    "title": "AB#2741318 - grid-last-column-extra-space-revert",
-    "author_login": "akash05-bb",
-    "author_name": "Akash M",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-05-28",
-    "merged_at": "2026-06-01",
-    "closed_at": "2026-06-01",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16358"
-  },
-  {
-    "number": 16356,
-    "title": "AB#668783 - accessibility issue for zoom screen and scroller implementation",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-28",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16356"
-  },
-  {
-    "number": 16353,
-    "title": "bugfix/AB#680298 Attendance column is editable in new gradebook grid view",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-28",
-    "merged_at": null,
-    "closed_at": "2026-06-03",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16353"
-  },
-  {
-    "number": 16350,
-    "title": "Bugfix/AB#680941: Microsoft Team extension Modals not rendering in ultra",
-    "author_login": "pkumarr07",
-    "author_name": "Pradeep Kumar R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-05-28",
-    "merged_at": "2026-06-02",
-    "closed_at": "2026-06-02",
-    "approvals": [
-      "ces",
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16350"
-  },
-  {
-    "number": 16347,
-    "title": "bugfix/AB#681499-Quarantine-Fix-PTID=2733591,2733589",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-28",
-    "merged_at": "2026-05-29",
-    "closed_at": "2026-05-29",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16347"
-  },
-  {
-    "number": 16346,
-    "title": "AB#680292 - Changes added for HCM",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-05-28",
-    "merged_at": null,
-    "closed_at": "2026-06-23",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16346"
-  },
-  {
-    "number": 16342,
-    "title": "Bugfix/AB#671511-Implementing  fix for Settings icon  for  LTI content",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-05-28",
-    "merged_at": "2026-06-25",
-    "closed_at": "2026-06-25",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16342"
-  },
-  {
-    "number": 16340,
-    "title": "AB#680179 -  Box shadow line was visible in between Student ID and Overall Grade in Tablet view",
-    "author_login": "BharathiKannaa",
-    "author_name": "Bharathi Kanna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-05-28",
-    "merged_at": "2026-06-02",
-    "closed_at": "2026-06-02",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16340"
-  },
-  {
     "number": 8403,
     "title": "AB#579061-Improper setting of child courses to available by feed file",
     "author_login": "ravi-anthology",
@@ -5724,10 +5516,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],

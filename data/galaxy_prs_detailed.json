@@ -1,12 +1,12 @@
 [
   {
-    "number": 17119,
-    "title": "Bugfix - AB#685925 - New Gradebook Grid view - Keyboard navigation - Overall grade pill edit mode trigger on cell navigation",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
+    "number": 17130,
+    "title": "Bugfix/AB#685373 Preserve subheader cell border during mid-deletion column transition",
+    "author_login": "gowthamanpalani",
+    "author_name": "Gowthaman Palani",
     "state": "Draft",
     "repo": "Ultra",
-    "team": "Elite",
+    "team": "Pandias",
     "created_at": "2026-06-29",
     "merged_at": null,
     "closed_at": null,
@@ -19,16 +19,16 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17119"
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17130"
   },
   {
-    "number": 17116,
-    "title": "Feature/AB#687821 new api and pass through wrapper",
-    "author_login": "srujankusuma3232",
-    "author_name": "Srujan Kusuma",
-    "state": "Draft",
+    "number": 17128,
+    "title": "Bugfix/AB#687491- Error Cell Loses Focus bb-ui  fix version bump",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Open",
     "repo": "Ultra",
-    "team": "Oxygen",
+    "team": "Pandias",
     "created_at": "2026-06-29",
     "merged_at": null,
     "closed_at": null,
@@ -38,6 +38,170 @@
     "pending": [
       "Tech Lead Review",
       "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17128"
+  },
+  {
+    "number": 17124,
+    "title": "Bugfix/ab#555842 new gradebook view ptid 973 latest",
+    "author_login": "Ram-G-BB",
+    "author_name": "Ram G",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-06-29",
+    "merged_at": "2026-06-29",
+    "closed_at": "2026-06-29",
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17124"
+  },
+  {
+    "number": 17123,
+    "title": "feature/AB#687480-column edit icon overlaps fixed column during horizontal scroll",
+    "author_login": "Subbalakshmi-bb",
+    "author_name": "Subbalakshmi",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-06-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17123"
+  },
+  {
+    "number": 17122,
+    "title": "AB#578923 One Time Submission view does not show Grades or Correct Answers if the Assessment includes any manually graded Questions",
+    "author_login": "manojchandrashekar29",
+    "author_name": "Manoj C",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Celeste",
+    "created_at": "2026-06-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17122"
+  },
+  {
+    "number": 17121,
+    "title": "AB#687846-Overall grade not updates after attempt delete",
+    "author_login": "nravikumar-bbdn",
+    "author_name": "Ravi Kumar N",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-06-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17121"
+  },
+  {
+    "number": 17120,
+    "title": "AB#687183-Bugfix/ab 687183 expanded submission details section collapses when navigating between students or assessments",
+    "author_login": "BavithraM",
+    "author_name": "Bavithra M",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17120"
+  },
+  {
+    "number": 17119,
+    "title": "Bugfix - AB#685925 - New Gradebook Grid view - Keyboard navigation - Overall grade pill edit mode trigger on cell navigation",
+    "author_login": "KirubakaranRBB",
+    "author_name": "Kirubakaran R",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-06-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "ces",
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17119"
+  },
+  {
+    "number": 17116,
+    "title": "Feature/AB#687821 new api and pass through wrapper",
+    "author_login": "srujankusuma3232",
+    "author_name": "Srujan Kusuma",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-06-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "ces",
+      "team",
+      "tech"
+    ],
+    "pending": [
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -71,17 +235,18 @@
     "title": "AB#686771 Grade detail panel form group view submission navigation issue fix",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-26",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "ces",
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -99,9 +264,10 @@
     "created_at": "2026-06-26",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -112,7 +278,7 @@
   },
   {
     "number": 17097,
-    "title": "fix: handled flickerig issue on horizontal scroll in new grid view",
+    "title": "AB#686151 - Handled flickerig issue on horizontal scroll in new grid view",
     "author_login": "Subashree-b",
     "author_name": "Subashree B",
     "state": "Draft",
@@ -121,9 +287,10 @@
     "created_at": "2026-06-26",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -167,11 +334,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -183,18 +350,18 @@
     "title": "bugfix/AB#687511 - Overall Grade validation missing for invalid comma input in Grade Grid",
     "author_login": "AsmirKhan7",
     "author_name": "Asmir Khan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-26",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -282,11 +449,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -774,12 +941,12 @@
     "title": "Bugfix/AB#686519-update current when  when cell have error and attempt un edit mode",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-29",
+    "closed_at": "2026-06-29",
     "approvals": [
       "ces",
       "team",
@@ -865,12 +1032,12 @@
     "title": "Bugfix/AB#686374 - Improve accessibility of Gradebook side panels by adding named landmark regions",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-29",
+    "closed_at": "2026-06-29",
     "approvals": [
       "ces",
       "team",
@@ -1003,12 +1170,12 @@
     "title": "AB#684914-refresh issue fix for group Accommodation",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-29",
+    "closed_at": "2026-06-29",
     "approvals": [
       "team"
     ],
@@ -1126,9 +1293,10 @@
     "created_at": "2026-06-22",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -2350,12 +2518,12 @@
     "title": "AB#682596- api integration for last card and summary buttons",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-17",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-29",
+    "closed_at": "2026-06-29",
     "approvals": [
       "ces",
       "team",
@@ -3167,15 +3335,15 @@
   },
   {
     "number": 16700,
-    "title": "AB#684084-wire progress bar to activity run confidence stats",
+    "title": "AB#685327-wire progress bar to activity run confidence stats",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-29",
+    "closed_at": "2026-06-29",
     "approvals": [
       "ces",
       "team",
@@ -5194,15 +5362,16 @@
     "title": "AB#683499-Find node menu under batch create shows text referencing courses in organizations and organizations in courses",
     "author_login": "ravi-anthology",
     "author_name": "Ravi Prakash Tiwari",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Celeste",
     "created_at": "2026-06-29",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -5216,15 +5385,16 @@
     "title": "AB#579061-Improper setting of child courses to available by feed file",
     "author_login": "ravi-anthology",
     "author_name": "Ravi Prakash Tiwari",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Celeste",
     "created_at": "2026-06-26",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"

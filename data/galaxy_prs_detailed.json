@@ -1,5 +1,50 @@
 [
   {
+    "number": 17119,
+    "title": "Bugfix - AB#685925 - New Gradebook Grid view - Keyboard navigation - Overall grade pill edit mode trigger on cell navigation",
+    "author_login": "KirubakaranRBB",
+    "author_name": "Kirubakaran R",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-06-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17119"
+  },
+  {
+    "number": 17116,
+    "title": "Feature/AB#687821 new api and pass through wrapper",
+    "author_login": "srujankusuma3232",
+    "author_name": "Srujan Kusuma",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-06-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17116"
+  },
+  {
     "number": 17110,
     "title": "Bugfix/ab 684421 gradebook redesign refactor",
     "author_login": "Prasannajayasankar",
@@ -161,12 +206,12 @@
     "title": "Bugfix/AB#568743 implement UI a for new grade grid view",
     "author_login": "mjaifank",
     "author_name": "Mjaifan K",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-29",
+    "closed_at": "2026-06-29",
     "approvals": [
       "team"
     ],
@@ -230,7 +275,7 @@
     "title": "Bugfix/AB#687483 Keyboard Navigation for Direct Grade Mapping Clear Dialog",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-26",
@@ -253,7 +298,7 @@
     "title": "Bugfix/AB#687483 Keyboard Navigation for Group Content Dialog in Edit Cell",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-26",
@@ -367,12 +412,12 @@
     "title": "oven check",
     "author_login": "Ram-G-BB",
     "author_name": "Ram G",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-25",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-29",
     "approvals": [
       "team"
     ],
@@ -571,12 +616,12 @@
     "title": "Bugfix - AB#686535 - New Gradebook Grid View - Overall grade pill becomes blank when override value is cleared",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-29",
+    "closed_at": "2026-06-29",
     "approvals": [
       "ces",
       "team"
@@ -1537,12 +1582,12 @@
     "title": "Bugfix - AB#685894 overall grade setup banner disappears on grid load",
     "author_login": "akash05-bb",
     "author_name": "Akash M",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-19",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-29",
     "approvals": [
       "ces",
       "team",
@@ -1882,12 +1927,12 @@
     "title": "Bugfix - AB#685925 - New Gradebook Grid view - Keyboard navigation - Overall grade pill edit mode trigger on cell navigation",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-19",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-29",
     "approvals": [
       "ces",
       "team",
@@ -2258,12 +2303,12 @@
     "title": "AB#684727 Add unsaved changes confirmation dialog to Flashcard Review page",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-17",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-29",
+    "closed_at": "2026-06-29",
     "approvals": [
       "ces",
       "team"
@@ -5145,153 +5190,16 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16414"
   },
   {
-    "number": 16390,
-    "title": "Bugfix/AB#675537 Fix re-render cascade in BbEditor in question list - backport 4000.17.0",
-    "author_login": "ranjith-r-anthology",
-    "author_name": "Ranjith Ramasamy",
-    "state": "Merged",
-    "repo": "Ultra",
+    "number": 8407,
+    "title": "AB#683499-Find node menu under batch create shows text referencing courses in organizations and organizations in courses",
+    "author_login": "ravi-anthology",
+    "author_name": "Ravi Prakash Tiwari",
+    "state": "Draft",
+    "repo": "Learn",
     "team": "Celeste",
-    "created_at": "2026-05-29",
-    "merged_at": "2026-06-08",
-    "closed_at": "2026-06-08",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16390"
-  },
-  {
-    "number": 16389,
-    "title": "Feature/AB#682301 - Replace purple dot Indicator with New Submission label",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-29",
-    "merged_at": "2026-06-08",
-    "closed_at": "2026-06-08",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16389"
-  },
-  {
-    "number": 16388,
-    "title": "AB#679748 - Fix Student name tooltip navigation issue",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-05-29",
-    "merged_at": "2026-06-05",
-    "closed_at": "2026-06-05",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16388"
-  },
-  {
-    "number": 16387,
-    "title": "bugfix/AB#579222-implement-UIA-for-new-grade-grid",
-    "author_login": "mjaifank",
-    "author_name": "Mjaifan K",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-05-29",
-    "merged_at": "2026-06-01",
-    "closed_at": "2026-06-01",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16387"
-  },
-  {
-    "number": 16385,
-    "title": "AB#681683 - Handle Feedback-Only Grade Creation for Awaiting Submission Grade detail panel",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-29",
-    "merged_at": "2026-06-15",
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16385"
-  },
-  {
-    "number": 16384,
-    "title": "Feature/AB#672243-Cell highlight and focus management for cell click in gradebook grid",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-05-29",
-    "merged_at": "2026-06-16",
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16384"
-  },
-  {
-    "number": 16379,
-    "title": "AB#678900 Delete Flashcards in content preview screen",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-29",
+    "created_at": "2026-06-29",
     "merged_at": null,
-    "closed_at": "2026-06-03",
+    "closed_at": null,
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -5301,51 +5209,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16379"
-  },
-  {
-    "number": 16378,
-    "title": "AB#678900 Integrate activity flashcards DELETE in learn-data-services",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-29",
-    "merged_at": null,
-    "closed_at": "2026-06-03",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16378"
-  },
-  {
-    "number": 16377,
-    "title": "AB#678900 Add Flashcard DELETE request in foundations-api-client",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-05-29",
-    "merged_at": null,
-    "closed_at": "2026-06-03",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16377"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8407"
   },
   {
     "number": 8403,
@@ -5569,7 +5433,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "alanacostablackboard"
+      "alanacostablackboard",
+      "kkuppula"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8347"
@@ -5781,10 +5646,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "pkumarr07"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8293"
   },
   {

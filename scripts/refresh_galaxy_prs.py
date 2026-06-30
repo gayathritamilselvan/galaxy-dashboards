@@ -96,6 +96,12 @@ DISPLAY_NAMES = {
 TECH_LEADS = {"tbednarekbb", "johntrianat", "stormojm", "priceld", "rpetersonbb", "davtohbb", "varju", "ftclausen", "ewpreston", "alwongbb", "kkuppula", "lanceneumannblackboard", "sathyamoorthy612"}
 CES_REVIEWERS = {"covertcj", "stormojm", "priceld", "bbnkamper", "bbmnatarajan", "johntrianat", "davtohbb", "dsoto-bb", "jkhan07"}
 VS_REVIEWERS = {"amyers-blackboard", "kapalanisamy", "hariharanmohanakrishnan"}
+APPROVAL_LABELS = {
+    "team": "has-team-approval",
+    "tech": "has-tech-lead-review",
+    "ces": "has-ces-approval",
+    "vs": "has-value-stream-approval",
+}
 
 user_to_team = {}
 for team, members in TEAM_MEMBERS.items():
@@ -189,7 +195,7 @@ for i, pr in enumerate(all_prs):
     else:
         state = "Open"
     
-    # Analyze reviews
+    # Analyze reviews (latest state per reviewer)
     reviewer_states = {}
     for rev in reviews_data:
         if not rev.get("user"):
@@ -199,25 +205,38 @@ for i, pr in enumerate(all_prs):
         if rev_state in ("APPROVED", "CHANGES_REQUESTED", "DISMISSED"):
             reviewer_states[reviewer] = rev_state
     
-    approvals = set()
+    approvals_from_reviews = set()
     changes_requested_by = set()
     
     for reviewer, rev_state in reviewer_states.items():
         if rev_state == "APPROVED":
             matched = False
             if reviewer in TECH_LEADS:
-                approvals.add("tech")
+                approvals_from_reviews.add("tech")
                 matched = True
             if reviewer in CES_REVIEWERS:
-                approvals.add("ces")
+                approvals_from_reviews.add("ces")
                 matched = True
             if reviewer in VS_REVIEWERS:
-                approvals.add("vs")
+                approvals_from_reviews.add("vs")
                 matched = True
             if not matched:
-                approvals.add("team")
+                approvals_from_reviews.add("team")
         elif rev_state == "CHANGES_REQUESTED":
             changes_requested_by.add(reviewer)
+
+    # Use current GitHub labels as source of truth for approval columns.
+    # Fallback to review-role inference only when approval labels are absent.
+    label_names = {
+        (label.get("name") or "").strip().lower()
+        for label in (pr_detail.get("labels") if pr_detail else pr.get("labels", []))
+        if isinstance(label, dict)
+    }
+    approvals = {
+        key for key, label_name in APPROVAL_LABELS.items() if label_name in label_names
+    }
+    if not approvals:
+        approvals = set(approvals_from_reviews)
     
     pending = []
     if "team" not in approvals:

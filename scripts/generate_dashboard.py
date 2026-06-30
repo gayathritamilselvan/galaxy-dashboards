@@ -414,7 +414,7 @@ full_html = f'''<!DOCTYPE html>
         const btn = document.querySelector('.refresh-btn');
         btn.disabled = true;
         btn.textContent = 'Refreshing...';
-        fetch('http://localhost:8787/api/refresh/galaxy-pr')
+        fetch('/api/refresh/galaxy-pr')
             .then(r => r.json())
             .then(d => {{
                 btn.textContent = '\u2713 Done';

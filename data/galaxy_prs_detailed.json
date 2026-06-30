@@ -1,5 +1,49 @@
 [
   {
+    "number": 17152,
+    "title": "Bugfix/AB#684826 - Accommodation attempts allowed changes is not getting updated for groups in Grade detail panel",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-30",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17152"
+  },
+  {
+    "number": 17151,
+    "title": "Bugfix/AB#684226 - Fix for late submission not allowed text not displaying ",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-06-30",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17151"
+  },
+  {
     "number": 17146,
     "title": "Feature/AB#672810 - Add Permissions Settings component to document, file and learning module settings peek panel",
     "author_login": "kesavanazhagarsamy",
@@ -23,22 +67,22 @@
   },
   {
     "number": 17145,
-    "title": "Bugfix/AB#579623 Fix self-referential aria-controls in To Do panel expansion panels",
+    "title": "Bugfix/AB#579623 Fix VoiceOver double-reading section headers in To Do panel",
     "author_login": "gowthamanpalani",
     "author_name": "Gowthaman Palani",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-30",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -46,7 +90,7 @@
   },
   {
     "number": 17140,
-    "title": "feat: integrate PanelFooterBody for zoom-responsive AI playground",
+    "title": "AB#668783- Integrate AI Playground chat interface with responsive scrolling behavior for zoomed screens",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
     "state": "Draft",
@@ -93,12 +137,12 @@
     "title": "Students cannot submit internet reconnection",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-06-29",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-30",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -112,10 +156,10 @@
   },
   {
     "number": 17133,
-    "title": "Refactor implement",
+    "title": "bugfix/AB#684421-Refactor-gradebook-UIA-files",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-29",
@@ -137,21 +181,25 @@
     "title": "Bugfix/AB#685373 Preserve subheader cell border during mid-deletion column transition",
     "author_login": "gowthamanpalani",
     "author_name": "Gowthaman Palani",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-29",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [
+      "johntrianat",
+      "priceld"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17130"
   },
   {
@@ -168,11 +216,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17128"
@@ -212,12 +259,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "stormojm"
@@ -261,11 +308,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17121"
@@ -282,15 +328,17 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "priceld"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17120"
   },
   {
@@ -298,19 +346,19 @@
     "title": "Bugfix - AB#685925 - New Gradebook Grid view - Keyboard navigation - Overall grade pill edit mode trigger on cell navigation",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-29",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
-      "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval",
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -329,11 +377,11 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -395,10 +443,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -457,19 +505,19 @@
     "title": "AB#686182 - Edit Cell Lost Focus While Scrolling - New Gradebook Grid View",
     "author_login": "BharathiKannaa",
     "author_name": "Bharathi Kanna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
-      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -487,12 +535,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -533,12 +581,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -557,11 +605,11 @@
     "closed_at": "2026-06-26",
     "approvals": [
       "team",
-      "vs"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "CES Approval",
+      "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -581,11 +629,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17083"
@@ -602,12 +649,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -625,10 +672,10 @@
     "merged_at": "2026-06-26",
     "closed_at": "2026-06-26",
     "approvals": [
-      "team",
       "vs"
     ],
     "pending": [
+      "Team Approval",
       "Tech Lead Review",
       "CES Approval"
     ],
@@ -649,11 +696,11 @@
     "closed_at": "2026-06-26",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -686,20 +733,19 @@
     "title": "AB#686528-Incorrect icon is displayed for the Note to Student section",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-25",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17063"
@@ -763,11 +809,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17051"
@@ -921,11 +966,11 @@
     "closed_at": "2026-06-29",
     "approvals": [
       "ces",
-      "team"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -945,11 +990,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17019"
@@ -966,12 +1010,13 @@
     "merged_at": "2026-06-24",
     "closed_at": "2026-06-24",
     "approvals": [
-      "ces",
       "team",
-      "tech",
-      "vs"
+      "tech"
     ],
-    "pending": [],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17018"
@@ -990,11 +1035,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17017"
@@ -1056,11 +1100,11 @@
     "closed_at": "2026-06-24",
     "approvals": [
       "team",
-      "vs"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "CES Approval",
+      "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1080,11 +1124,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16996"
@@ -1125,11 +1168,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16991"
@@ -1148,11 +1190,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16989"
@@ -1171,11 +1212,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16988"
@@ -1192,12 +1232,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "stormojm"
@@ -1219,11 +1259,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16986"
@@ -1286,11 +1325,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16982"
@@ -1307,12 +1345,12 @@
     "merged_at": "2026-06-29",
     "closed_at": "2026-06-29",
     "approvals": [
-      "team"
+      "ces",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "Team Approval",
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1323,20 +1361,19 @@
     "title": "AB#685706-Feedback Added in Discussion Is Not Displayed in the Grade Details Panel",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16979"
@@ -1346,19 +1383,19 @@
     "title": "AB#685925 - Keyboard Navigation handled for overall grade menu",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1378,11 +1415,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16966"
@@ -1401,11 +1437,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "welstrec"
     ],
@@ -1424,10 +1459,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -1462,19 +1497,19 @@
     "title": "Bugfix/AB# 671187 - Fix inconsistent focus during vertical keyboard navigation in virtualized grid",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1485,20 +1520,19 @@
     "title": "AB#686139 - Left and Right arrow navigation - Overall Grade Pill - New Gradebook Grid View",
     "author_login": "BharathiKannaa",
     "author_name": "Bharathi Kanna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16954"
@@ -1516,10 +1550,10 @@
     "closed_at": "2026-06-22",
     "approvals": [
       "team",
+      "tech",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -1553,19 +1587,19 @@
     "title": "Bugfix/AB#684904 - Fix description BBML handling in Add Item and Add text Item",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [
       "stormojm"
@@ -1587,11 +1621,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16949"
@@ -1610,11 +1643,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16948"
@@ -1631,10 +1663,10 @@
     "merged_at": null,
     "closed_at": "2026-06-22",
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -1655,11 +1687,11 @@
     "closed_at": "2026-06-24",
     "approvals": [
       "ces",
-      "team"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1677,10 +1709,10 @@
     "merged_at": null,
     "closed_at": "2026-06-24",
     "approvals": [
-      "team"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -1700,12 +1732,12 @@
     "merged_at": "2026-06-25",
     "closed_at": "2026-06-25",
     "approvals": [
-      "ces",
-      "team"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Team Approval",
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1716,20 +1748,19 @@
     "title": "AB#684914-refresh issue fix for item exception",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-06-20",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16942"
@@ -1748,11 +1779,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16941"
@@ -1771,11 +1801,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16940"
@@ -1792,13 +1821,12 @@
     "merged_at": "2026-06-25",
     "closed_at": "2026-06-25",
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "jkhan07",
       "stormojm"
@@ -1820,11 +1848,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16938"
@@ -1843,11 +1870,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16931"
@@ -1866,11 +1892,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16928"
@@ -1913,11 +1938,11 @@
     "closed_at": "2026-06-23",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1936,11 +1961,11 @@
     "closed_at": "2026-06-23",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1960,11 +1985,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16922"
@@ -2027,12 +2051,12 @@
     "merged_at": "2026-06-19",
     "closed_at": "2026-06-19",
     "approvals": [
-      "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -2052,11 +2076,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16917"
@@ -2075,11 +2098,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16916"
@@ -2098,11 +2120,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16914"
@@ -2121,11 +2142,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16913"
@@ -2165,11 +2185,11 @@
     "closed_at": "2026-06-24",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -2211,11 +2231,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16905"
@@ -2234,11 +2253,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "dsoto-bb",
       "johntrianat",
@@ -2284,11 +2302,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16853"
@@ -2306,11 +2323,11 @@
     "closed_at": "2026-06-26",
     "approvals": [
       "ces",
-      "team"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -2328,10 +2345,10 @@
     "merged_at": "2026-06-19",
     "closed_at": "2026-06-19",
     "approvals": [
-      "team"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -2352,10 +2369,10 @@
     "closed_at": "2026-06-22",
     "approvals": [
       "ces",
-      "team",
       "tech"
     ],
     "pending": [
+      "Team Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -2375,11 +2392,11 @@
     "closed_at": "2026-06-19",
     "approvals": [
       "ces",
-      "team"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -2397,11 +2414,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -2422,11 +2439,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16845"
@@ -2445,11 +2461,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16844"
@@ -2467,12 +2482,11 @@
     "closed_at": "2026-06-26",
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "priceld",
       "stormojm"
@@ -2517,11 +2531,11 @@
     "merged_at": "2026-06-18",
     "closed_at": "2026-06-18",
     "approvals": [
-      "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -2541,12 +2555,11 @@
     "closed_at": "2026-06-29",
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16822"
@@ -2587,11 +2600,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16816"
@@ -2609,12 +2621,11 @@
     "closed_at": "2026-06-29",
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "amyers-blackboard"
     ],
@@ -2701,12 +2712,11 @@
     "closed_at": "2026-06-23",
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16809"
@@ -2747,11 +2757,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16797"
@@ -2815,11 +2824,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16787"
@@ -2836,11 +2844,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -2883,11 +2891,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16773"
@@ -2928,11 +2935,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16769"
@@ -2949,12 +2955,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "sathyamoorthy612"
@@ -2967,20 +2973,19 @@
     "title": "Bugfix/AB#684710 - Restoring Keyboard Focus back to cell after GradeDetail panel closes",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16766"
@@ -2998,12 +3003,11 @@
     "closed_at": "2026-06-16",
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16765"
@@ -3021,12 +3025,11 @@
     "closed_at": "2026-06-18",
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16762"
@@ -3090,12 +3093,11 @@
     "closed_at": "2026-06-27",
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16745"
@@ -3112,10 +3114,10 @@
     "merged_at": "2026-06-12",
     "closed_at": "2026-06-12",
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3137,11 +3139,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16743"
@@ -3158,12 +3159,12 @@
     "merged_at": "2026-06-15",
     "closed_at": "2026-06-15",
     "approvals": [
-      "team",
-      "vs"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3183,11 +3184,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16736"
@@ -3206,11 +3206,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16730"
@@ -3264,20 +3263,19 @@
     "title": " AB#682578-disabled the grader note for anonymous assessment",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-11",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16714"
@@ -3296,11 +3294,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16713"
@@ -3319,11 +3316,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16712"
@@ -3341,11 +3337,11 @@
     "closed_at": "2026-06-22",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3363,12 +3359,12 @@
     "merged_at": "2026-06-16",
     "closed_at": "2026-06-16",
     "approvals": [
-      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3477,10 +3473,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3499,12 +3495,11 @@
     "closed_at": "2026-06-27",
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "amyers-blackboard",
       "dsoto-bb"
@@ -3550,11 +3545,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16691"
@@ -3573,11 +3567,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16690"
@@ -3596,11 +3589,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16688"
@@ -3619,11 +3611,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16684"
@@ -3642,10 +3633,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3665,11 +3656,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16682"
@@ -3688,11 +3678,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16679"
@@ -3708,12 +3697,13 @@
     "created_at": "2026-06-10",
     "merged_at": "2026-06-16",
     "closed_at": "2026-06-16",
-    "approvals": [],
+    "approvals": [
+      "ces",
+      "tech",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [
       "nishavijayakumar",
@@ -3735,10 +3725,10 @@
     "closed_at": "2026-06-19",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "team"
     ],
     "pending": [
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -3781,11 +3771,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16671"
@@ -3804,11 +3793,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16670"
@@ -3848,11 +3836,11 @@
     "closed_at": "2026-06-12",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3872,11 +3860,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16644"
@@ -3893,13 +3880,12 @@
     "merged_at": "2026-06-28",
     "closed_at": "2026-06-28",
     "approvals": [
+      "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "dsoto-bb",
       "priceld"
@@ -4008,12 +3994,12 @@
     "merged_at": "2026-06-12",
     "closed_at": "2026-06-12",
     "approvals": [
-      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4054,12 +4040,12 @@
     "merged_at": "2026-06-11",
     "closed_at": "2026-06-11",
     "approvals": [
-      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4126,11 +4112,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16605"
@@ -4149,11 +4134,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16601"
@@ -4216,11 +4200,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16596"
@@ -4237,12 +4220,12 @@
     "merged_at": "2026-06-09",
     "closed_at": "2026-06-09",
     "approvals": [
-      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4305,11 +4288,11 @@
     "closed_at": "2026-06-15",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4329,11 +4312,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16586"
@@ -4374,11 +4356,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16584"
@@ -4397,11 +4378,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16571"
@@ -4420,11 +4400,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16569"
@@ -4487,10 +4466,10 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "team"
     ],
     "pending": [
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
@@ -4559,11 +4538,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16539"
@@ -4582,11 +4560,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16535"
@@ -4605,11 +4582,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "davtohbb",
       "kirubakaranrbb",
@@ -4633,11 +4609,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16531"
@@ -4679,10 +4654,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4702,11 +4677,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16524"
@@ -4725,11 +4699,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16523"
@@ -4748,11 +4721,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16522"
@@ -4771,11 +4743,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16512"
@@ -4794,11 +4765,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16510"
@@ -4817,10 +4787,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4839,12 +4809,11 @@
     "closed_at": "2026-06-15",
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16495"
@@ -4908,11 +4877,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16492"
@@ -5040,12 +5008,12 @@
     "merged_at": "2026-06-02",
     "closed_at": "2026-06-02",
     "approvals": [
-      "team",
-      "vs"
+      "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval"
+      "CES Approval",
+      "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5065,11 +5033,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16464"
@@ -5086,12 +5053,12 @@
     "merged_at": "2026-06-09",
     "closed_at": "2026-06-09",
     "approvals": [
-      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5134,11 +5101,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16453"
@@ -5200,12 +5166,12 @@
     "merged_at": "2026-06-26",
     "closed_at": "2026-06-26",
     "approvals": [
-      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5246,10 +5212,10 @@
     "merged_at": null,
     "closed_at": "2026-06-05",
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5270,11 +5236,11 @@
     "closed_at": "2026-06-11",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5293,11 +5259,11 @@
     "closed_at": "2026-06-10",
     "approvals": [
       "ces",
-      "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5317,11 +5283,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16427"
@@ -5338,13 +5303,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16426"
@@ -5363,11 +5327,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16425"
@@ -5409,11 +5372,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16419"
@@ -5430,10 +5392,10 @@
     "merged_at": "2026-06-02",
     "closed_at": "2026-06-02",
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5455,11 +5417,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16416"
@@ -5476,16 +5437,38 @@
     "merged_at": "2026-06-16",
     "closed_at": "2026-06-16",
     "approvals": [
+      "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16414"
+  },
+  {
+    "number": 8414,
+    "title": "AB#687844: UI warning indicators for LTI 1.1",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-06-30",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8414"
   },
   {
     "number": 8407,
@@ -5499,12 +5482,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5523,11 +5506,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review",
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5544,9 +5527,10 @@
     "created_at": "2026-06-24",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -5574,8 +5558,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "sakthi-selvapriya"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8386"
   },
   {
@@ -5634,13 +5620,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8364"
@@ -5679,13 +5664,12 @@
     "merged_at": "2026-06-24",
     "closed_at": "2026-06-24",
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8359"
@@ -5702,13 +5686,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8357"
@@ -5726,11 +5709,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "alanacostablackboard",
@@ -5774,10 +5757,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5797,11 +5780,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team",
-      "tech"
+      "ces",
+      "team"
     ],
     "pending": [
-      "CES Approval",
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -5820,11 +5803,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team",
+      "ces",
       "tech"
     ],
     "pending": [
-      "CES Approval",
+      "Team Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -5844,11 +5827,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review",
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5866,13 +5849,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "lanceneumannblackboard"
     ],
@@ -5891,13 +5873,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8313"
@@ -5939,10 +5920,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5962,13 +5943,12 @@
     "merged_at": "2026-06-23",
     "closed_at": "2026-06-23",
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8290"
@@ -5985,11 +5965,11 @@
     "merged_at": "2026-06-19",
     "closed_at": "2026-06-19",
     "approvals": [
-      "team",
-      "tech"
+      "ces",
+      "team"
     ],
     "pending": [
-      "CES Approval",
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -6008,10 +5988,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -6031,12 +6011,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team",
-      "tech"
+      "ces",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -6054,13 +6034,12 @@
     "merged_at": "2026-06-18",
     "closed_at": "2026-06-18",
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8271"
@@ -6099,13 +6078,12 @@
     "merged_at": "2026-06-17",
     "closed_at": "2026-06-17",
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8263"
@@ -6122,13 +6100,12 @@
     "merged_at": "2026-06-22",
     "closed_at": "2026-06-22",
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8254"
@@ -6145,13 +6122,12 @@
     "merged_at": "2026-06-03",
     "closed_at": "2026-06-03",
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8229"

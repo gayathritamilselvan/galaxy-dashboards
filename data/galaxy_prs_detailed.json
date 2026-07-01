@@ -1,5 +1,140 @@
 [
   {
+    "number": 17184,
+    "title": "Feature/AB#688566 uia journal grade details panel",
+    "author_login": "AshwinArumugamMani",
+    "author_name": "Ashwin Arumugam Mani",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17184"
+  },
+  {
+    "number": 17183,
+    "title": "feature/AB#671264-refactor directGradeClearModal to use useModal",
+    "author_login": "Subbalakshmi-bb",
+    "author_name": "Subbalakshmi",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17183"
+  },
+  {
+    "number": 17180,
+    "title": "Bugfix/AB#688596 - Fix column position during ID column vertical keyboard navigation in new grid view",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17180"
+  },
+  {
+    "number": 17179,
+    "title": "Bugfix - AB#688120 - New Gradebook grid view not loaded when last saved preference is students tab",
+    "author_login": "KirubakaranRBB",
+    "author_name": "Kirubakaran R",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17179"
+  },
+  {
+    "number": 17178,
+    "title": "AB#688061 - Gradebook Grid View SubHeader Keyboard Focus Is Lost After Posting Grades Using  Post Button",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17178"
+  },
+  {
+    "number": 17170,
+    "title": "Bugfix/AB#685395-Grade Detail Panel: Attempts Allowed can be reduced without validation after student submission under Accommodation",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17170"
+  },
+  {
     "number": 17169,
     "title": "oven mode check",
     "author_login": "Prasannajayasankar",
@@ -33,13 +168,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17166"
@@ -99,9 +233,10 @@
     "created_at": "2026-06-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -122,10 +257,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -169,10 +304,11 @@
     "created_at": "2026-06-29",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -348,19 +484,19 @@
     "title": "AB#578923 One Time Submission view does not show Grades or Correct Answers if the Assessment includes any manually graded Questions",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-06-29",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -408,7 +544,6 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "priceld",
       "tbednarekbb"
     ],
     "changes_addressed": "no",
@@ -487,12 +622,12 @@
     "title": "AB#686771 Grade detail panel form group view submission navigation issue fix",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-01",
+    "closed_at": "2026-07-01",
     "approvals": [
       "ces",
       "team",
@@ -509,7 +644,7 @@
     "title": "feature/AB#678457 - Created the permissions settings component localisation changes",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-26",
@@ -517,14 +652,16 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "johntrianat"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17098"
   },
   {
@@ -546,8 +683,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "vigneshwaransaravanan"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17097"
   },
   {
@@ -984,12 +1123,12 @@
     "title": "ax testing demo instance",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-24",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-01",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -1512,10 +1651,8 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [
-      "welstrec"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16964"
   },
   {
@@ -1523,7 +1660,7 @@
     "title": "Feature/AB#672810 - Created the Permissions Settings component and added it to the Folder Settings peek panel",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-22",
@@ -5519,21 +5656,89 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16414"
   },
   {
+    "number": 8429,
+    "title": "AB#688736: Localization strings for UI Warning Indicators for LTI 1.1 ",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8429"
+  },
+  {
+    "number": 8428,
+    "title": "bugfix/AB#578446-False \"User has not yet submitted attempt\" can rarely occur in Peer Reviews",
+    "author_login": "MartinRodgers0007",
+    "author_name": "Martin Rodgers",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8428"
+  },
+  {
+    "number": 8426,
+    "title": "Feature/AB-684930-update storing permissions in extended data and added its fetch in course outline",
+    "author_login": "Hariharan-r-k",
+    "author_name": "Hariharan R K",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Supernova",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8426"
+  },
+  {
     "number": 8414,
     "title": "AB#687844: UI warning indicators for LTI 1.1",
     "author_login": "pkumarr07",
     "author_name": "Pradeep Kumar R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-06-30",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5695,8 +5900,10 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "sakthi-selvapriya"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8364"
   },
   {

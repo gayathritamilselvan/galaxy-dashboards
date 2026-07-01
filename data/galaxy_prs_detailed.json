@@ -1,5 +1,72 @@
 [
   {
+    "number": 17169,
+    "title": "oven mode check",
+    "author_login": "Prasannajayasankar",
+    "author_name": "Prasanna Jayasankar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17169"
+  },
+  {
+    "number": 17166,
+    "title": "AB#688243 - Grade icon replacement in Grid view header section",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17166"
+  },
+  {
+    "number": 17156,
+    "title": "Fix",
+    "author_login": "manojchandrashekar29",
+    "author_name": "Manoj C",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Celeste",
+    "created_at": "2026-06-30",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17156"
+  },
+  {
     "number": 17152,
     "title": "Bugfix/AB#684826 - Accommodation attempts allowed changes is not getting updated for groups in Grade detail panel",
     "author_login": "Saimanimaran",
@@ -54,9 +121,10 @@
     "created_at": "2026-06-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -84,8 +152,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17145"
   },
   {
@@ -159,15 +229,16 @@
     "title": "bugfix/AB#684421-Refactor-gradebook-UIA-files",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-29",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
+    "merged_at": "2026-07-01",
+    "closed_at": "2026-07-01",
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -283,9 +354,10 @@
     "created_at": "2026-06-29",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -336,7 +408,8 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "priceld"
+      "priceld",
+      "tbednarekbb"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17120"
@@ -528,20 +601,19 @@
     "title": "bugfix/AB#687511 - Overall Grade validation missing for invalid comma input in Grade Grid",
     "author_login": "AsmirKhan7",
     "author_name": "Asmir Khan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17093"
@@ -574,12 +646,12 @@
     "title": "Bugfix/AB#686782 -Fix Grade details panel becomes blank after sorting the column",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "team",
       "tech",
@@ -620,12 +692,12 @@
     "title": "Bugfix/AB#687483 Keyboard Navigation for Direct Grade Mapping Clear Dialog",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
@@ -642,20 +714,19 @@
     "title": "Bugfix/AB#687483 Keyboard Navigation for Group Content Dialog in Edit Cell",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17082"
@@ -1137,12 +1208,12 @@
     "title": "AB#686264- changes added for border break",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-06-23",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-01",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -1494,7 +1565,7 @@
   },
   {
     "number": 16957,
-    "title": "Bugfix/AB# 671187 - Fix inconsistent focus during vertical keyboard navigation in virtualized grid",
+    "title": "Bugfix/AB#671187 - Fix inconsistent focus during vertical keyboard navigation in virtualized grid",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
     "state": "Merged",
@@ -1792,12 +1863,12 @@
     "title": "Bugfix/AB#685767-Fix: Navigation Buttons Remain Disabled After Clearing Student Filters",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
@@ -2591,12 +2662,12 @@
     "title": "AB#682554 - Hiding attempt feedback for journal and discussion content",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-17",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-06-30",
+    "closed_at": "2026-06-30",
     "approvals": [
       "ces",
       "team",
@@ -5552,16 +5623,14 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [
-      "sakthi-selvapriya"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8386"
   },
   {
@@ -5717,7 +5786,8 @@
     ],
     "changes_requested_by": [
       "alanacostablackboard",
-      "kkuppula"
+      "kkuppula",
+      "lanceneumannblackboard"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8347"
@@ -5927,8 +5997,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "varju"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8293"
   },
   {
@@ -6109,27 +6181,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8254"
-  },
-  {
-    "number": 8229,
-    "title": "AB#672808 Entitlement for configuring LOR content attributes permissions",
-    "author_login": "tsyed-bbdn",
-    "author_name": "Tausif Syed",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Supernova",
-    "created_at": "2026-05-31",
-    "merged_at": "2026-06-03",
-    "closed_at": "2026-06-03",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8229"
   }
 ]

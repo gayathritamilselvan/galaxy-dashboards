@@ -4,12 +4,12 @@
     "title": "Feature/AB#688566 uia journal grade details panel",
     "author_login": "AshwinArumugamMani",
     "author_name": "Ashwin Arumugam Mani",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-01",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-02",
+    "closed_at": "2026-07-02",
     "approvals": [
       "team"
     ],
@@ -94,7 +94,7 @@
     "title": "AB#688061 - Gradebook Grid View SubHeader Keyboard Focus Is Lost After Posting Grades Using  Post Button",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-01",
@@ -298,7 +298,7 @@
     "title": "AB#668783- Integrate AI Playground chat interface with responsive scrolling behavior for zoomed screens",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-06-29",
@@ -404,7 +404,8 @@
     ],
     "changes_requested_by": [
       "johntrianat",
-      "priceld"
+      "priceld",
+      "tbednarekbb"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17130"
@@ -498,8 +499,10 @@
     "pending": [
       "Tech Lead Review"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "bbnkamper"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17122"
   },
   {
@@ -918,7 +921,7 @@
   },
   {
     "number": 17065,
-    "title": "Bugfix/ab 686309 note to student not clearing properly",
+    "title": "AB#686309 Overall Feedback is not clearing properly",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
     "state": "Draft",
@@ -2430,12 +2433,12 @@
     "title": "feature/AB#579044 -  LOR Move to Top, Move Up, Move Down, Move to Bottom - Localization PR",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-19",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-02",
+    "closed_at": "2026-07-02",
     "approvals": [
       "ces",
       "team",
@@ -3045,12 +3048,12 @@
     "title": "Feature/AB#578857 localization for moving folders into other folders",
     "author_login": "Anshu972438",
     "author_name": "Anshu",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-01",
+    "closed_at": "2026-07-01",
     "approvals": [
       "team",
       "tech"
@@ -5409,253 +5412,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16444"
   },
   {
-    "number": 16436,
-    "title": "Feature/AB#514831 Remove DirectGradeMapping Feature Flag",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-01",
-    "merged_at": null,
-    "closed_at": "2026-06-05",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16436"
-  },
-  {
-    "number": 16432,
-    "title": "BugFix - AB#672770- Exempt label is not rendering immediately for Anonymous columns in new gradebook grid view",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-01",
-    "merged_at": "2026-06-11",
-    "closed_at": "2026-06-11",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16432"
-  },
-  {
-    "number": 16428,
-    "title": "AB#671273 - Prevent group grade override dialog from closing immediately and restore focus/value on cancel - New Gradebook Grid View",
-    "author_login": "BharathiKannaa",
-    "author_name": "Bharathi Kanna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-01",
-    "merged_at": "2026-06-10",
-    "closed_at": "2026-06-10",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16428"
-  },
-  {
-    "number": 16427,
-    "title": "bugfix/AB#672694-Keyboard focus lost to top of the page when closing assessment detail panel",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-01",
-    "merged_at": "2026-06-09",
-    "closed_at": "2026-06-09",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16427"
-  },
-  {
-    "number": 16426,
-    "title": "Feature/AB#578857 moving folders into other folders in LOR",
-    "author_login": "Anshu972438",
-    "author_name": "Anshu",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-01",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16426"
-  },
-  {
-    "number": 16425,
-    "title": "Bugfix/AB#671549 accommodation badge duplication",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-01",
-    "merged_at": "2026-06-09",
-    "closed_at": "2026-06-09",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16425"
-  },
-  {
-    "number": 16423,
-    "title": "Feature/ab 555738 gradebook UIA ptid 2938 2992",
-    "author_login": "sindhu-nagarajan",
-    "author_name": "Sindhu Nagarajan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Celeste",
-    "created_at": "2026-06-01",
-    "merged_at": "2026-06-01",
-    "closed_at": "2026-06-01",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16423"
-  },
-  {
-    "number": 16419,
-    "title": "AB#682643-100-Percent-confidence achived Screen student view",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-01",
-    "merged_at": "2026-06-16",
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16419"
-  },
-  {
-    "number": 16418,
-    "title": "AB#675664 ActionMenu in instructor course details portal crashes with MUI useTheme() null error on synced courses - Backport 4000.17.0",
-    "author_login": "AdhithiyaHBB",
-    "author_name": "Adhithiya H",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-06-01",
-    "merged_at": "2026-06-02",
-    "closed_at": "2026-06-02",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16418"
-  },
-  {
-    "number": 16416,
-    "title": "AB#672242 Anonymous submission ungraded forms in Grade Detail Panel",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-01",
-    "merged_at": "2026-06-09",
-    "closed_at": "2026-06-09",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16416"
-  },
-  {
-    "number": 16414,
-    "title": "AB#682645-Updated Deck completion/Progress breakdown summary screen",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-01",
-    "merged_at": "2026-06-16",
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16414"
-  },
-  {
     "number": 8429,
     "title": "AB#688736: Localization strings for UI Warning Indicators for LTI 1.1 ",
     "author_login": "pkumarr07",
@@ -5797,7 +5553,7 @@
     "title": "AB#684044 - Graders can see assessment attempts of students not assigned to them in parallel grading",
     "author_login": "PriyadarshiniSaravanan",
     "author_name": "Priyadarshini S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Elite",
     "created_at": "2026-06-24",

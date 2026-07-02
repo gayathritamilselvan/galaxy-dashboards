@@ -1,5 +1,97 @@
 [
   {
+    "number": 17204,
+    "title": "Bugfix/AB#688650 Restore Unsaved Grade Value When Cell Remounts After Scroll",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17204"
+  },
+  {
+    "number": 17203,
+    "title": "AB#688572 - Renaming labels from Note to student - Overall Feedback",
+    "author_login": "rag-bbdn",
+    "author_name": "Ragavendran",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "sharmilahameed"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17203"
+  },
+  {
+    "number": 17201,
+    "title": "AB#688962 fix: move focus to description field when editing a flashcard",
+    "author_login": "SuryaMadhanlal-5252",
+    "author_name": "Surya Madhanlal",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17201"
+  },
+  {
+    "number": 17193,
+    "title": "bugfix/AB#688652 - Trim trailing spaces while saving grades in grid cells - new grid view",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17193"
+  },
+  {
     "number": 17184,
     "title": "Feature/AB#688566 uia journal grade details panel",
     "author_login": "AshwinArumugamMani",
@@ -539,13 +631,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "tbednarekbb"
     ],
@@ -930,9 +1021,10 @@
     "created_at": "2026-06-25",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -5410,6 +5502,75 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16444"
+  },
+  {
+    "number": 8435,
+    "title": "Bugfix/AB#684180 - Prevent HTTP 414 after large package upload in Ultra content picker",
+    "author_login": "Dinesh-Chandra832",
+    "author_name": "Dinesh Chandra",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "pkumarr07"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8435"
+  },
+  {
+    "number": 8434,
+    "title": "AB#684378 Improve text-on-page when Purging Institution Heirarchy Nodes",
+    "author_login": "manojchandrashekar29",
+    "author_name": "Manoj C",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8434"
+  },
+  {
+    "number": 8433,
+    "title": "Bugfix/AB#497794 Fix password entitlement bypass properties modify",
+    "author_login": "omswarooprk",
+    "author_name": "Om Swaroop R K",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8433"
   },
   {
     "number": 8429,

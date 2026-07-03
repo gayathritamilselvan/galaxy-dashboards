@@ -1,5 +1,164 @@
 [
   {
+    "number": 17240,
+    "title": "bugfix/AB#688948-improve screen reader label for grid action buttons",
+    "author_login": "Subbalakshmi-bb",
+    "author_name": "Subbalakshmi",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17240"
+  },
+  {
+    "number": 17238,
+    "title": "Bugfix/ab 688971 close grade detail panel on grid view filter changes",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17238"
+  },
+  {
+    "number": 17237,
+    "title": "AB#684804 - Edit Icon Is Displayed for Empty Note to Student",
+    "author_login": "rag-bbdn",
+    "author_name": "Ragavendran",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "dsoto-bb"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17237"
+  },
+  {
+    "number": 17234,
+    "title": "Feature/AB#688052 TabbedHome error popup",
+    "author_login": "srujankusuma3232",
+    "author_name": "Srujan Kusuma",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-07-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "ces",
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17234"
+  },
+  {
+    "number": 17233,
+    "title": "AB#688223 - Non-graded forms are redirecting users to an incorrect submission screen",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17233"
+  },
+  {
+    "number": 17231,
+    "title": "AB#579390: LTI embeds in document missing camera display capture and clipboard permissions",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Nayakas",
+    "created_at": "2026-07-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17231"
+  },
+  {
+    "number": 17229,
+    "title": "Bugfix/ab-initial commit for scroll enhancement",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17229"
+  },
+  {
     "number": 17227,
     "title": "Bugfix/AB#688944-Added keyboard shortcut for cmd+delete to focus close",
     "author_login": "arunkumaranth",
@@ -10,9 +169,10 @@
     "created_at": "2026-07-03",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -33,10 +193,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -55,10 +215,11 @@
     "created_at": "2026-07-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -71,7 +232,7 @@
     "title": "bugfix/AB#689036-fix plus icon student id alignment issue",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-02",
@@ -79,11 +240,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -100,12 +261,13 @@
     "created_at": "2026-07-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -122,12 +284,13 @@
     "created_at": "2026-07-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -276,7 +439,7 @@
     "title": "Bugfix - AB#688120 - New Gradebook grid view not loaded when last saved preference is students tab",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-07-01",
@@ -323,7 +486,7 @@
     "title": "Bugfix/AB#685395-Grade Detail Panel: Attempts Allowed can be reduced without validation after student submission under Accommodation",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-01",
@@ -337,8 +500,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "dsoto-bb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17170"
   },
   {
@@ -412,7 +577,7 @@
     "title": "Bugfix/AB#684826 - Accommodation attempts allowed changes is not getting updated for groups in Grade detail panel",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-30",
@@ -442,11 +607,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -669,24 +834,21 @@
     "title": "feature/AB#687480-column edit icon overlaps fixed column during horizontal scroll",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-29",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-03",
+    "closed_at": "2026-07-03",
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17123"
   },
   {
@@ -1132,19 +1294,19 @@
     "title": "AB#686309 Overall Feedback is not clearing properly",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-25",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5504,8 +5666,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "bbsaraswathikanniappan"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8428"
   },
   {
@@ -5812,7 +5976,7 @@
     "title": "AB#675678-Implement guest user handling for TDM catalog redirection",
     "author_login": "Ashish-Anthology",
     "author_name": "Ashish Sah",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-06-18",
@@ -5927,12 +6091,12 @@
     "title": "AB#684425 - Unable to edit and save UEF placement configuration from LTI Tool Providers page",
     "author_login": "AdhithiyaHBB",
     "author_name": "Adhithiya H",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-06-12",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-03",
+    "closed_at": "2026-07-03",
     "approvals": [
       "ces",
       "team",

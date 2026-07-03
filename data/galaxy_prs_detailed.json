@@ -1,5 +1,117 @@
 [
   {
+    "number": 17227,
+    "title": "Bugfix/AB#688944-Added keyboard shortcut for cmd+delete to focus close",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17227"
+  },
+  {
+    "number": 17225,
+    "title": "AB#686581 Existing Text Item Opens Editor Automatically on Cell Revisit",
+    "author_login": "smurugasan-bbdn",
+    "author_name": "Sounder Murugasan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17225"
+  },
+  {
+    "number": 17218,
+    "title": "feature/AB#579044 - LOR DnD action menu - Move to Top, Move Up, Move Down, Move to Bottom menu items",
+    "author_login": "bhuvaneswarisbb",
+    "author_name": "Bhuvaneswari S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17218"
+  },
+  {
+    "number": 17217,
+    "title": "bugfix/AB#689036-fix plus icon student id alignment issue",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17217"
+  },
+  {
+    "number": 17215,
+    "title": "Bugfix/AB#688648 Keyboard Focus Is Lost After Pressing Esc While Editing a Grade Cell",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17215"
+  },
+  {
     "number": 17204,
     "title": "Bugfix/AB#688650 Restore Unsaved Grade Value When Cell Remounts After Scroll",
     "author_login": "PrasannakumarG32",
@@ -33,10 +145,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -57,9 +169,10 @@
     "created_at": "2026-07-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -199,8 +312,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "dsoto-bb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17178"
   },
   {
@@ -303,9 +418,10 @@
     "created_at": "2026-06-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -319,17 +435,17 @@
     "title": "Bugfix/AB#684226 - Fix for late submission not allowed text not displaying ",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-30",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -380,6 +496,7 @@
       "CES Approval"
     ],
     "changes_requested_by": [
+      "priceld",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -398,11 +515,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -671,12 +788,12 @@
     "title": "Feature/AB#687821 new api and pass through wrapper",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-06-29",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-03",
+    "closed_at": "2026-07-03",
     "approvals": [
       "ces",
       "tech",
@@ -1537,13 +1654,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "stormojm"
     ],
@@ -5255,253 +5371,27 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16489"
   },
   {
-    "number": 16471,
-    "title": "AB#680941 Microsoft Team extension Modals not rendering in ultra - Backport 4000.17.0",
-    "author_login": "vakrams",
-    "author_name": "Vakram S",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-06-02",
-    "merged_at": "2026-06-02",
-    "closed_at": "2026-06-02",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16471"
-  },
-  {
-    "number": 16469,
-    "title": "AB#680941  Microsoft Team extension Modals not rendering in ultra - Backport 4000.17.0",
-    "author_login": "vakrams",
-    "author_name": "Vakram S",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-06-02",
-    "merged_at": null,
-    "closed_at": "2026-06-02",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16469"
-  },
-  {
-    "number": 16465,
-    "title": "feature/AB#678855 uia anonymous submission grade details panel ",
-    "author_login": "AshwinArumugamMani",
-    "author_name": "Ashwin Arumugam Mani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-02",
-    "merged_at": "2026-06-02",
-    "closed_at": "2026-06-02",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16465"
-  },
-  {
-    "number": 16464,
-    "title": "AB#681683 - Refactor add-feedback row component and implement collapsed/expanded feedback ",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-02",
-    "merged_at": "2026-06-16",
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16464"
-  },
-  {
-    "number": 16461,
-    "title": "Feature/AB#682226 upload download location change",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-02",
-    "merged_at": "2026-06-09",
-    "closed_at": "2026-06-09",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16461"
-  },
-  {
-    "number": 16457,
-    "title": "feature/AB#682217-Todo panel duplicate aria labels",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-02",
-    "merged_at": "2026-06-09",
-    "closed_at": "2026-06-09",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16457"
-  },
-  {
-    "number": 16453,
-    "title": "Feature/AB#680227 - Rename Cloud Document Features to  Microsoft Embedded Cloud Document and Microsoft Cloud Collaboration (Localization Updates)",
-    "author_login": "Dinesh-Chandra832",
-    "author_name": "Dinesh Chandra",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-06-02",
-    "merged_at": "2026-06-18",
-    "closed_at": "2026-06-18",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16453"
-  },
-  {
-    "number": 16451,
-    "title": "bugfix/AB#540409 - Compute weighted selectedPercent for PERCENTAGE and POINTS rubrics ",
-    "author_login": "AsmirKhan7",
-    "author_name": "Asmir Khan",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-02",
+    "number": 8438,
+    "title": "AB#688100 attempt_cr() performance improvement",
+    "author_login": "manojchandrashekar29",
+    "author_name": "Manoj C",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-07-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16451"
-  },
-  {
-    "number": 16450,
-    "title": "Bugfix/ab#580519 new gradebook view ptid 3986",
-    "author_login": "Ram-G-BB",
-    "author_name": "Ram G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-02",
-    "merged_at": "2026-06-02",
-    "closed_at": "2026-06-02",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16450"
-  },
-  {
-    "number": 16446,
-    "title": "AB#681692 - New Grid view fails to render during zoom out",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-02",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16446"
-  },
-  {
-    "number": 16444,
-    "title": "bugfix/AB#672781-Gradebook-Redesign-Test_PTID=1053",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-02",
-    "merged_at": "2026-06-04",
-    "closed_at": "2026-06-04",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16444"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8438"
   },
   {
     "number": 8435,
@@ -5577,19 +5467,19 @@
     "title": "AB#688736: Localization strings for UI Warning Indicators for LTI 1.1 ",
     "author_login": "pkumarr07",
     "author_name": "Pradeep Kumar R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-07-01",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-03",
+    "closed_at": "2026-07-03",
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5606,9 +5496,10 @@
     "created_at": "2026-07-01",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -5653,11 +5544,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",

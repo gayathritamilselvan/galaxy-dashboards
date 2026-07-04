@@ -9624,8 +9624,8 @@
       "team": "Starlite",
       "period": "POST_S12",
       "prs_authored": 4,
-      "avg_pr_age": 128.3,
-      "avg_pr_size": 320.5,
+      "avg_pr_age": 126.6,
+      "avg_pr_size": 319.5,
       "avg_review_cycle": 0.5
     },
     {
@@ -10484,8 +10484,8 @@
       "team": "Starlite",
       "period": "ALL",
       "prs_authored": 28,
-      "avg_pr_age": 295.0,
-      "avg_pr_size": 280.2,
+      "avg_pr_age": 294.8,
+      "avg_pr_size": 280.1,
       "avg_review_cycle": 0.61
     },
     {
@@ -10970,5 +10970,5 @@
     }
   ],
   "total_prs": 372,
-  "fetched_at": "2026-07-04 06:49:33"
+  "fetched_at": "2026-07-04 15:02:33"
 }

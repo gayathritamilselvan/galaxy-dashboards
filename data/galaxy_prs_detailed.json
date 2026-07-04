@@ -64,7 +64,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "dsoto-bb"
+      "dsoto-bb",
+      "johntrianat"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17237"
@@ -186,7 +187,7 @@
     "title": "AB#686581 Existing Text Item Opens Editor Automatically on Cell Revisit",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-03",
@@ -209,7 +210,7 @@
     "title": "feature/AB#579044 - LOR DnD action menu - Move to Top, Move Up, Move Down, Move to Bottom menu items",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-02",
@@ -446,12 +447,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -501,7 +502,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "dsoto-bb"
+      "dsoto-bb",
+      "johntrianat"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17170"
@@ -1024,17 +1026,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "johntrianat"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17098"
   },
   {
@@ -5311,228 +5310,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16522"
   },
   {
-    "number": 16512,
-    "title": "bugfix/AB#679776 - Multiple Overall Grade Notation Popovers Spawn Automatically After Creating a New Grade Notation",
-    "author_login": "bhuvaneswarisbb",
-    "author_name": "Bhuvaneswari S",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-15",
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16512"
-  },
-  {
-    "number": 16510,
-    "title": "AB#680554 Grade detail panel incorrect button displayed on override grade in flex grading page",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-10",
-    "closed_at": "2026-06-10",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16510"
-  },
-  {
-    "number": 16496,
-    "title": "bugfix/AB#682209 - First Two Rows in New Gradebook Grid View Are Truncated at the Top of the Screen for Safari Browser",
-    "author_login": "manoharan100",
-    "author_name": "Manoharan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-16",
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16496"
-  },
-  {
-    "number": 16495,
-    "title": "bugfix/AB#682893-overall grade click navigation ",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-15",
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16495"
-  },
-  {
-    "number": 16494,
-    "title": "Feature/AB#576557 protractor wdio migration PTID=2210 2211",
-    "author_login": "mjaifank",
-    "author_name": "Mjaifan K",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-04",
-    "closed_at": "2026-06-04",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16494"
-  },
-  {
-    "number": 16493,
-    "title": "AB#678900 Delete Flashcards in content preview screen",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-10",
-    "closed_at": "2026-06-10",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16493"
-  },
-  {
-    "number": 16492,
-    "title": "Bugfix/AB#682215 -Removed ismanual column check  and updated offline",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-15",
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16492"
-  },
-  {
-    "number": 16491,
-    "title": "AB#678900 Integrate activity flashcards DELETE in learn-data-services",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-09",
-    "closed_at": "2026-06-09",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16491"
-  },
-  {
-    "number": 16490,
-    "title": "AB#678900 Add Flashcard DELETE request in foundations-api-client",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-08",
-    "closed_at": "2026-06-08",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16490"
-  },
-  {
-    "number": 16489,
-    "title": "Test flaky",
-    "author_login": "smurugasan-bbdn",
-    "author_name": "Sounder Murugasan",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-03",
-    "merged_at": null,
-    "closed_at": "2026-06-03",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16489"
-  },
-  {
     "number": 8438,
     "title": "AB#688100 attempt_cr() performance improvement",
     "author_login": "manojchandrashekar29",
@@ -5544,12 +5321,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "vs"
     ],
     "pending": [
+      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5591,12 +5368,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5859,12 +5636,12 @@
     "title": "AB#684562 Added Grader role permissions to allow Save and Cancel actions for add/edit exceptions in Gradebook submissions",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Learn",
     "team": "Mars",
     "created_at": "2026-06-22",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-03",
     "approvals": [
       "ces",
       "team",
@@ -6338,27 +6115,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8263"
-  },
-  {
-    "number": 8254,
-    "title": "Bugfix/AB#580971  Needs Grading Count Mismatch for FIRST/LAST Aggregation in Summary API",
-    "author_login": "rajeshblackboard",
-    "author_name": "Rajesh",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Pandias",
-    "created_at": "2026-06-03",
-    "merged_at": "2026-06-22",
-    "closed_at": "2026-06-22",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8254"
   }
 ]

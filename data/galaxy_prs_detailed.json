@@ -1,5 +1,27 @@
 [
   {
+    "number": 17246,
+    "title": "feature /AB#579044 Implementation of LOR DnD move menu item actions",
+    "author_login": "bhuvaneswarisbb",
+    "author_name": "Bhuvaneswari S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-07-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17246"
+  },
+  {
     "number": 17240,
     "title": "bugfix/AB#688948-improve screen reader label for grid action buttons",
     "author_login": "Subbalakshmi-bb",
@@ -23,10 +45,10 @@
   },
   {
     "number": 17238,
-    "title": "Bugfix/ab 688971 close grade detail panel on grid view filter changes",
+    "title": "Bugfix/AB#688971 - Close Grade Detail Panel on grid view filter changes",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-03",
@@ -104,11 +126,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -139,7 +161,7 @@
   },
   {
     "number": 17229,
-    "title": "Bugfix/ab-initial commit for scroll enhancement",
+    "title": "Bugfix/AB#689105 - Fix Gradebook Grid Cell Navigation Preserve Focus During Scroll",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
     "state": "Draft",
@@ -148,10 +170,11 @@
     "created_at": "2026-07-03",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -195,11 +218,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -310,11 +333,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "sharmilahameed"
@@ -327,17 +350,17 @@
     "title": "AB#688962 fix: move focus to description field when editing a flashcard",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-02",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -469,12 +492,13 @@
     "created_at": "2026-07-01",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "dsoto-bb"
@@ -611,11 +635,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17151"
@@ -4945,83 +4968,16 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16584"
   },
   {
-    "number": 16571,
-    "title": "Feature/AB#514831 Remove DirectGradeMapping Feature Flag",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-05",
-    "merged_at": "2026-06-18",
-    "closed_at": "2026-06-18",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16571"
-  },
-  {
-    "number": 16569,
-    "title": "AB#683283 - Fix display gray pill color for overridden Overall Grades in new grid view",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-05",
-    "merged_at": "2026-06-10",
-    "closed_at": "2026-06-10",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16569"
-  },
-  {
-    "number": 16565,
-    "title": "Feature/AB#549564 Wdio migration ptid - 2208",
-    "author_login": "Vignesh440-ai",
-    "author_name": "Vignesh",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-05",
-    "merged_at": "2026-06-08",
-    "closed_at": "2026-06-08",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16565"
-  },
-  {
-    "number": 16563,
-    "title": "fetch call with header changes",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-05",
+    "number": 8461,
+    "title": "AB#669238 -Images in Test Questions Changing to Sessions - Tomcat Temp Area",
+    "author_login": "kalimuthupalraj",
+    "author_name": "Kalimuthu Palraj",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-07-06",
     "merged_at": null,
-    "closed_at": "2026-06-26",
+    "closed_at": null,
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -5031,78 +4987,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16563"
-  },
-  {
-    "number": 16562,
-    "title": "Bugfix/AB#570189 - Blocked external image insertion in RTE for students",
-    "author_login": "ranjith-r-anthology",
-    "author_name": "Ranjith Ramasamy",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Celeste",
-    "created_at": "2026-06-05",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "bbnkamper"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16562"
-  },
-  {
-    "number": 16561,
-    "title": "Feature/AB#548889 Wdio migration ptid - 356",
-    "author_login": "Vignesh440-ai",
-    "author_name": "Vignesh",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-05",
-    "merged_at": "2026-06-08",
-    "closed_at": "2026-06-08",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16561"
-  },
-  {
-    "number": 16555,
-    "title": "bugfix/AB#568698-new-gradebook-view-PTID=3881",
-    "author_login": "DineshRajendranBB",
-    "author_name": "Dinesh Rajendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-05",
-    "merged_at": "2026-06-08",
-    "closed_at": "2026-06-08",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16555"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8461"
   },
   {
     "number": 8438,
@@ -5116,10 +5001,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "vs"
     ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval"
     ],
@@ -5224,17 +5109,17 @@
     "title": "bugfix/AB#578446-False \"User has not yet submitted attempt\" can rarely occur in Peer Reviews",
     "author_login": "MartinRodgers0007",
     "author_name": "Martin Rodgers",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-07-01",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5821,72 +5706,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8282"
-  },
-  {
-    "number": 8275,
-    "title": "Bugfix/AB#670059 - Optimize inefficient query on gb2_up_score_and_attempt_vw view in bulkView API",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-06-05",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8275"
-  },
-  {
-    "number": 8271,
-    "title": "Bugfix/AB#682183 Implement to optimize gb2_score_attempt_vw to use Model-Specific View to Eliminate UNION ALL",
-    "author_login": "rajeshblackboard",
-    "author_name": "Rajesh",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Pandias",
-    "created_at": "2026-06-05",
-    "merged_at": "2026-06-18",
-    "closed_at": "2026-06-18",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8271"
-  },
-  {
-    "number": 8269,
-    "title": "Bugfix/AB#682183 Optimize `gb2_score_and_attempt_vw` - Eliminate UNION ALL of 5 Sub-Views",
-    "author_login": "rajeshblackboard",
-    "author_name": "Rajesh",
-    "state": "Closed",
-    "repo": "Learn",
-    "team": "Pandias",
-    "created_at": "2026-06-05",
-    "merged_at": null,
-    "closed_at": "2026-06-08",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8269"
   }
 ]

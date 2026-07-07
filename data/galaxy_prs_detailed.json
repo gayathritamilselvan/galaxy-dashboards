@@ -1,5 +1,49 @@
 [
   {
+    "number": 17266,
+    "title": "Scrolling rendering UI issues",
+    "author_login": "LalithBB",
+    "author_name": "Lalith",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17266"
+  },
+  {
+    "number": 17265,
+    "title": "Initial commit",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17265"
+  },
+  {
     "number": 17257,
     "title": "/feature/ab 667238 common permissions settings",
     "author_login": "Hariharan-r-k",
@@ -32,10 +76,11 @@
     "created_at": "2026-07-06",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -76,9 +121,10 @@
     "created_at": "2026-07-06",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -137,19 +183,20 @@
   },
   {
     "number": 17248,
-    "title": "Fix test",
+    "title": "bugfix/AB#687890-Quarantine-Fix-PTID=2840-2492",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-06",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -317,17 +364,17 @@
     "title": "Bugfix/AB#689105 - Fix Gradebook Grid Cell Navigation Preserve Focus During Scroll",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-03",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -437,13 +484,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17215"
@@ -491,10 +537,8 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [
-      "sharmilahameed"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17203"
   },
   {
@@ -577,10 +621,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -705,12 +749,12 @@
     "title": "AB#688243 - Grade icon replacement in Grid view header section",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-01",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-06",
+    "closed_at": "2026-07-06",
     "approvals": [
       "ces",
       "team",
@@ -756,10 +800,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -817,12 +861,12 @@
     "title": "Bugfix/AB#579623 Fix VoiceOver double-reading section headers in To Do panel",
     "author_login": "gowthamanpalani",
     "author_name": "Gowthaman Palani",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-30",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-07",
     "approvals": [
       "team",
       "tech",
@@ -940,15 +984,13 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
-      "johntrianat",
       "tbednarekbb"
     ],
     "changes_addressed": "no",
@@ -2205,11 +2247,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -2952,9 +2994,10 @@
     "created_at": "2026-06-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -5111,6 +5154,52 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16584"
   },
   {
+    "number": 8472,
+    "title": "Bugfix/AB#688951-\"Email Author\" Cancel button is not displayed, and the Submit button is unresponsive within discussion threads for closed original courses.",
+    "author_login": "vijay-8421",
+    "author_name": "Vijaya Sekhar P",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8472"
+  },
+  {
+    "number": 8468,
+    "title": "AB#688616 - Changes for Post count not displayed for delegated grading column with Manual Posting",
+    "author_login": "nravikumar-bbdn",
+    "author_name": "Ravi Kumar N",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Starlite",
+    "created_at": "2026-07-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8468"
+  },
+  {
     "number": 8461,
     "title": "AB#669238 -Images in Test Questions Changing to Sessions - Tomcat Temp Area",
     "author_login": "kalimuthupalraj",
@@ -5144,12 +5233,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5353,12 +5442,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5630,11 +5719,11 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",

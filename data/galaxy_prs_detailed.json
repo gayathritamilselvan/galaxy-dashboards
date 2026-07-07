@@ -1,7 +1,280 @@
 [
   {
+    "number": 17285,
+    "title": "Feature/AB#672809 - Add unsaved changes confirmation when closing Settings peek panel or switching tabs",
+    "author_login": "kesavanazhagarsamy",
+    "author_name": "Kesavan Azhagarsamy",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17285"
+  },
+  {
+    "number": 17283,
+    "title": "AB#689027 Confirmation Modal Is Missing for Unsaved Text Item\u2028\u2028",
+    "author_login": "smurugasan-bbdn",
+    "author_name": "Sounder Murugasan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17283"
+  },
+  {
+    "number": 17281,
+    "title": "Rename note to student backport",
+    "author_login": "rag-bbdn",
+    "author_name": "Ragavendran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17281"
+  },
+  {
+    "number": 17279,
+    "title": "Bugfix - AB#688120 - Backport - New Gradebook grid view not loaded when last saved preference is students tab",
+    "author_login": "KirubakaranRBB",
+    "author_name": "Kirubakaran R",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17279"
+  },
+  {
+    "number": 17278,
+    "title": "Bugfix/AB#575334 -Instructors Cannot Post Grades For Attempts For Content That Have Automatic Zeros Given And Set To Manually Post Grades",
+    "author_login": "Subashree-b",
+    "author_name": "Subashree B",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17278"
+  },
+  {
+    "number": 17277,
+    "title": "Bugfix/AB#688613 - Fix Group grade update not immediately reflects grade detail Panel",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17277"
+  },
+  {
+    "number": 17274,
+    "title": "AB#688940 - Undo Override Does Not Exit Overall Grade Edit Mode in New Gradebook Grid View",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "dsoto-bb"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17274"
+  },
+  {
+    "number": 17273,
+    "title": "Bugfix/AB#683288-Submitted field in Grade Grid Details Panel does not update immediately for graded journals after subsequent submissions",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17273"
+  },
+  {
+    "number": 17272,
+    "title": "AB#688940 - Undo Override Does Not Exit Overall Grade Edit Mode in New Gradebook Grid View",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Closed",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": "2026-07-07",
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17272"
+  },
+  {
+    "number": 17271,
+    "title": "AB#688243 - BackPort(4000.21.0)  PR Grade icon replacement in Grid view header section",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17271"
+  },
+  {
+    "number": 17270,
+    "title": "Bugfix/ab 575334 instructors cannot post grades flex grading page on autozero enabled",
+    "author_login": "Subashree-b",
+    "author_name": "Subashree B",
+    "state": "Closed",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": "2026-07-07",
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17270"
+  },
+  {
+    "number": 17269,
+    "title": "bugfix/AB#687893-Build Break-Quarantine-WDIO-PTID=2493",
+    "author_login": "Vignesh440-ai",
+    "author_name": "Vignesh",
+    "state": "Closed",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": "2026-07-07",
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17269"
+  },
+  {
     "number": 17266,
-    "title": "Scrolling rendering UI issues",
+    "title": "AB#671551/Scrolling rendering UI issues",
     "author_login": "LalithBB",
     "author_name": "Lalith",
     "state": "Draft",
@@ -23,7 +296,7 @@
   },
   {
     "number": 17265,
-    "title": "Initial commit",
+    "title": "AB#688441-Restore activity run state for in-progress and completed flashcard attempts",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
     "state": "Draft",
@@ -45,7 +318,7 @@
   },
   {
     "number": 17257,
-    "title": "/feature/ab 667238 common permissions settings",
+    "title": "feature/ab 667238 common permissions settings",
     "author_login": "Hariharan-r-k",
     "author_name": "Hariharan R K",
     "state": "Draft",
@@ -93,21 +366,24 @@
     "title": "AB#688972 Grade panel navigation blank page issue fix",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-06",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "dsoto-bb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17255"
   },
   {
@@ -209,19 +485,19 @@
     "title": "feature /AB#579044 Implementation of LOR DnD move menu item actions",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-06",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -477,12 +753,12 @@
     "title": "Bugfix/AB#688648 Keyboard Focus Is Lost After Pressing Esc While Editing a Grade Cell",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-07",
+    "closed_at": "2026-07-07",
     "approvals": [
       "ces",
       "team",
@@ -499,7 +775,7 @@
     "title": "Bugfix/AB#688650 Restore Unsaved Grade Value When Cell Remounts After Scroll",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-02",
@@ -507,14 +783,14 @@
     "closed_at": null,
     "approvals": [
       "team",
+      "tech",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval"
     ],
     "changes_requested_by": [
-      "gowthamanpalani"
+      "jkhan07"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17204"
@@ -568,12 +844,12 @@
     "title": "bugfix/AB#688652 - Trim trailing spaces while saving grades in grid cells - new grid view",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-07",
+    "closed_at": "2026-07-07",
     "approvals": [
       "tech",
       "vs"
@@ -614,7 +890,7 @@
     "title": "feature/AB#671264-refactor directGradeClearModal to use useModal",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-01",
@@ -768,7 +1044,7 @@
   },
   {
     "number": 17156,
-    "title": "Fix",
+    "title": "AB#505832 Students can not submit when the internet reconnected",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
     "state": "Draft",
@@ -800,13 +1076,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17152"
@@ -838,7 +1113,7 @@
     "title": "Feature/AB#672810 - Add Permissions Settings component to document, file and learning module settings peek panel",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-30",
@@ -846,11 +1121,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -894,13 +1169,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17140"
@@ -1249,12 +1523,12 @@
     "title": "AB#686151 - Handled flickerig issue on horizontal scroll in new grid view",
     "author_login": "Subashree-b",
     "author_name": "Subashree B",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-06-26",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-07",
     "approvals": [
       "team"
     ],
@@ -2995,12 +3269,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3604,12 +3878,12 @@
     "title": "AB#684423 Post Individual Grade button remains enabled after posting a grade for a manual item in the Grade Details panel.",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-06-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-07",
+    "closed_at": "2026-07-07",
     "approvals": [
       "ces",
       "team",
@@ -3690,15 +3964,15 @@
   },
   {
     "number": 16772,
-    "title": "AB#675589 Route changes for LOR permissions menu item to show permission peek panel",
+    "title": "AB#675589 Route changes for LOR permissions menu item to show permission settings peek panel",
     "author_login": "tsyed-bbdn",
     "author_name": "Tausif Syed",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-07",
+    "closed_at": "2026-07-07",
     "approvals": [
       "ces",
       "team",
@@ -3851,12 +4125,12 @@
     "title": "AB#505832 Students can not submit when the internet reconnected",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-06-12",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-07",
     "approvals": [
       "ces",
       "team",
@@ -5165,10 +5439,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "vs"
     ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval"
     ],
@@ -5178,7 +5452,7 @@
   },
   {
     "number": 8468,
-    "title": "AB#688616 - Changes for Post count not displayed for delegated grading column with Manual Posting",
+    "title": "AB#688616 - Changes for Post count  and Needs Grading not displayed for delegated grading column with Manual Posting",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
     "state": "Draft",
@@ -5235,11 +5509,10 @@
     "approvals": [
       "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8438"
@@ -5280,12 +5553,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5616,12 +5889,12 @@
     "title": "Feature/AB#578857 Enable moving folders into other folders in LOR: add GET /maxFolderDepth endpoint for subtree depth validation",
     "author_login": "Anshu972438",
     "author_name": "Anshu",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Supernova",
     "created_at": "2026-06-21",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-07",
+    "closed_at": "2026-07-07",
     "approvals": [
       "ces",
       "team",
@@ -5804,12 +6077,12 @@
     "title": "AB#456170 - Learn not applying lower case to domains coming from the Developer Portal when registering LTI tools",
     "author_login": "AdhithiyaHBB",
     "author_name": "Adhithiya H",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-06-12",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-07",
+    "closed_at": "2026-07-07",
     "approvals": [
       "ces",
       "team",

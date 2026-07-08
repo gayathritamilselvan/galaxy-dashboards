@@ -1,5 +1,94 @@
 [
   {
+    "number": 17297,
+    "title": "bugfix/AB#671551-Scrolling rendering UI issues",
+    "author_login": "LalithBB",
+    "author_name": "Lalith",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-08",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17297"
+  },
+  {
+    "number": 17296,
+    "title": "AB#680933 - Reset Attendance Overall View Selection After Navigating from Grades",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-08",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17296"
+  },
+  {
+    "number": 17295,
+    "title": "Bugfix/AB#687902-Quarantine-Fix-Gradebook-Upload-tests",
+    "author_login": "Prasannajayasankar",
+    "author_name": "Prasanna Jayasankar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-08",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17295"
+  },
+  {
+    "number": 17292,
+    "title": "AB#688405- release condition issue for learning activity",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-07-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17292"
+  },
+  {
     "number": 17285,
     "title": "Feature/AB#672809 - Add unsaved changes confirmation when closing Settings peek panel or switching tabs",
     "author_login": "kesavanazhagarsamy",
@@ -71,12 +160,12 @@
     "title": "Bugfix - AB#688120 - Backport - New Gradebook grid view not loaded when last saved preference is students tab",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-08",
+    "closed_at": "2026-07-08",
     "approvals": [
       "vs"
     ],
@@ -210,12 +299,12 @@
     "title": "AB#688243 - BackPort(4000.21.0)  PR Grade icon replacement in Grid view header section",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-08",
+    "closed_at": "2026-07-08",
     "approvals": [
       "team",
       "tech",
@@ -274,15 +363,15 @@
   },
   {
     "number": 17266,
-    "title": "AB#671551/Scrolling rendering UI issues",
+    "title": "bugfix/AB#671551-Scrolling rendering UI issues",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-07",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-08",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -406,7 +495,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "gvargas-bb"
+      "gvargas-bb",
+      "kapalanisamy"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17254"
@@ -446,10 +536,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -462,12 +552,12 @@
     "title": "bugfix/AB#687890-Quarantine-Fix-PTID=2840-2492",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-06",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-07",
+    "closed_at": "2026-07-07",
     "approvals": [
       "tech"
     ],
@@ -624,9 +714,10 @@
     "created_at": "2026-07-03",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -670,13 +761,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17227"
@@ -693,13 +783,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17225"
@@ -722,8 +811,10 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "priceld"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17218"
   },
   {
@@ -782,17 +873,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "jkhan07"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17204"
   },
   {
@@ -1000,7 +1088,7 @@
   },
   {
     "number": 17169,
-    "title": "oven mode check",
+    "title": "bugfix/Replace-old-grid-files-to-flagged",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
     "state": "Draft",
@@ -1053,9 +1141,10 @@
     "created_at": "2026-06-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -3262,7 +3351,7 @@
     "title": "Bugfix/AB#685575 Implement to view attempts users to access the attempts by Submission screen",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-06-19",
@@ -3270,10 +3359,10 @@
     "closed_at": null,
     "approvals": [
       "team",
+      "tech",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -5432,7 +5521,7 @@
     "title": "Bugfix/AB#688951-\"Email Author\" Cancel button is not displayed, and the Submit button is unresponsive within discussion threads for closed original courses.",
     "author_login": "vijay-8421",
     "author_name": "Vijaya Sekhar P",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-07",
@@ -5455,7 +5544,7 @@
     "title": "AB#688616 - Changes for Post count  and Needs Grading not displayed for delegated grading column with Manual Posting",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Starlite",
     "created_at": "2026-07-06",
@@ -5528,17 +5617,16 @@
     "created_at": "2026-07-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "pkumarr07"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8435"
   },
   {
@@ -5575,12 +5663,13 @@
     "created_at": "2026-07-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5918,15 +6007,13 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
-      "alanacostablackboard",
       "kkuppula",
       "lanceneumannblackboard"
     ],
@@ -6138,10 +6225,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "varju"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8293"
   },
   {

@@ -1,5 +1,27 @@
 [
   {
+    "number": 17315,
+    "title": "AB#578888 view gradebook metadata entitlement change in old and new gradebook view",
+    "author_login": "PriyadarshiniSaravanan",
+    "author_name": "Priyadarshini S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-07-08",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17315"
+  },
+  {
     "number": 17310,
     "title": "Feature/AB#689677 Add merged/child course multi-select filter to gradebook grid view",
     "author_login": "gowthamanpalani",
@@ -33,12 +55,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -155,8 +177,10 @@
       "Team Approval",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17296"
   },
   {
@@ -606,18 +630,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "gvargas-bb",
-      "kapalanisamy"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17254"
   },
   {
@@ -707,8 +728,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17246"
   },
   {
@@ -1262,12 +1285,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1384,8 +1407,10 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "amyers-blackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17140"
   },
   {
@@ -5322,38 +5347,16 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16625"
   },
   {
-    "number": 16617,
-    "title": "AB#681683 - Align Feedback Labels with New Grade Detail Panel Implementation",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-18",
-    "closed_at": "2026-06-18",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16617"
-  },
-  {
-    "number": 16616,
-    "title": "bugfix/AB#683114 - Gradebook Grid View:  Clicking Sorting icon opens Divider (+) menu when hovering near both controls",
-    "author_login": "manoharan100",
-    "author_name": "Manoharan",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-08",
+    "number": 8486,
+    "title": "Bugfix/AB#579692 - Fix Login As failure with UTF-8 characters in reason field",
+    "author_login": "ranjith-r-anthology",
+    "author_name": "Ranjith Ramasamy",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-07-09",
     "merged_at": null,
-    "closed_at": "2026-06-18",
+    "closed_at": null,
     "approvals": [
       "team"
     ],
@@ -5362,89 +5365,21 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "kirubakaranrbb"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16616"
-  },
-  {
-    "number": 16605,
-    "title": "AB#682276- Note to Student added in Flex grading page",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-18",
-    "closed_at": "2026-06-18",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16605"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8486"
   },
   {
-    "number": 16601,
-    "title": "AB#684457 Editable Flashcards  - UI Updates in content preview screen",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-17",
-    "closed_at": "2026-06-17",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16601"
-  },
-  {
-    "number": 16599,
-    "title": "AB#682636 UI Updates on Flashcards Content Preview screen ",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-15",
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16599"
-  },
-  {
-    "number": 16597,
-    "title": "AB#683408 No and Awaiting submission's banner messages",
-    "author_login": "smurugasan-bbdn",
-    "author_name": "Sounder Murugasan",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-08",
+    "number": 8485,
+    "title": "AB#669069-Ultra access codes come back after being disabled/removed",
+    "author_login": "kalimuthupalraj",
+    "author_name": "Kalimuthu Palraj",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-07-09",
     "merged_at": null,
-    "closed_at": "2026-06-09",
+    "closed_at": null,
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -5454,185 +5389,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16597"
-  },
-  {
-    "number": 16596,
-    "title": "Feature/AB#682464 -Implement Non-editable edit cell based on release condition",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-15",
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16596"
-  },
-  {
-    "number": 16595,
-    "title": "Feature/AB#683410 Revert AI Admin Panel Button Changes",
-    "author_login": "omswarooprk",
-    "author_name": "Om Swaroop R K",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-09",
-    "closed_at": "2026-06-09",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16595"
-  },
-  {
-    "number": 16591,
-    "title": "Feature/AB#683410 Revert AI Admin Panel Button Changes",
-    "author_login": "omswarooprk",
-    "author_name": "Om Swaroop R K",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-06-08",
-    "merged_at": null,
-    "closed_at": "2026-06-08",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16591"
-  },
-  {
-    "number": 16590,
-    "title": "AB#578299 - Screen reader enhancement in New Grid",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16590"
-  },
-  {
-    "number": 16588,
-    "title": "Bugfix - AB#682381 - Gradebook mobile view UI issues due to new grid view",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-15",
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16588"
-  },
-  {
-    "number": 16586,
-    "title": "AB#682853 - Canceled Overall Grade Override Remains Visible in Edit Mode Until Page Refresh in New Gradebook Grid View",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-19",
-    "closed_at": "2026-06-19",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16586"
-  },
-  {
-    "number": 16585,
-    "title": "AB#684457 Restrict Editing Multiple Flashcards Simultaneously",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-17",
-    "closed_at": "2026-06-17",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16585"
-  },
-  {
-    "number": 16584,
-    "title": "AB#679075- Accommodation Section Time Field Validation and Display Bugs",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-08",
-    "merged_at": "2026-06-17",
-    "closed_at": "2026-06-17",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16584"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8485"
   },
   {
     "number": 8480,
@@ -5645,10 +5402,11 @@
     "created_at": "2026-07-08",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5985,12 +5743,12 @@
     "title": "AB#523331: One SIS Integration enrollment record failure in a Snapshot Flat-File Causes Rest of Records To Fail",
     "author_login": "pkumarr07",
     "author_name": "Pradeep Kumar R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-09",
+    "closed_at": "2026-07-09",
     "approvals": [
       "team",
       "tech",
@@ -6415,28 +6173,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8288"
-  },
-  {
-    "number": 8282,
-    "title": "AB#683116 - guard resolveGroupId against non-PkId participant keys like rolebucket:TAKING",
-    "author_login": "PriyadarshiniSaravanan",
-    "author_name": "Priyadarshini S",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Elite",
-    "created_at": "2026-06-08",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8282"
   }
 ]

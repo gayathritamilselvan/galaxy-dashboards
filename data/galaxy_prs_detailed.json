@@ -1,9 +1,145 @@
 [
   {
-    "number": 17352,
-    "title": "Bugfix - AB#688972 - Backport - Grade detail panel navigation between tabs blank page",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
+    "number": 17366,
+    "title": "bugfix/AB#689855-backport-4000.21.0-to-add-includeOnlyAssignedStudents-when-content accessible ff enabled",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-10",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17366"
+  },
+  {
+    "number": 17363,
+    "title": "Bugfix/AB#688738- Flex Grading: Keyboard accessibility issues in overall feedback editor",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-10",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17363"
+  },
+  {
+    "number": 17362,
+    "title": "Bugfix/AB#688738- Flex Grading: Keyboard accessibility issues in overall feedback editor",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-10",
+    "merged_at": "2026-07-10",
+    "closed_at": "2026-07-10",
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17362"
+  },
+  {
+    "number": 17361,
+    "title": "Bugfix/AB#579623 Fixed voiceover double reading in ExpansionPanel Bump",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-10",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17361"
+  },
+  {
+    "number": 17358,
+    "title": "Bugfix/AB#689163  Grade Detail Accommodation: Permissions & Read-Only Panel for Non-entitled Users ",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-10",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17358"
+  },
+  {
+    "number": 17357,
+    "title": "Bugfix/AB#688953-Fix for Keeping Selected Cell to View Port At Higher Break Point",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-10",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17357"
+  },
+  {
+    "number": 17356,
+    "title": "Backport note to student label change",
+    "author_login": "rag-bbdn",
+    "author_name": "Ragavendran",
     "state": "Draft",
     "repo": "Ultra",
     "team": "Mars",
@@ -14,6 +150,74 @@
     "pending": [
       "Team Approval",
       "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17356"
+  },
+  {
+    "number": 17355,
+    "title": "AB#690007 Add Skip navigation links to Flashcard review page",
+    "author_login": "SuryaMadhanlal-5252",
+    "author_name": "Surya Madhanlal",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-07-10",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17355"
+  },
+  {
+    "number": 17353,
+    "title": "bugfix/AB#688596-Backport-4000.21.0-fix key board up down navigation issue for id column",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-10",
+    "merged_at": "2026-07-10",
+    "closed_at": "2026-07-10",
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17353"
+  },
+  {
+    "number": 17352,
+    "title": "Bugfix - AB#688972 - Backport - Grade detail panel navigation between tabs blank page",
+    "author_login": "pradeep-prasath123",
+    "author_name": "Pradeep Prasath",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-10",
+    "merged_at": "2026-07-10",
+    "closed_at": "2026-07-10",
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -45,7 +249,7 @@
   },
   {
     "number": 17347,
-    "title": "Filter DropDown Fix",
+    "title": "AB#680933 - Grid View Filter Dropdown options fix",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
     "state": "Draft",
@@ -54,10 +258,11 @@
     "created_at": "2026-07-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -70,12 +275,12 @@
     "title": "bugfix/AB#688513-Fix-OverallGrade-Selectors-Build-Break",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-10",
+    "closed_at": "2026-07-10",
     "approvals": [
       "team",
       "vs"
@@ -93,19 +298,19 @@
     "title": "AB#687897 WDIO-fix-quarantine-case-PTID-2002-2006-2072-2003",
     "author_login": "DineshRajendranBB",
     "author_name": "Dinesh Rajendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-10",
+    "closed_at": "2026-07-10",
     "approvals": [
       "team",
-      "vs"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "CES Approval",
+      "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -113,15 +318,15 @@
   },
   {
     "number": 17335,
-    "title": "oven enabled",
+    "title": "feature/AB#688148-build-break-uia-grade-details-panel",
     "author_login": "AshwinArumugamMani",
     "author_name": "Ashwin Arumugam Mani",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-09",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-10",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -129,13 +334,15 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "kapalanisamy"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17335"
   },
   {
     "number": 17334,
-    "title": "address screen reader announcing flashcards as documents",
+    "title": "AB#688422: Improve screen reader accessibility issues in Flashcard Student View",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
     "state": "Draft",
@@ -167,13 +374,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17333"
@@ -272,12 +478,12 @@
     "title": "Feature/AB#689839 Add merged courses filter locale strings",
     "author_login": "gowthamanpalani",
     "author_name": "Gowthaman Palani",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-10",
+    "closed_at": "2026-07-10",
     "approvals": [
       "ces",
       "team",
@@ -291,15 +497,15 @@
   },
   {
     "number": 17326,
-    "title": "Feature/AB#687909 groups new ui ptid 2605",
+    "title": "Feature/AB#687909 PTID implementation to align with the new Gradebook Grid View 2605",
     "author_login": "Ram-G-BB",
     "author_name": "Ram G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-10",
+    "closed_at": "2026-07-10",
     "approvals": [
       "team"
     ],
@@ -400,7 +606,6 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "dsoto-bb",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -433,24 +638,22 @@
     "title": "Bugfix/AB#689582-Added KeyBoard Navigation for ShowMore In Todo Panel",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-08",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [
-      "gowthamanpalani"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17302"
   },
   {
@@ -876,10 +1079,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -939,12 +1142,12 @@
     "title": "AB#688972 Grade panel navigation blank page issue fix",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-06",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-10",
     "approvals": [
       "team",
       "tech",
@@ -1008,12 +1211,12 @@
     "title": "bugfix/AB#688596- fix key board up down navigation issue for id column",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-06",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-10",
+    "closed_at": "2026-07-10",
     "approvals": [
       "ces",
       "team",
@@ -1078,19 +1281,19 @@
     "title": "bugfix/AB#688948-improve screen reader label for grid action buttons",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-03",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1292,8 +1495,7 @@
     ],
     "pending": [],
     "changes_requested_by": [
-      "priceld",
-      "stormojm"
+      "priceld"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17218"
@@ -1388,7 +1590,7 @@
   },
   {
     "number": 17201,
-    "title": "AB#688962 fix: move focus to description field when editing a flashcard",
+    "title": "AB#690018 fix: move focus to description field when editing a flashcard",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
     "state": "Open",
@@ -5432,6 +5634,28 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16670"
   },
   {
+    "number": 8502,
+    "title": "Bugfix/AB#689829 Enable Deployment Settings For Survey",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Pandias",
+    "created_at": "2026-07-10",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8502"
+  },
+  {
     "number": 8500,
     "title": "feature/AB#675408 Add LOR content hierarchy API endpoint",
     "author_login": "Anshu972438",
@@ -5496,8 +5720,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "lanceneumannblackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8489"
   },
   {

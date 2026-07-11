@@ -72,20 +72,19 @@
     "title": "Bugfix/AB#579623 Fixed voiceover double reading in ExpansionPanel Bump",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-11",
+    "closed_at": "2026-07-11",
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17361"
@@ -807,11 +806,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -1072,7 +1071,7 @@
     "title": "AB#688441-Restore activity run state for in-progress and completed flashcard attempts",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-07",
@@ -5292,348 +5291,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16702"
   },
   {
-    "number": 16700,
-    "title": "AB#685327-wire progress bar to activity run confidence stats",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16700"
-  },
-  {
-    "number": 16694,
-    "title": "AB#685328-Integrate activity run persistence into flashcard navigator",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-27",
-    "closed_at": "2026-06-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "amyers-blackboard",
-      "dsoto-bb"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16694"
-  },
-  {
-    "number": 16692,
-    "title": "AB#685326-useActivityRun hook",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-27",
-    "closed_at": "2026-06-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16692"
-  },
-  {
-    "number": 16691,
-    "title": "AB#685323-Activity run dux - startRun & updateRunResult",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-25",
-    "closed_at": "2026-06-25",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16691"
-  },
-  {
-    "number": 16690,
-    "title": "AB#685323-Activity run dux - fetchRecentRun-reducer-selectors",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-22",
-    "closed_at": "2026-06-22",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16690"
-  },
-  {
-    "number": 16688,
-    "title": "AB#685323-Add activity run dux types and reorder API functions",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-22",
-    "closed_at": "2026-06-22",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16688"
-  },
-  {
-    "number": 16684,
-    "title": "AB#685321-Add PATCH update run result endpoint",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-22",
-    "closed_at": "2026-06-22",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16684"
-  },
-  {
-    "number": 16683,
-    "title": "AB#685322-Add POST /runs start activity run endpoint ",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-22",
-    "closed_at": "2026-06-22",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16683"
-  },
-  {
-    "number": 16682,
-    "title": "AB#685321-Add Activity run GET endpoint",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-20",
-    "closed_at": "2026-06-20",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16682"
-  },
-  {
-    "number": 16679,
-    "title": "AB#683388  - Incorrect Overall Grade Percentage Calculation for Overridden Grades in New Grid View",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16679"
-  },
-  {
-    "number": 16676,
-    "title": "feature/AB#668352 - show accommodation details for group content in assessment detail panel",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-16",
-    "closed_at": "2026-06-16",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [
-      "nishavijayakumar",
-      "prasannakumarg32"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16676"
-  },
-  {
-    "number": 16675,
-    "title": "feature/AB#683580-show check icon when column is in edit mode in new gradebook grid ",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-19",
-    "closed_at": "2026-06-19",
-    "approvals": [
-      "ces",
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16675"
-  },
-  {
-    "number": 16672,
-    "title": "bugfix/AB#682503-Implement-new-uia-edit-gridcell",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": "2026-06-26",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16672"
-  },
-  {
-    "number": 16671,
-    "title": "Bugfix/AB#672771 - Removed flex display in table row and cell to maintain table schematic structure",
-    "author_login": "VigneshwaranSaravanan",
-    "author_name": "Vigneshwaran S",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16671"
-  },
-  {
-    "number": 16670,
-    "title": "Feature/ab 682596 retry entire dec action implementation",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-10",
-    "merged_at": "2026-06-20",
-    "closed_at": "2026-06-20",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16670"
-  },
-  {
     "number": 8502,
     "title": "Bugfix/AB#689829 Enable Deployment Settings For Survey",
     "author_login": "rajeshblackboard",
@@ -5991,12 +5648,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -6311,11 +5968,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team",
-      "tech"
+      "ces"
     ],
     "pending": [
-      "CES Approval",
+      "Team Approval",
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -6459,30 +6116,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8313"
-  },
-  {
-    "number": 8295,
-    "title": "AB#669016-Replicating 77,570,655 row course_users to stats using dblinks is going too far",
-    "author_login": "ravi-anthology",
-    "author_name": "Ravi Prakash Tiwari",
-    "state": "Draft",
-    "repo": "Learn",
-    "team": "Celeste",
-    "created_at": "2026-06-10",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "sakthi-selvapriya",
-      "varju"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8295"
   }
 ]

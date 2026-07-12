@@ -9444,8 +9444,8 @@
       "team": "Pallavas",
       "period": "POST_S12",
       "prs_authored": 2,
-      "avg_pr_age": null,
-      "avg_pr_size": 130.5,
+      "avg_pr_age": 266.1,
+      "avg_pr_size": 126.5,
       "avg_review_cycle": 1.0
     },
     {
@@ -10794,8 +10794,8 @@
       "team": "Pallavas",
       "period": "ALL",
       "prs_authored": 14,
-      "avg_pr_age": 274.5,
-      "avg_pr_size": 155.5,
+      "avg_pr_age": 273.3,
+      "avg_pr_size": 154.9,
       "avg_review_cycle": 1.0
     },
     {
@@ -11020,5 +11020,5 @@
     }
   ],
   "total_prs": 438,
-  "fetched_at": "2026-07-12 06:36:35"
+  "fetched_at": "2026-07-12 14:55:23"
 }

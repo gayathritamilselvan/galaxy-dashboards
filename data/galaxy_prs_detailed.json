@@ -1,7 +1,233 @@
 [
   {
-    "number": 17385,
-    "title": "AB#689984-Subheader not highlighted when column header clicked in Newgrid view",
+    "number": 17407,
+    "title": "Added lti storage",
+    "author_login": "vakrams",
+    "author_name": "Vakram S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Nayakas",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17407"
+  },
+  {
+    "number": 17405,
+    "title": "AB#690270 - Grid view search displays incorrect results submission receipt",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17405"
+  },
+  {
+    "number": 17404,
+    "title": "AB#689805 - Overall Grade Pill Is Misaligned in New Gradebook Grid View for RTL Languages (Arabic)",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17404"
+  },
+  {
+    "number": 17403,
+    "title": "AB#690256- static create flashcard button for learning activity",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17403"
+  },
+  {
+    "number": 17400,
+    "title": "Accommodation strings",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17400"
+  },
+  {
+    "number": 17399,
+    "title": "bugfix/AB#684300- Prevent rubric navigation for journals without student entries",
+    "author_login": "AsmirKhan7",
+    "author_name": "Asmir Khan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17399"
+  },
+  {
+    "number": 17398,
+    "title": "quarantine fix",
+    "author_login": "Prasannajayasankar",
+    "author_name": "Prasanna Jayasankar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17398"
+  },
+  {
+    "number": 17397,
+    "title": "Bugfix/AB#688952 - Fix keyboard focus lost when opening grade detail panel dialog",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17397"
+  },
+  {
+    "number": 17394,
+    "title": "bugfix/AB#689783-gradebook grid sorting button aria labels do not indicate next action",
+    "author_login": "Subbalakshmi-bb",
+    "author_name": "Subbalakshmi",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17394"
+  },
+  {
+    "number": 17393,
+    "title": "Feature/AB#689677 Add merged/child course multi-select filter to gradebook grid view backporting to 4000.21.0",
+    "author_login": "gowthamanpalani",
+    "author_name": "Gowthaman Palani",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-13",
+    "merged_at": "2026-07-13",
+    "closed_at": "2026-07-13",
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17393"
+  },
+  {
+    "number": 17392,
+    "title": "AB#575635- Overall grade pill for Keyboard interactions New Grid view",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
     "state": "Open",
@@ -18,6 +244,74 @@
     "pending": [
       "CES Approval"
     ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17392"
+  },
+  {
+    "number": 17391,
+    "title": "Bugfix - AB#688949 - New Gradebook Grid view - Overall grade value temporarily inflates after override until page refresh",
+    "author_login": "KirubakaranRBB",
+    "author_name": "Kirubakaran R",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17391"
+  },
+  {
+    "number": 17388,
+    "title": "AB#689615 - AX Issue Focus Is Lost When Clicking the \"X\" Button in the filter chips",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17388"
+  },
+  {
+    "number": 17385,
+    "title": "AB#689984-Subheader not highlighted when column header clicked in Newgrid view",
+    "author_login": "nravikumar-bbdn",
+    "author_name": "Ravi Kumar N",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "ces",
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17385"
@@ -123,9 +417,10 @@
     "created_at": "2026-07-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -159,7 +454,7 @@
   },
   {
     "number": 17356,
-    "title": "Backport note to student label change",
+    "title": "AB#688572 - BACKPORT-release/4000.21.0-Renaming labels from Note to student - Overall Feedback",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
     "state": "Draft",
@@ -376,9 +671,10 @@
     "created_at": "2026-07-09",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -414,17 +710,17 @@
     "title": "AB#688945 Ax issue for grade posted confirmation",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-09",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -554,9 +850,10 @@
     "created_at": "2026-07-09",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -594,12 +891,12 @@
     "title": "Feature/AB#689677 Add merged/child course multi-select filter to gradebook grid view",
     "author_login": "gowthamanpalani",
     "author_name": "Gowthaman Palani",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-08",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-13",
+    "closed_at": "2026-07-13",
     "approvals": [
       "ces",
       "team",
@@ -780,7 +1077,7 @@
     "title": "AB#688405- release condition issue for learning activity",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-07",
@@ -1148,17 +1445,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval"
+      "Team Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17256"
   },
   {
@@ -1312,13 +1607,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17240"
@@ -1573,12 +1867,12 @@
     "title": "Bugfix/AB#688650 Restore Unsaved Grade Value When Cell Remounts After Scroll",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-13",
+    "closed_at": "2026-07-13",
     "approvals": [
       "ces",
       "team",
@@ -1617,12 +1911,12 @@
     "title": "AB#690018 fix: move focus to description field when editing a flashcard",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-13",
+    "closed_at": "2026-07-13",
     "approvals": [
       "ces",
       "team",
@@ -4918,7 +5212,7 @@
     "title": "Bugfix/AB#689829 Enable Deployment Settings For Survey",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Pandias",
     "created_at": "2026-07-10",
@@ -5196,20 +5490,19 @@
     "title": "AB#684378 Improve text-on-page when Purging Institution Heirarchy Nodes",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Celeste",
     "created_at": "2026-07-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-13",
+    "closed_at": "2026-07-13",
     "approvals": [
       "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8434"
@@ -5359,12 +5652,12 @@
     "title": "AB#579061-Improper setting of child courses to available by feed file",
     "author_login": "ravi-anthology",
     "author_name": "Ravi Prakash Tiwari",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Celeste",
     "created_at": "2026-06-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-13",
+    "closed_at": "2026-07-13",
     "approvals": [
       "ces",
       "team",

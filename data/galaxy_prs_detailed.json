@@ -1,5 +1,28 @@
 [
   {
+    "number": 17385,
+    "title": "AB#689984-Subheader not highlighted when column header clicked in Newgrid view",
+    "author_login": "nravikumar-bbdn",
+    "author_name": "Ravi Kumar N",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17385"
+  },
+  {
     "number": 17366,
     "title": "bugfix/AB#689855-backport-4000.21.0-to-add-includeOnlyAssignedStudents-when-content accessible ff enabled",
     "author_login": "nishavijayakumar",
@@ -235,15 +258,18 @@
     "created_at": "2026-07-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "kirubakaranrbb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17350"
   },
   {
@@ -251,7 +277,7 @@
     "title": "AB#680933 - Grid View Filter Dropdown options fix",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-10",
@@ -808,11 +834,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17283"
@@ -915,12 +940,12 @@
     "title": "AB#688940 - Undo Override Does Not Exit Overall Grade Edit Mode in New Gradebook Grid View",
     "author_login": "BharathiKannaa",
     "author_name": "Bharathi Kanna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-13",
+    "closed_at": "2026-07-13",
     "approvals": [
       "ces",
       "team",
@@ -1079,11 +1104,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4889,141 +4914,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16761"
   },
   {
-    "number": 16748,
-    "title": "AB#505832 Students can not submit when the internet reconnected",
-    "author_login": "manojchandrashekar29",
-    "author_name": "Manoj C",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Celeste",
-    "created_at": "2026-06-12",
-    "merged_at": null,
-    "closed_at": "2026-07-07",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16748"
-  },
-  {
-    "number": 16745,
-    "title": "Bugfix/AB#679084 - Accommodation section - Due date  issue fix ",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-12",
-    "merged_at": "2026-06-27",
-    "closed_at": "2026-06-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16745"
-  },
-  {
-    "number": 16744,
-    "title": "Feature/AB#682266 uia anonymous forms grade details panel",
-    "author_login": "AshwinArumugamMani",
-    "author_name": "Ashwin Arumugam Mani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-12",
-    "merged_at": "2026-06-12",
-    "closed_at": "2026-06-12",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16744"
-  },
-  {
-    "number": 16743,
-    "title": "AB#684897 Student does not have banner message for grade details panel",
-    "author_login": "smurugasan-bbdn",
-    "author_name": "Sounder Murugasan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-12",
-    "merged_at": "2026-06-17",
-    "closed_at": "2026-06-17",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16743"
-  },
-  {
-    "number": 16737,
-    "title": "bugfix/AB#672591-Gradebook_redesign-test-PTID=4257",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-12",
-    "merged_at": "2026-06-15",
-    "closed_at": "2026-06-15",
-    "approvals": [
-      "tech"
-    ],
-    "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16737"
-  },
-  {
-    "number": 16736,
-    "title": "Feature/AB#683430 AX improvements and Esc/Enter Functionality bb-ui version bump to ultra",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-12",
-    "merged_at": "2026-06-13",
-    "closed_at": "2026-06-13",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16736"
-  },
-  {
     "number": 8502,
     "title": "Bugfix/AB#689829 Enable Deployment Settings For Survey",
     "author_login": "rajeshblackboard",
@@ -5034,10 +4924,11 @@
     "created_at": "2026-07-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5063,8 +4954,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "hariharan-r-k"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8500"
   },
   {
@@ -5803,51 +5696,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8321"
-  },
-  {
-    "number": 8317,
-    "title": "AB#684425 - Unable to edit and save UEF placement configuration from LTI Tool Providers page",
-    "author_login": "AdhithiyaHBB",
-    "author_name": "Adhithiya H",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-06-12",
-    "merged_at": "2026-07-03",
-    "closed_at": "2026-07-03",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "lanceneumannblackboard"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8317"
-  },
-  {
-    "number": 8313,
-    "title": "AB#456170 - Learn not applying lower case to domains coming from the Developer Portal when registering LTI tools",
-    "author_login": "AdhithiyaHBB",
-    "author_name": "Adhithiya H",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-06-12",
-    "merged_at": "2026-07-07",
-    "closed_at": "2026-07-07",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8313"
   }
 ]

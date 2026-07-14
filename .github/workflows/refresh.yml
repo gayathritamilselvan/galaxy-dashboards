@@ -40,5 +40,6 @@ jobs:
           else
             TIMESTAMP=$(TZ='Asia/Kolkata' date '+%Y-%m-%d %H:%M IST')
             git commit -m "Auto refresh: ${TIMESTAMP}"
+            git pull --rebase
             git push
           fi

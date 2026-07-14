@@ -1,7 +1,7 @@
 [
   {
     "number": 17407,
-    "title": "Added lti storage",
+    "title": "AB#532415 - MS Teams Not Visible in Details & Actions",
     "author_login": "vakrams",
     "author_name": "Vakram S",
     "state": "Draft",
@@ -33,12 +33,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -56,13 +56,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17404"
@@ -130,27 +129,30 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "kirubakaranrbb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17399"
   },
   {
     "number": 17398,
-    "title": "quarantine fix",
+    "title": "Bugfix/AB#687913-Quarantine-Fix-New-Grid",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-13",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -161,7 +163,7 @@
     "title": "Bugfix/AB#688952 - Fix keyboard focus lost when opening grade detail panel dialog",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-13",
@@ -457,7 +459,7 @@
     "title": "AB#688572 - BACKPORT-release/4000.21.0-Renaming labels from Note to student - Overall Feedback",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-10",
@@ -944,15 +946,18 @@
     "created_at": "2026-07-08",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "hariharan-r-k"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17303"
   },
   {
@@ -974,8 +979,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17302"
   },
   {
@@ -1215,12 +1222,12 @@
     "title": "Bugfix/AB#688613 - Fix Group grade update not immediately reflects grade detail Panel",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-14",
+    "closed_at": "2026-07-14",
     "approvals": [
       "ces",
       "team",
@@ -1266,10 +1273,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -1446,12 +1453,11 @@
     "closed_at": null,
     "approvals": [
       "ces",
+      "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "Team Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17256"
@@ -1812,10 +1818,8 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [
-      "priceld"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17218"
   },
   {
@@ -5208,6 +5212,28 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16761"
   },
   {
+    "number": 8514,
+    "title": "AB#690164 - Platform Notification - Table Creation/ DAO's Implementation",
+    "author_login": "AdhithiyaHBB",
+    "author_name": "Adhithiya H",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-07-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8514"
+  },
+  {
     "number": 8502,
     "title": "Bugfix/AB#689829 Enable Deployment Settings For Survey",
     "author_login": "rajeshblackboard",
@@ -5220,11 +5246,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5241,17 +5267,16 @@
     "created_at": "2026-07-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "hariharan-r-k"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8500"
   },
   {
@@ -5290,13 +5315,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "lanceneumannblackboard"
     ],
@@ -5383,12 +5407,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",

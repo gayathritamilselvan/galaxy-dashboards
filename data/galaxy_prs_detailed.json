@@ -1,9 +1,98 @@
 [
   {
-    "number": 17436,
-    "title": "feature/AB#688605 - LOR: Add localization for source information component ",
-    "author_login": "manoharan100",
-    "author_name": "Manoharan",
+    "number": 17451,
+    "title": "icon alignment issue",
+    "author_login": "rag-bbdn",
+    "author_name": "Ragavendran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17451"
+  },
+  {
+    "number": 17448,
+    "title": "AB#684390-Kaltura video embed fails to show to students in fill in the blanks questions",
+    "author_login": "kalimuthupalraj",
+    "author_name": "Kalimuthu Palraj",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Celeste",
+    "created_at": "2026-07-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17448"
+  },
+  {
+    "number": 17446,
+    "title": "feature/AB#688913 - update bbeditor component for additional items description field in list view",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17446"
+  },
+  {
+    "number": 17438,
+    "title": "AB#576396 Added Localization changes for replace inaccessible progress bar tooltips with visible text labels",
+    "author_login": "Anshu972438",
+    "author_name": "Anshu",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-07-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17438"
+  },
+  {
+    "number": 17437,
+    "title": "AB#576396 fix: replace inaccessible progress bar tooltips with visible text labels",
+    "author_login": "Anshu972438",
+    "author_name": "Anshu",
     "state": "Draft",
     "repo": "Ultra",
     "team": "Supernova",
@@ -14,6 +103,29 @@
     "pending": [
       "Team Approval",
       "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17437"
+  },
+  {
+    "number": 17436,
+    "title": "feature/AB#688605 - LOR: Add localization for source information component ",
+    "author_login": "manoharan100",
+    "author_name": "Manoharan",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-07-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -33,12 +145,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -77,10 +189,11 @@
     "created_at": "2026-07-14",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -99,9 +212,10 @@
     "created_at": "2026-07-14",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -115,17 +229,17 @@
     "title": "AB#690249 Group discussion grade panel navigation issue fix",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-14",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -167,9 +281,10 @@
     "created_at": "2026-07-13",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -250,15 +365,16 @@
     "title": "Feature/AB#688063- Grade detail panel localization strings",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-13",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -278,17 +394,16 @@
     "created_at": "2026-07-13",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "kirubakaranrbb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17399"
   },
   {
@@ -455,12 +570,12 @@
     "title": "AB#689984-Subheader not highlighted when column header clicked in Newgrid view",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-13",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-15",
+    "closed_at": "2026-07-15",
     "approvals": [
       "ces",
       "team",
@@ -477,7 +592,7 @@
     "title": "bugfix/AB#689855-backport-4000.21.0-to-add-includeOnlyAssignedStudents-when-content accessible ff enabled",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-10",
@@ -574,10 +689,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -711,17 +826,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [
-      "kirubakaranrbb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17350"
   },
   {
@@ -845,12 +958,12 @@
     "title": "bugfix/AB#689855 -Add includeOnlyAssignedStudents param in summaries API when content accessible ff enabled",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-15",
+    "closed_at": "2026-07-15",
     "approvals": [
       "ces",
       "team",
@@ -1077,12 +1190,12 @@
     "title": "feature/AB#689660 Tabbed home view state",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-07-08",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-15",
+    "closed_at": "2026-07-15",
     "approvals": [
       "ces",
       "team",
@@ -1106,15 +1219,17 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "kesavanazhagarsamy"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17303"
   },
   {
@@ -1428,11 +1543,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -1773,8 +1888,10 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "toni-d1"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17240"
   },
   {
@@ -5367,6 +5484,100 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16761"
   },
   {
+    "number": 8529,
+    "title": "bugfix/AB#689685-backport-4000.21.0-Fix gradebook summary eligible-student counts for RC items when ff is enabled",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8529"
+  },
+  {
+    "number": 8527,
+    "title": "AB#689424: Platform notification service rest api M1",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-07-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8527"
+  },
+  {
+    "number": 8526,
+    "title": "Bugfix/AB#686276 fixed ultra content file storage path ",
+    "author_login": "omswarooprk",
+    "author_name": "Om Swaroop R K",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-07-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8526"
+  },
+  {
+    "number": 8525,
+    "title": "AB#688550 Eliminate N+1 classmate DB queries in UserRestService",
+    "author_login": "AnbalaganGanesan",
+    "author_name": "Anbalagan Ganesan",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-07-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "bbsaraswathikanniappan",
+      "indumathithulasi2203"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8525"
+  },
+  {
     "number": 8520,
     "title": "AB#690552 Guest Access: Address follow-up review findings across membership, content, and gradebook APIs",
     "author_login": "harshitha786",
@@ -5385,8 +5596,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "sharmilahameed"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8520"
   },
   {
@@ -5394,17 +5607,17 @@
     "title": "Feature/AB#690196: Add LTI Platform Notification Service (PNS) claim to LTI 1.3 launches (M1)",
     "author_login": "Dinesh-Chandra832",
     "author_name": "Dinesh Chandra",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-07-14",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5533,12 +5746,12 @@
     "title": "Bugfix/AB#689685 - Fix gradebook summary eligible-student counts for RC items when ff is enabled",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-07-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-15",
+    "closed_at": "2026-07-15",
     "approvals": [
       "ces",
       "team",
@@ -5936,12 +6149,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",

@@ -1,5 +1,27 @@
 [
   {
+    "number": 17482,
+    "title": "Bugfix/AB#684633-Average submission time for assessment is truncated to the largest unit",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17482"
+  },
+  {
     "number": 17467,
     "title": "Feature/AB#688125-Implement points possible column in list view",
     "author_login": "arunkumaranth",
@@ -10,9 +32,10 @@
     "created_at": "2026-07-16",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -32,10 +55,11 @@
     "created_at": "2026-07-15",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -48,7 +72,7 @@
     "title": "feature/AB#690863 TabbedHome header move",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-07-15",
@@ -93,17 +117,17 @@
     "title": "bugfix/AB#683723 - Incorrect cursor displayed when hovering over area of row in \"Move To\" dialog",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-15",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -122,15 +146,18 @@
     "created_at": "2026-07-15",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "sharmilahameed"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17451"
   },
   {
@@ -166,10 +193,11 @@
     "created_at": "2026-07-15",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -294,7 +322,7 @@
     "title": "AB#684008- Grade detail list view and grid view feedback sync",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-14",
@@ -431,12 +459,12 @@
     "title": "AB#689805 - Overall Grade Pill Is Misaligned in New Gradebook Grid View for RTL Languages (Arabic)",
     "author_login": "BharathiKannaa",
     "author_name": "Bharathi Kanna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-13",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-16",
+    "closed_at": "2026-07-16",
     "approvals": [
       "ces",
       "team",
@@ -706,12 +734,12 @@
     "title": "bugfix/AB#689855-backport-4000.21.0-to-add-includeOnlyAssignedStudents-when-content accessible ff enabled",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-16",
+    "closed_at": "2026-07-16",
     "approvals": [
       "team",
       "tech"
@@ -743,8 +771,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "priceld"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17363"
   },
   {
@@ -803,13 +833,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17358"
@@ -842,12 +871,12 @@
     "title": "AB#688572 - BACKPORT-release/4000.21.0-Renaming labels from Note to student - Overall Feedback",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-16",
+    "closed_at": "2026-07-16",
     "approvals": [
       "team",
       "tech"
@@ -940,13 +969,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17350"
@@ -1136,7 +1164,7 @@
   },
   {
     "number": 17330,
-    "title": "Bugfix/AB#671548 View Submission is incorrectly enabled for Anonymous ",
+    "title": "Bugfix/AB#686786 View Submission is incorrectly enabled for Anonymous ",
     "author_login": "MartinRodgers0007",
     "author_name": "Martin Rodgers",
     "state": "Draft",
@@ -1660,8 +1688,10 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "nravikumar-bbdn"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17273"
   },
   {
@@ -5324,6 +5354,98 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16795"
   },
   {
+    "number": 8541,
+    "title": "Bugfix - AB#689442 institutional hierarchy course user manager node filter",
+    "author_login": "akash05-bb",
+    "author_name": "Akash M",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Starlite",
+    "created_at": "2026-07-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8541"
+  },
+  {
+    "number": 8540,
+    "title": "AB#672285-Remove duplicate users_ak3 index",
+    "author_login": "sharmilahameed",
+    "author_name": "Sharmila Begam Hameed",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Mars",
+    "created_at": "2026-07-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "johnwalthallbb"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8540"
+  },
+  {
+    "number": 8539,
+    "title": "Feature/AB#691079: UI warning indicator for LTI 1.1/4000.21.0",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Merged",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-07-16",
+    "merged_at": "2026-07-16",
+    "closed_at": "2026-07-16",
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8539"
+  },
+  {
+    "number": 8537,
+    "title": "AB#478008: Unavailable course and org roles are still available for enrolments via sis integration",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-07-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8537"
+  },
+  {
     "number": 8529,
     "title": "bugfix/AB#689685-backport-4000.21.0-Fix gradebook summary eligible-student counts for RC items when ff is enabled",
     "author_login": "aarthirajaram",
@@ -5499,17 +5621,16 @@
     "created_at": "2026-07-13",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "pkumarr07"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8514"
   },
   {

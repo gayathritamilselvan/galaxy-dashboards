@@ -40,8 +40,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "nishavijayakumar"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17467"
   },
   {
@@ -86,8 +88,10 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17457"
   },
   {
@@ -131,8 +135,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17452"
   },
   {
@@ -155,7 +161,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "sharmilahameed"
+      "sharmilahameed",
+      "stormojm"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17451"
@@ -194,12 +201,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
       "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -414,7 +421,7 @@
     "title": "AB#532415 - MS Teams Not Visible in Details & Actions",
     "author_login": "vakrams",
     "author_name": "Vakram S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Nayakas",
     "created_at": "2026-07-13",
@@ -764,13 +771,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "priceld"
     ],
@@ -1173,9 +1179,10 @@
     "created_at": "2026-07-09",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -1271,7 +1278,6 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "priceld",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1854,12 +1860,12 @@
     "title": "AB#689031 - Disabled grader notes style mismatch from assessment feedback",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-06",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-16",
+    "closed_at": "2026-07-16",
     "approvals": [
       "ces",
       "team",
@@ -5242,118 +5248,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16813"
   },
   {
-    "number": 16812,
-    "title": "bugfix/AB#680441-new-gradebook-view-PTID=213-2993",
-    "author_login": "DineshRajendranBB",
-    "author_name": "Dinesh Rajendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-16",
-    "merged_at": "2026-06-18",
-    "closed_at": "2026-06-18",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16812"
-  },
-  {
-    "number": 16809,
-    "title": "AB#684743 Posted label is displayed in Grade Details panel after saving text for an Add Text Item",
-    "author_login": "smurugasan-bbdn",
-    "author_name": "Sounder Murugasan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-16",
-    "merged_at": "2026-06-23",
-    "closed_at": "2026-06-23",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16809"
-  },
-  {
-    "number": 16798,
-    "title": "Feature/AB#684863 Tabbed home",
-    "author_login": "srujankusuma3232",
-    "author_name": "Srujan Kusuma",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-06-16",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16798"
-  },
-  {
-    "number": 16797,
-    "title": "feature/AB#684931 Brand assist variant crud",
-    "author_login": "srujankusuma3232",
-    "author_name": "Srujan Kusuma",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-06-16",
-    "merged_at": "2026-06-25",
-    "closed_at": "2026-06-25",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16797"
-  },
-  {
-    "number": 16795,
-    "title": "Bugfix/AB#579221 implement UI a for new grade grid view",
-    "author_login": "mjaifank",
-    "author_name": "Mjaifan K",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-16",
-    "merged_at": "2026-06-17",
-    "closed_at": "2026-06-17",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16795"
-  },
-  {
     "number": 8541,
     "title": "Bugfix - AB#689442 institutional hierarchy course user manager node filter",
     "author_login": "akash05-bb",
@@ -5434,10 +5328,11 @@
     "created_at": "2026-07-16",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5534,7 +5429,8 @@
     ],
     "changes_requested_by": [
       "bbsaraswathikanniappan",
-      "indumathithulasi2203"
+      "indumathithulasi2203",
+      "lanceneumannblackboard"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8525"
@@ -5544,7 +5440,7 @@
     "title": "AB#690552 Guest Access: Address follow-up review findings across membership, content, and gradebook APIs",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-14",
@@ -5577,11 +5473,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5592,7 +5488,7 @@
     "title": "AB#689765-Bugfix/ab 689765 no permission dialog when adding notes to student for anonymously graded assignment",
     "author_login": "BavithraM",
     "author_name": "Bavithra M",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Mars",
     "created_at": "2026-07-14",
@@ -5615,7 +5511,7 @@
     "title": "AB#690164 - Platform Notification - Table Creation/ DAO's Implementation",
     "author_login": "AdhithiyaHBB",
     "author_name": "Adhithiya H",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-07-13",
@@ -5683,7 +5579,7 @@
     "title": "Bugfix/AB#667247 Fix membership authorization routing for guest users",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-09",
@@ -5956,8 +5852,7 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "bbsaraswathikanniappan",
-      "lanceneumannblackboard"
+      "bbsaraswathikanniappan"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8433"
@@ -6309,12 +6204,12 @@
     "title": "AB#675678-Implement guest user handling for TDM catalog redirection",
     "author_login": "Ashish-Anthology",
     "author_name": "Ashish Sah",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-06-18",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-17",
+    "closed_at": "2026-07-17",
     "approvals": [
       "ces"
     ],
@@ -6349,28 +6244,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8337"
-  },
-  {
-    "number": 8326,
-    "title": "Bugfix/AB#664256 - Fix IP Restriction Bypass During Assessment Attempt Creation",
-    "author_login": "ranjith-r-anthology",
-    "author_name": "Ranjith Ramasamy",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Celeste",
-    "created_at": "2026-06-16",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8326"
   }
 ]

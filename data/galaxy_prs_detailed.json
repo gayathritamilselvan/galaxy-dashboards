@@ -1,5 +1,95 @@
 [
   {
+    "number": 17513,
+    "title": "feature/AB#688607 - api fetch call for source information",
+    "author_login": "manoharan100",
+    "author_name": "Manoharan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-07-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17513"
+  },
+  {
+    "number": 17512,
+    "title": "feature/AB#690700 - Managed Pill for LOR Objects in course outline - Localization changes",
+    "author_login": "bhuvaneswarisbb",
+    "author_name": "Bhuvaneswari S",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-07-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17512"
+  },
+  {
+    "number": 17509,
+    "title": "Bugfix/ab 688651 event flush issue",
+    "author_login": "LalithBB",
+    "author_name": "Lalith",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17509"
+  },
+  {
+    "number": 17504,
+    "title": "Bugfix/AB#689916 - Truncated column header text is only available on mouse hover",
+    "author_login": "VigneshwaranSaravanan",
+    "author_name": "Vigneshwaran S",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17504"
+  },
+  {
     "number": 17482,
     "title": "Bugfix/AB#684633-Average submission time for assessment is truncated to the largest unit",
     "author_login": "Saimanimaran",
@@ -10,9 +100,10 @@
     "created_at": "2026-07-16",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -26,24 +117,22 @@
     "title": "Feature/AB#688125-Implement points possible column in list view",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-16",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [
-      "nishavijayakumar"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17467"
   },
   {
@@ -99,18 +188,19 @@
     "title": "Bugfix/AB#689582 Add Show Less to Todo Panel in New Grid View",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-15",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -194,18 +284,18 @@
     "title": "feature/AB#688913 - update bbeditor component for additional items description field in list view",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-15",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -336,15 +426,17 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17423"
   },
   {
@@ -406,11 +498,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -495,10 +587,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -703,12 +795,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
       "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1270,17 +1362,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17323"
   },
   {
@@ -1381,12 +1470,12 @@
     "title": "Bugfix/AB#689582-Added KeyBoard Navigation for ShowMore In Todo Panel",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-08",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-17",
     "approvals": [
       "team",
       "tech",
@@ -1499,12 +1588,12 @@
     "title": "AB#688405- release condition issue for learning activity",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-17",
+    "closed_at": "2026-07-17",
     "approvals": [
       "ces",
       "team",
@@ -1694,10 +1783,8 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "nravikumar-bbdn"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17273"
   },
   {
@@ -5248,11 +5335,78 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16813"
   },
   {
+    "number": 8553,
+    "title": "Bugfix/AB#688951-\"Email Author\" Cancel button is not displayed backport 4000.21.0",
+    "author_login": "vijay-8421",
+    "author_name": "Vijaya Sekhar P",
+    "state": "Merged",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-07-17",
+    "merged_at": "2026-07-17",
+    "closed_at": "2026-07-17",
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8553"
+  },
+  {
+    "number": 8551,
+    "title": "Bugfix/AB#688951-\"Email Author\" Cancel button is not displayed backport to 4000.21.0",
+    "author_login": "vijay-8421",
+    "author_name": "Vijaya Sekhar P",
+    "state": "Closed",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-07-17",
+    "merged_at": null,
+    "closed_at": "2026-07-17",
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8551"
+  },
+  {
+    "number": 8549,
+    "title": "Initial Changes",
+    "author_login": "SuryaMadhanlal-5252",
+    "author_name": "Surya Madhanlal",
+    "state": "Closed",
+    "repo": "Learn",
+    "team": "Cholas",
+    "created_at": "2026-07-17",
+    "merged_at": null,
+    "closed_at": "2026-07-17",
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8549"
+  },
+  {
     "number": 8541,
     "title": "Bugfix - AB#689442 institutional hierarchy course user manager node filter",
     "author_login": "akash05-bb",
     "author_name": "Akash M",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Starlite",
     "created_at": "2026-07-16",
@@ -5281,17 +5435,16 @@
     "created_at": "2026-07-16",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "johnwalthallbb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8540"
   },
   {
@@ -5472,13 +5625,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8517"
@@ -5502,8 +5654,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "sharmilahameed"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8515"
   },
   {
@@ -5519,11 +5673,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5570,8 +5724,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "skarunanithi20"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8500"
   },
   {
@@ -5585,9 +5741,10 @@
     "created_at": "2026-07-09",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -5697,20 +5854,19 @@
     "title": "Bugfix/AB#688951-\"Email Author\" Cancel button is not displayed, and the Submit button is unresponsive within discussion threads for closed original courses.",
     "author_login": "vijay-8421",
     "author_name": "Vijaya Sekhar P",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-17",
+    "closed_at": "2026-07-17",
     "approvals": [
       "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8472"

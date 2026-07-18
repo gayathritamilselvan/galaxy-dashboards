@@ -307,12 +307,12 @@
     "title": "AB#576396 Added Localization changes for replace inaccessible progress bar tooltips with visible text labels",
     "author_login": "Anshu972438",
     "author_name": "Anshu",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-17",
+    "closed_at": "2026-07-17",
     "approvals": [
       "team",
       "tech"
@@ -580,7 +580,7 @@
     "title": "AB#690534- static create flashcard button for learning activity",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-13",
@@ -588,11 +588,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -953,13 +953,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17357"
@@ -1182,13 +1181,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17334"
@@ -1265,7 +1263,7 @@
     "title": "Bugfix/AB#686786 View Submission is incorrectly enabled for Anonymous ",
     "author_login": "MartinRodgers0007",
     "author_name": "Martin Rodgers",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-09",
@@ -5178,163 +5176,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16842"
   },
   {
-    "number": 16823,
-    "title": "AB#685546 - Localisation changes for grade detail panel",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-17",
-    "merged_at": "2026-06-18",
-    "closed_at": "2026-06-18",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16823"
-  },
-  {
-    "number": 16822,
-    "title": "AB#683285 - Confirmation model for Assessment feedbacks and Grader notes section in grade detail panel",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-17",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16822"
-  },
-  {
-    "number": 16821,
-    "title": "Feature/AB#683114-Added Iconbutton size varient  bb-ui version bump to ultra",
-    "author_login": "manoharan100",
-    "author_name": "Manoharan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-17",
-    "merged_at": "2026-06-19",
-    "closed_at": "2026-06-19",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16821"
-  },
-  {
-    "number": 16816,
-    "title": "AB#682554 - Hiding attempt feedback for journal and discussion content",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-17",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16816"
-  },
-  {
-    "number": 16815,
-    "title": "AB#684727 Add unsaved changes confirmation dialog to Flashcard Review page",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-17",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "amyers-blackboard"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16815"
-  },
-  {
-    "number": 16814,
-    "title": "Bugfix/ab 684707 bug bash instance temp branch",
-    "author_login": "nishavijayakumar",
-    "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-17",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16814"
-  },
-  {
-    "number": 16813,
-    "title": "AB#682596- api integration for last card and summary buttons",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-17",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16813"
-  },
-  {
     "number": 8553,
     "title": "Bugfix/AB#688951-\"Email Author\" Cancel button is not displayed backport 4000.21.0",
     "author_login": "vijay-8421",
@@ -5608,6 +5449,7 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
+      "alwongbb",
       "sharmilahameed"
     ],
     "changes_addressed": "no",
@@ -5679,8 +5521,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "lanceneumannblackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8514"
   },
   {
@@ -6169,8 +6013,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "varju"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8392"
   },
   {
@@ -6377,28 +6223,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8341"
-  },
-  {
-    "number": 8337,
-    "title": "AB#684923 LOR permission attributes' toggle state synced to child courses",
-    "author_login": "tsyed-bbdn",
-    "author_name": "Tausif Syed",
-    "state": "Draft",
-    "repo": "Learn",
-    "team": "Supernova",
-    "created_at": "2026-06-17",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "tech"
-    ],
-    "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8337"
   }
 ]

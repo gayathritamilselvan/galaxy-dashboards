@@ -1,12 +1,12 @@
 [
   {
-    "number": 17527,
-    "title": "AB#690828 - Group Filter Preserved When Launching Flex Grading from New Gradebook Grid View",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
+    "number": 17538,
+    "title": "AB#679707 - AI Rewrite and Summarized feedback are not generated in the selected Locale language",
+    "author_login": "rag-bbdn",
+    "author_name": "Ragavendran",
     "state": "Draft",
     "repo": "Ultra",
-    "team": "Starlite",
+    "team": "Mars",
     "created_at": "2026-07-20",
     "merged_at": null,
     "closed_at": null,
@@ -19,6 +19,75 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17538"
+  },
+  {
+    "number": 17535,
+    "title": "AB#691464 - New Gradebook Grid View - Uploading grades via download/upload flow, not reflected immediately",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17535"
+  },
+  {
+    "number": 17533,
+    "title": "Feature/AB#688923-Implement Sorting for Flex Grading  Screen",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17533"
+  },
+  {
+    "number": 17527,
+    "title": "AB#690828 - Group Filter Preserved When Launching Flex Grading from New Gradebook Grid View",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17527"
   },
   {
@@ -26,12 +95,12 @@
     "title": "bugfix/AB#687895-Quarantine-Fix-PTID=4171",
     "author_login": "Vignesh440-ai",
     "author_name": "Vignesh",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-20",
+    "closed_at": "2026-07-20",
     "approvals": [
       "team"
     ],
@@ -107,8 +176,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "nguybb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17509"
   },
   {
@@ -263,17 +334,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17452"
   },
   {
@@ -914,10 +982,8 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [
-      "priceld"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17363"
   },
   {
@@ -1315,12 +1381,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -2754,12 +2820,12 @@
     "title": "Feature/AB#672810 - Add Permissions Settings component to document, file and learning module settings peek panel",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-30",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-20",
+    "closed_at": "2026-07-20",
     "approvals": [
       "ces",
       "team",
@@ -4580,6 +4646,74 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16931"
   },
   {
+    "number": 8564,
+    "title": "Bugfix/AB#691424 - Fix: calculated column shows 0 points possible when a deleted/ghost formula precedes it",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "vs"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8564"
+  },
+  {
+    "number": 8562,
+    "title": "fix: post grades enabled",
+    "author_login": "Subashree-b",
+    "author_name": "Subashree B",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Elite",
+    "created_at": "2026-07-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8562"
+  },
+  {
+    "number": 8560,
+    "title": "Bugfix/AB#690299 - Fix gradebook group count not updating after deleting a group (new Groups UI)",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "vs"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8560"
+  },
+  {
     "number": 8559,
     "title": "Bugfix - AB#688949 - Fix incorrect pointsPossible on POST/PATCH grade APIs for Overall Grade",
     "author_login": "KirubakaranRBB",
@@ -4742,17 +4876,17 @@
     "title": "AB#478008: Unavailable course and org roles are still available for enrolments via sis integration",
     "author_login": "pkumarr07",
     "author_name": "Pradeep Kumar R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-07-16",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -4930,7 +5064,7 @@
   },
   {
     "number": 8514,
-    "title": "AB#690164 - Platform Notification - Table Creation/ DAO's Implementation",
+    "title": "AB#690441 - Platform Notification - Table Creation/ DAO's Implementation",
     "author_login": "AdhithiyaHBB",
     "author_name": "Adhithiya H",
     "state": "Open",
@@ -4980,7 +5114,7 @@
     "title": "feature/AB#675408 Add LOR content hierarchy API endpoint",
     "author_login": "Anshu972438",
     "author_name": "Anshu",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Supernova",
     "created_at": "2026-07-10",
@@ -5017,10 +5151,8 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "lanceneumannblackboard"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8490"
   },
   {
@@ -5097,7 +5229,7 @@
     "title": "AB#575334 - Instructors Cannot Post Grades For Attempts For Content That Have Automatic Zeros Given And Set To Manually Post Grades",
     "author_login": "Subashree-b",
     "author_name": "Subashree B",
-    "state": "Open",
+    "state": "Draft",
     "repo": "Learn",
     "team": "Elite",
     "created_at": "2026-07-08",
@@ -5275,10 +5407,8 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "bbsaraswathikanniappan"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8433"
   },
   {

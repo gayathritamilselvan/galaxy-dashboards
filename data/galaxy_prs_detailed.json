@@ -1,5 +1,50 @@
 [
   {
+    "number": 17527,
+    "title": "AB#690828 - Group Filter Preserved When Launching Flex Grading from New Gradebook Grid View",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17527"
+  },
+  {
+    "number": 17526,
+    "title": "bugfix/AB#687895-Quarantine-Fix-PTID=4171",
+    "author_login": "Vignesh440-ai",
+    "author_name": "Vignesh",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17526"
+  },
+  {
     "number": 17513,
     "title": "feature/AB#688607 - api fetch call for source information",
     "author_login": "manoharan100",
@@ -140,7 +185,7 @@
     "title": "AB#688999 Rubric grade is not correctly converted from percentage",
     "author_login": "ramanidharanr",
     "author_name": "Ramanidharan R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-07-15",
@@ -2218,12 +2263,12 @@
     "title": "AB#579390: LTI embeds in document missing camera display capture and clipboard permissions",
     "author_login": "pkumarr07",
     "author_name": "Pradeep Kumar R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Nayakas",
     "created_at": "2026-07-03",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-20",
+    "closed_at": "2026-07-20",
     "approvals": [
       "ces",
       "team",
@@ -4108,12 +4153,12 @@
     "title": "Feature/AB#672810 - Created the Permissions Settings component and added it to the Folder Settings peek panel",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-06-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-19",
+    "closed_at": "2026-07-19",
     "approvals": [
       "ces",
       "team",
@@ -4535,286 +4580,14 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16931"
   },
   {
-    "number": 16928,
-    "title": "Bugfix/AB#684206 - Overall Grade notation appears on wrong cell after grid re-sort",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-25",
-    "closed_at": "2026-06-25",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16928"
-  },
-  {
-    "number": 16927,
-    "title": "Bugfix - AB#685894 overall grade setup banner disappears on grid load",
-    "author_login": "akash05-bb",
-    "author_name": "Akash M",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-19",
-    "merged_at": null,
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "kirubakaranrbb"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16927"
-  },
-  {
-    "number": 16926,
-    "title": "bugfix/AB#684958-Fix cell visibility in new grid view after release condition removal",
-    "author_login": "nishavijayakumar",
-    "author_name": "Nisha Vijayakumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-23",
-    "closed_at": "2026-06-23",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16926"
-  },
-  {
-    "number": 16925,
-    "title": "AB#686169 - Applying filter changes the height of the Toolbar in new grid view",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-23",
-    "closed_at": "2026-06-23",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16925"
-  },
-  {
-    "number": 16922,
-    "title": "bugfix/AB#684430-deleting-last-column-causes-new-grid-to-remain-loading-state",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16922"
-  },
-  {
-    "number": 16920,
-    "title": "Bugfix/AB#568682 gradebook redesign 3185",
-    "author_login": "jsalomi",
-    "author_name": "Jeba Salomi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-22",
-    "closed_at": "2026-06-22",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16920"
-  },
-  {
-    "number": 16919,
-    "title": "AB#675722 - bugfix/grade redesign gradebook",
-    "author_login": "vasan1990",
-    "author_name": "Vasan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-22",
-    "closed_at": "2026-06-22",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16919"
-  },
-  {
-    "number": 16918,
-    "title": "AB#685925 - Localization - New gradebook grid view - Overall grade cell aria label",
+    "number": 8559,
+    "title": "Bugfix - AB#688949 - Fix incorrect pointsPossible on POST/PATCH grade APIs for Overall Grade",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-19",
-    "closed_at": "2026-06-19",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16918"
-  },
-  {
-    "number": 16917,
-    "title": "Bugfix/AB#684943 - Rapidly navigating between columns shows stale content in the Assessment Details panel",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16917"
-  },
-  {
-    "number": 16916,
-    "title": "AB#684043 Grade detail panel base structure for peer review submission",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-25",
-    "closed_at": "2026-06-25",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16916"
-  },
-  {
-    "number": 16914,
-    "title": "AB#686160 New Gradebook Grid View Clicking Grade Icon for SCORM Content Results in Oops Error ",
-    "author_login": "ramanidharanr",
-    "author_name": "Ramanidharan R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16914"
-  },
-  {
-    "number": 16913,
-    "title": "AB#686221 - Performance optimisation for Assessment feedback and grader notes",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16913"
-  },
-  {
-    "number": 16912,
-    "title": "feature/AB-667238-enable and disable fields in edit panel ( based on permission setting in LOR )",
-    "author_login": "Hariharan-r-k",
-    "author_name": "Hariharan R K",
     "state": "Draft",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-19",
+    "repo": "Learn",
+    "team": "Elite",
+    "created_at": "2026-07-20",
     "merged_at": null,
     "closed_at": null,
     "approvals": [],
@@ -4826,101 +4599,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16912"
-  },
-  {
-    "number": 16909,
-    "title": "AB#685898 - Overall Grade Editing Causes Pill Flicker ",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16909"
-  },
-  {
-    "number": 16908,
-    "title": "Bugfix/AB#685575 Implement to view attempts users to access the attempts by Submission screen",
-    "author_login": "rajeshblackboard",
-    "author_name": "Rajesh",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-19",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16908"
-  },
-  {
-    "number": 16905,
-    "title": "feature/AB#579044 -  LOR Move to Top, Move Up, Move Down, Move to Bottom - Localization PR",
-    "author_login": "bhuvaneswarisbb",
-    "author_name": "Bhuvaneswari S",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-19",
-    "merged_at": "2026-07-02",
-    "closed_at": "2026-07-02",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16905"
-  },
-  {
-    "number": 16904,
-    "title": "Bugfix - AB#685925 - New Gradebook Grid view - Keyboard navigation - Overall grade pill edit mode trigger on cell navigation",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-19",
-    "merged_at": null,
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "dsoto-bb",
-      "johntrianat",
-      "nguybb",
-      "tbednarekbb"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16904"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8559"
   },
   {
     "number": 8553,
@@ -5188,12 +4867,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "alwongbb",
@@ -5315,10 +4994,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "skarunanithi20"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8500"
   },
   {
@@ -5333,12 +5010,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "lanceneumannblackboard"

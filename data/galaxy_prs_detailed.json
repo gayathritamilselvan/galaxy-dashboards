@@ -1,5 +1,49 @@
 [
   {
+    "number": 17546,
+    "title": "bugfix/AB#687893-Quarantine-Fix-PTID=2493",
+    "author_login": "Vignesh440-ai",
+    "author_name": "Vignesh",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-21",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17546"
+  },
+  {
+    "number": 17545,
+    "title": "bugfix/AB#687918-quarantine-fix-upload-gradebook",
+    "author_login": "mjaifank",
+    "author_name": "Mjaifan K",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-21",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17545"
+  },
+  {
     "number": 17538,
     "title": "AB#679707 - AI Rewrite and Summarized feedback are not generated in the selected Locale language",
     "author_login": "rag-bbdn",
@@ -26,19 +70,19 @@
     "title": "AB#691464 - New Gradebook Grid View - Uploading grades via download/upload flow, not reflected immediately",
     "author_login": "BharathiKannaa",
     "author_name": "Bharathi Kanna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-20",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
       "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -86,8 +130,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "rag-bbdn"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17527"
   },
   {
@@ -240,13 +286,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17467"
@@ -293,10 +338,8 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17457"
   },
   {
@@ -311,13 +354,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17454"
@@ -915,8 +957,10 @@
       "Team Approval",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17388"
   },
   {
@@ -4350,302 +4394,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16951"
   },
   {
-    "number": 16950,
-    "title": "Bugfix/AB#684904 - Fix description BBML handling in Add Item and Add text Item",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-20",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16950"
-  },
-  {
-    "number": 16949,
-    "title": "Bugfix/AB#684755 - \"Oops, Something Broke\" error is displayed when reducing Allowed Attempts via Add/Edit Exception after updating accommodations",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16949"
-  },
-  {
-    "number": 16948,
-    "title": "AB#684828-Bugfix/ab-684828 grade details panel updates discussion submitted date based on instructor activity instead of student submission",
-    "author_login": "BavithraM",
-    "author_name": "Bavithra M",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-20",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16948"
-  },
-  {
-    "number": 16946,
-    "title": "AB#685832 Grade detail panel navigation change for scorm from grade icon",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": "2026-06-22",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16946"
-  },
-  {
-    "number": 16945,
-    "title": "Bugfix - AB#685377 - New Gradebook Grid view does not refresh grades for schema change from assessment details panel",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-20",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16945"
-  },
-  {
-    "number": 16944,
-    "title": "bugfix/AB#682209 - First Two Rows in New Gradebook Grid View Are Truncated at the Top of the Screen for Safari Browser",
-    "author_login": "manoharan100",
-    "author_name": "Manoharan",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "tech"
-    ],
-    "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16944"
-  },
-  {
-    "number": 16943,
-    "title": "AB#686282 - Search Results gets flickering and showing No result found first then showing the result",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-20",
-    "merged_at": "2026-06-25",
-    "closed_at": "2026-06-25",
-    "approvals": [
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16943"
-  },
-  {
-    "number": 16942,
-    "title": "AB#684914-refresh issue fix for item exception",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-20",
-    "merged_at": null,
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16942"
-  },
-  {
-    "number": 16941,
-    "title": "bugfix/AB#684945-calculated values are not updated after adding or editing grades for group-content",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-20",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16941"
-  },
-  {
-    "number": 16940,
-    "title": "Bugfix/AB#685767-Fix: Navigation Buttons Remain Disabled After Clearing Student Filters",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-20",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16940"
-  },
-  {
-    "number": 16939,
-    "title": "AB#686221- Accommodation section Performance optimization",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-20",
-    "merged_at": "2026-06-25",
-    "closed_at": "2026-06-25",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "jkhan07",
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16939"
-  },
-  {
-    "number": 16938,
-    "title": "AB#685188 Only one informational banner is displayed when an assessment has both Anonymous Grading and Release Conditions enabled",
-    "author_login": "smurugasan-bbdn",
-    "author_name": "Sounder Murugasan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-20",
-    "merged_at": "2026-06-25",
-    "closed_at": "2026-06-25",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16938"
-  },
-  {
-    "number": 16931,
-    "title": "Bugfix/AB#685830-Post Button State Does Not Update After Grade Entry Until Page Refresh",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-20",
-    "merged_at": "2026-06-23",
-    "closed_at": "2026-06-23",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16931"
-  },
-  {
     "number": 8564,
     "title": "Bugfix/AB#691424 - Fix: calculated column shows 0 points possible when a deleted/ghost formula precedes it",
     "author_login": "aarthirajaram",
@@ -4658,10 +4406,10 @@
     "closed_at": null,
     "approvals": [
       "team",
+      "tech",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -5010,6 +4758,7 @@
     ],
     "changes_requested_by": [
       "alwongbb",
+      "lanceneumannblackboard",
       "sharmilahameed"
     ],
     "changes_addressed": "no",
@@ -5144,12 +4893,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5191,12 +4940,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5213,10 +4962,11 @@
     "created_at": "2026-07-09",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],

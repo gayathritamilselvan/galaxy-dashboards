@@ -1,5 +1,27 @@
 [
   {
+    "number": 17572,
+    "title": "Bugfix/AB#689919 - Heading level skipped (H1 to H3, missing H2)",
+    "author_login": "VigneshwaranSaravanan",
+    "author_name": "Vigneshwaran S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-22",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17572"
+  },
+  {
     "number": 17560,
     "title": "feature/AB#688608 - LOR- Source Information component with fetched data PR2",
     "author_login": "manoharan100",
@@ -352,17 +374,16 @@
     "created_at": "2026-07-17",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "nguybb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17509"
   },
   {
@@ -585,13 +606,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17446"
@@ -820,8 +840,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "bbnkamper"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17407"
   },
   {
@@ -4509,14 +4531,14 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16953"
   },
   {
-    "number": 16951,
-    "title": "fix: added two bugfix",
-    "author_login": "BharathiKannaa",
-    "author_name": "Bharathi Kanna",
+    "number": 8580,
+    "title": "AB#669069-Ultra access codes come back after being disabled/removed",
+    "author_login": "kalimuthupalraj",
+    "author_name": "Kalimuthu Palraj",
     "state": "Draft",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-21",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-07-22",
     "merged_at": null,
     "closed_at": null,
     "approvals": [],
@@ -4528,7 +4550,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16951"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8580"
   },
   {
     "number": 8572,
@@ -4637,8 +4659,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "lanceneumannblackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8560"
   },
   {
@@ -4653,10 +4677,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "vs"
     ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval"
     ],
@@ -4887,8 +4911,10 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "lanceneumannblackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8526"
   },
   {
@@ -5004,13 +5030,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "lanceneumannblackboard"
     ],
@@ -5137,12 +5162,12 @@
     "title": "AB#669069-Ultra access codes come back after being disabled/removed",
     "author_login": "kalimuthupalraj",
     "author_name": "Kalimuthu Palraj",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Celeste",
     "created_at": "2026-07-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-22",
+    "closed_at": "2026-07-22",
     "approvals": [
       "ces",
       "team"
@@ -5214,12 +5239,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [
       "brittanytang",
@@ -5258,12 +5283,12 @@
     "title": "AB#688100 attempt_cr() performance improvement",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Celeste",
     "created_at": "2026-07-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-21",
+    "closed_at": "2026-07-21",
     "approvals": [
       "ces",
       "team",
@@ -5331,13 +5356,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8433"
@@ -5638,27 +5662,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8359"
-  },
-  {
-    "number": 8357,
-    "title": "Feature/AB#578857 Enable moving folders into other folders in LOR: add GET /maxFolderDepth endpoint for subtree depth validation",
-    "author_login": "Anshu972438",
-    "author_name": "Anshu",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Supernova",
-    "created_at": "2026-06-21",
-    "merged_at": "2026-07-07",
-    "closed_at": "2026-07-07",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8357"
   }
 ]

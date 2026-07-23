@@ -1,5 +1,72 @@
 [
   {
+    "number": 17600,
+    "title": "Feature/AB#691811 Move banner from home to tabbedHome",
+    "author_login": "srujankusuma3232",
+    "author_name": "Srujan Kusuma",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-07-23",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17600"
+  },
+  {
+    "number": 17595,
+    "title": "Feature/ab 691052 visibility dropdown confirmation pop up mapping with delete last card",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-07-23",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17595"
+  },
+  {
+    "number": 17593,
+    "title": "Feature/AB#688128 add last access grid view",
+    "author_login": "LalithBB",
+    "author_name": "Lalith",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-23",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17593"
+  },
+  {
     "number": 17589,
     "title": "Bugfix/AB#689923-Added Ax for Ungraded gradePill in Grades Panel",
     "author_login": "arunkumaranth",
@@ -68,15 +135,15 @@
   },
   {
     "number": 17575,
-    "title": "adding last access logic in grid view",
+    "title": "feature/AB#688128-adding last access logic in grid view",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-22",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-23",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -99,9 +166,10 @@
     "created_at": "2026-07-22",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -303,11 +371,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -342,19 +410,19 @@
     "title": "Feature/AB#688923-Implement Sorting for Flex Grading  Screen",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-20",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -426,8 +494,11 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "bhuvaneswarisbb",
+      "hariharan-r-k"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17513"
   },
   {
@@ -488,17 +559,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "priceld"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17504"
   },
   {
@@ -574,12 +642,12 @@
     "title": "feature/AB#690863 TabbedHome header move",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-07-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-23",
+    "closed_at": "2026-07-23",
     "approvals": [
       "ces",
       "team",
@@ -734,7 +802,7 @@
     "title": "AB#576396 fix: replace inaccessible progress bar tooltips with visible text labels",
     "author_login": "Anshu972438",
     "author_name": "Anshu",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-15",
@@ -748,8 +816,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "davtohbb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17437"
   },
   {
@@ -831,15 +901,13 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
-      "dsoto-bb",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -944,12 +1012,12 @@
     "title": "AB#690270 - Grid view search displays incorrect results submission receipt",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-13",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-23",
+    "closed_at": "2026-07-23",
     "approvals": [
       "ces",
       "team",
@@ -1102,12 +1170,12 @@
     "title": "bugfix/AB#689783-gradebook grid sorting button aria labels do not indicate next action",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-13",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-23",
+    "closed_at": "2026-07-23",
     "approvals": [
       "ces",
       "team",
@@ -1404,9 +1472,10 @@
     "created_at": "2026-07-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -1466,12 +1535,12 @@
     "title": "AB#671538 - Anonymous grading column student not loading in Flex grading page",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-23",
+    "closed_at": "2026-07-23",
     "approvals": [
       "ces",
       "team",
@@ -2893,12 +2962,12 @@
     "title": "feature/AB#671264-refactor directGradeClearModal to use useModal",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-01",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-23",
+    "closed_at": "2026-07-23",
     "approvals": [
       "team",
       "tech",
@@ -4445,6 +4514,73 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/16979"
   },
   {
+    "number": 8600,
+    "title": "Bugfix/AB#690550 Guest Access follow-up security and API fixes",
+    "author_login": "harshitha786",
+    "author_name": "Mogveera Harshitha Manjunath",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-07-23",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8600"
+  },
+  {
+    "number": 8599,
+    "title": "Bugfix/AB#692002 Implement Gradebook Upload and Download Include only Assigned Students",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Pandias",
+    "created_at": "2026-07-23",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8599"
+  },
+  {
+    "number": 8596,
+    "title": "AB#691987 - Platform notification service background task",
+    "author_login": "vakrams",
+    "author_name": "Vakram S",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-07-23",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8596"
+  },
+  {
     "number": 8586,
     "title": "Bugfix/AB#691713 - Fix: Reminders count includes students excluded by release condition",
     "author_login": "aarthirajaram",
@@ -4455,9 +4591,10 @@
     "created_at": "2026-07-22",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -4484,8 +4621,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "skarunanithi20"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8584"
   },
   {
@@ -4537,12 +4676,12 @@
     "title": "AB#669069-Ultra access codes come back after being disabled/removed",
     "author_login": "kalimuthupalraj",
     "author_name": "Kalimuthu Palraj",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Celeste",
     "created_at": "2026-07-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-23",
+    "closed_at": "2026-07-23",
     "approvals": [
       "team"
     ],
@@ -4560,17 +4699,17 @@
     "title": "AB#690628 Fix: Gradebook breaks when group member added after assignment creation",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Cholas",
     "created_at": "2026-07-21",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -4589,9 +4728,10 @@
     "created_at": "2026-07-21",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -4656,13 +4796,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "lanceneumannblackboard"
     ],
@@ -4957,7 +5096,7 @@
     "title": "AB#690552 Guest Access: Address follow-up review findings across membership, content, and gradebook APIs",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Open",
+    "state": "Draft",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-14",
@@ -5102,7 +5241,7 @@
     "title": "Bugfix/AB#667247 Fix membership authorization routing for guest users",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Open",
+    "state": "Draft",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-09",
@@ -5195,7 +5334,7 @@
     "title": "AB#575334 - Instructors Cannot Post Grades For Attempts For Content That Have Automatic Zeros Given And Set To Manually Post Grades",
     "author_login": "Subashree-b",
     "author_name": "Subashree B",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Elite",
     "created_at": "2026-07-08",

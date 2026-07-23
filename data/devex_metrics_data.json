@@ -3683,6 +3683,216 @@
       "avg_comments_on_reviewed": 1.0
     },
     {
+      "member": "aarthirajaram",
+      "display_name": "Aarthi Rajaram",
+      "team": "Pallavas",
+      "period": "POST_S12",
+      "reviews_submitted": 82,
+      "prs_reviewed": 31,
+      "approval_rate": 26.8,
+      "avg_response_time": 34.9,
+      "comment_count": 58,
+      "prs_commented_on": 10,
+      "comments_on_reviewed": 58,
+      "avg_comments_on_reviewed": 1.9
+    },
+    {
+      "member": "aarthirajaram",
+      "display_name": "Aarthi Rajaram",
+      "team": "Pallavas",
+      "period": "S11",
+      "reviews_submitted": 4,
+      "prs_reviewed": 4,
+      "approval_rate": 75.0,
+      "avg_response_time": 34.5,
+      "comment_count": 3,
+      "prs_commented_on": 2,
+      "comments_on_reviewed": 3,
+      "avg_comments_on_reviewed": 0.8
+    },
+    {
+      "member": "aarthirajaram",
+      "display_name": "Aarthi Rajaram",
+      "team": "Pallavas",
+      "period": "S12",
+      "reviews_submitted": 19,
+      "prs_reviewed": 11,
+      "approval_rate": 42.1,
+      "avg_response_time": 108.1,
+      "comment_count": 11,
+      "prs_commented_on": 3,
+      "comments_on_reviewed": 11,
+      "avg_comments_on_reviewed": 1.0
+    },
+    {
+      "member": "nishavijayakumar",
+      "display_name": "Nisha Vijayakumar",
+      "team": "Pallavas",
+      "period": "POST_S12",
+      "reviews_submitted": 164,
+      "prs_reviewed": 89,
+      "approval_rate": 50.6,
+      "avg_response_time": 65.4,
+      "comment_count": 94,
+      "prs_commented_on": 22,
+      "comments_on_reviewed": 94,
+      "avg_comments_on_reviewed": 1.1
+    },
+    {
+      "member": "nishavijayakumar",
+      "display_name": "Nisha Vijayakumar",
+      "team": "Pallavas",
+      "period": "S11",
+      "reviews_submitted": 35,
+      "prs_reviewed": 12,
+      "approval_rate": 28.6,
+      "avg_response_time": 95.0,
+      "comment_count": 28,
+      "prs_commented_on": 5,
+      "comments_on_reviewed": 28,
+      "avg_comments_on_reviewed": 2.3
+    },
+    {
+      "member": "nishavijayakumar",
+      "display_name": "Nisha Vijayakumar",
+      "team": "Pallavas",
+      "period": "S12",
+      "reviews_submitted": 39,
+      "prs_reviewed": 24,
+      "approval_rate": 56.4,
+      "avg_response_time": 88.2,
+      "comment_count": 35,
+      "prs_commented_on": 8,
+      "comments_on_reviewed": 35,
+      "avg_comments_on_reviewed": 1.5
+    },
+    {
+      "member": "rajeshblackboard",
+      "display_name": "Rajesh",
+      "team": "Pandias",
+      "period": "POST_S12",
+      "reviews_submitted": 85,
+      "prs_reviewed": 39,
+      "approval_rate": 38.8,
+      "avg_response_time": 95.8,
+      "comment_count": 45,
+      "prs_commented_on": 8,
+      "comments_on_reviewed": 45,
+      "avg_comments_on_reviewed": 1.2
+    },
+    {
+      "member": "rajeshblackboard",
+      "display_name": "Rajesh",
+      "team": "Pandias",
+      "period": "S11",
+      "reviews_submitted": 15,
+      "prs_reviewed": 7,
+      "approval_rate": 33.3,
+      "avg_response_time": 45.2,
+      "comment_count": 13,
+      "prs_commented_on": 4,
+      "comments_on_reviewed": 13,
+      "avg_comments_on_reviewed": 1.9
+    },
+    {
+      "member": "rajeshblackboard",
+      "display_name": "Rajesh",
+      "team": "Pandias",
+      "period": "S12",
+      "reviews_submitted": 28,
+      "prs_reviewed": 7,
+      "approval_rate": 17.9,
+      "avg_response_time": 103.4,
+      "comment_count": 25,
+      "prs_commented_on": 2,
+      "comments_on_reviewed": 25,
+      "avg_comments_on_reviewed": 3.6
+    },
+    {
+      "member": "gowthamanpalani",
+      "display_name": "Gowthaman Palani",
+      "team": "Pandias",
+      "period": "POST_S12",
+      "reviews_submitted": 100,
+      "prs_reviewed": 76,
+      "approval_rate": 73.0,
+      "avg_response_time": 70.8,
+      "comment_count": 67,
+      "prs_commented_on": 23,
+      "comments_on_reviewed": 67,
+      "avg_comments_on_reviewed": 0.9
+    },
+    {
+      "member": "gowthamanpalani",
+      "display_name": "Gowthaman Palani",
+      "team": "Pandias",
+      "period": "S11",
+      "reviews_submitted": 15,
+      "prs_reviewed": 13,
+      "approval_rate": 86.7,
+      "avg_response_time": 46.0,
+      "comment_count": 14,
+      "prs_commented_on": 9,
+      "comments_on_reviewed": 14,
+      "avg_comments_on_reviewed": 1.1
+    },
+    {
+      "member": "gowthamanpalani",
+      "display_name": "Gowthaman Palani",
+      "team": "Pandias",
+      "period": "S12",
+      "reviews_submitted": 31,
+      "prs_reviewed": 28,
+      "approval_rate": 87.1,
+      "avg_response_time": 118.0,
+      "comment_count": 19,
+      "prs_commented_on": 5,
+      "comments_on_reviewed": 19,
+      "avg_comments_on_reviewed": 0.7
+    },
+    {
+      "member": "vigneshwaransaravanan",
+      "display_name": "Vigneshwaran S",
+      "team": "Pallavas",
+      "period": "POST_S12",
+      "reviews_submitted": 60,
+      "prs_reviewed": 44,
+      "approval_rate": 66.7,
+      "avg_response_time": 39.6,
+      "comment_count": 20,
+      "prs_commented_on": 7,
+      "comments_on_reviewed": 20,
+      "avg_comments_on_reviewed": 0.5
+    },
+    {
+      "member": "vigneshwaransaravanan",
+      "display_name": "Vigneshwaran S",
+      "team": "Pallavas",
+      "period": "S11",
+      "reviews_submitted": 9,
+      "prs_reviewed": 8,
+      "approval_rate": 88.9,
+      "avg_response_time": 41.1,
+      "comment_count": 1,
+      "prs_commented_on": 1,
+      "comments_on_reviewed": 1,
+      "avg_comments_on_reviewed": 0.1
+    },
+    {
+      "member": "vigneshwaransaravanan",
+      "display_name": "Vigneshwaran S",
+      "team": "Pallavas",
+      "period": "S12",
+      "reviews_submitted": 15,
+      "prs_reviewed": 8,
+      "approval_rate": 46.7,
+      "avg_response_time": 82.0,
+      "comment_count": 8,
+      "prs_commented_on": 1,
+      "comments_on_reviewed": 8,
+      "avg_comments_on_reviewed": 1.0
+    },
+    {
       "member": "kesavanazhagarsamy",
       "display_name": "Kesavan Azhagarsamy",
       "team": "Supernova",
@@ -3771,10 +3981,10 @@
       "display_name": "Prasanna Jayasankar",
       "team": "Pandias",
       "period": "POST_S12",
-      "reviews_submitted": 26,
+      "reviews_submitted": 28,
       "prs_reviewed": 21,
-      "approval_rate": 65.4,
-      "avg_response_time": 34.8,
+      "approval_rate": 64.3,
+      "avg_response_time": 35.4,
       "comment_count": 9,
       "prs_commented_on": 5,
       "comments_on_reviewed": 9,
@@ -3893,90 +4103,6 @@
       "avg_comments_on_reviewed": 0.0
     },
     {
-      "member": "aarthirajaram",
-      "display_name": "Aarthi Rajaram",
-      "team": "Pallavas",
-      "period": "POST_S12",
-      "reviews_submitted": 75,
-      "prs_reviewed": 30,
-      "approval_rate": 28.0,
-      "avg_response_time": 36.8,
-      "comment_count": 52,
-      "prs_commented_on": 10,
-      "comments_on_reviewed": 52,
-      "avg_comments_on_reviewed": 1.7
-    },
-    {
-      "member": "aarthirajaram",
-      "display_name": "Aarthi Rajaram",
-      "team": "Pallavas",
-      "period": "S11",
-      "reviews_submitted": 4,
-      "prs_reviewed": 4,
-      "approval_rate": 75.0,
-      "avg_response_time": 34.5,
-      "comment_count": 3,
-      "prs_commented_on": 2,
-      "comments_on_reviewed": 3,
-      "avg_comments_on_reviewed": 0.8
-    },
-    {
-      "member": "aarthirajaram",
-      "display_name": "Aarthi Rajaram",
-      "team": "Pallavas",
-      "period": "S12",
-      "reviews_submitted": 19,
-      "prs_reviewed": 11,
-      "approval_rate": 42.1,
-      "avg_response_time": 108.1,
-      "comment_count": 11,
-      "prs_commented_on": 3,
-      "comments_on_reviewed": 11,
-      "avg_comments_on_reviewed": 1.0
-    },
-    {
-      "member": "nishavijayakumar",
-      "display_name": "Nisha Vijayakumar",
-      "team": "Pallavas",
-      "period": "POST_S12",
-      "reviews_submitted": 163,
-      "prs_reviewed": 88,
-      "approval_rate": 50.3,
-      "avg_response_time": 65.8,
-      "comment_count": 94,
-      "prs_commented_on": 22,
-      "comments_on_reviewed": 94,
-      "avg_comments_on_reviewed": 1.1
-    },
-    {
-      "member": "nishavijayakumar",
-      "display_name": "Nisha Vijayakumar",
-      "team": "Pallavas",
-      "period": "S11",
-      "reviews_submitted": 35,
-      "prs_reviewed": 12,
-      "approval_rate": 28.6,
-      "avg_response_time": 95.0,
-      "comment_count": 28,
-      "prs_commented_on": 5,
-      "comments_on_reviewed": 28,
-      "avg_comments_on_reviewed": 2.3
-    },
-    {
-      "member": "nishavijayakumar",
-      "display_name": "Nisha Vijayakumar",
-      "team": "Pallavas",
-      "period": "S12",
-      "reviews_submitted": 39,
-      "prs_reviewed": 24,
-      "approval_rate": 56.4,
-      "avg_response_time": 88.2,
-      "comment_count": 35,
-      "prs_commented_on": 8,
-      "comments_on_reviewed": 35,
-      "avg_comments_on_reviewed": 1.5
-    },
-    {
       "member": "lalithbb",
       "display_name": "Lalith",
       "team": "Pallavas",
@@ -4059,6 +4185,90 @@
       "prs_commented_on": 2,
       "comments_on_reviewed": 3,
       "avg_comments_on_reviewed": 0.4
+    },
+    {
+      "member": "gulshan-antho",
+      "display_name": "Gulshan Kumar",
+      "team": "Mars",
+      "period": "POST_S12",
+      "reviews_submitted": 77,
+      "prs_reviewed": 45,
+      "approval_rate": 45.5,
+      "avg_response_time": 94.0,
+      "comment_count": 57,
+      "prs_commented_on": 17,
+      "comments_on_reviewed": 57,
+      "avg_comments_on_reviewed": 1.3
+    },
+    {
+      "member": "gulshan-antho",
+      "display_name": "Gulshan Kumar",
+      "team": "Mars",
+      "period": "S11",
+      "reviews_submitted": 9,
+      "prs_reviewed": 7,
+      "approval_rate": 66.7,
+      "avg_response_time": 88.5,
+      "comment_count": 3,
+      "prs_commented_on": 1,
+      "comments_on_reviewed": 3,
+      "avg_comments_on_reviewed": 0.4
+    },
+    {
+      "member": "gulshan-antho",
+      "display_name": "Gulshan Kumar",
+      "team": "Mars",
+      "period": "S12",
+      "reviews_submitted": 18,
+      "prs_reviewed": 12,
+      "approval_rate": 44.4,
+      "avg_response_time": 170.1,
+      "comment_count": 10,
+      "prs_commented_on": 5,
+      "comments_on_reviewed": 10,
+      "avg_comments_on_reviewed": 0.8
+    },
+    {
+      "member": "rag-bbdn",
+      "display_name": "Ragavendran",
+      "team": "Mars",
+      "period": "POST_S12",
+      "reviews_submitted": 50,
+      "prs_reviewed": 27,
+      "approval_rate": 34.0,
+      "avg_response_time": 88.8,
+      "comment_count": 31,
+      "prs_commented_on": 10,
+      "comments_on_reviewed": 31,
+      "avg_comments_on_reviewed": 1.1
+    },
+    {
+      "member": "rag-bbdn",
+      "display_name": "Ragavendran",
+      "team": "Mars",
+      "period": "S11",
+      "reviews_submitted": 18,
+      "prs_reviewed": 6,
+      "approval_rate": 22.2,
+      "avg_response_time": 176.2,
+      "comment_count": 16,
+      "prs_commented_on": 3,
+      "comments_on_reviewed": 16,
+      "avg_comments_on_reviewed": 2.7
+    },
+    {
+      "member": "rag-bbdn",
+      "display_name": "Ragavendran",
+      "team": "Mars",
+      "period": "S12",
+      "reviews_submitted": 27,
+      "prs_reviewed": 13,
+      "approval_rate": 29.6,
+      "avg_response_time": 94.2,
+      "comment_count": 18,
+      "prs_commented_on": 5,
+      "comments_on_reviewed": 18,
+      "avg_comments_on_reviewed": 1.4
     },
     {
       "member": "bharathikannaa",
@@ -4229,88 +4439,46 @@
       "avg_comments_on_reviewed": 0.1
     },
     {
-      "member": "rajeshblackboard",
-      "display_name": "Rajesh",
-      "team": "Pandias",
+      "member": "mohamedtharik8883",
+      "display_name": "Mohamed Tharik",
+      "team": "Starlite",
       "period": "POST_S12",
-      "reviews_submitted": 83,
-      "prs_reviewed": 37,
-      "approval_rate": 38.6,
-      "avg_response_time": 98.1,
-      "comment_count": 39,
-      "prs_commented_on": 7,
-      "comments_on_reviewed": 39,
-      "avg_comments_on_reviewed": 1.1
-    },
-    {
-      "member": "rajeshblackboard",
-      "display_name": "Rajesh",
-      "team": "Pandias",
-      "period": "S11",
-      "reviews_submitted": 15,
-      "prs_reviewed": 7,
-      "approval_rate": 33.3,
-      "avg_response_time": 45.2,
-      "comment_count": 13,
-      "prs_commented_on": 4,
-      "comments_on_reviewed": 13,
-      "avg_comments_on_reviewed": 1.9
-    },
-    {
-      "member": "rajeshblackboard",
-      "display_name": "Rajesh",
-      "team": "Pandias",
-      "period": "S12",
-      "reviews_submitted": 28,
-      "prs_reviewed": 7,
-      "approval_rate": 17.9,
-      "avg_response_time": 103.4,
-      "comment_count": 25,
-      "prs_commented_on": 2,
-      "comments_on_reviewed": 25,
-      "avg_comments_on_reviewed": 3.6
-    },
-    {
-      "member": "gowthamanpalani",
-      "display_name": "Gowthaman Palani",
-      "team": "Pandias",
-      "period": "POST_S12",
-      "reviews_submitted": 99,
-      "prs_reviewed": 75,
-      "approval_rate": 72.7,
-      "avg_response_time": 71.5,
-      "comment_count": 67,
-      "prs_commented_on": 23,
-      "comments_on_reviewed": 67,
-      "avg_comments_on_reviewed": 0.9
-    },
-    {
-      "member": "gowthamanpalani",
-      "display_name": "Gowthaman Palani",
-      "team": "Pandias",
-      "period": "S11",
-      "reviews_submitted": 15,
-      "prs_reviewed": 13,
-      "approval_rate": 86.7,
-      "avg_response_time": 46.0,
-      "comment_count": 14,
+      "reviews_submitted": 30,
+      "prs_reviewed": 27,
+      "approval_rate": 63.3,
+      "avg_response_time": 30.1,
+      "comment_count": 12,
       "prs_commented_on": 9,
-      "comments_on_reviewed": 14,
-      "avg_comments_on_reviewed": 1.1
+      "comments_on_reviewed": 12,
+      "avg_comments_on_reviewed": 0.4
     },
     {
-      "member": "gowthamanpalani",
-      "display_name": "Gowthaman Palani",
-      "team": "Pandias",
+      "member": "mohamedtharik8883",
+      "display_name": "Mohamed Tharik",
+      "team": "Starlite",
+      "period": "S11",
+      "reviews_submitted": 3,
+      "prs_reviewed": 3,
+      "approval_rate": 100.0,
+      "avg_response_time": 14.3,
+      "comment_count": 0,
+      "prs_commented_on": 0,
+      "comments_on_reviewed": 0,
+      "avg_comments_on_reviewed": 0.0
+    },
+    {
+      "member": "mohamedtharik8883",
+      "display_name": "Mohamed Tharik",
+      "team": "Starlite",
       "period": "S12",
-      "reviews_submitted": 31,
-      "prs_reviewed": 28,
-      "approval_rate": 87.1,
-      "avg_response_time": 118.0,
-      "comment_count": 19,
-      "prs_commented_on": 5,
-      "comments_on_reviewed": 19,
-      "avg_comments_on_reviewed": 0.7
+      "reviews_submitted": 39,
+      "prs_reviewed": 13,
+      "approval_rate": 17.9,
+      "avg_response_time": 40.7,
+      "comment_count": 32,
+      "prs_commented_on": 6,
+      "comments_on_reviewed": 32,
+      "avg_comments_on_reviewed": 2.5
     },
     {
       "member": "arunkumaranth",
@@ -4397,48 +4565,6 @@
       "avg_comments_on_reviewed": 2.1
     },
     {
-      "member": "rag-bbdn",
-      "display_name": "Ragavendran",
-      "team": "Mars",
-      "period": "POST_S12",
-      "reviews_submitted": 49,
-      "prs_reviewed": 26,
-      "approval_rate": 34.7,
-      "avg_response_time": 89.5,
-      "comment_count": 30,
-      "prs_commented_on": 9,
-      "comments_on_reviewed": 30,
-      "avg_comments_on_reviewed": 1.2
-    },
-    {
-      "member": "rag-bbdn",
-      "display_name": "Ragavendran",
-      "team": "Mars",
-      "period": "S11",
-      "reviews_submitted": 18,
-      "prs_reviewed": 6,
-      "approval_rate": 22.2,
-      "avg_response_time": 176.2,
-      "comment_count": 16,
-      "prs_commented_on": 3,
-      "comments_on_reviewed": 16,
-      "avg_comments_on_reviewed": 2.7
-    },
-    {
-      "member": "rag-bbdn",
-      "display_name": "Ragavendran",
-      "team": "Mars",
-      "period": "S12",
-      "reviews_submitted": 27,
-      "prs_reviewed": 13,
-      "approval_rate": 29.6,
-      "avg_response_time": 94.2,
-      "comment_count": 18,
-      "prs_commented_on": 5,
-      "comments_on_reviewed": 18,
-      "avg_comments_on_reviewed": 1.4
-    },
-    {
       "member": "manoharan100",
       "display_name": "Manoharan",
       "team": "Mars",
@@ -4479,48 +4605,6 @@
       "prs_commented_on": 0,
       "comments_on_reviewed": 0,
       "avg_comments_on_reviewed": 0.0
-    },
-    {
-      "member": "vigneshwaransaravanan",
-      "display_name": "Vigneshwaran S",
-      "team": "Pallavas",
-      "period": "POST_S12",
-      "reviews_submitted": 59,
-      "prs_reviewed": 43,
-      "approval_rate": 66.1,
-      "avg_response_time": 40.2,
-      "comment_count": 20,
-      "prs_commented_on": 7,
-      "comments_on_reviewed": 20,
-      "avg_comments_on_reviewed": 0.5
-    },
-    {
-      "member": "vigneshwaransaravanan",
-      "display_name": "Vigneshwaran S",
-      "team": "Pallavas",
-      "period": "S11",
-      "reviews_submitted": 9,
-      "prs_reviewed": 8,
-      "approval_rate": 88.9,
-      "avg_response_time": 41.1,
-      "comment_count": 1,
-      "prs_commented_on": 1,
-      "comments_on_reviewed": 1,
-      "avg_comments_on_reviewed": 0.1
-    },
-    {
-      "member": "vigneshwaransaravanan",
-      "display_name": "Vigneshwaran S",
-      "team": "Pallavas",
-      "period": "S12",
-      "reviews_submitted": 15,
-      "prs_reviewed": 8,
-      "approval_rate": 46.7,
-      "avg_response_time": 82.0,
-      "comment_count": 8,
-      "prs_commented_on": 1,
-      "comments_on_reviewed": 8,
-      "avg_comments_on_reviewed": 1.0
     },
     {
       "member": "pradeep-prasath123",
@@ -4569,14 +4653,14 @@
       "display_name": "Sai Manimaran",
       "team": "Mars",
       "period": "POST_S12",
-      "reviews_submitted": 148,
+      "reviews_submitted": 151,
       "prs_reviewed": 43,
-      "approval_rate": 21.6,
-      "avg_response_time": 117.5,
-      "comment_count": 104,
+      "approval_rate": 21.2,
+      "avg_response_time": 125.8,
+      "comment_count": 107,
       "prs_commented_on": 13,
-      "comments_on_reviewed": 104,
-      "avg_comments_on_reviewed": 2.4
+      "comments_on_reviewed": 107,
+      "avg_comments_on_reviewed": 2.5
     },
     {
       "member": "saimanimaran",
@@ -4751,14 +4835,14 @@
       "display_name": "Srujan Kusuma",
       "team": "Oxygen",
       "period": "POST_S12",
-      "reviews_submitted": 15,
-      "prs_reviewed": 8,
-      "approval_rate": 33.3,
-      "avg_response_time": 100.1,
+      "reviews_submitted": 16,
+      "prs_reviewed": 9,
+      "approval_rate": 37.5,
+      "avg_response_time": 103.1,
       "comment_count": 12,
       "prs_commented_on": 3,
       "comments_on_reviewed": 12,
-      "avg_comments_on_reviewed": 1.5
+      "avg_comments_on_reviewed": 1.3
     },
     {
       "member": "srujankusuma3232",
@@ -4793,14 +4877,14 @@
       "display_name": "Bhuvaneswari S",
       "team": "Supernova",
       "period": "POST_S12",
-      "reviews_submitted": 28,
+      "reviews_submitted": 29,
       "prs_reviewed": 17,
-      "approval_rate": 46.4,
-      "avg_response_time": 91.8,
-      "comment_count": 19,
-      "prs_commented_on": 5,
-      "comments_on_reviewed": 19,
-      "avg_comments_on_reviewed": 1.1
+      "approval_rate": 48.3,
+      "avg_response_time": 94.8,
+      "comment_count": 22,
+      "prs_commented_on": 6,
+      "comments_on_reviewed": 22,
+      "avg_comments_on_reviewed": 1.3
     },
     {
       "member": "bhuvaneswarisbb",
@@ -4877,13 +4961,13 @@
       "display_name": "Sharmila Begam Hameed",
       "team": "Mars",
       "period": "POST_S12",
-      "reviews_submitted": 55,
+      "reviews_submitted": 54,
       "prs_reviewed": 41,
-      "approval_rate": 60.0,
-      "avg_response_time": 91.7,
-      "comment_count": 18,
+      "approval_rate": 61.1,
+      "avg_response_time": 90.4,
+      "comment_count": 17,
       "prs_commented_on": 9,
-      "comments_on_reviewed": 18,
+      "comments_on_reviewed": 17,
       "avg_comments_on_reviewed": 0.4
     },
     {
@@ -4919,14 +5003,14 @@
       "display_name": "Anshu",
       "team": "Supernova",
       "period": "POST_S12",
-      "reviews_submitted": 23,
+      "reviews_submitted": 27,
       "prs_reviewed": 9,
-      "approval_rate": 34.8,
-      "avg_response_time": 114.2,
-      "comment_count": 15,
+      "approval_rate": 29.6,
+      "avg_response_time": 141.8,
+      "comment_count": 19,
       "prs_commented_on": 2,
-      "comments_on_reviewed": 15,
-      "avg_comments_on_reviewed": 1.7
+      "comments_on_reviewed": 19,
+      "avg_comments_on_reviewed": 2.1
     },
     {
       "member": "anshu972438",
@@ -4957,60 +5041,18 @@
       "avg_comments_on_reviewed": 2.3
     },
     {
-      "member": "gulshan-antho",
-      "display_name": "Gulshan Kumar",
-      "team": "Mars",
-      "period": "POST_S12",
-      "reviews_submitted": 74,
-      "prs_reviewed": 44,
-      "approval_rate": 45.9,
-      "avg_response_time": 95.6,
-      "comment_count": 56,
-      "prs_commented_on": 16,
-      "comments_on_reviewed": 56,
-      "avg_comments_on_reviewed": 1.3
-    },
-    {
-      "member": "gulshan-antho",
-      "display_name": "Gulshan Kumar",
-      "team": "Mars",
-      "period": "S11",
-      "reviews_submitted": 9,
-      "prs_reviewed": 7,
-      "approval_rate": 66.7,
-      "avg_response_time": 88.5,
-      "comment_count": 3,
-      "prs_commented_on": 1,
-      "comments_on_reviewed": 3,
-      "avg_comments_on_reviewed": 0.4
-    },
-    {
-      "member": "gulshan-antho",
-      "display_name": "Gulshan Kumar",
-      "team": "Mars",
-      "period": "S12",
-      "reviews_submitted": 18,
-      "prs_reviewed": 12,
-      "approval_rate": 44.4,
-      "avg_response_time": 170.1,
-      "comment_count": 10,
-      "prs_commented_on": 5,
-      "comments_on_reviewed": 10,
-      "avg_comments_on_reviewed": 0.8
-    },
-    {
       "member": "ravi-anthology",
       "display_name": "Ravi Prakash Tiwari",
       "team": "Celeste",
       "period": "POST_S12",
-      "reviews_submitted": 25,
-      "prs_reviewed": 12,
-      "approval_rate": 36.0,
-      "avg_response_time": 221.6,
+      "reviews_submitted": 26,
+      "prs_reviewed": 13,
+      "approval_rate": 38.5,
+      "avg_response_time": 213.5,
       "comment_count": 16,
       "prs_commented_on": 3,
       "comments_on_reviewed": 16,
-      "avg_comments_on_reviewed": 1.3
+      "avg_comments_on_reviewed": 1.2
     },
     {
       "member": "ravi-anthology",
@@ -5255,14 +5297,14 @@
       "display_name": "Pradeep Kumar R",
       "team": "Nayakas",
       "period": "POST_S12",
-      "reviews_submitted": 54,
-      "prs_reviewed": 14,
-      "approval_rate": 16.7,
-      "avg_response_time": 87.3,
-      "comment_count": 54,
-      "prs_commented_on": 12,
-      "comments_on_reviewed": 54,
-      "avg_comments_on_reviewed": 3.9
+      "reviews_submitted": 67,
+      "prs_reviewed": 15,
+      "approval_rate": 13.4,
+      "avg_response_time": 102.2,
+      "comment_count": 67,
+      "prs_commented_on": 13,
+      "comments_on_reviewed": 67,
+      "avg_comments_on_reviewed": 4.5
     },
     {
       "member": "pkumarr07",
@@ -5291,48 +5333,6 @@
       "prs_commented_on": 4,
       "comments_on_reviewed": 18,
       "avg_comments_on_reviewed": 3.0
-    },
-    {
-      "member": "mohamedtharik8883",
-      "display_name": "Mohamed Tharik",
-      "team": "Starlite",
-      "period": "POST_S12",
-      "reviews_submitted": 29,
-      "prs_reviewed": 26,
-      "approval_rate": 62.1,
-      "avg_response_time": 28.9,
-      "comment_count": 12,
-      "prs_commented_on": 9,
-      "comments_on_reviewed": 12,
-      "avg_comments_on_reviewed": 0.5
-    },
-    {
-      "member": "mohamedtharik8883",
-      "display_name": "Mohamed Tharik",
-      "team": "Starlite",
-      "period": "S11",
-      "reviews_submitted": 3,
-      "prs_reviewed": 3,
-      "approval_rate": 100.0,
-      "avg_response_time": 14.3,
-      "comment_count": 0,
-      "prs_commented_on": 0,
-      "comments_on_reviewed": 0,
-      "avg_comments_on_reviewed": 0.0
-    },
-    {
-      "member": "mohamedtharik8883",
-      "display_name": "Mohamed Tharik",
-      "team": "Starlite",
-      "period": "S12",
-      "reviews_submitted": 39,
-      "prs_reviewed": 13,
-      "approval_rate": 17.9,
-      "avg_response_time": 40.7,
-      "comment_count": 32,
-      "prs_commented_on": 6,
-      "comments_on_reviewed": 32,
-      "avg_comments_on_reviewed": 2.5
     },
     {
       "member": "arunkumarkosna",
@@ -5661,14 +5661,14 @@
       "display_name": "Surya Madhanlal",
       "team": "Cholas",
       "period": "POST_S12",
-      "reviews_submitted": 41,
+      "reviews_submitted": 42,
       "prs_reviewed": 16,
-      "approval_rate": 26.8,
-      "avg_response_time": 121.2,
-      "comment_count": 26,
+      "approval_rate": 26.2,
+      "avg_response_time": 119.3,
+      "comment_count": 27,
       "prs_commented_on": 7,
-      "comments_on_reviewed": 26,
-      "avg_comments_on_reviewed": 1.6
+      "comments_on_reviewed": 27,
+      "avg_comments_on_reviewed": 1.7
     },
     {
       "member": "suryamadhanlal-5252",
@@ -6039,13 +6039,13 @@
       "display_name": "Gulshan Kumar",
       "team": "Mars",
       "period": "ALL",
-      "reviews_submitted": 227,
-      "prs_reviewed": 121,
-      "approval_rate": 40.5,
-      "avg_response_time": 154.1,
-      "comment_count": 136,
-      "prs_commented_on": 40,
-      "comments_on_reviewed": 136,
+      "reviews_submitted": 230,
+      "prs_reviewed": 122,
+      "approval_rate": 40.9,
+      "avg_response_time": 153.0,
+      "comment_count": 137,
+      "prs_commented_on": 41,
+      "comments_on_reviewed": 137,
       "avg_comments_on_reviewed": 1.1
     },
     {
@@ -6053,13 +6053,13 @@
       "display_name": "Sharmila Begam Hameed",
       "team": "Mars",
       "period": "ALL",
-      "reviews_submitted": 109,
+      "reviews_submitted": 108,
       "prs_reviewed": 76,
-      "approval_rate": 58.7,
-      "avg_response_time": 105.7,
-      "comment_count": 49,
+      "approval_rate": 58.3,
+      "avg_response_time": 105.0,
+      "comment_count": 48,
       "prs_commented_on": 15,
-      "comments_on_reviewed": 49,
+      "comments_on_reviewed": 48,
       "avg_comments_on_reviewed": 0.6
     },
     {
@@ -6193,13 +6193,13 @@
       "display_name": "Sai Manimaran",
       "team": "Mars",
       "period": "ALL",
-      "reviews_submitted": 437,
+      "reviews_submitted": 440,
       "prs_reviewed": 117,
-      "approval_rate": 17.2,
-      "avg_response_time": 152.2,
-      "comment_count": 318,
+      "approval_rate": 17.3,
+      "avg_response_time": 155.3,
+      "comment_count": 321,
       "prs_commented_on": 48,
-      "comments_on_reviewed": 318,
+      "comments_on_reviewed": 321,
       "avg_comments_on_reviewed": 2.7
     },
     {
@@ -6207,10 +6207,10 @@
       "display_name": "Gowthaman Palani",
       "team": "Pandias",
       "period": "ALL",
-      "reviews_submitted": 315,
-      "prs_reviewed": 227,
-      "approval_rate": 65.4,
-      "avg_response_time": 102.5,
+      "reviews_submitted": 316,
+      "prs_reviewed": 228,
+      "approval_rate": 65.8,
+      "avg_response_time": 102.2,
       "comment_count": 255,
       "prs_commented_on": 91,
       "comments_on_reviewed": 255,
@@ -6277,10 +6277,10 @@
       "display_name": "Nisha Vijayakumar",
       "team": "Pallavas",
       "period": "ALL",
-      "reviews_submitted": 443,
-      "prs_reviewed": 244,
-      "approval_rate": 49.4,
-      "avg_response_time": 92.0,
+      "reviews_submitted": 444,
+      "prs_reviewed": 245,
+      "approval_rate": 49.5,
+      "avg_response_time": 91.7,
       "comment_count": 344,
       "prs_commented_on": 73,
       "comments_on_reviewed": 343,
@@ -6305,14 +6305,14 @@
       "display_name": "Aarthi Rajaram",
       "team": "Pallavas",
       "period": "ALL",
-      "reviews_submitted": 158,
-      "prs_reviewed": 70,
-      "approval_rate": 31.0,
-      "avg_response_time": 90.7,
-      "comment_count": 97,
+      "reviews_submitted": 165,
+      "prs_reviewed": 71,
+      "approval_rate": 29.7,
+      "avg_response_time": 89.2,
+      "comment_count": 103,
       "prs_commented_on": 22,
-      "comments_on_reviewed": 97,
-      "avg_comments_on_reviewed": 1.4
+      "comments_on_reviewed": 103,
+      "avg_comments_on_reviewed": 1.5
     },
     {
       "member": "arunkumaranth",
@@ -6347,10 +6347,10 @@
       "display_name": "Vigneshwaran S",
       "team": "Pallavas",
       "period": "ALL",
-      "reviews_submitted": 189,
-      "prs_reviewed": 108,
-      "approval_rate": 50.3,
-      "avg_response_time": 77.0,
+      "reviews_submitted": 190,
+      "prs_reviewed": 109,
+      "approval_rate": 51.1,
+      "avg_response_time": 76.5,
       "comment_count": 74,
       "prs_commented_on": 21,
       "comments_on_reviewed": 74,
@@ -6389,10 +6389,10 @@
       "display_name": "Mohamed Tharik",
       "team": "Starlite",
       "period": "ALL",
-      "reviews_submitted": 187,
-      "prs_reviewed": 88,
-      "approval_rate": 29.9,
-      "avg_response_time": 79.7,
+      "reviews_submitted": 188,
+      "prs_reviewed": 89,
+      "approval_rate": 29.8,
+      "avg_response_time": 79.5,
       "comment_count": 116,
       "prs_commented_on": 32,
       "comments_on_reviewed": 116,
@@ -6403,14 +6403,14 @@
       "display_name": "Surya Madhanlal",
       "team": "Cholas",
       "period": "ALL",
-      "reviews_submitted": 263,
+      "reviews_submitted": 264,
       "prs_reviewed": 62,
-      "approval_rate": 12.9,
-      "avg_response_time": 95.8,
-      "comment_count": 189,
+      "approval_rate": 13.3,
+      "avg_response_time": 95.3,
+      "comment_count": 190,
       "prs_commented_on": 35,
-      "comments_on_reviewed": 189,
-      "avg_comments_on_reviewed": 3.0
+      "comments_on_reviewed": 190,
+      "avg_comments_on_reviewed": 3.1
     },
     {
       "member": "anmolgupta-anthology",
@@ -6459,10 +6459,10 @@
       "display_name": "Srujan Kusuma",
       "team": "Oxygen",
       "period": "ALL",
-      "reviews_submitted": 40,
-      "prs_reviewed": 31,
-      "approval_rate": 45.0,
-      "avg_response_time": 77.2,
+      "reviews_submitted": 41,
+      "prs_reviewed": 32,
+      "approval_rate": 48.8,
+      "avg_response_time": 78.8,
       "comment_count": 25,
       "prs_commented_on": 11,
       "comments_on_reviewed": 25,
@@ -6473,14 +6473,14 @@
       "display_name": "Rajesh",
       "team": "Pandias",
       "period": "ALL",
-      "reviews_submitted": 205,
-      "prs_reviewed": 103,
-      "approval_rate": 38.5,
-      "avg_response_time": 108.2,
-      "comment_count": 115,
-      "prs_commented_on": 27,
-      "comments_on_reviewed": 115,
-      "avg_comments_on_reviewed": 1.1
+      "reviews_submitted": 207,
+      "prs_reviewed": 105,
+      "approval_rate": 38.2,
+      "avg_response_time": 107.2,
+      "comment_count": 121,
+      "prs_commented_on": 28,
+      "comments_on_reviewed": 121,
+      "avg_comments_on_reviewed": 1.2
     },
     {
       "member": "lalithbb",
@@ -6501,13 +6501,13 @@
       "display_name": "Ragavendran",
       "team": "Mars",
       "period": "ALL",
-      "reviews_submitted": 137,
-      "prs_reviewed": 58,
-      "approval_rate": 24.1,
-      "avg_response_time": 114.2,
-      "comment_count": 100,
-      "prs_commented_on": 24,
-      "comments_on_reviewed": 100,
+      "reviews_submitted": 138,
+      "prs_reviewed": 59,
+      "approval_rate": 23.9,
+      "avg_response_time": 113.5,
+      "comment_count": 101,
+      "prs_commented_on": 25,
+      "comments_on_reviewed": 101,
       "avg_comments_on_reviewed": 1.7
     },
     {
@@ -6515,10 +6515,10 @@
       "display_name": "Prasanna Jayasankar",
       "team": "Pandias",
       "period": "ALL",
-      "reviews_submitted": 61,
+      "reviews_submitted": 63,
       "prs_reviewed": 49,
-      "approval_rate": 55.7,
-      "avg_response_time": 69.6,
+      "approval_rate": 55.6,
+      "avg_response_time": 69.8,
       "comment_count": 32,
       "prs_commented_on": 17,
       "comments_on_reviewed": 32,
@@ -6627,42 +6627,42 @@
       "display_name": "Bhuvaneswari S",
       "team": "Supernova",
       "period": "ALL",
-      "reviews_submitted": 74,
+      "reviews_submitted": 75,
       "prs_reviewed": 52,
-      "approval_rate": 55.4,
-      "avg_response_time": 74.6,
-      "comment_count": 36,
-      "prs_commented_on": 13,
-      "comments_on_reviewed": 36,
-      "avg_comments_on_reviewed": 0.7
+      "approval_rate": 57.3,
+      "avg_response_time": 75.6,
+      "comment_count": 39,
+      "prs_commented_on": 14,
+      "comments_on_reviewed": 39,
+      "avg_comments_on_reviewed": 0.8
     },
     {
       "member": "anshu972438",
       "display_name": "Anshu",
       "team": "Supernova",
       "period": "ALL",
-      "reviews_submitted": 99,
+      "reviews_submitted": 103,
       "prs_reviewed": 38,
-      "approval_rate": 28.3,
-      "avg_response_time": 69.5,
-      "comment_count": 61,
+      "approval_rate": 26.2,
+      "avg_response_time": 76.0,
+      "comment_count": 65,
       "prs_commented_on": 11,
-      "comments_on_reviewed": 61,
-      "avg_comments_on_reviewed": 1.6
+      "comments_on_reviewed": 65,
+      "avg_comments_on_reviewed": 1.7
     },
     {
       "member": "pkumarr07",
       "display_name": "Pradeep Kumar R",
       "team": "Nayakas",
       "period": "ALL",
-      "reviews_submitted": 123,
-      "prs_reviewed": 48,
-      "approval_rate": 28.5,
-      "avg_response_time": 123.5,
-      "comment_count": 117,
-      "prs_commented_on": 28,
-      "comments_on_reviewed": 117,
-      "avg_comments_on_reviewed": 2.4
+      "reviews_submitted": 136,
+      "prs_reviewed": 49,
+      "approval_rate": 25.0,
+      "avg_response_time": 127.3,
+      "comment_count": 130,
+      "prs_commented_on": 29,
+      "comments_on_reviewed": 130,
+      "avg_comments_on_reviewed": 2.7
     },
     {
       "member": "omswarooprk",
@@ -6725,14 +6725,14 @@
       "display_name": "Ravi Prakash Tiwari",
       "team": "Celeste",
       "period": "ALL",
-      "reviews_submitted": 74,
-      "prs_reviewed": 36,
-      "approval_rate": 36.5,
-      "avg_response_time": 125.3,
+      "reviews_submitted": 75,
+      "prs_reviewed": 37,
+      "approval_rate": 37.3,
+      "avg_response_time": 125.0,
       "comment_count": 38,
       "prs_commented_on": 9,
       "comments_on_reviewed": 38,
-      "avg_comments_on_reviewed": 1.1
+      "avg_comments_on_reviewed": 1.0
     },
     {
       "member": "tsyed-bbdn",
@@ -9009,6 +9009,36 @@
       "avg_review_cycle": 2.0
     },
     {
+      "member": "arunkumaranth",
+      "display_name": "Arunkumar",
+      "team": "Pandias",
+      "period": "POST_S12",
+      "prs_authored": 9,
+      "avg_pr_age": 100.4,
+      "avg_pr_size": 307.0,
+      "avg_review_cycle": 0.44
+    },
+    {
+      "member": "arunkumaranth",
+      "display_name": "Arunkumar",
+      "team": "Pandias",
+      "period": "S11",
+      "prs_authored": 5,
+      "avg_pr_age": 318.2,
+      "avg_pr_size": 165.8,
+      "avg_review_cycle": 1.2
+    },
+    {
+      "member": "arunkumaranth",
+      "display_name": "Arunkumar",
+      "team": "Pandias",
+      "period": "S12",
+      "prs_authored": 2,
+      "avg_pr_age": 94.0,
+      "avg_pr_size": 449.5,
+      "avg_review_cycle": 0.0
+    },
+    {
       "member": "prasannakumarg32",
       "display_name": "Prasanna Kumar G",
       "team": "Pandias",
@@ -9045,8 +9075,8 @@
       "period": "POST_S12",
       "prs_authored": 9,
       "avg_pr_age": 142.4,
-      "avg_pr_size": 391.4,
-      "avg_review_cycle": 0.89
+      "avg_pr_size": 373.2,
+      "avg_review_cycle": 1.0
     },
     {
       "member": "rag-bbdn",
@@ -9125,7 +9155,7 @@
       "period": "POST_S12",
       "prs_authored": 6,
       "avg_pr_age": 130.8,
-      "avg_pr_size": 275.8,
+      "avg_pr_size": 277.8,
       "avg_review_cycle": 0.33
     },
     {
@@ -9164,8 +9194,8 @@
       "team": "Pallavas",
       "period": "POST_S12",
       "prs_authored": 4,
-      "avg_pr_age": 3.1,
-      "avg_pr_size": 25.5,
+      "avg_pr_age": 13.3,
+      "avg_pr_size": 39.0,
       "avg_review_cycle": 0.5
     },
     {
@@ -9269,36 +9299,6 @@
       "avg_review_cycle": 0.0
     },
     {
-      "member": "arunkumaranth",
-      "display_name": "Arunkumar",
-      "team": "Pandias",
-      "period": "POST_S12",
-      "prs_authored": 8,
-      "avg_pr_age": 100.4,
-      "avg_pr_size": 342.4,
-      "avg_review_cycle": 0.5
-    },
-    {
-      "member": "arunkumaranth",
-      "display_name": "Arunkumar",
-      "team": "Pandias",
-      "period": "S11",
-      "prs_authored": 5,
-      "avg_pr_age": 318.2,
-      "avg_pr_size": 165.8,
-      "avg_review_cycle": 1.2
-    },
-    {
-      "member": "arunkumaranth",
-      "display_name": "Arunkumar",
-      "team": "Pandias",
-      "period": "S12",
-      "prs_authored": 2,
-      "avg_pr_age": 94.0,
-      "avg_pr_size": 449.5,
-      "avg_review_cycle": 0.0
-    },
-    {
       "member": "mohamedtharik8883",
       "display_name": "Mohamed Tharik",
       "team": "Starlite",
@@ -9345,7 +9345,7 @@
       "period": "POST_S12",
       "prs_authored": 12,
       "avg_pr_age": 132.8,
-      "avg_pr_size": 762.4,
+      "avg_pr_size": 777.7,
       "avg_review_cycle": 0.92
     },
     {
@@ -9385,7 +9385,7 @@
       "period": "POST_S12",
       "prs_authored": 4,
       "avg_pr_age": 127.3,
-      "avg_pr_size": 352.5,
+      "avg_pr_size": 351.5,
       "avg_review_cycle": 1.25
     },
     {
@@ -9425,7 +9425,7 @@
       "period": "POST_S12",
       "prs_authored": 9,
       "avg_pr_age": 86.0,
-      "avg_pr_size": 264.6,
+      "avg_pr_size": 274.2,
       "avg_review_cycle": 0.11
     },
     {
@@ -9455,7 +9455,7 @@
       "period": "POST_S12",
       "prs_authored": 4,
       "avg_pr_age": 215.8,
-      "avg_pr_size": 220.8,
+      "avg_pr_size": 224.8,
       "avg_review_cycle": 1.0
     },
     {
@@ -9546,7 +9546,7 @@
       "prs_authored": 8,
       "avg_pr_age": 289.7,
       "avg_pr_size": 76.0,
-      "avg_review_cycle": 0.5
+      "avg_review_cycle": 0.88
     },
     {
       "member": "sharmilahameed",
@@ -9574,8 +9574,8 @@
       "team": "Celeste",
       "period": "POST_S12",
       "prs_authored": 4,
-      "avg_pr_age": 238.4,
-      "avg_pr_size": 167.5,
+      "avg_pr_age": 397.5,
+      "avg_pr_size": 166.5,
       "avg_review_cycle": 0.5
     },
     {
@@ -9636,7 +9636,7 @@
       "prs_authored": 2,
       "avg_pr_age": null,
       "avg_pr_size": 473.5,
-      "avg_review_cycle": 0.5
+      "avg_review_cycle": 1.0
     },
     {
       "member": "vakrams",
@@ -9655,7 +9655,7 @@
       "period": "POST_S12",
       "prs_authored": 5,
       "avg_pr_age": 132.4,
-      "avg_pr_size": 483.6,
+      "avg_pr_size": 485.8,
       "avg_review_cycle": 0.4
     },
     {
@@ -9874,8 +9874,8 @@
       "team": "Cholas",
       "period": "POST_S12",
       "prs_authored": 6,
-      "avg_pr_age": 120.1,
-      "avg_pr_size": 132.2,
+      "avg_pr_age": 173.3,
+      "avg_pr_size": 130.8,
       "avg_review_cycle": 0.83
     },
     {
@@ -9934,7 +9934,7 @@
       "team": "Cholas",
       "period": "POST_S12",
       "prs_authored": 2,
-      "avg_pr_age": null,
+      "avg_pr_age": 316.9,
       "avg_pr_size": 294.0,
       "avg_review_cycle": 0.0
     },
@@ -10095,7 +10095,7 @@
       "period": "POST_S12",
       "prs_authored": 8,
       "avg_pr_age": 227.7,
-      "avg_pr_size": 590.8,
+      "avg_pr_size": 607.1,
       "avg_review_cycle": 0.12
     },
     {
@@ -10125,7 +10125,7 @@
       "period": "POST_S12",
       "prs_authored": 11,
       "avg_pr_age": 123.5,
-      "avg_pr_size": 249.7,
+      "avg_pr_size": 257.7,
       "avg_review_cycle": 0.64
     },
     {
@@ -10286,7 +10286,7 @@
       "prs_authored": 2,
       "avg_pr_age": null,
       "avg_pr_size": 166.5,
-      "avg_review_cycle": 2.0
+      "avg_review_cycle": 2.5
     },
     {
       "member": "omswarooprk",
@@ -10444,8 +10444,8 @@
       "team": "Celeste",
       "period": "ALL",
       "prs_authored": 20,
-      "avg_pr_age": 308.3,
-      "avg_pr_size": 130.8,
+      "avg_pr_age": 341.8,
+      "avg_pr_size": 130.6,
       "avg_review_cycle": 0.5
     },
     {
@@ -10465,7 +10465,7 @@
       "period": "ALL",
       "prs_authored": 22,
       "avg_pr_age": 225.1,
-      "avg_pr_size": 230.4,
+      "avg_pr_size": 234.4,
       "avg_review_cycle": 0.91
     },
     {
@@ -10485,8 +10485,8 @@
       "period": "ALL",
       "prs_authored": 29,
       "avg_pr_age": 317.5,
-      "avg_pr_size": 585.6,
-      "avg_review_cycle": 0.76
+      "avg_pr_size": 580.0,
+      "avg_review_cycle": 0.79
     },
     {
       "member": "suryamadhanlal-5252",
@@ -10494,8 +10494,8 @@
       "team": "Cholas",
       "period": "ALL",
       "prs_authored": 39,
-      "avg_pr_age": 157.5,
-      "avg_pr_size": 253.5,
+      "avg_pr_age": 167.2,
+      "avg_pr_size": 253.2,
       "avg_review_cycle": 0.66
     },
     {
@@ -10525,7 +10525,7 @@
       "period": "ALL",
       "prs_authored": 19,
       "avg_pr_age": 308.9,
-      "avg_pr_size": 311.8,
+      "avg_pr_size": 312.4,
       "avg_review_cycle": 0.79
     },
     {
@@ -10545,7 +10545,7 @@
       "period": "ALL",
       "prs_authored": 15,
       "avg_pr_age": 227.2,
-      "avg_pr_size": 385.6,
+      "avg_pr_size": 394.3,
       "avg_review_cycle": 0.33
     },
     {
@@ -10573,10 +10573,10 @@
       "display_name": "Arunkumar",
       "team": "Pandias",
       "period": "ALL",
-      "prs_authored": 46,
-      "avg_pr_age": 178.9,
-      "avg_pr_size": 343.7,
-      "avg_review_cycle": 0.65
+      "prs_authored": 47,
+      "avg_pr_age": 177.2,
+      "avg_pr_size": 336.9,
+      "avg_review_cycle": 0.64
     },
     {
       "member": "bharathikannaa",
@@ -10625,7 +10625,7 @@
       "period": "ALL",
       "prs_authored": 21,
       "avg_pr_age": 178.5,
-      "avg_pr_size": 547.1,
+      "avg_pr_size": 551.2,
       "avg_review_cycle": 0.48
     },
     {
@@ -10644,7 +10644,7 @@
       "team": "Cholas",
       "period": "ALL",
       "prs_authored": 32,
-      "avg_pr_age": 309.2,
+      "avg_pr_age": 309.7,
       "avg_pr_size": 331.3,
       "avg_review_cycle": 0.66
     },
@@ -10656,7 +10656,7 @@
       "prs_authored": 15,
       "avg_pr_age": 254.3,
       "avg_pr_size": 193.9,
-      "avg_review_cycle": 0.53
+      "avg_review_cycle": 0.74
     },
     {
       "member": "bhuvaneswarisbb",
@@ -10714,8 +10714,8 @@
       "team": "Pallavas",
       "period": "ALL",
       "prs_authored": 9,
-      "avg_pr_age": 106.8,
-      "avg_pr_size": 142.9,
+      "avg_pr_age": 111.3,
+      "avg_pr_size": 148.9,
       "avg_review_cycle": 1.0
     },
     {
@@ -10745,7 +10745,7 @@
       "period": "ALL",
       "prs_authored": 14,
       "avg_pr_age": 165.3,
-      "avg_pr_size": 319.2,
+      "avg_pr_size": 320.1,
       "avg_review_cycle": 0.43
     },
     {
@@ -10805,7 +10805,7 @@
       "period": "ALL",
       "prs_authored": 37,
       "avg_pr_age": 270.7,
-      "avg_pr_size": 641.5,
+      "avg_pr_size": 646.5,
       "avg_review_cycle": 0.76
     },
     {
@@ -10815,7 +10815,7 @@
       "period": "ALL",
       "prs_authored": 18,
       "avg_pr_age": 182.0,
-      "avg_pr_size": 642.3,
+      "avg_pr_size": 642.1,
       "avg_review_cycle": 1.28
     },
     {
@@ -10875,7 +10875,7 @@
       "period": "ALL",
       "prs_authored": 10,
       "avg_pr_age": 342.0,
-      "avg_pr_size": 246.4,
+      "avg_pr_size": 248.0,
       "avg_review_cycle": 1.0
     },
     {
@@ -10896,7 +10896,7 @@
       "prs_authored": 11,
       "avg_pr_age": 113.1,
       "avg_pr_size": 537.5,
-      "avg_review_cycle": 1.09
+      "avg_review_cycle": 1.18
     },
     {
       "member": "vigneshwaransaravanan",
@@ -11026,7 +11026,7 @@
       "prs_authored": 6,
       "avg_pr_age": 448.4,
       "avg_pr_size": 515.7,
-      "avg_review_cycle": 0.83
+      "avg_review_cycle": 1.0
     },
     {
       "member": "subashree-b",
@@ -11049,6 +11049,6 @@
       "avg_review_cycle": 0.0
     }
   ],
-  "total_prs": 517,
-  "fetched_at": "2026-07-22 15:43:44"
+  "total_prs": 518,
+  "fetched_at": "2026-07-23 06:37:39"
 }

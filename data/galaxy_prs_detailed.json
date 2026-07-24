@@ -1,10 +1,100 @@
 [
   {
+    "number": 17614,
+    "title": "AB#690270 - Grid view search displays incorrect results submission receipt",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17614"
+  },
+  {
+    "number": 17611,
+    "title": "Bugfix/ab-689407-implement-grade-detail-confirmation-modal-grid-interactions",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17611"
+  },
+  {
+    "number": 17610,
+    "title": "Bugfix/AB#691949 sync gradebook column visibility on content save",
+    "author_login": "gowthamanpalani",
+    "author_name": "Gowthaman Palani",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17610"
+  },
+  {
+    "number": 17609,
+    "title": "AB#691861 - Fix overall grade override points conversion in grid view",
+    "author_login": "PriyadarshiniSaravanan",
+    "author_name": "Priyadarshini S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-07-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17609"
+  },
+  {
     "number": 17600,
     "title": "Feature/AB#691811 Move banner from home to tabbedHome",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-07-23",
@@ -33,9 +123,10 @@
     "created_at": "2026-07-23",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -78,13 +169,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17589"
@@ -102,11 +192,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -168,12 +258,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -213,10 +303,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -305,11 +395,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -372,11 +462,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
+      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -515,11 +605,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -553,12 +643,12 @@
     "title": "Bugfix/AB#689916 - Truncated column header text is only available on mouse hover",
     "author_login": "VigneshwaranSaravanan",
     "author_name": "Vigneshwaran S",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-17",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-24",
+    "closed_at": "2026-07-24",
     "approvals": [
       "ces",
       "team",
@@ -810,17 +900,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "davtohbb"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17437"
   },
   {
@@ -994,15 +1081,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "bbnkamper",
       "dsoto-bb"
     ],
     "changes_addressed": "no",
@@ -1216,12 +1302,12 @@
     "title": "AB#575635- Overall grade pill for Keyboard interactions New Grid view",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-13",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-24",
+    "closed_at": "2026-07-24",
     "approvals": [
       "ces",
       "team",
@@ -1245,15 +1331,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [
-      "bbnkamper",
       "covertcj"
     ],
     "changes_addressed": "no",
@@ -1474,12 +1559,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "vs"
     ],
     "pending": [
+      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1726,11 +1811,10 @@
     "approvals": [
       "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17331"
@@ -1852,23 +1936,22 @@
     "title": "AB#578888 view gradebook metadata entitlement change in old and new gradebook view",
     "author_login": "PriyadarshiniSaravanan",
     "author_name": "Priyadarshini S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-07-08",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "kirubakaranrbb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17315"
   },
   {
@@ -2085,7 +2168,7 @@
     "title": "Feature/AB#672809 - Add unsaved changes confirmation when closing Settings peek panel or switching tabs",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-07",
@@ -2175,12 +2258,12 @@
     "title": "Bugfix/AB#575334 -Instructors Cannot Post Grades For Attempts For Content That Have Automatic Zeros Given And Set To Manually Post Grades",
     "author_login": "Subashree-b",
     "author_name": "Subashree B",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-07-07",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-24",
     "approvals": [
       "team",
       "tech"
@@ -3129,11 +3212,10 @@
     "approvals": [
       "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17156"
@@ -4225,6 +4307,28 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17015"
   },
   {
+    "number": 8606,
+    "title": "AB#672097- Display name changed to actual name after copy the content",
+    "author_login": "sharmilahameed",
+    "author_name": "Sharmila Begam Hameed",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Mars",
+    "created_at": "2026-07-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8606"
+  },
+  {
     "number": 8600,
     "title": "Bugfix/AB#690550 Guest Access follow-up security and API fixes",
     "author_login": "harshitha786",
@@ -4319,23 +4423,22 @@
     "title": "AB#578569 Update add and delete query for high enrolment users",
     "author_login": "MartinRodgers0007",
     "author_name": "Martin Rodgers",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-07-22",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "skarunanithi20"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8584"
   },
   {
@@ -4433,17 +4536,17 @@
     "title": "Bugfix/AB#576446 - Fix: Anonymous item submission counts wrong after release condition change",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-07-21",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -4871,6 +4974,7 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
+      "lanceneumannblackboard",
       "sharmilahameed"
     ],
     "changes_addressed": "no",
@@ -5052,17 +5156,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "brittanytang"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8480"
   },
   {
@@ -5209,12 +5310,12 @@
     "title": "Bugfix/AB#497794 Fix password entitlement bypass properties modify",
     "author_login": "omswarooprk",
     "author_name": "Om Swaroop R K",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-24",
+    "closed_at": "2026-07-24",
     "approvals": [
       "ces",
       "team",

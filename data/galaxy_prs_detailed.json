@@ -11,12 +11,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -94,16 +94,17 @@
     "title": "Bugfix/AB#691843 Todo panel count not updating after grid view grade edit",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-22",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -296,7 +297,7 @@
     "title": "Bugfix/AB#691692-Grade Schemas Are Displayed Instead of Grades in the Gradebook Sidebar for Add Calculation and Add Total Calculation",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-21",
@@ -529,7 +530,7 @@
     "title": "Bugfix/AB#688651-Up/Down Arrow Navigation issue in safari ",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-17",
@@ -809,12 +810,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "davtohbb"
@@ -2091,10 +2092,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -4224,296 +4225,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17015"
   },
   {
-    "number": 17003,
-    "title": "feature/AB#684472-discussion-grade-details-panel-uia",
-    "author_login": "AshwinArumugamMani",
-    "author_name": "Ashwin Arumugam Mani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17003"
-  },
-  {
-    "number": 16996,
-    "title": "Bugfix/AB#686519-update current when  when cell have error and attempt un edit mode",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16996"
-  },
-  {
-    "number": 16992,
-    "title": "AB#686264- changes added for border break",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": "2026-07-01",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16992"
-  },
-  {
-    "number": 16991,
-    "title": "Bugfix/AB#686402 keyboard focus does not move to assessment detail panel when opened",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16991"
-  },
-  {
-    "number": 16989,
-    "title": "Bugfix/AB#685820 - Attendance Column Sort Breaks After Changing Attendance Value ",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16989"
-  },
-  {
-    "number": 16988,
-    "title": "Bugfix/AB#686374 - Improve accessibility of Gradebook side panels by adding named landmark regions",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16988"
-  },
-  {
-    "number": 16987,
-    "title": "Bugfix/AB#684005 - Fix keyboard focus restoration in Grade Detail feedback panels",
-    "author_login": "ranjith-r-anthology",
-    "author_name": "Ranjith Ramasamy",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Celeste",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-07-23",
-    "closed_at": "2026-07-23",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16987"
-  },
-  {
-    "number": 16986,
-    "title": "Feature/AB#686536-column level cell validation and save fix bb-ui version bump",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16986"
-  },
-  {
-    "number": 16985,
-    "title": " bugfix/AB#686402-keyboard focus does not move to assessment detail panel when opened",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": "2026-06-23",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16985"
-  },
-  {
-    "number": 16984,
-    "title": "bugfix/AB#686402-keyboard focus doesn't move to assessment detail-panel when opened",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": "2026-06-23",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16984"
-  },
-  {
-    "number": 16982,
-    "title": "AB#684914-refresh issue fix for item exception",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16982"
-  },
-  {
-    "number": 16980,
-    "title": "AB#684914-refresh issue fix for group Accommodation",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16980"
-  },
-  {
-    "number": 16979,
-    "title": "AB#685706-Feedback Added in Discussion Is Not Displayed in the Grade Details Panel",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-23",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/16979"
-  },
-  {
     "number": 8600,
     "title": "Bugfix/AB#690550 Guest Access follow-up security and API fixes",
     "author_login": "harshitha786",
@@ -4910,11 +4621,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -5223,10 +4934,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5664,13 +5375,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "varju"
     ],
@@ -5721,27 +5431,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8383"
-  },
-  {
-    "number": 8375,
-    "title": "AB#684504 - Spike - PoC LTI 1.3 Added embed in deep_linking_settings",
-    "author_login": "vakrams",
-    "author_name": "Vakram S",
-    "state": "Draft",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-06-23",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8375"
   }
 ]

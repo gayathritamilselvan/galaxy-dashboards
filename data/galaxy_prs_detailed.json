@@ -101,12 +101,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -191,13 +191,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17579"
@@ -508,13 +507,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17533"
@@ -604,13 +602,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17512"
@@ -717,12 +714,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1156,8 +1153,10 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17403"
   },
   {
@@ -2674,13 +2673,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [],
+    "pending": [
+      "CES Approval"
+    ],
     "changes_requested_by": [
+      "bbnkamper",
       "toni-d1"
     ],
     "changes_addressed": "no",
@@ -4082,231 +4083,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17043"
   },
   {
-    "number": 17033,
-    "title": "bugfix/AB#682503-Implement-UIA-Edit-cell",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-24",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17033"
-  },
-  {
-    "number": 17032,
-    "title": "bugfix/AB#684004-Gradebook-redesign mastery-test",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-24",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17032"
-  },
-  {
-    "number": 17029,
-    "title": "ax testing demo instance",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": "2026-07-01",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17029"
-  },
-  {
-    "number": 17024,
-    "title": "Bugfix/AB#684755 - \"Oops, Something Broke\" error is displayed when reducing Allowed Attempts via Add/Edit Exception after updating accommodations",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-24",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17024"
-  },
-  {
-    "number": 17020,
-    "title": "Bugfix - AB#686535 - New Gradebook Grid View - Overall grade pill becomes blank when override value is cleared",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-24",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17020"
-  },
-  {
-    "number": 17019,
-    "title": "AB#684250 Peer review button navigation",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-24",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17019"
-  },
-  {
-    "number": 17018,
-    "title": "feature/AB#685117-new-gradebook-view-accommodation-UIA",
-    "author_login": "DineshRajendranBB",
-    "author_name": "Dinesh Rajendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-24",
-    "merged_at": "2026-06-24",
-    "closed_at": "2026-06-24",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17018"
-  },
-  {
-    "number": 17017,
-    "title": "AB#684826- Cleared \"Access From\" and \"Access Until\" accommodation dates for a Group Test are restored after page refresh",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-24",
-    "merged_at": "2026-07-06",
-    "closed_at": "2026-07-06",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17017"
-  },
-  {
-    "number": 17016,
-    "title": "Bugfix/AB#684004-Gradebook-redesign mastery-ptid=4381",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": "2026-06-24",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17016"
-  },
-  {
-    "number": 17015,
-    "title": "Feature/AB#TBD Freeze row order during grade-sorted edit mode",
-    "author_login": "gowthamanpalani",
-    "author_name": "Gowthaman Palani",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": "2026-07-06",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17015"
-  },
-  {
     "number": 8606,
     "title": "AB#672097- Display name changed to actual name after copy the content",
     "author_login": "sharmilahameed",
@@ -4340,12 +4116,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -5463,74 +5239,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8403"
-  },
-  {
-    "number": 8392,
-    "title": "AB#684044 - Graders can see assessment attempts of students not assigned to them in parallel grading",
-    "author_login": "PriyadarshiniSaravanan",
-    "author_name": "Priyadarshini S",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Elite",
-    "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "varju"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8392"
-  },
-  {
-    "number": 8386,
-    "title": "AB#523331: One SIS Integration enrollment record failure in a Snapshot Flat-File Causes Rest of Records To Fail",
-    "author_login": "pkumarr07",
-    "author_name": "Pradeep Kumar R",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-06-24",
-    "merged_at": "2026-07-09",
-    "closed_at": "2026-07-09",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8386"
-  },
-  {
-    "number": 8383,
-    "title": "AB#684504: Spike-PoC Ensure EULA launch JWT complies with 1EdTech LTI EULA Message spec",
-    "author_login": "Dinesh-Chandra832",
-    "author_name": "Dinesh Chandra",
-    "state": "Draft",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-06-24",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8383"
   }
 ]

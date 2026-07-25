@@ -9125,8 +9125,8 @@
       "period": "POST_S12",
       "prs_authored": 6,
       "avg_pr_age": 132.4,
-      "avg_pr_size": 473.8,
-      "avg_review_cycle": 0.33
+      "avg_pr_size": 504.8,
+      "avg_review_cycle": 0.5
     },
     {
       "member": "anmolgupta-anthology",
@@ -9776,7 +9776,7 @@
       "prs_authored": 9,
       "avg_pr_age": 136.4,
       "avg_pr_size": 220.7,
-      "avg_review_cycle": 0.33
+      "avg_review_cycle": 0.44
     },
     {
       "member": "subbalakshmi-bb",
@@ -10085,7 +10085,7 @@
       "period": "POST_S12",
       "prs_authored": 3,
       "avg_pr_age": null,
-      "avg_pr_size": 441.7,
+      "avg_pr_size": 444.0,
       "avg_review_cycle": 0.33
     },
     {
@@ -10255,7 +10255,7 @@
       "period": "POST_S12",
       "prs_authored": 3,
       "avg_pr_age": null,
-      "avg_pr_size": 463.0,
+      "avg_pr_size": 459.0,
       "avg_review_cycle": 2.33
     },
     {
@@ -10335,7 +10335,7 @@
       "period": "POST_S12",
       "prs_authored": 1,
       "avg_pr_age": null,
-      "avg_pr_size": 1026.0,
+      "avg_pr_size": 999.0,
       "avg_review_cycle": 3.0
     },
     {
@@ -10525,8 +10525,8 @@
       "period": "ALL",
       "prs_authored": 20,
       "avg_pr_age": 299.1,
-      "avg_pr_size": 317.5,
-      "avg_review_cycle": 0.75
+      "avg_pr_size": 326.8,
+      "avg_review_cycle": 0.8
     },
     {
       "member": "subbalakshmi-bb",
@@ -10536,7 +10536,7 @@
       "prs_authored": 28,
       "avg_pr_age": 263.4,
       "avg_pr_size": 219.3,
-      "avg_review_cycle": 0.5
+      "avg_review_cycle": 0.53
     },
     {
       "member": "pkumarr07",
@@ -10795,7 +10795,7 @@
       "period": "ALL",
       "prs_authored": 9,
       "avg_pr_age": 355.5,
-      "avg_pr_size": 209.1,
+      "avg_pr_size": 206.1,
       "avg_review_cycle": 1.22
     },
     {
@@ -10955,7 +10955,7 @@
       "period": "ALL",
       "prs_authored": 9,
       "avg_pr_age": 145.0,
-      "avg_pr_size": 1653.1,
+      "avg_pr_size": 1651.8,
       "avg_review_cycle": 1.33
     },
     {
@@ -10965,7 +10965,7 @@
       "period": "ALL",
       "prs_authored": 9,
       "avg_pr_age": 158.7,
-      "avg_pr_size": 378.3,
+      "avg_pr_size": 379.1,
       "avg_review_cycle": 0.22
     },
     {
@@ -11050,5 +11050,5 @@
     }
   ],
   "total_prs": 529,
-  "fetched_at": "2026-07-24 15:30:59"
+  "fetched_at": "2026-07-25 06:16:48"
 }

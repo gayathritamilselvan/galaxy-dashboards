@@ -9015,7 +9015,7 @@
       "period": "POST_S12",
       "prs_authored": 14,
       "avg_pr_age": 117.1,
-      "avg_pr_size": 183.4,
+      "avg_pr_size": 183.6,
       "avg_review_cycle": 0.57
     },
     {
@@ -9084,7 +9084,7 @@
       "team": "Elite",
       "period": "POST_S12",
       "prs_authored": 4,
-      "avg_pr_age": null,
+      "avg_pr_age": 918.6,
       "avg_pr_size": 278.2,
       "avg_review_cycle": 1.5
     },
@@ -9985,7 +9985,7 @@
       "period": "POST_S12",
       "prs_authored": 6,
       "avg_pr_age": 277.0,
-      "avg_pr_size": 149.8,
+      "avg_pr_size": 149.2,
       "avg_review_cycle": 0.33
     },
     {
@@ -10635,7 +10635,7 @@
       "period": "ALL",
       "prs_authored": 24,
       "avg_pr_age": 372.8,
-      "avg_pr_size": 258.0,
+      "avg_pr_size": 257.9,
       "avg_review_cycle": 0.25
     },
     {
@@ -10944,7 +10944,7 @@
       "team": "Elite",
       "period": "ALL",
       "prs_authored": 10,
-      "avg_pr_age": 398.7,
+      "avg_pr_age": 629.8,
       "avg_pr_size": 208.1,
       "avg_review_cycle": 1.4
     },
@@ -11050,5 +11050,5 @@
     }
   ],
   "total_prs": 529,
-  "fetched_at": "2026-07-26 06:39:22"
+  "fetched_at": "2026-07-26 15:08:40"
 }

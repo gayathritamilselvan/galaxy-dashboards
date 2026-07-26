@@ -4,7 +4,7 @@
     "title": "AB#690270 - Grid view search displays incorrect results submission receipt",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-24",
@@ -3880,209 +3880,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17082"
   },
   {
-    "number": 17078,
-    "title": "feature/AB#5634590-revert-azure-check",
-    "author_login": "Ram-G-BB",
-    "author_name": "Ram G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-25",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "vs"
-    ],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17078"
-  },
-  {
-    "number": 17066,
-    "title": "AB#686284- Version bump changes for border split",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-25",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17066"
-  },
-  {
-    "number": 17065,
-    "title": "AB#686309 Overall Feedback is not clearing properly",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-25",
-    "merged_at": null,
-    "closed_at": "2026-07-21",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17065"
-  },
-  {
-    "number": 17063,
-    "title": "AB#686528-Incorrect icon is displayed for the Note to Student section",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-25",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17063"
-  },
-  {
-    "number": 17061,
-    "title": "oven check",
-    "author_login": "Ram-G-BB",
-    "author_name": "Ram G",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-25",
-    "merged_at": null,
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17061"
-  },
-  {
-    "number": 17056,
-    "title": "Bugfix/ab 685894 bugbash tablet view fixes",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-25",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17056"
-  },
-  {
-    "number": 17051,
-    "title": "AB#685894 -Fix banner visibility logic and load-time flickering in New Gradebook Grid View",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-25",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17051"
-  },
-  {
-    "number": 17049,
-    "title": "Bugfix/AB#684944 Prevent row jumping on grade edit when sort is active",
-    "author_login": "gowthamanpalani",
-    "author_name": "Gowthaman Palani",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-25",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17049"
-  },
-  {
-    "number": 17043,
-    "title": "bugfix/AB#580496-new-gradebook-view-PTID=3791-4919-4947",
-    "author_login": "DineshRajendranBB",
-    "author_name": "Dinesh Rajendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-06-25",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17043"
-  },
-  {
     "number": 8606,
     "title": "AB#672097- Display name changed to actual name after copy the content",
     "author_login": "sharmilahameed",
@@ -4296,11 +4093,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -5161,12 +4958,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",

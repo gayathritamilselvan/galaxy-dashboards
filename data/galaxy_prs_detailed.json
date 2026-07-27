@@ -1,5 +1,95 @@
 [
   {
+    "number": 17640,
+    "title": "AB#544882 - New Course Outline. The place-holder content with upload throbber is not removed when the upload fails due to quota excess",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-07-27",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17640"
+  },
+  {
+    "number": 17639,
+    "title": "Feature/AB#688918 Add File Size to Submission Details in Gradebook Grade Detail View Panel",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-27",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17639"
+  },
+  {
+    "number": 17625,
+    "title": "AB#684837-[Editor] Formatting Multi-Line Code into Code Block creates multiple Code Blocks",
+    "author_login": "kesavanazhagarsamy",
+    "author_name": "Kesavan Azhagarsamy",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-07-27",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17625"
+  },
+  {
+    "number": 17623,
+    "title": "Bugfix/AB#692301 -Implement fix for focus purple line in grid table when model is edited",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-27",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17623"
+  },
+  {
     "number": 17614,
     "title": "AB#690270 - Grid view search displays incorrect results submission receipt",
     "author_login": "MohamedTharik8883",
@@ -11,10 +101,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -94,12 +184,12 @@
     "title": "Feature/AB#691811 Move banner from home to tabbedHome",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-07-23",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-27",
+    "closed_at": "2026-07-27",
     "approvals": [
       "ces",
       "team",
@@ -137,7 +227,7 @@
   },
   {
     "number": 17593,
-    "title": "Feature/AB#688128 add last access grid view",
+    "title": "Feature/AB#688128-Add a \"last Access\" toggle into gradebook settings for displaying the info in the grid",
     "author_login": "LalithBB",
     "author_name": "Lalith",
     "state": "Draft",
@@ -212,12 +302,13 @@
     "created_at": "2026-07-22",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "vs"
+    ],
     "pending": [
       "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -295,7 +386,7 @@
     "title": "Feature/AB#672809 - Unsaved changes confirmation when switching tabs for document and LM",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-21",
@@ -303,11 +394,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -386,20 +477,19 @@
     "title": "Bugfix/AB#691692-Grade Schemas Are Displayed Instead of Grades in the Gradebook Sidebar for Add Calculation and Add Total Calculation",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-21",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-27",
+    "closed_at": "2026-07-27",
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17551"
@@ -461,12 +551,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1085,10 +1175,8 @@
       "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "dsoto-bb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17407"
   },
   {
@@ -1484,12 +1572,12 @@
     "title": "Bugfix/AB#689163  Grade Detail Accommodation: Permissions & Read-Only Panel for Non-entitled Users ",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-10",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-27",
+    "closed_at": "2026-07-27",
     "approvals": [
       "ces",
       "team",
@@ -1551,7 +1639,7 @@
     "title": "AB#690007 Add Skip navigation links to Flashcard review page",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-10",
@@ -1656,8 +1744,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "bbnkamper"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17347"
   },
   {
@@ -1779,12 +1869,12 @@
     "title": "AB#688945 Ax issue for grade posted confirmation",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-27",
+    "closed_at": "2026-07-27",
     "approvals": [
       "ces",
       "team",
@@ -2181,8 +2271,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "priceld"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17285"
   },
   {
@@ -2327,12 +2419,12 @@
     "title": "Bugfix/AB#683288-Submitted field in Grade Grid Details Panel does not update immediately for graded journals after subsequent submissions",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-27",
+    "closed_at": "2026-07-27",
     "approvals": [
       "ces",
       "team",
@@ -3630,6 +3722,97 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17110"
   },
   {
+    "number": 8617,
+    "title": "feature/AB#692356-Expose the Username field in the User Configuration API only when it is enabled in Admin \u2192 Customize User Information",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-27",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8617"
+  },
+  {
+    "number": 8616,
+    "title": "Bugfix/AB#691424 - Backport-4000.21.0-calculated-column-calculation-issue",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-27",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8616"
+  },
+  {
+    "number": 8613,
+    "title": "feature/AB#692317-Username get/save update in DB from gradebook setting page",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-27",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8613"
+  },
+  {
+    "number": 8612,
+    "title": "Feature/AB#691992 - Add backend support for gradebook settings \"Last access\" display toggle",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-27",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8612"
+  },
+  {
     "number": 8611,
     "title": "AB#669069-Ultra access codes come back after being disabled/removed",
     "author_login": "kalimuthupalraj",
@@ -3640,9 +3823,10 @@
     "created_at": "2026-07-27",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -3927,12 +4111,12 @@
     "title": "Bugfix/AB#691424 - Fix: calculated column shows 0 points possible when a deleted/ghost formula precedes it",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-07-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-27",
+    "closed_at": "2026-07-27",
     "approvals": [
       "ces",
       "team",

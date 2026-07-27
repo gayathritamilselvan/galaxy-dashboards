@@ -206,7 +206,7 @@
     "title": "AB#691846 - Spectator role can access grade submission and post individual grade button",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-22",
@@ -250,7 +250,7 @@
     "title": "Bugfix/AB#689919 - Heading level skipped (H1 to H3, missing H2)",
     "author_login": "VigneshwaranSaravanan",
     "author_name": "Vigneshwaran S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-22",
@@ -753,12 +753,12 @@
     "title": "Bugfix/AB#689582 Add Show Less to Todo Panel in New Grid View",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-27",
+    "closed_at": "2026-07-27",
     "approvals": [
       "ces",
       "team",
@@ -2175,11 +2175,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3204,12 +3204,12 @@
     "title": "AB#505832 Students can not submit when the internet reconnected",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-06-30",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-27",
+    "closed_at": "2026-07-27",
     "approvals": [
       "ces",
       "team",
@@ -3630,254 +3630,48 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17110"
   },
   {
-    "number": 17102,
-    "title": "AB#686771 Grade detail panel form group view submission navigation issue fix",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-07-01",
-    "closed_at": "2026-07-01",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17102"
-  },
-  {
-    "number": 17098,
-    "title": "feature/AB#678457 - Created the permissions settings component localisation changes",
-    "author_login": "kesavanazhagarsamy",
-    "author_name": "Kesavan Azhagarsamy",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-07-06",
-    "closed_at": "2026-07-06",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17098"
-  },
-  {
-    "number": 17097,
-    "title": "AB#686151 - Handled flickerig issue on horizontal scroll in new grid view",
-    "author_login": "Subashree-b",
-    "author_name": "Subashree B",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-26",
+    "number": 8611,
+    "title": "AB#669069-Ultra access codes come back after being disabled/removed",
+    "author_login": "kalimuthupalraj",
+    "author_name": "Kalimuthu Palraj",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-07-27",
     "merged_at": null,
-    "closed_at": "2026-07-07",
-    "approvals": [
-      "team"
-    ],
+    "closed_at": null,
+    "approvals": [],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "vigneshwaransaravanan"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17097"
-  },
-  {
-    "number": 17095,
-    "title": "bugfix/AB#679615-Gradebook-redesign-ptid-170,3007",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-06-28",
-    "closed_at": "2026-06-28",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
+      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17095"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8611"
   },
   {
-    "number": 17094,
-    "title": "AB#686182 - Edit Cell Lost Focus While Scrolling - New Gradebook Grid View",
-    "author_login": "BharathiKannaa",
-    "author_name": "Bharathi Kanna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
+    "number": 8610,
+    "title": "AB#690063 Fix: Node Administrators unable to copy content into Node LOR due to incorrect entitlement check",
+    "author_login": "Anshu972438",
+    "author_name": "Anshu",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Supernova",
+    "created_at": "2026-07-27",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
     "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17094"
-  },
-  {
-    "number": 17093,
-    "title": "bugfix/AB#687511 - Overall Grade validation missing for invalid comma input in Grade Grid",
-    "author_login": "AsmirKhan7",
-    "author_name": "Asmir Khan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17093"
-  },
-  {
-    "number": 17090,
-    "title": "Bugfix/AB#568743 implement UI a for new grade grid view",
-    "author_login": "mjaifank",
-    "author_name": "Mjaifan K",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
+      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17090"
-  },
-  {
-    "number": 17089,
-    "title": "Bugfix/AB#686782 -Fix Grade details panel becomes blank after sorting the column",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17089"
-  },
-  {
-    "number": 17085,
-    "title": "feature/AB#687473-grade-details-panel-anonymous-banner-build-break-uia",
-    "author_login": "AshwinArumugamMani",
-    "author_name": "Ashwin Arumugam Mani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-06-26",
-    "closed_at": "2026-06-26",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17085"
-  },
-  {
-    "number": 17083,
-    "title": "Bugfix/AB#687483 Keyboard Navigation for Direct Grade Mapping Clear Dialog",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17083"
-  },
-  {
-    "number": 17082,
-    "title": "Bugfix/AB#687483 Keyboard Navigation for Group Content Dialog in Edit Cell",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17082"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8610"
   },
   {
     "number": 8606,
@@ -3897,8 +3691,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "rag-bbdn"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8606"
   },
   {
@@ -4095,11 +3891,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8572"
@@ -5013,28 +4808,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8407"
-  },
-  {
-    "number": 8403,
-    "title": "AB#579061-Improper setting of child courses to available by feed file",
-    "author_login": "ravi-anthology",
-    "author_name": "Ravi Prakash Tiwari",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Celeste",
-    "created_at": "2026-06-26",
-    "merged_at": "2026-07-13",
-    "closed_at": "2026-07-13",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8403"
   }
 ]

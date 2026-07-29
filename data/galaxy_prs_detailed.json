@@ -1,12 +1,34 @@
 [
   {
-    "number": 17674,
-    "title": "Feature/AB#688918 Add File Size to Submission Details in Gradebook Grade Detail - Backport 4000.21.0",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
+    "number": 17688,
+    "title": "Bugfix/AB#692002 Implement Offline Download Include only Assigned Students",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
     "state": "Draft",
     "repo": "Ultra",
     "team": "Pandias",
+    "created_at": "2026-07-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17688"
+  },
+  {
+    "number": 17686,
+    "title": "AB#690270 - Grid view search displays incorrect results submission receipt Backport PR",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
     "created_at": "2026-07-29",
     "merged_at": null,
     "closed_at": null,
@@ -20,6 +42,117 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17686"
+  },
+  {
+    "number": 17685,
+    "title": " AB#693102-Integrated forced sequence support for AI flashcard learning activities",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-07-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17685"
+  },
+  {
+    "number": 17683,
+    "title": " AB#693102-Integrated forced sequence support for AI flashcard learning activities",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Closed",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-07-29",
+    "merged_at": null,
+    "closed_at": "2026-07-29",
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17683"
+  },
+  {
+    "number": 17680,
+    "title": "bugfix/AB#539328-Deletion of folders/modules causes false warnings during batch edit",
+    "author_login": "MartinRodgers0007",
+    "author_name": "Martin Rodgers",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17680"
+  },
+  {
+    "number": 17679,
+    "title": "Bugfix/AB#692316 - Show send remainder count based on the content release condition",
+    "author_login": "VigneshwaranSaravanan",
+    "author_name": "Vigneshwaran S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-07-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17679"
+  },
+  {
+    "number": 17674,
+    "title": "Feature/AB#688918 Add File Size to Submission Details in Gradebook Grade Detail - Backport 4000.21.0",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17674"
   },
   {
@@ -27,7 +160,7 @@
     "title": "AB#551693 Forbidden error modal for students on graded-discussion rubric view",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-07-28",
@@ -101,12 +234,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1119,15 +1252,16 @@
     "title": "AB#684390-Kaltura video embed fails to show to students in fill in the blanks questions",
     "author_login": "kalimuthupalraj",
     "author_name": "Kalimuthu Palraj",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-07-15",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -1381,8 +1515,10 @@
     "pending": [
       "Tech Lead Review"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "ewpreston"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17407"
   },
   {
@@ -3902,6 +4038,51 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17116"
   },
   {
+    "number": 8641,
+    "title": "AB#688550 Eliminate N+1 classmate DB queries in UserRestService",
+    "author_login": "AnbalaganGanesan",
+    "author_name": "Anbalagan Ganesan",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-07-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "vs"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8641"
+  },
+  {
+    "number": 8639,
+    "title": "AB#691473 - Specific members or users rule excludes other rules from release conditions ultra",
+    "author_login": "Subashree-b",
+    "author_name": "Subashree B",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Elite",
+    "created_at": "2026-07-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8639"
+  },
+  {
     "number": 8632,
     "title": "AB#565046 Fix intermittent S3 connection loss in A4L B2 by adding getProxySelector permission",
     "author_login": "sharmilahameed",
@@ -4349,11 +4530,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8571"
@@ -4407,12 +4587,12 @@
     "title": "Bugfix/AB#690299 - Fix gradebook group count not updating after deleting a group (new Groups UI)",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-07-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-29",
+    "closed_at": "2026-07-29",
     "approvals": [
       "ces",
       "team",
@@ -4676,22 +4856,23 @@
     ],
     "changes_requested_by": [
       "brittanytang",
-      "lanceneumannblackboard"
+      "lanceneumannblackboard",
+      "sakthi-selvapriya"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8526"
   },
   {
     "number": 8525,
-    "title": "AB#688550 Eliminate N+1 classmate DB queries in UserRestService",
+    "title": "AB#688550 Eliminate N-Plus-1 classmate DB queries in UserRestService",
     "author_login": "AnbalaganGanesan",
     "author_name": "Anbalagan Ganesan",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-15",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-29",
     "approvals": [
       "team"
     ],
@@ -4740,12 +4921,12 @@
     "title": "Feature/AB#690196: Add LTI Platform Notification Service (PNS) claim to LTI 1.3 launches (M1)",
     "author_login": "Dinesh-Chandra832",
     "author_name": "Dinesh Chandra",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-07-14",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-29",
+    "closed_at": "2026-07-29",
     "approvals": [
       "ces",
       "team",
@@ -4769,10 +4950,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],

@@ -1,5 +1,28 @@
 [
   {
+    "number": 17674,
+    "title": "Feature/AB#688918 Add File Size to Submission Details in Gradebook Grade Detail - Backport 4000.21.0",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-29",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17674"
+  },
+  {
     "number": 17660,
     "title": "AB#551693 Forbidden error modal for students on graded-discussion rubric view",
     "author_login": "manojchandrashekar29",
@@ -10,9 +33,10 @@
     "created_at": "2026-07-28",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -579,7 +603,9 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "priceld"
+      "covertcj",
+      "priceld",
+      "stormojm"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17559"
@@ -3876,28 +3902,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17116"
   },
   {
-    "number": 17110,
-    "title": "Bugfix/ab 684421 gradebook redesign refactor",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-28",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17110"
-  },
-  {
     "number": 8632,
     "title": "AB#565046 Fix intermittent S3 connection loss in A4L B2 by adding getProxySelector permission",
     "author_login": "sharmilahameed",
@@ -4090,17 +4094,16 @@
     "created_at": "2026-07-27",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "skarunanithi20"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8610"
   },
   {
@@ -4237,8 +4240,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "bbsaraswathikanniappan"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8584"
   },
   {
@@ -4554,7 +4559,6 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "esnadoval",
       "johnwalthallbb"
     ],
     "changes_addressed": "no",

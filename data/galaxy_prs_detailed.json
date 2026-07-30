@@ -1,5 +1,27 @@
 [
   {
+    "number": 17702,
+    "title": "Feature/AB#692720 Display the searched receipt ID details in the Submission Details section of the Grade Details panel",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-30",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17702"
+  },
+  {
     "number": 17688,
     "title": "Bugfix/AB#692002 Implement Offline Download Include only Assigned Students",
     "author_login": "rajeshblackboard",
@@ -26,7 +48,7 @@
     "title": "AB#690270 - Grid view search displays incorrect results submission receipt Backport PR",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-29",
@@ -93,16 +115,17 @@
     "title": "bugfix/AB#539328-Deletion of folders/modules causes false warnings during batch edit",
     "author_login": "MartinRodgers0007",
     "author_name": "Martin Rodgers",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-29",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -137,12 +160,12 @@
     "title": "Feature/AB#688918 Add File Size to Submission Details in Gradebook Grade Detail - Backport 4000.21.0",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-29",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-30",
+    "closed_at": "2026-07-30",
     "approvals": [
       "team",
       "tech",
@@ -205,17 +228,17 @@
     "title": "AB#691862 fix: grade pill not updating after deactivating full credit on Essay questions",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-28",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -228,12 +251,12 @@
     "title": "Feature/AB#691820 HomeTabs component and tab visibility state",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-07-28",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-30",
+    "closed_at": "2026-07-30",
     "approvals": [
       "ces",
       "team",
@@ -349,14 +372,16 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17640"
   },
   {
@@ -3744,6 +3769,29 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17145"
   },
   {
+    "number": 8653,
+    "title": "bugfix/AB#693258-gradebook setting studentId and nameFormat - import export copy support",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-30",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8653"
+  },
+  {
     "number": 8649,
     "title": "Bugfix/AB#664256 -Draft-TLA-fix",
     "author_login": "ranjith-r-anthology",
@@ -3784,8 +3832,10 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "timkack"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8641"
   },
   {
@@ -3933,17 +3983,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "lanceneumannblackboard"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8613"
   },
   {
@@ -4006,10 +4053,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -4980,12 +5027,12 @@
     "title": "Bugfix/AB#684180 - Prevent HTTP 414 after large package upload in Ultra content picker",
     "author_login": "Dinesh-Chandra832",
     "author_name": "Dinesh Chandra",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-07-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-30",
+    "closed_at": "2026-07-30",
     "approvals": [
       "ces",
       "team",

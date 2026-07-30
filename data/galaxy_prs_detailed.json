@@ -33,10 +33,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -211,9 +211,10 @@
     "created_at": "2026-07-28",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -497,7 +498,7 @@
     "title": "AB#691861 - Fix overall grade override points conversion in grid view",
     "author_login": "PriyadarshiniSaravanan",
     "author_name": "Priyadarshini S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-07-24",
@@ -543,7 +544,7 @@
     "title": "Feature/ab 691052 visibility dropdown confirmation pop up mapping with delete last card",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-23",
@@ -1516,7 +1517,8 @@
       "Tech Lead Review"
     ],
     "changes_requested_by": [
-      "ewpreston"
+      "ewpreston",
+      "stormojm"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17407"
@@ -2371,11 +2373,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -2539,10 +2541,8 @@
       "Team Approval",
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17296"
   },
   {
@@ -3744,38 +3744,16 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17145"
   },
   {
-    "number": 17140,
-    "title": "AB#668783- Integrate AI Playground chat interface with responsive scrolling behavior for zoomed screens",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-29",
+    "number": 8649,
+    "title": "Bugfix/AB#664256 -Draft-TLA-fix",
+    "author_login": "ranjith-r-anthology",
+    "author_name": "Ranjith Ramasamy",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-07-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17140"
-  },
-  {
-    "number": 17139,
-    "title": "feat: integrate PanelFooterBody for zoom-responsive AI playground",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-29",
-    "merged_at": null,
-    "closed_at": "2026-06-29",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -3785,257 +3763,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17139"
-  },
-  {
-    "number": 17136,
-    "title": "Students cannot submit internet reconnection",
-    "author_login": "manojchandrashekar29",
-    "author_name": "Manoj C",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Celeste",
-    "created_at": "2026-06-29",
-    "merged_at": null,
-    "closed_at": "2026-06-30",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17136"
-  },
-  {
-    "number": 17133,
-    "title": "bugfix/AB#684421-Refactor-gradebook-UIA-files",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-29",
-    "merged_at": "2026-07-01",
-    "closed_at": "2026-07-01",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17133"
-  },
-  {
-    "number": 17130,
-    "title": "Bugfix/AB#685373 Preserve subheader cell border during mid-deletion column transition",
-    "author_login": "gowthamanpalani",
-    "author_name": "Gowthaman Palani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-29",
-    "merged_at": "2026-07-09",
-    "closed_at": "2026-07-09",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17130"
-  },
-  {
-    "number": 17128,
-    "title": "Bugfix/AB#687491- Error Cell Loses Focus bb-ui  fix version bump",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-29",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17128"
-  },
-  {
-    "number": 17124,
-    "title": "Bugfix/ab#555842 new gradebook view ptid 973 latest",
-    "author_login": "Ram-G-BB",
-    "author_name": "Ram G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-06-29",
-    "merged_at": "2026-06-29",
-    "closed_at": "2026-06-29",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17124"
-  },
-  {
-    "number": 17123,
-    "title": "feature/AB#687480-column edit icon overlaps fixed column during horizontal scroll",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-29",
-    "merged_at": "2026-07-03",
-    "closed_at": "2026-07-03",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17123"
-  },
-  {
-    "number": 17122,
-    "title": "AB#578923 One Time Submission view does not show Grades or Correct Answers if the Assessment includes any manually graded Questions",
-    "author_login": "manojchandrashekar29",
-    "author_name": "Manoj C",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Celeste",
-    "created_at": "2026-06-29",
-    "merged_at": null,
-    "closed_at": "2026-07-14",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [
-      "bbnkamper",
-      "tbednarekbb"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17122"
-  },
-  {
-    "number": 17121,
-    "title": "AB#687846-Overall grade not updates after attempt delete",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-06-29",
-    "merged_at": "2026-07-04",
-    "closed_at": "2026-07-04",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17121"
-  },
-  {
-    "number": 17120,
-    "title": "AB#687183-Bugfix/ab 687183 expanded submission details section collapses when navigating between students or assessments",
-    "author_login": "BavithraM",
-    "author_name": "Bavithra M",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-29",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17120"
-  },
-  {
-    "number": 17119,
-    "title": "Bugfix - AB#685925 - New Gradebook Grid view - Keyboard navigation - Overall grade pill edit mode trigger on cell navigation",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-06-29",
-    "merged_at": "2026-06-30",
-    "closed_at": "2026-06-30",
-    "approvals": [
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17119"
-  },
-  {
-    "number": 17116,
-    "title": "Feature/AB#687821 new api and pass through wrapper",
-    "author_login": "srujankusuma3232",
-    "author_name": "Srujan Kusuma",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-06-29",
-    "merged_at": "2026-07-03",
-    "closed_at": "2026-07-03",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17116"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8649"
   },
   {
     "number": 8641,
@@ -4237,8 +3965,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "lanceneumannblackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8612"
   },
   {
@@ -4422,7 +4152,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "bbsaraswathikanniappan"
+      "bbsaraswathikanniappan",
+      "kkuppula"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8584"
@@ -4618,13 +4349,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8559"
@@ -5401,28 +5131,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8414"
-  },
-  {
-    "number": 8407,
-    "title": "AB#683499-Find node menu under batch create shows text referencing courses in organizations and organizations in courses",
-    "author_login": "ravi-anthology",
-    "author_name": "Ravi Prakash Tiwari",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Celeste",
-    "created_at": "2026-06-29",
-    "merged_at": "2026-07-08",
-    "closed_at": "2026-07-08",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8407"
   }
 ]

@@ -1,5 +1,71 @@
 [
   {
+    "number": 17716,
+    "title": "Bugfix/AB#692635-Implemented fix for Question Analysis Oops PopUp",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-31",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17716"
+  },
+  {
+    "number": 17714,
+    "title": "AB#691988: click functionality for progress button transition",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-07-30",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17714"
+  },
+  {
+    "number": 17711,
+    "title": "do not trigger mails for duplicate feature",
+    "author_login": "smurugasan-bbdn",
+    "author_name": "Sounder Murugasan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-07-30",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17711"
+  },
+  {
     "number": 17702,
     "title": "Feature/AB#692720 Display the searched receipt ID details in the Submission Details section of the Grade Details panel",
     "author_login": "PrasannakumarG32",
@@ -48,12 +114,12 @@
     "title": "AB#690270 - Grid view search displays incorrect results submission receipt Backport PR",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-29",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-30",
+    "closed_at": "2026-07-30",
     "approvals": [
       "team",
       "tech"
@@ -77,9 +143,10 @@
     "created_at": "2026-07-29",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -507,13 +574,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17610"
@@ -1050,12 +1116,12 @@
     "title": "feature/AB#690700 - Managed Pill for LOR Objects in course outline - Localization changes",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-17",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-30",
+    "closed_at": "2026-07-30",
     "approvals": [
       "ces",
       "team",
@@ -1124,11 +1190,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -2104,11 +2170,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "tech"
     ],
     "pending": [
       "Team Approval",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -3655,118 +3721,26 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17166"
   },
   {
-    "number": 17156,
-    "title": "AB#505832 Students can not submit when the internet reconnected",
-    "author_login": "manojchandrashekar29",
-    "author_name": "Manoj C",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Celeste",
-    "created_at": "2026-06-30",
-    "merged_at": "2026-07-27",
-    "closed_at": "2026-07-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17156"
-  },
-  {
-    "number": 17152,
-    "title": "Bugfix/AB#684826 - Accommodation attempts allowed changes is not getting updated for groups in Grade detail panel",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-30",
+    "number": 8657,
+    "title": "AB#691988: progress button render based on progress tracking toggle for flashcards implementation",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Cholas",
+    "created_at": "2026-07-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17152"
-  },
-  {
-    "number": 17151,
-    "title": "Bugfix/AB#684226 - Fix for late submission not allowed text not displaying ",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-06-30",
-    "merged_at": "2026-07-09",
-    "closed_at": "2026-07-09",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17151"
-  },
-  {
-    "number": 17146,
-    "title": "Feature/AB#672810 - Add Permissions Settings component to document, file and learning module settings peek panel",
-    "author_login": "kesavanazhagarsamy",
-    "author_name": "Kesavan Azhagarsamy",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-06-30",
-    "merged_at": "2026-07-20",
-    "closed_at": "2026-07-20",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17146"
-  },
-  {
-    "number": 17145,
-    "title": "Bugfix/AB#579623 Fix VoiceOver double-reading section headers in To Do panel",
-    "author_login": "gowthamanpalani",
-    "author_name": "Gowthaman Palani",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-06-30",
-    "merged_at": null,
-    "closed_at": "2026-07-07",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
+    "approvals": [],
     "pending": [
-      "CES Approval"
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "priceld",
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17145"
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8657"
   },
   {
     "number": 8653,
@@ -3780,13 +3754,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8653"
@@ -3796,12 +3769,12 @@
     "title": "Bugfix/AB#664256 -Draft-TLA-fix",
     "author_login": "ranjith-r-anthology",
     "author_name": "Ranjith Ramasamy",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Learn",
     "team": "Celeste",
     "created_at": "2026-07-30",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-07-31",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -4005,17 +3978,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "lanceneumannblackboard"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8612"
   },
   {
@@ -4046,7 +4016,7 @@
     "title": "AB#690063 Fix: Node Administrators unable to copy content into Node LOR due to incorrect entitlement check",
     "author_login": "Anshu972438",
     "author_name": "Anshu",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Supernova",
     "created_at": "2026-07-27",
@@ -4594,17 +4564,17 @@
     "title": "AB#689424: Platform notification service rest api M1",
     "author_login": "pkumarr07",
     "author_name": "Pradeep Kumar R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-07-15",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -5156,27 +5126,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8426"
-  },
-  {
-    "number": 8414,
-    "title": "AB#687844: UI warning indicators for LTI 1.1",
-    "author_login": "pkumarr07",
-    "author_name": "Pradeep Kumar R",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-06-30",
-    "merged_at": "2026-07-14",
-    "closed_at": "2026-07-14",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8414"
   }
 ]

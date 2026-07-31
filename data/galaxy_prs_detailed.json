@@ -1,12 +1,12 @@
 [
   {
-    "number": 17716,
-    "title": "Bugfix/AB#692635-Implemented fix for Question Analysis Oops PopUp",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
+    "number": 17726,
+    "title": "Bugfix/ab 690270 grid view recipt id fix",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
     "state": "Draft",
     "repo": "Ultra",
-    "team": "Pandias",
+    "team": "Starlite",
     "created_at": "2026-07-31",
     "merged_at": null,
     "closed_at": null,
@@ -19,6 +19,100 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17726"
+  },
+  {
+    "number": 17724,
+    "title": "Bugfix/AB#691949 sync gradebook column visibility on content save - Backport 4001.0.0",
+    "author_login": "gowthamanpalani",
+    "author_name": "Gowthaman Palani",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-31",
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17724"
+  },
+  {
+    "number": 17723,
+    "title": "Bugfix/AB#691949 sync gradebook column visibility on content save - Backport 4000.21.0",
+    "author_login": "gowthamanpalani",
+    "author_name": "Gowthaman Palani",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-31",
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17723"
+  },
+  {
+    "number": 17720,
+    "title": "Bugfix - AB#682066 - Backport - Gradebook column displays numeric score before Letter grade is rendered for students",
+    "author_login": "KirubakaranRBB",
+    "author_name": "Kirubakaran R",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-07-31",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17720"
+  },
+  {
+    "number": 17716,
+    "title": "Bugfix/AB#692635-Implemented fix for Question Analysis Oops PopUp",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-07-31",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17716"
   },
   {
@@ -32,9 +126,10 @@
     "created_at": "2026-07-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -45,7 +140,7 @@
   },
   {
     "number": 17711,
-    "title": "do not trigger mails for duplicate feature",
+    "title": "AB#691815 Do not trigger mails for duplicate feature",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
     "state": "Draft",
@@ -54,9 +149,10 @@
     "created_at": "2026-07-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -76,10 +172,11 @@
     "created_at": "2026-07-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -98,9 +195,10 @@
     "created_at": "2026-07-29",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -567,12 +665,12 @@
     "title": "Bugfix/AB#691949 sync gradebook column visibility on content save",
     "author_login": "gowthamanpalani",
     "author_name": "Gowthaman Palani",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-24",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
     "approvals": [
       "ces",
       "team",
@@ -731,12 +829,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1058,7 +1156,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "rag-bbdn"
+      "rag-bbdn",
+      "subashree-b"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17527"
@@ -1206,12 +1305,12 @@
     "title": "Feature/AB#688125-Implement points possible column in list view",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-16",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
     "approvals": [
       "ces",
       "team",
@@ -1548,12 +1647,12 @@
     "title": "AB#690249 Group discussion grade panel navigation issue fix",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-14",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
     "approvals": [
       "ces",
       "team",
@@ -2979,15 +3078,15 @@
   },
   {
     "number": 17265,
-    "title": "AB#688441-Restore activity run state for in-progress and completed flashcard attempts",
+    "title": "AB#690508-Restore activity run state for in-progress and completed flashcard attempts",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
     "approvals": [
       "ces",
       "team",
@@ -3721,6 +3820,75 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17166"
   },
   {
+    "number": 8667,
+    "title": "bugfix/AB#693258-gradebook setting studentId and nameFormat - import export copy support, backporting to 4001.0.0",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-31",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8667"
+  },
+  {
+    "number": 8666,
+    "title": "bugfix/AB#693258-gradebook setting studentId and nameFormat - import export copy support, backporting to 4000.21.0",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Merged",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-31",
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8666"
+  },
+  {
+    "number": 8665,
+    "title": "Bugfix/AB#579042 - Fix Question Analysis permanently stuck \"In Progress\"",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-07-31",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8665"
+  },
+  {
     "number": 8657,
     "title": "AB#691988: progress button render based on progress tracking toggle for flashcards implementation",
     "author_login": "AnmolGupta-Anthology",
@@ -3747,12 +3915,12 @@
     "title": "bugfix/AB#693258-gradebook setting studentId and nameFormat - import export copy support",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-07-30",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
     "approvals": [
       "ces",
       "team",
@@ -3822,10 +3990,11 @@
     "created_at": "2026-07-29",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -4030,8 +4199,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "venkatesansaas"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8610"
   },
   {
@@ -4924,12 +5095,12 @@
     "title": "AB#688616 - Changes for Post count  and Needs Grading not displayed for delegated grading column with Manual Posting",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Starlite",
     "created_at": "2026-07-06",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
     "approvals": [
       "ces",
       "tech",

@@ -109,10 +109,8 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17716"
   },
   {
@@ -3640,196 +3638,16 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17193"
   },
   {
-    "number": 17184,
-    "title": "Feature/AB#688566 uia journal grade details panel",
-    "author_login": "AshwinArumugamMani",
-    "author_name": "Ashwin Arumugam Mani",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-01",
-    "merged_at": "2026-07-02",
-    "closed_at": "2026-07-02",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17184"
-  },
-  {
-    "number": 17183,
-    "title": "feature/AB#671264-refactor directGradeClearModal to use useModal",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-01",
-    "merged_at": "2026-07-23",
-    "closed_at": "2026-07-23",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17183"
-  },
-  {
-    "number": 17180,
-    "title": "Bugfix/AB#688596 - Fix column position during ID column vertical keyboard navigation in new grid view",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-01",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17180"
-  },
-  {
-    "number": 17179,
-    "title": "Bugfix - AB#688120 - New Gradebook grid view not loaded when last saved preference is students tab",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-07-01",
-    "merged_at": "2026-07-06",
-    "closed_at": "2026-07-06",
-    "approvals": [
-      "ces",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17179"
-  },
-  {
-    "number": 17178,
-    "title": "AB#688061 - Gradebook Grid View SubHeader Keyboard Focus Is Lost After Posting Grades Using  Post Button",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-01",
-    "merged_at": "2026-07-28",
-    "closed_at": "2026-07-28",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17178"
-  },
-  {
-    "number": 17170,
-    "title": "Bugfix/AB#685395-Grade Detail Panel: Attempts Allowed can be reduced without validation after student submission under Accommodation",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-01",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17170"
-  },
-  {
-    "number": 17169,
-    "title": "bugfix/Replace-old-grid-files-to-flagged",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-01",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17169"
-  },
-  {
-    "number": 17166,
-    "title": "AB#688243 - Grade icon replacement in Grid view header section",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-01",
-    "merged_at": "2026-07-06",
-    "closed_at": "2026-07-06",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17166"
-  },
-  {
     "number": 8667,
     "title": "bugfix/AB#693258-gradebook setting studentId and nameFormat - import export copy support, backporting to 4001.0.0",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-07-31",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-07-31",
+    "closed_at": "2026-07-31",
     "approvals": [
       "team",
       "tech",
@@ -5228,74 +5046,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8433"
-  },
-  {
-    "number": 8429,
-    "title": "AB#688736: Localization strings for UI Warning Indicators for LTI 1.1 ",
-    "author_login": "pkumarr07",
-    "author_name": "Pradeep Kumar R",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-07-01",
-    "merged_at": "2026-07-03",
-    "closed_at": "2026-07-03",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8429"
-  },
-  {
-    "number": 8428,
-    "title": "bugfix/AB#578446-False \"User has not yet submitted attempt\" can rarely occur in Peer Reviews",
-    "author_login": "MartinRodgers0007",
-    "author_name": "Martin Rodgers",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-07-01",
-    "merged_at": "2026-07-12",
-    "closed_at": "2026-07-12",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8428"
-  },
-  {
-    "number": 8426,
-    "title": "Feature/AB-684930-update storing permissions in extended data and added its fetch in course outline",
-    "author_login": "Hariharan-r-k",
-    "author_name": "Hariharan R K",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Supernova",
-    "created_at": "2026-07-01",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8426"
   }
 ]

@@ -1,5 +1,73 @@
 [
   {
+    "number": 17739,
+    "title": "Feature/AB#691821 filtered variant options",
+    "author_login": "srujankusuma3232",
+    "author_name": "Srujan Kusuma",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-08-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17739"
+  },
+  {
+    "number": 17737,
+    "title": "Prevent Quill crash for tables nested inside list items",
+    "author_login": "PriyadarshiniSaravanan",
+    "author_name": "Priyadarshini S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-08-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17737"
+  },
+  {
+    "number": 17736,
+    "title": "AB#670546 Submission points are higher than the maximum allowed by the rubric",
+    "author_login": "ramanidharanr",
+    "author_name": "Ramanidharan R",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-08-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17736"
+  },
+  {
     "number": 17726,
     "title": "Bugfix/ab 690270 grid view recipt id fix",
     "author_login": "MohamedTharik8883",
@@ -194,10 +262,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -307,9 +375,10 @@
     "created_at": "2026-07-29",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -483,12 +552,12 @@
     "title": "AB#691989 Show review state only for students when progress tracking is enabled",
     "author_login": "Ram-G-BB",
     "author_name": "Ram G",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-28",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-03",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -739,11 +808,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -767,8 +836,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "nishavijayakumar"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17593"
   },
   {
@@ -3280,207 +3351,26 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17246"
   },
   {
-    "number": 17240,
-    "title": "bugfix/AB#688948-improve screen reader label for grid action buttons",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-03",
+    "number": 8680,
+    "title": "AB#574822 Fix: Remove empty orphan folders left behind during course copy assessment attachment processing",
+    "author_login": "Anshu972438",
+    "author_name": "Anshu",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Supernova",
+    "created_at": "2026-08-03",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
+    "approvals": [],
     "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "bbnkamper",
-      "toni-d1"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17240"
-  },
-  {
-    "number": 17238,
-    "title": "Bugfix/AB#688971 - Close Grade Detail Panel on grid view filter changes",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-03",
-    "merged_at": "2026-07-08",
-    "closed_at": "2026-07-08",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17238"
-  },
-  {
-    "number": 17237,
-    "title": "AB#684804 - Edit Icon Is Displayed for Empty Note to Student",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-03",
-    "merged_at": "2026-07-08",
-    "closed_at": "2026-07-08",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17237"
-  },
-  {
-    "number": 17234,
-    "title": "Feature/AB#688052 TabbedHome error popup",
-    "author_login": "srujankusuma3232",
-    "author_name": "Srujan Kusuma",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-07-03",
-    "merged_at": "2026-07-08",
-    "closed_at": "2026-07-08",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17234"
-  },
-  {
-    "number": 17233,
-    "title": "AB#688223 - Non-graded forms are redirecting users to an incorrect submission screen",
-    "author_login": "BharathiKannaa",
-    "author_name": "Bharathi Kanna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-03",
-    "merged_at": "2026-07-08",
-    "closed_at": "2026-07-08",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17233"
-  },
-  {
-    "number": 17231,
-    "title": "AB#579390: LTI embeds in document missing camera display capture and clipboard permissions",
-    "author_login": "pkumarr07",
-    "author_name": "Pradeep Kumar R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-07-03",
-    "merged_at": "2026-07-20",
-    "closed_at": "2026-07-20",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17231"
-  },
-  {
-    "number": 17229,
-    "title": "Bugfix/AB#689105 - Fix Gradebook Grid Cell Navigation Preserve Focus During Scroll",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-03",
-    "merged_at": "2026-07-14",
-    "closed_at": "2026-07-14",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17229"
-  },
-  {
-    "number": 17227,
-    "title": "Bugfix/AB#688944-Added keyboard shortcut for cmd+delete to focus close",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-03",
-    "merged_at": "2026-07-08",
-    "closed_at": "2026-07-08",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17227"
-  },
-  {
-    "number": 17225,
-    "title": "AB#686581 Existing Text Item Opens Editor Automatically on Cell Revisit",
-    "author_login": "smurugasan-bbdn",
-    "author_name": "Sounder Murugasan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-03",
-    "merged_at": "2026-07-10",
-    "closed_at": "2026-07-10",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17225"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8680"
   },
   {
     "number": 8667,
@@ -3714,12 +3604,12 @@
     "title": "AB#691989 Require progress tracking to be enabled for students to hav\u2026",
     "author_login": "Ram-G-BB",
     "author_name": "Ram G",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Learn",
     "team": "Cholas",
     "created_at": "2026-07-28",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-03",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -3927,10 +3817,11 @@
     "created_at": "2026-07-23",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],

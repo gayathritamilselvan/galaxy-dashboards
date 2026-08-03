@@ -1,5 +1,96 @@
 [
   {
+    "number": 17747,
+    "title": "feature/AB#688913 - update bbeditor component for additional items description field in list view backporting to 4000.21.0",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-08-03",
+    "merged_at": "2026-08-03",
+    "closed_at": "2026-08-03",
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17747"
+  },
+  {
+    "number": 17746,
+    "title": "Feature/AB#690585 Implement Anonymous Receipt Data and Rows Hooks Changes",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17746"
+  },
+  {
+    "number": 17743,
+    "title": "Feature/AB#690585 Add Anonymous Dialog to the Submission Receipt modal in the Gradebook Grid View",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17743"
+  },
+  {
+    "number": 17742,
+    "title": "AB#690505 Optimize flashcard practice and retry latency per API spec",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-08-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17742"
+  },
+  {
     "number": 17739,
     "title": "Feature/AB#691821 filtered variant options",
     "author_login": "srujankusuma3232",
@@ -18,8 +109,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "bbmnatarajan"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17739"
   },
   {
@@ -56,10 +149,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -216,12 +309,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -232,7 +325,7 @@
     "title": "Feature/AB#692720 Display the searched receipt ID details in the Submission Details section of the Grade Details panel",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-30",
@@ -255,18 +348,18 @@
     "title": "Bugfix/AB#692002 Implement Offline Download Include only Assigned Students",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-29",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -422,12 +515,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -823,23 +916,22 @@
     "title": "Feature/AB#688128-Add a \"last Access\" toggle into gradebook settings for displaying the info in the grid",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-23",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [
-      "nishavijayakumar"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17593"
   },
   {
@@ -1519,11 +1611,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -1535,12 +1627,12 @@
     "title": "feature/AB#688913 - update bbeditor component for additional items description field in list view",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-03",
+    "closed_at": "2026-08-03",
     "approvals": [
       "ces",
       "team",
@@ -1682,10 +1774,8 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17423"
   },
   {
@@ -1876,12 +1966,12 @@
     "title": "bugfix/AB#684300- Prevent rubric navigation for journals without student entries",
     "author_login": "AsmirKhan7",
     "author_name": "Asmir Khan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-07-13",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-03",
+    "closed_at": "2026-08-03",
     "approvals": [
       "team"
     ],
@@ -3361,10 +3451,11 @@
     "created_at": "2026-08-03",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3452,10 +3543,11 @@
     "created_at": "2026-07-30",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3752,10 +3844,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "venkatesansaas"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8610"
   },
   {
@@ -3811,7 +3901,7 @@
     "title": "Bugfix/AB#692002 Implement Gradebook Upload and Download Include only Assigned Students",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Pandias",
     "created_at": "2026-07-23",
@@ -4211,7 +4301,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "johnwalthallbb"
+      "johnwalthallbb",
+      "sakthi-selvapriya"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8540"
@@ -4297,11 +4388,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4422,16 +4513,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "lanceneumannblackboard",
-      "sharmilahameed"
+      "lanceneumannblackboard"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8515"

@@ -1,5 +1,72 @@
 [
   {
+    "number": 17763,
+    "title": "Bugfix/AB#693662-Multiple API calls on flex page due to invalidation",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-08-04",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17763"
+  },
+  {
+    "number": 17757,
+    "title": "Bugfix/AB#691872- Screen Reader doesn't announce the results when you search for members in groups",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-08-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17757"
+  },
+  {
+    "number": 17754,
+    "title": "feature/AB#688913 - update bbeditor component for additional items description field in list view backporting to 4001.0.0 release",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-08-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17754"
+  },
+  {
     "number": 17747,
     "title": "feature/AB#688913 - update bbeditor component for additional items description field in list view backporting to 4000.21.0",
     "author_login": "nishavijayakumar",
@@ -95,19 +162,19 @@
     "title": "Feature/AB#691821 filtered variant options",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-08-03",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "bbmnatarajan"
@@ -515,12 +582,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1056,10 +1123,11 @@
     "created_at": "2026-07-21",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -1264,13 +1332,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17535"
@@ -1357,15 +1424,15 @@
     "created_at": "2026-07-17",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "bhuvaneswarisbb",
       "hariharan-r-k"
     ],
     "changes_addressed": "no",
@@ -1405,12 +1472,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -2127,12 +2194,12 @@
     "title": "AB#689615 - AX Issue Focus Is Lost When Clicking the \"X\" Button in the filter chips",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-13",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-04",
     "approvals": [
       "tech",
       "vs"
@@ -2429,11 +2496,11 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3441,6 +3508,28 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17246"
   },
   {
+    "number": 8687,
+    "title": "AB#669238 Images in Test Questions Changing to Sessions - Tomcat Temp Area",
+    "author_login": "manojchandrashekar29",
+    "author_name": "Manoj C",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-08-03",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8687"
+  },
+  {
     "number": 8680,
     "title": "AB#574822 Fix: Remove empty orphan folders left behind during course copy assessment attachment processing",
     "author_login": "Anshu972438",
@@ -3629,17 +3718,17 @@
     "title": "AB#691473 - Specific members or users rule excludes other rules from release conditions ultra",
     "author_login": "Subashree-b",
     "author_name": "Subashree B",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Elite",
     "created_at": "2026-07-29",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],

@@ -1,5 +1,385 @@
 [
   {
+    "number": 17826,
+    "title": "Integrated forced sequence support for AI flashcard learning activities",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-08-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17826"
+  },
+  {
+    "number": 17819,
+    "title": "bugfix/AB#690430-feedback label displayed inconsistently",
+    "author_login": "Subbalakshmi-bb",
+    "author_name": "Subbalakshmi",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17819"
+  },
+  {
+    "number": 17818,
+    "title": "AB#691464 - BACKPORT - New Gradebook Grid View - Uploading grades via download/upload flow, not reflected immediately",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17818"
+  },
+  {
+    "number": 17810,
+    "title": "Bugfix/AB#694067 - Fix: Column header title is not announced correctly by the screen reader",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17810"
+  },
+  {
+    "number": 17808,
+    "title": "bugfix/gradebook-vo-virtualization-scroll",
+    "author_login": "gowthamanpalani",
+    "author_name": "Gowthaman Palani",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17808"
+  },
+  {
+    "number": 17807,
+    "title": "Feature/AB#692720 Attempt Receipt Search Ignores Active Student Filter in Grid View",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17807"
+  },
+  {
+    "number": 17804,
+    "title": "passing content id to memebership id",
+    "author_login": "LalithBB",
+    "author_name": "Lalith",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17804"
+  },
+  {
+    "number": 17803,
+    "title": "Bugfix/AB#692631-Implemented Release condition on Student Activity",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "ces",
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17803"
+  },
+  {
+    "number": 17801,
+    "title": "Bugfix/ab 579483 new group member unexpectedly shown create 1st attempt- #8716",
+    "author_login": "manojchandrashekar29",
+    "author_name": "Manoj C",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Celeste",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17801"
+  },
+  {
+    "number": 17800,
+    "title": "Update Tech Lead name for pd-team-nayakas",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Nayakas",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17800"
+  },
+  {
+    "number": 17799,
+    "title": "AB#576021 - Paging changes in course export packages panel between Manual/Automatic tab",
+    "author_login": "pradeep-prasath123",
+    "author_name": "Pradeep Prasath",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17799"
+  },
+  {
+    "number": 17792,
+    "title": "feature/AB#690700 - Learning Object Repository: Managed Pill for LOR Objects in course outline",
+    "author_login": "bhuvaneswarisbb",
+    "author_name": "Bhuvaneswari S",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-08-05",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17792"
+  },
+  {
+    "number": 17789,
+    "title": "Bugfix/AB#580877 - Preferred Name Displays in multiple areas in Parenthesis even when legal name is disabled",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-08-05",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17789"
+  },
+  {
+    "number": 17788,
+    "title": " AB#525123-Wrong century is selected for 2-digit years in \"en_UK\" Locale",
+    "author_login": "kalimuthupalraj",
+    "author_name": "Kalimuthu Palraj",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Celeste",
+    "created_at": "2026-08-05",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17788"
+  },
+  {
+    "number": 17786,
+    "title": "AB#694020 Fix TOC not displaying for flashcard pages inside a learning module",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-08-05",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17786"
+  },
+  {
+    "number": 17784,
+    "title": "AB#691052- fix for visibility behaviour for batch edit and course outline dropdown",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-08-05",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17784"
+  },
+  {
+    "number": 17783,
+    "title": " Localization change for post, accomodation and overall feedback ",
+    "author_login": "sharmilahameed",
+    "author_name": "Sharmila Begam Hameed",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-08-05",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17783"
+  },
+  {
     "number": 17777,
     "title": "Bugfix/AB#688948 Edit icon focus fix spike",
     "author_login": "gowthamanpalani",
@@ -45,24 +425,27 @@
   },
   {
     "number": 17774,
-    "title": "Bugfix/AB-684398-Saving a Document adds </br> into empty table cells",
+    "title": "Bugfix/AB#684398-Saving a Document adds </br> into empty table cells",
     "author_login": "Hariharan-r-k",
     "author_name": "Hariharan R K",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-08-04",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17774"
   },
   {
@@ -70,19 +453,19 @@
     "title": "feature/AB#688124-introduce Username column in new gradebook grid view based on gradebook setting",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-08-04",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -137,18 +520,19 @@
     "title": "bugfix/AB#687923-wdio-quarantine-fix-StudentListView",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Draft",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-04",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
+    "merged_at": "2026-08-06",
+    "closed_at": "2026-08-06",
+    "approvals": [
+      "team",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -181,16 +565,17 @@
     "title": "AB#693775: Add \"Skip to main content\" to learning activity student view",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-04",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -226,7 +611,7 @@
     "title": "Bugfix/AB#691872- Screen Reader doesn't announce the results when you search for members in groups",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-03",
@@ -302,17 +687,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "dsoto-bb"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17746"
   },
   {
@@ -327,13 +709,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17743"
@@ -343,18 +724,19 @@
     "title": "AB#690505 Optimize flashcard practice and retry latency per API spec",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-03",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -365,12 +747,12 @@
     "title": "Feature/AB#691821 filtered variant options",
     "author_login": "srujankusuma3232",
     "author_name": "Srujan Kusuma",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-08-03",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-05",
+    "closed_at": "2026-08-05",
     "approvals": [
       "ces",
       "team",
@@ -378,10 +760,8 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [
-      "bbmnatarajan"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17739"
   },
   {
@@ -419,12 +799,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
       "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -555,10 +935,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -579,11 +959,11 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team",
-      "vs"
+      "team"
     ],
     "pending": [
-      "Tech Lead Review"
+      "Tech Lead Review",
+      "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -601,13 +981,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17702"
@@ -731,19 +1110,19 @@
     "title": "Bugfix/AB#692316 - Show send remainder count based on the content release condition",
     "author_login": "VigneshwaranSaravanan",
     "author_name": "Vigneshwaran S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-07-29",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -777,12 +1156,12 @@
     "title": "AB#551693 Forbidden error modal for students on graded-discussion rubric view",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-07-28",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-05",
+    "closed_at": "2026-08-05",
     "approvals": [
       "ces",
       "team",
@@ -830,11 +1209,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -936,18 +1315,19 @@
     "title": "feature/AB#688921-visual indicator for students/grades with exception",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-28",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1252,12 +1632,12 @@
     "title": "AB#691846 - Spectator role can access grade submission and post individual grade button",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-22",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-06",
+    "closed_at": "2026-08-06",
     "approvals": [
       "ces",
       "vs"
@@ -1319,7 +1699,7 @@
     "title": "feature/AB#688608 - LOR- Source Information component with fetched data PR2",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-21",
@@ -1349,13 +1729,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "covertcj",
       "priceld"
@@ -1391,12 +1770,12 @@
     "title": "bugfix/AB#688144-WDIO-quarantine-fix-ptid=2973",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-07-21",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-06",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -1577,16 +1956,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
-      "rag-bbdn",
-      "subashree-b"
+      "rag-bbdn"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17527"
@@ -1616,10 +1994,10 @@
   },
   {
     "number": 17513,
-    "title": "feature/AB#688607 - LOR :  Api fetch call for Source Information Component PR1",
+    "title": "feature/AB#688607 - LOR Source Information: API Fetch Layer for Content Hierarchy PR1",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-17",
@@ -1634,7 +2012,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "hariharan-r-k"
+      "amyers-blackboard",
+      "dsoto-bb"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17513"
@@ -1947,12 +2326,13 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
       "team",
-      "tech",
-      "vs"
+      "tech"
     ],
-    "pending": [],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17437"
@@ -3186,354 +3566,14 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17295"
   },
   {
-    "number": 17292,
-    "title": "AB#688405- release condition issue for learning activity",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-07-07",
-    "merged_at": "2026-07-17",
-    "closed_at": "2026-07-17",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17292"
-  },
-  {
-    "number": 17285,
-    "title": "Feature/AB#672809 - Add unsaved changes confirmation when closing Settings peek panel or switching tabs",
-    "author_login": "kesavanazhagarsamy",
-    "author_name": "Kesavan Azhagarsamy",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "priceld"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17285"
-  },
-  {
-    "number": 17283,
-    "title": "AB#689027 Confirmation Modal Is Missing for Unsaved Text Item\u2028\u2028",
-    "author_login": "smurugasan-bbdn",
-    "author_name": "Sounder Murugasan",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17283"
-  },
-  {
-    "number": 17281,
-    "title": "Rename note to student backport",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": "2026-07-10",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17281"
-  },
-  {
-    "number": 17279,
-    "title": "Bugfix - AB#688120 - Backport - New Gradebook grid view not loaded when last saved preference is students tab",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-07-07",
-    "merged_at": "2026-07-08",
-    "closed_at": "2026-07-08",
-    "approvals": [
-      "vs"
-    ],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17279"
-  },
-  {
-    "number": 17278,
-    "title": "Bugfix/AB#575334 -Instructors Cannot Post Grades For Attempts For Content That Have Automatic Zeros Given And Set To Manually Post Grades",
-    "author_login": "Subashree-b",
-    "author_name": "Subashree B",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": "2026-07-24",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "dsoto-bb",
-      "nravikumar-bbdn"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17278"
-  },
-  {
-    "number": 17277,
-    "title": "Bugfix/AB#688613 - Fix Group grade update not immediately reflects grade detail Panel",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-07",
-    "merged_at": "2026-07-14",
-    "closed_at": "2026-07-14",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17277"
-  },
-  {
-    "number": 17274,
-    "title": "AB#688940 - Undo Override Does Not Exit Overall Grade Edit Mode in New Gradebook Grid View",
-    "author_login": "BharathiKannaa",
-    "author_name": "Bharathi Kanna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-07",
-    "merged_at": "2026-07-13",
-    "closed_at": "2026-07-13",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17274"
-  },
-  {
-    "number": 17273,
-    "title": "Bugfix/AB#683288-Submitted field in Grade Grid Details Panel does not update immediately for graded journals after subsequent submissions",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-07",
-    "merged_at": "2026-07-27",
-    "closed_at": "2026-07-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17273"
-  },
-  {
-    "number": 17272,
-    "title": "AB#688940 - Undo Override Does Not Exit Overall Grade Edit Mode in New Gradebook Grid View",
-    "author_login": "BharathiKannaa",
-    "author_name": "Bharathi Kanna",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": "2026-07-07",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17272"
-  },
-  {
-    "number": 17271,
-    "title": "AB#688243 - BackPort(4000.21.0)  PR Grade icon replacement in Grid view header section",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-07",
-    "merged_at": "2026-07-08",
-    "closed_at": "2026-07-08",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17271"
-  },
-  {
-    "number": 17270,
-    "title": "Bugfix/ab 575334 instructors cannot post grades flex grading page on autozero enabled",
-    "author_login": "Subashree-b",
-    "author_name": "Subashree B",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": "2026-07-07",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17270"
-  },
-  {
-    "number": 17269,
-    "title": "bugfix/AB#687893-Build Break-Quarantine-WDIO-PTID=2493",
-    "author_login": "Vignesh440-ai",
-    "author_name": "Vignesh",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": "2026-07-07",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17269"
-  },
-  {
-    "number": 17266,
-    "title": "bugfix/AB#671551-Scrolling rendering UI issues",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-07",
-    "merged_at": null,
-    "closed_at": "2026-07-08",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17266"
-  },
-  {
-    "number": 17265,
-    "title": "AB#690508-Restore activity run state for in-progress and completed flashcard attempts",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-07-07",
-    "merged_at": "2026-07-31",
-    "closed_at": "2026-07-31",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17265"
-  },
-  {
-    "number": 17257,
-    "title": "feature/ab 667238 common permissions settings",
-    "author_login": "Hariharan-r-k",
-    "author_name": "Hariharan R K",
+    "number": 8728,
+    "title": "Feature/AB-6919867: Platform Notification Service (PNS) implementation in Learn",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
     "state": "Draft",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-07-06",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-08-06",
     "merged_at": null,
     "closed_at": null,
     "approvals": [],
@@ -3545,187 +3585,138 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17257"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8728"
   },
   {
-    "number": 17256,
-    "title": "AB#689031 - Disabled grader notes style mismatch from assessment feedback",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-06",
-    "merged_at": "2026-07-16",
-    "closed_at": "2026-07-16",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
+    "number": 8723,
+    "title": "AB#694142 Oops Error Displayed When Clicking Grade Icon for SCORM Content in New Gradebook Grid View",
+    "author_login": "ramanidharanr",
+    "author_name": "Ramanidharan R",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Elite",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
     ],
-    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17256"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8723"
   },
   {
-    "number": 17255,
-    "title": "AB#688972 Grade panel navigation blank page issue fix",
+    "number": 8720,
+    "title": "AB#693110 fix: Rubric Evaluation Report and question analysis cannot be generated in completed Ultra courses",
+    "author_login": "SuryaMadhanlal-5252",
+    "author_name": "Surya Madhanlal",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Cholas",
+    "created_at": "2026-08-06",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8720"
+  },
+  {
+    "number": 8719,
+    "title": "AB#576021 - Returning all export/archive files without restriction in Course Export Packages panel",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Closed",
-    "repo": "Ultra",
+    "state": "Draft",
+    "repo": "Learn",
     "team": "Mars",
-    "created_at": "2026-07-06",
+    "created_at": "2026-08-06",
     "merged_at": null,
-    "closed_at": "2026-07-10",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
+    "closed_at": null,
+    "approvals": [],
     "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17255"
-  },
-  {
-    "number": 17254,
-    "title": "AB#687521 WDIO-fix-quarantine-case-PTID-556553 556538 2432 545",
-    "author_login": "DineshRajendranBB",
-    "author_name": "Dinesh Rajendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-06",
-    "merged_at": "2026-07-09",
-    "closed_at": "2026-07-09",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17254"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8719"
   },
   {
-    "number": 17251,
-    "title": "bugfix/AB#689036-fix plus icon student id alignment issue backporting to 4000.21.0",
-    "author_login": "nishavijayakumar",
-    "author_name": "Nisha Vijayakumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-06",
-    "merged_at": "2026-07-06",
-    "closed_at": "2026-07-06",
-    "approvals": [
-      "team",
-      "tech"
-    ],
+    "number": 8716,
+    "title": "Bugfix/ab 579483 new group member unexpectedly shown create 1st attempt",
+    "author_login": "manojchandrashekar29",
+    "author_name": "Manoj C",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Celeste",
+    "created_at": "2026-08-05",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
     "pending": [
+      "Team Approval",
+      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17251"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8716"
   },
   {
-    "number": 17249,
-    "title": "bugfix/AB#688596- fix key board up down navigation issue for id column",
-    "author_login": "nishavijayakumar",
-    "author_name": "Nisha Vijayakumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-06",
-    "merged_at": "2026-07-10",
-    "closed_at": "2026-07-10",
+    "number": 8713,
+    "title": "Feature/AB-694009-update child document last modified date based on parent content extended data modification",
+    "author_login": "Hariharan-r-k",
+    "author_name": "Hariharan R K",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Supernova",
+    "created_at": "2026-08-05",
+    "merged_at": null,
+    "closed_at": null,
     "approvals": [
-      "ces",
-      "team",
-      "tech",
       "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17249"
-  },
-  {
-    "number": 17248,
-    "title": "bugfix/AB#687890-Quarantine-Fix-PTID=2840-2492",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-06",
-    "merged_at": "2026-07-07",
-    "closed_at": "2026-07-07",
-    "approvals": [
-      "tech"
     ],
     "pending": [
       "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review",
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17248"
-  },
-  {
-    "number": 17246,
-    "title": "feature /AB#579044 Implementation of LOR DnD move menu item actions",
-    "author_login": "bhuvaneswarisbb",
-    "author_name": "Bhuvaneswari S",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-07-06",
-    "merged_at": null,
-    "closed_at": "2026-07-14",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17246"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8713"
   },
   {
     "number": 8694,
     "title": "BugFix/AB#565298 Prevent \"Guest Permitted\" from resetting to \"No\" after course creation",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-08-04",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+    "approvals": [
+      "ces",
+      "team",
+      "tech",
+      "vs"
     ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8694"
@@ -3757,17 +3748,17 @@
     "title": "AB#574822 Fix: Remove empty orphan folders left behind during course copy assessment attachment processing",
     "author_login": "Anshu972438",
     "author_name": "Anshu",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Supernova",
     "created_at": "2026-08-03",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3833,13 +3824,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "lanceneumannblackboard"
     ],
@@ -3858,10 +3848,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3957,8 +3947,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "rpetersonbb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8639"
   },
   {
@@ -4266,12 +4258,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "vs"
     ],
     "pending": [
+      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4770,12 +4762,12 @@
     "title": "AB#690552 Guest Access: Address follow-up review findings across membership, content, and gradebook APIs",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-14",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-05",
     "approvals": [
       "team",
       "vs"
@@ -4826,17 +4818,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "lanceneumannblackboard"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8515"
   },
   {
@@ -4915,12 +4905,12 @@
     "title": "Bugfix/AB#667247 Fix membership authorization routing for guest users",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-07-09",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-05",
     "approvals": [
       "ces",
       "team",
@@ -5024,78 +5014,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8480"
-  },
-  {
-    "number": 8472,
-    "title": "Bugfix/AB#688951-\"Email Author\" Cancel button is not displayed, and the Submit button is unresponsive within discussion threads for closed original courses.",
-    "author_login": "vijay-8421",
-    "author_name": "Vijaya Sekhar P",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Oxygen",
-    "created_at": "2026-07-07",
-    "merged_at": "2026-07-17",
-    "closed_at": "2026-07-17",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8472"
-  },
-  {
-    "number": 8468,
-    "title": "AB#688616 - Changes for Post count  and Needs Grading not displayed for delegated grading column with Manual Posting",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Starlite",
-    "created_at": "2026-07-06",
-    "merged_at": "2026-07-31",
-    "closed_at": "2026-07-31",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [
-      "brittanytang",
-      "lanceneumannblackboard",
-      "naveen-augustus"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8468"
-  },
-  {
-    "number": 8461,
-    "title": "AB#669238 -Images in Test Questions Changing to Sessions - Tomcat Temp Area",
-    "author_login": "kalimuthupalraj",
-    "author_name": "Kalimuthu Palraj",
-    "state": "Draft",
-    "repo": "Learn",
-    "team": "Celeste",
-    "created_at": "2026-07-06",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "lanceneumannblackboard"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8461"
   }
 ]

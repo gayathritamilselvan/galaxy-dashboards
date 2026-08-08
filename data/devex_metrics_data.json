@@ -9585,7 +9585,7 @@
       "period": "POST_S12",
       "prs_authored": 5,
       "avg_pr_age": 918.6,
-      "avg_pr_size": 267.2,
+      "avg_pr_size": 273.4,
       "avg_review_cycle": 1.2
     },
     {
@@ -10945,7 +10945,7 @@
       "period": "ALL",
       "prs_authored": 11,
       "avg_pr_age": 658.7,
-      "avg_pr_size": 209.5,
+      "avg_pr_size": 212.3,
       "avg_review_cycle": 1.27
     },
     {
@@ -11050,5 +11050,5 @@
     }
   ],
   "total_prs": 633,
-  "fetched_at": "2026-08-08 05:01:43"
+  "fetched_at": "2026-08-08 14:27:16"
 }

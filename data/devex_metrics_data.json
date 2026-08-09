@@ -9043,10 +9043,10 @@
       "display_name": "Hariharan R K",
       "team": "Supernova",
       "period": "POST_S12",
-      "prs_authored": 7,
+      "prs_authored": 8,
       "avg_pr_age": null,
-      "avg_pr_size": 413.1,
-      "avg_review_cycle": 0.29
+      "avg_pr_size": 361.8,
+      "avg_review_cycle": 0.25
     },
     {
       "member": "bhuvaneswarisbb",
@@ -10963,10 +10963,10 @@
       "display_name": "Hariharan R K",
       "team": "Supernova",
       "period": "ALL",
-      "prs_authored": 13,
+      "prs_authored": 14,
       "avg_pr_age": 158.7,
-      "avg_pr_size": 382.4,
-      "avg_review_cycle": 0.23
+      "avg_pr_size": 355.3,
+      "avg_review_cycle": 0.21
     },
     {
       "member": "ravi-anthology",
@@ -11049,6 +11049,6 @@
       "avg_review_cycle": 0.0
     }
   ],
-  "total_prs": 633,
-  "fetched_at": "2026-08-09 05:09:29"
+  "total_prs": 634,
+  "fetched_at": "2026-08-09 14:34:36"
 }

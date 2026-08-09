@@ -3295,6 +3295,28 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17346"
   },
   {
+    "number": 8743,
+    "title": "Change supernova tech-lead in autolabeler",
+    "author_login": "Hariharan-r-k",
+    "author_name": "Hariharan R K",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Supernova",
+    "created_at": "2026-08-09",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8743"
+  },
+  {
     "number": 8738,
     "title": "AB#693790 - On-behalf receipt consumers: submitter-name snapshot, email attribution, content-exchange carry",
     "author_login": "bhuvaneswarisbb",

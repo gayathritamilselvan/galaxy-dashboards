@@ -1,5 +1,27 @@
 [
   {
+    "number": 17854,
+    "title": "Feature/AB#691822 Assist tab data reload url state",
+    "author_login": "srujankusuma3232",
+    "author_name": "Srujan Kusuma",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-08-10",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17854"
+  },
+  {
     "number": 17847,
     "title": "Bugfix/AB#694067 - Fix: Column header title is not announced correctly by the screen reader backporting to 4000.21.0",
     "author_login": "nishavijayakumar",
@@ -954,7 +976,7 @@
     "title": "Prevent Quill crash for tables nested inside list items",
     "author_login": "PriyadarshiniSaravanan",
     "author_name": "Priyadarshini S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-08-03",
@@ -3002,299 +3024,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17385"
   },
   {
-    "number": 17366,
-    "title": "bugfix/AB#689855-backport-4000.21.0-to-add-includeOnlyAssignedStudents-when-content accessible ff enabled",
-    "author_login": "nishavijayakumar",
-    "author_name": "Nisha Vijayakumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-16",
-    "closed_at": "2026-07-16",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17366"
-  },
-  {
-    "number": 17363,
-    "title": "Bugfix/AB#688738- Flex Grading: Keyboard accessibility issues in overall feedback editor",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-10",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17363"
-  },
-  {
-    "number": 17362,
-    "title": "Bugfix/AB#688738- Flex Grading: Keyboard accessibility issues in overall feedback editor",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-10",
-    "closed_at": "2026-07-10",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17362"
-  },
-  {
-    "number": 17361,
-    "title": "Bugfix/AB#579623 Fixed voiceover double reading in ExpansionPanel Bump",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-11",
-    "closed_at": "2026-07-11",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17361"
-  },
-  {
-    "number": 17358,
-    "title": "Bugfix/AB#689163  Grade Detail Accommodation: Permissions & Read-Only Panel for Non-entitled Users ",
-    "author_login": "rajeshblackboard",
-    "author_name": "Rajesh",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-27",
-    "closed_at": "2026-07-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17358"
-  },
-  {
-    "number": 17357,
-    "title": "Bugfix/AB#688953-Fix for Keeping Selected Cell to View Port At Higher Break Point",
-    "author_login": "gulshan-antho",
-    "author_name": "Gulshan Kumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-22",
-    "closed_at": "2026-07-22",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17357"
-  },
-  {
-    "number": 17356,
-    "title": "AB#688572 - BACKPORT-release/4000.21.0-Renaming labels from Note to student - Overall Feedback",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-16",
-    "closed_at": "2026-07-16",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17356"
-  },
-  {
-    "number": 17355,
-    "title": "AB#692546 Add Skip navigation links to Flashcard review page",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-28",
-    "closed_at": "2026-07-28",
-    "approvals": [
-      "ces",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17355"
-  },
-  {
-    "number": 17353,
-    "title": "bugfix/AB#688596-Backport-4000.21.0-fix key board up down navigation issue for id column",
-    "author_login": "nishavijayakumar",
-    "author_name": "Nisha Vijayakumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-10",
-    "closed_at": "2026-07-10",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17353"
-  },
-  {
-    "number": 17352,
-    "title": "Bugfix - AB#688972 - Backport - Grade detail panel navigation between tabs blank page",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-10",
-    "closed_at": "2026-07-10",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17352"
-  },
-  {
-    "number": 17350,
-    "title": "AB#671538 - Anonymous grading column student not loading in Flex grading page",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-23",
-    "closed_at": "2026-07-23",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17350"
-  },
-  {
-    "number": 17347,
-    "title": "AB#680933 - Grid View Filter Dropdown options fix",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-10",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17347"
-  },
-  {
-    "number": 17346,
-    "title": "bugfix/AB#688513-Fix-OverallGrade-Selectors-Build-Break",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-10",
-    "closed_at": "2026-07-10",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17346"
-  },
-  {
     "number": 8743,
     "title": "Change supernova tech-lead in autolabeler",
     "author_login": "Hariharan-r-k",
@@ -3756,11 +3485,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4756,52 +4485,5 @@
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8514"
-  },
-  {
-    "number": 8502,
-    "title": "Bugfix/AB#689829 Enable Deployment Settings For Survey",
-    "author_login": "rajeshblackboard",
-    "author_name": "Rajesh",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Pandias",
-    "created_at": "2026-07-10",
-    "merged_at": "2026-07-14",
-    "closed_at": "2026-07-14",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8502"
-  },
-  {
-    "number": 8500,
-    "title": "feature/AB#675408 Add LOR content hierarchy API endpoint",
-    "author_login": "Anshu972438",
-    "author_name": "Anshu",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Supernova",
-    "created_at": "2026-07-10",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "timkack"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8500"
   }
 ]

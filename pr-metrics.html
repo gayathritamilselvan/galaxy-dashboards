@@ -207,7 +207,7 @@
             <div class="meta">Celeste & Mars Teams | blackboard-learn/ultra | Last 30 days</div>
         </div>
         <div style="text-align:right">
-            <div class="meta" id="lastUpdated">Generated: 2026-08-11 10:39:53</div>
+            <div class="meta" id="lastUpdated">Generated: 2026-08-11 20:32:46</div>
             <button class="refresh-btn" onclick="refreshDashboard()">&#x21bb; Refresh</button>
         </div>
     </div>
@@ -222,6 +222,130 @@
     
         <div class="team-section" data-team="Celeste">
             <h2 class="team-header team-celeste">Celeste Team
+                <span class="team-stats">
+                    Total: 7 | Open: 2 | Draft: 4 | Merged: 1 | Closed: 0
+                </span>
+            </h2>
+            <div class="filter-bar">
+                <label>State: <select class="filter-select" data-col="3" onchange="applyFilters(this)"><option value="">All</option><option value="Open">Open</option><option value="Draft">Draft</option><option value="Merged">Merged</option><option value="Closed">Closed</option></select></label>
+                <label>Changes Requested By: <select class="filter-select" data-col="9" onchange="applyFilters(this)"><option value="">All</option><option value="has-changes">Has Changes Requested</option><option value="no-changes">No Changes Requested</option></select></label>
+                <label>Time Range: <select class="filter-select" data-col="date" onchange="applyFilters(this)"><option value="">All (30 days)</option><option value="7">Last 7 days</option><option value="14">Last 14 days</option><option value="21">Last 21 days</option></select></label>
+            </div>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>PR #</th>
+                            <th>Title</th>
+                            <th>Author</th>
+                            <th>State</th>
+                            <th>Opened</th>
+                            <th>Merged</th>
+                            <th>Closed</th>
+                            <th>Approvals</th>
+                            <th>Pending</th>
+                            <th>Changes Requested By</th>
+                            <th>Changes Addressed</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="state-draft" data-state="Draft" data-date="2026-08-11" data-changes="no-changes">
+                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17905" target="_blank">#17905</a><br><span class="git-id">manojchandrashekar29</span></td>
+                            <td class="title-cell" title="AB#564879 Submissions for this student have been deleted error for offline Assignments">AB#564879 Submissions for this student have been deleted error for offline Assig...</td>
+                            <td>manojchandrashekar29</td>
+                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
+                            <td>2026-08-11</td>
+                            <td>—</td>
+                            <td>—</td>
+                            <td><span class="no-approval">None yet</span></td>
+                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
+                            <td>—</td>
+                            <td><span class="addressed-na">—</span></td>
+                        </tr>
+                        <tr class="state-draft" data-state="Draft" data-date="2026-08-06" data-changes="no-changes">
+                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17801" target="_blank">#17801</a><br><span class="git-id">manojchandrashekar29</span></td>
+                            <td class="title-cell" title="Bugfix/ab 579483 new group member unexpectedly shown create 1st attempt- #8716">Bugfix/ab 579483 new group member unexpectedly shown create 1st attempt- #8716</td>
+                            <td>manojchandrashekar29</td>
+                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
+                            <td>2026-08-06</td>
+                            <td>—</td>
+                            <td>—</td>
+                            <td><span class="no-approval">None yet</span></td>
+                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
+                            <td>—</td>
+                            <td><span class="addressed-na">—</span></td>
+                        </tr>
+                        <tr class="state-draft" data-state="Draft" data-date="2026-08-05" data-changes="no-changes">
+                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17788" target="_blank">#17788</a><br><span class="git-id">kalimuthupalraj</span></td>
+                            <td class="title-cell" title=" AB#525123-Wrong century is selected for 2-digit years in "en_UK" Locale"> AB#525123-Wrong century is selected for 2-digit years in "en_UK" Locale</td>
+                            <td>kalimuthupalraj</td>
+                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
+                            <td>2026-08-05</td>
+                            <td>—</td>
+                            <td>—</td>
+                            <td><span class="no-approval">None yet</span></td>
+                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
+                            <td>—</td>
+                            <td><span class="addressed-na">—</span></td>
+                        </tr>
+                        <tr class="state-merged" data-state="Merged" data-date="2026-07-28" data-changes="no-changes">
+                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17660" target="_blank">#17660</a><br><span class="git-id">manojchandrashekar29</span></td>
+                            <td class="title-cell" title="AB#551693 Forbidden error modal for students on graded-discussion rubric view">AB#551693 Forbidden error modal for students on graded-discussion rubric view</td>
+                            <td>manojchandrashekar29</td>
+                            <td><span class="badge" style="background:#a371f7">Merged</span><br><span class="repo-badge">Ultra</span></td>
+                            <td>2026-07-28</td>
+                            <td>2026-08-05</td>
+                            <td>2026-08-05</td>
+                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge ces">CES ✓</span><span class="approval-badge vs">VS ✓</span></td>
+                            <td><span class="pending">Tech Lead Review</span></td>
+                            <td>—</td>
+                            <td><span class="addressed-na">—</span></td>
+                        </tr>
+                        <tr class="state-draft" data-state="Draft" data-date="2026-07-23" data-changes="no-changes">
+                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17601" target="_blank">#17601</a><br><span class="git-id">Mano-venkat</span></td>
+                            <td class="title-cell" title="Bugfix/AB#577073 flaky test fix - PTID-271">Bugfix/AB#577073 flaky test fix - PTID-271</td>
+                            <td>Mano-venkat</td>
+                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
+                            <td>2026-07-23</td>
+                            <td>—</td>
+                            <td>—</td>
+                            <td><span class="no-approval">None yet</span></td>
+                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
+                            <td>—</td>
+                            <td><span class="addressed-na">—</span></td>
+                        </tr>
+                        <tr class="state-open" data-state="Open" data-date="2026-07-15" data-changes="no-changes">
+                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17448" target="_blank">#17448</a><br><span class="git-id">kalimuthupalraj</span></td>
+                            <td class="title-cell" title="AB#684390-Kaltura video embed fails to show to students in fill in the blanks questions">AB#684390-Kaltura video embed fails to show to students in fill in the blanks qu...</td>
+                            <td>kalimuthupalraj</td>
+                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
+                            <td>2026-07-15</td>
+                            <td>—</td>
+                            <td>—</td>
+                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge ces">CES ✓</span></td>
+                            <td><span class="pending">Tech Lead Review</span>, <span class="pending">Value Stream Approval</span></td>
+                            <td>—</td>
+                            <td><span class="addressed-na">—</span></td>
+                        </tr>
+                        <tr class="state-open" data-state="Open" data-date="2026-07-14" data-changes="no-changes">
+                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17421" target="_blank">#17421</a><br><span class="git-id">ranjith-r-anthology</span></td>
+                            <td class="title-cell" title="BugFix/AB#689840 -  Update group attempt control regex to match System Nav M2 routes">BugFix/AB#689840 -  Update group attempt control regex to match System Nav M2 ro...</td>
+                            <td>ranjith-r-anthology</td>
+                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
+                            <td>2026-07-14</td>
+                            <td>—</td>
+                            <td>—</td>
+                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge ces">CES ✓</span><span class="approval-badge vs">VS ✓</span></td>
+                            <td><span class="pending">Tech Lead Review</span></td>
+                            <td>—</td>
+                            <td><span class="addressed-na">—</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="team-section" data-team="Mars">
+            <h2 class="team-header team-mars">Mars Team
                 <span class="team-stats">
                     Total: 0 | Open: 0 | Draft: 0 | Merged: 0 | Closed: 0
                 </span>
@@ -250,416 +374,6 @@
                     </thead>
                     <tbody>
                         <tr><td colspan="11" class="no-data">No PRs found in the last 30 days</td></tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-        <div class="team-section" data-team="Mars">
-            <h2 class="team-header team-mars">Mars Team
-                <span class="team-stats">
-                    Total: 29 | Open: 11 | Draft: 14 | Merged: 4 | Closed: 0
-                </span>
-            </h2>
-            <div class="filter-bar">
-                <label>State: <select class="filter-select" data-col="3" onchange="applyFilters(this)"><option value="">All</option><option value="Open">Open</option><option value="Draft">Draft</option><option value="Merged">Merged</option><option value="Closed">Closed</option></select></label>
-                <label>Changes Requested By: <select class="filter-select" data-col="9" onchange="applyFilters(this)"><option value="">All</option><option value="has-changes">Has Changes Requested</option><option value="no-changes">No Changes Requested</option></select></label>
-                <label>Time Range: <select class="filter-select" data-col="date" onchange="applyFilters(this)"><option value="">All (30 days)</option><option value="7">Last 7 days</option><option value="14">Last 14 days</option><option value="21">Last 21 days</option></select></label>
-            </div>
-            <div class="table-wrapper">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>PR #</th>
-                            <th>Title</th>
-                            <th>Author</th>
-                            <th>State</th>
-                            <th>Opened</th>
-                            <th>Merged</th>
-                            <th>Closed</th>
-                            <th>Approvals</th>
-                            <th>Pending</th>
-                            <th>Changes Requested By</th>
-                            <th>Changes Addressed</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-10" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17884" target="_blank">#17884</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="AB#689407- Guard route navigation and Student Preview with discard confirmation">AB#689407- Guard route navigation and Student Preview with discard confirmation</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-10</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-10" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17883" target="_blank">#17883</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="AB#689407- Guard toolbar interactions and search focus with discard confirmation">AB#689407- Guard toolbar interactions and search focus with discard confirmation</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-10</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-10" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17882" target="_blank">#17882</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="AB#689407- Lift grade-detail dirty tracking to grid-view level and guard direct cell/column selection">AB#689407- Lift grade-detail dirty tracking to grid-view level and guard direct ...</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-10</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-10" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17881" target="_blank">#17881</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="AB#689407- Add discard-confirmation guard for Text Item grade edits">AB#689407- Add discard-confirmation guard for Text Item grade edits</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-10</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-10" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17880" target="_blank">#17880</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="AB#689407- Fix accommodation data carrying over to next cell">AB#689407- Fix accommodation data carrying over to next cell</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-10</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-10" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17865" target="_blank">#17865</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="AB#693795 - Submission Details 'Submitted by' line for on-behalf attempts">AB#693795 - Submission Details 'Submitted by' line for on-behalf attempts</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-10</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-10" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17864" target="_blank">#17864</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="AB#693794 - Instructor submission-receipt modal for submit draft attempt on behalf">AB#693794 - Instructor submission-receipt modal for submit draft attempt on beha...</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-10</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-10" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17863" target="_blank">#17863</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="AB#693793 - Confirm dialog for submit draft attempt on behalf">AB#693793 - Confirm dialog for submit draft attempt on behalf</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-10</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-10" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17856" target="_blank">#17856</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="AB#693792 - Submissions List menu action + type gate for submit draft attempt on behalf">AB#693792 - Submissions List menu action + type gate for submit draft attempt on...</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-10</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-08-07" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17836" target="_blank">#17836</a><br><span class="git-id">Saimanimaran</span></td>
-                            <td class="title-cell" title="Feature/AB#688059 - Assist page tab name customization">Feature/AB#688059 - Assist page tab name customization</td>
-                            <td>Saimanimaran</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-07</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge ces">CES ✓</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-yes">✓ Yes</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-06" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17799" target="_blank">#17799</a><br><span class="git-id">pradeep-prasath123</span></td>
-                            <td class="title-cell" title="AB#576021 - Paging changes in course export packages panel between Manual/Automatic tab">AB#576021 - Paging changes in course export packages panel between Manual/Automa...</td>
-                            <td>pradeep-prasath123</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-06</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-05" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17789" target="_blank">#17789</a><br><span class="git-id">Saimanimaran</span></td>
-                            <td class="title-cell" title="Bugfix/AB#580877 - Preferred Name Displays in multiple areas in Parenthesis even when legal name is disabled">Bugfix/AB#580877 - Preferred Name Displays in multiple areas in Parenthesis even...</td>
-                            <td>Saimanimaran</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-05</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge team">Team ✓</span></td>
-                            <td><span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-05" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17783" target="_blank">#17783</a><br><span class="git-id">sharmilahameed</span></td>
-                            <td class="title-cell" title=" Localization change for post, accomodation and overall feedback "> Localization change for post, accomodation and overall feedback </td>
-                            <td>sharmilahameed</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-05</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-08-04" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17776" target="_blank">#17776</a><br><span class="git-id">manoharan100</span></td>
-                            <td class="title-cell" title="feature/AB#688609 -  LOR: Add routing from details panel to LOR PR3">feature/AB#688609 -  LOR: Add routing from details panel to LOR PR3</td>
-                            <td>manoharan100</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-04</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-08-04" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17763" target="_blank">#17763</a><br><span class="git-id">Saimanimaran</span></td>
-                            <td class="title-cell" title="Bugfix/AB#693662-Multiple API calls on flex page due to invalidation">Bugfix/AB#693662-Multiple API calls on flex page due to invalidation</td>
-                            <td>Saimanimaran</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-04</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-08-03" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17757" target="_blank">#17757</a><br><span class="git-id">Saimanimaran</span></td>
-                            <td class="title-cell" title="Bugfix/AB#691872- Screen Reader doesn't announce the results when you search for members in groups">Bugfix/AB#691872- Screen Reader doesn't announce the results when you search for...</td>
-                            <td>Saimanimaran</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-08-03</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge team">Team ✓</span></td>
-                            <td><span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-07-30" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17711" target="_blank">#17711</a><br><span class="git-id">smurugasan-bbdn</span></td>
-                            <td class="title-cell" title="AB#691815 Do not trigger mails for duplicate feature">AB#691815 Do not trigger mails for duplicate feature</td>
-                            <td>smurugasan-bbdn</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-30</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge ces">CES ✓</span></td>
-                            <td><span class="pending">Tech Lead Review</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-draft" data-state="Draft" data-date="2026-07-24" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17611" target="_blank">#17611</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="Bugfix/ab-689407-implement-grade-detail-confirmation-modal-grid-interactions">Bugfix/ab-689407-implement-grade-detail-confirmation-modal-grid-interactions</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#8b949e">Draft</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-24</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-merged" data-state="Merged" data-date="2026-07-22" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17576" target="_blank">#17576</a><br><span class="git-id">rag-bbdn</span></td>
-                            <td class="title-cell" title="AB#691846 - Spectator role can access grade submission and post individual grade button">AB#691846 - Spectator role can access grade submission and post individual grade...</td>
-                            <td>rag-bbdn</td>
-                            <td><span class="badge" style="background:#a371f7">Merged</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-22</td>
-                            <td>2026-08-06</td>
-                            <td>2026-08-06</td>
-                            <td><span class="approval-badge ces">CES ✓</span><span class="approval-badge vs">VS ✓</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-07-21" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17560" target="_blank">#17560</a><br><span class="git-id">manoharan100</span></td>
-                            <td class="title-cell" title="feature/AB#688608 - LOR- Source Information component with fetched data PR2">feature/AB#688608 - LOR- Source Information component with fetched data PR2</td>
-                            <td>manoharan100</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-21</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge tech">Tech Lead ✓</span></td>
-                            <td><span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-yes">✓ Yes</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-07-20" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17538" target="_blank">#17538</a><br><span class="git-id">rag-bbdn</span></td>
-                            <td class="title-cell" title="AB#679707 - AI Rewrite and Summarized feedback are not generated in the selected Locale language">AB#679707 - AI Rewrite and Summarized feedback are not generated in the selected...</td>
-                            <td>rag-bbdn</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-20</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge ces">CES ✓</span><span class="approval-badge vs">VS ✓</span></td>
-                            <td><span class="pending">Tech Lead Review</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-yes">✓ Yes</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-07-17" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17513" target="_blank">#17513</a><br><span class="git-id">manoharan100</span></td>
-                            <td class="title-cell" title="feature/AB#688607 - LOR Source Information: API Fetch Layer for Content Hierarchy PR1">feature/AB#688607 - LOR Source Information: API Fetch Layer for Content Hierarch...</td>
-                            <td>manoharan100</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-17</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge tech">Tech Lead ✓</span><span class="approval-badge vs">VS ✓</span></td>
-                            <td><span class="pending">CES Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-yes">✓ Yes</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-07-16" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17482" target="_blank">#17482</a><br><span class="git-id">Saimanimaran</span></td>
-                            <td class="title-cell" title="Bugfix/AB#684633-Average submission time for assessment is truncated to the largest unit">Bugfix/AB#684633-Average submission time for assessment is truncated to the larg...</td>
-                            <td>Saimanimaran</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-16</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge ces">CES ✓</span></td>
-                            <td><span class="pending">Tech Lead Review</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-07-15" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17451" target="_blank">#17451</a><br><span class="git-id">rag-bbdn</span></td>
-                            <td class="title-cell" title="AB#690282 - Icon misalignment in grade detail panel">AB#690282 - Icon misalignment in grade detail panel</td>
-                            <td>rag-bbdn</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-15</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="no-approval">None yet</span></td>
-                            <td><span class="pending">Team Approval</span>, <span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-merged" data-state="Merged" data-date="2026-07-15" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17436" target="_blank">#17436</a><br><span class="git-id">manoharan100</span></td>
-                            <td class="title-cell" title="feature/AB#688605 - LOR: Add localization for source information component ">feature/AB#688605 - LOR: Add localization for source information component </td>
-                            <td>manoharan100</td>
-                            <td><span class="badge" style="background:#a371f7">Merged</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-15</td>
-                            <td>2026-07-16</td>
-                            <td>2026-07-16</td>
-                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge tech">Tech Lead ✓</span><span class="approval-badge ces">CES ✓</span><span class="approval-badge vs">VS ✓</span></td>
-                            <td><span class="all-approved">All approved ✓</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-07-14" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17423" target="_blank">#17423</a><br><span class="git-id">sharmilahameed</span></td>
-                            <td class="title-cell" title="AB#684008- Grade detail list view and grid view feedback sync">AB#684008- Grade detail list view and grid view feedback sync</td>
-                            <td>sharmilahameed</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-14</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge tech">Tech Lead ✓</span><span class="approval-badge ces">CES ✓</span><span class="approval-badge vs">VS ✓</span></td>
-                            <td><span class="all-approved">All approved ✓</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-merged" data-state="Merged" data-date="2026-07-14" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17420" target="_blank">#17420</a><br><span class="git-id">pradeep-prasath123</span></td>
-                            <td class="title-cell" title="AB#690249 Group discussion grade panel navigation issue fix">AB#690249 Group discussion grade panel navigation issue fix</td>
-                            <td>pradeep-prasath123</td>
-                            <td><span class="badge" style="background:#a371f7">Merged</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-14</td>
-                            <td>2026-07-31</td>
-                            <td>2026-07-31</td>
-                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge tech">Tech Lead ✓</span><span class="approval-badge ces">CES ✓</span></td>
-                            <td><span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-merged" data-state="Merged" data-date="2026-07-13" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17400" target="_blank">#17400</a><br><span class="git-id">Saimanimaran</span></td>
-                            <td class="title-cell" title="Feature/AB#688063- Grade detail panel localization strings">Feature/AB#688063- Grade detail panel localization strings</td>
-                            <td>Saimanimaran</td>
-                            <td><span class="badge" style="background:#a371f7">Merged</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-13</td>
-                            <td>2026-07-21</td>
-                            <td>2026-07-21</td>
-                            <td><span class="approval-badge team">Team ✓</span></td>
-                            <td><span class="pending">Tech Lead Review</span>, <span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
-                        <tr class="state-open" data-state="Open" data-date="2026-07-13" data-changes="no-changes">
-                            <td><a href="https://github.com/blackboard-learn/ultra/pull/17397" target="_blank">#17397</a><br><span class="git-id">gulshan-antho</span></td>
-                            <td class="title-cell" title="Bugfix/AB#688952 - Fix keyboard focus lost when opening grade detail panel dialog">Bugfix/AB#688952 - Fix keyboard focus lost when opening grade detail panel dialo...</td>
-                            <td>gulshan-antho</td>
-                            <td><span class="badge" style="background:#238636">Open</span><br><span class="repo-badge">Ultra</span></td>
-                            <td>2026-07-13</td>
-                            <td>—</td>
-                            <td>—</td>
-                            <td><span class="approval-badge team">Team ✓</span><span class="approval-badge tech">Tech Lead ✓</span></td>
-                            <td><span class="pending">CES Approval</span>, <span class="pending">Value Stream Approval</span></td>
-                            <td>—</td>
-                            <td><span class="addressed-na">—</span></td>
-                        </tr>
                     </tbody>
                 </table>
             </div>

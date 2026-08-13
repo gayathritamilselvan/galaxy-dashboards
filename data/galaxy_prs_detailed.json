@@ -1,5 +1,98 @@
 [
   {
+    "number": 17984,
+    "title": "AB#693411 - AX Issue Focus Is Lost When Clicking the \"X\" Button in the filter chips",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-08-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17984"
+  },
+  {
+    "number": 17978,
+    "title": "Feature/AB#695332 Anonymous file submission receipt modal with submission link",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "nishavijayakumar"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17978"
+  },
+  {
+    "number": 17977,
+    "title": "Bugfix/AB#694044-Implement AX Fix for More Options buttons are named identically",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17977"
+  },
+  {
+    "number": 17975,
+    "title": "Bugfix/AB#687118 Fix VoiceOver announcement for guest access tooltip during keyboard navigation",
+    "author_login": "harshitha786",
+    "author_name": "Mogveera Harshitha Manjunath",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-08-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17975"
+  },
+  {
     "number": 17954,
     "title": "AB#694047 Assignment text contrast issue to make it as readable",
     "author_login": "pradeep-prasath123",
@@ -33,17 +126,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17951"
   },
   {
@@ -51,17 +141,17 @@
     "title": "AB#694049 - AX : Overall grade sort button nested interactive element",
     "author_login": "BharathiKannaa",
     "author_name": "Bharathi Kanna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-08-12",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -182,7 +272,7 @@
   },
   {
     "number": 17906,
-    "title": "AB#694655 - Localisation for no students in gradebook gridview",
+    "title": "AB#694655 - No students cell styles and Edit Icon cell changes",
     "author_login": "VigneshwaranSaravanan",
     "author_name": "Vigneshwaran S",
     "state": "Open",
@@ -262,9 +352,10 @@
     "created_at": "2026-08-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -284,9 +375,10 @@
     "created_at": "2026-08-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -306,9 +398,10 @@
     "created_at": "2026-08-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -365,21 +458,21 @@
   },
   {
     "number": 17870,
-    "title": "Feature/AB#690585 Show Warning When Anonymous Submission no longer exists",
+    "title": "Feature/AB#694941 Show Warning Dialog for Deleted Submission Receipts across All content types",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-10",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
+      "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -397,12 +490,13 @@
     "created_at": "2026-08-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "vs"
+    ],
     "pending": [
       "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -552,12 +646,13 @@
     "created_at": "2026-08-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "vs"
+    ],
     "pending": [
       "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1141,7 +1236,7 @@
     "title": "AB#691052- fix for visibility behaviour for batch edit and course outline dropdown",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-05",
@@ -1245,6 +1340,7 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
+      "priceld",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1483,12 +1579,12 @@
     "title": "Feature/AB#690585 Implement Anonymous Receipt Data and Rows Hooks Changes",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-03",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-13",
+    "closed_at": "2026-08-13",
     "approvals": [
       "ces",
       "team",
@@ -1688,12 +1784,12 @@
     "title": "Bugfix - AB#682066 - Backport - Gradebook column displays numeric score before Letter grade is rendered for students",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-07-31",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-13",
     "approvals": [
       "team",
       "tech"
@@ -1981,12 +2077,12 @@
     "title": "Feature/ab 667238 common permissions settings course outline subbranch",
     "author_login": "Hariharan-r-k",
     "author_name": "Hariharan R K",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-07-28",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-13",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -2139,12 +2235,12 @@
     "title": "AB#544882 - New Course Outline. The place-holder content with upload throbber is not removed when the upload fails due to quota excess",
     "author_login": "BharathiKannaa",
     "author_name": "Bharathi Kanna",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-07-27",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-13",
     "approvals": [
       "team",
       "tech",
@@ -3227,12 +3323,12 @@
     "title": "BugFix/AB#689840 -  Update group attempt control regex to match System Nav M2 routes",
     "author_login": "ranjith-r-anthology",
     "author_name": "Ranjith Ramasamy",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-07-14",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-13",
+    "closed_at": "2026-08-13",
     "approvals": [
       "ces",
       "team",
@@ -3289,6 +3385,72 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17416"
+  },
+  {
+    "number": 8783,
+    "title": "Feature/AB#694481 - PNS-asset-processor-submission-dispatch",
+    "author_login": "AdhithiyaHBB",
+    "author_name": "Adhithiya H",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-08-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8783"
+  },
+  {
+    "number": 8781,
+    "title": "AB#694724- added string for learning activity tool",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Cholas",
+    "created_at": "2026-08-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8781"
+  },
+  {
+    "number": 8779,
+    "title": "Feature/AB#694479: Add PNS notice model and notice JWT signing (PR#4a)",
+    "author_login": "Dinesh-Chandra832",
+    "author_name": "Dinesh Chandra",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-08-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8779"
   },
   {
     "number": 8773,
@@ -3362,12 +3524,12 @@
     "title": "AB#684425 - Unable to edit and save UEF placement configuration from LTI Tool Providers page - Backport 4000.21.0",
     "author_login": "AdhithiyaHBB",
     "author_name": "Adhithiya H",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-08-11",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-13",
+    "closed_at": "2026-08-13",
     "approvals": [
       "team",
       "tech",
@@ -3408,12 +3570,12 @@
     "title": "Feature/AB#694009 update child document last modified date based on parent extended data testing",
     "author_login": "Hariharan-r-k",
     "author_name": "Hariharan R K",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Learn",
     "team": "Supernova",
     "created_at": "2026-08-11",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-13",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -3479,12 +3641,12 @@
     "title": "Change supernova tech-lead in autolabeler",
     "author_login": "Hariharan-r-k",
     "author_name": "Hariharan R K",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Supernova",
     "created_at": "2026-08-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-13",
+    "closed_at": "2026-08-13",
     "approvals": [
       "team"
     ],
@@ -3576,17 +3738,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
-      "team"
+      "ces"
     ],
     "pending": [
+      "Team Approval",
       "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "kkuppula"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8735"
   },
   {
@@ -4349,13 +4509,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "lanceneumannblackboard"
     ],
@@ -4381,10 +4540,8 @@
     "pending": [
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "bbsaraswathikanniappan"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8584"
   },
   {

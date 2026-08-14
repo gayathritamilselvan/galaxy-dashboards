@@ -1,5 +1,49 @@
 [
   {
+    "number": 17998,
+    "title": "AB#694727 \u2014 Show flashcard in activity stream",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-08-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17998"
+  },
+  {
+    "number": 17993,
+    "title": "AB#694739-Localization strings for Flashcard Delete/Add Restrcition Error",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-08-13",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/17993"
+  },
+  {
     "number": 17984,
     "title": "AB#693411 - AX Issue Focus Is Lost When Clicking the \"X\" Button in the filter chips",
     "author_login": "MohamedTharik8883",
@@ -74,18 +118,18 @@
     "title": "Bugfix/AB#687118 Fix VoiceOver announcement for guest access tooltip during keyboard navigation",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-08-13",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "ces"
     ],
     "pending": [
       "Team Approval",
-      "CES Approval",
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -119,12 +163,12 @@
     "title": "Bugfix - AB#694608 - Students shown as non participants in gradable discussions",
     "author_login": "KirubakaranRBB",
     "author_name": "Kirubakaran R",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-08-12",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-13",
+    "closed_at": "2026-08-13",
     "approvals": [
       "ces",
       "team",
@@ -468,13 +512,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17870"
@@ -905,8 +948,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "cclarkbb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17826"
   },
   {
@@ -1220,13 +1265,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17786"
@@ -2982,12 +3026,12 @@
     "title": "Bugfix/AB#684633-Average submission time for assessment is truncated to the largest unit",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-07-16",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-13",
+    "closed_at": "2026-08-13",
     "approvals": [
       "ces",
       "team"
@@ -3252,37 +3296,14 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17436"
   },
   {
-    "number": 17428,
-    "title": "AB#687919 WDIO-fix-quarantine-case-PTID-4191",
-    "author_login": "DineshRajendranBB",
-    "author_name": "Dinesh Rajendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-14",
-    "merged_at": "2026-07-15",
-    "closed_at": "2026-07-15",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17428"
-  },
-  {
-    "number": 17425,
-    "title": "oven check",
-    "author_login": "Ram-G-BB",
-    "author_name": "Ram G",
+    "number": 8798,
+    "title": "AB#689765-backport no permission dialog when adding notes to student for anonymously graded assignment",
+    "author_login": "BavithraM",
+    "author_name": "Bavithra M",
     "state": "Draft",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-07-14",
+    "repo": "Learn",
+    "team": "Mars",
+    "created_at": "2026-08-14",
     "merged_at": null,
     "closed_at": null,
     "approvals": [],
@@ -3294,97 +3315,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17425"
-  },
-  {
-    "number": 17423,
-    "title": "AB#684008- Grade detail list view and grid view feedback sync",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-14",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17423"
-  },
-  {
-    "number": 17421,
-    "title": "BugFix/AB#689840 -  Update group attempt control regex to match System Nav M2 routes",
-    "author_login": "ranjith-r-anthology",
-    "author_name": "Ranjith Ramasamy",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Celeste",
-    "created_at": "2026-07-14",
-    "merged_at": "2026-08-13",
-    "closed_at": "2026-08-13",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17421"
-  },
-  {
-    "number": 17420,
-    "title": "AB#690249 Group discussion grade panel navigation issue fix",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-14",
-    "merged_at": "2026-07-31",
-    "closed_at": "2026-07-31",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17420"
-  },
-  {
-    "number": 17416,
-    "title": "Bugfix/AB#689915 - Mixing of header and data roles inside a single <thead> row",
-    "author_login": "VigneshwaranSaravanan",
-    "author_name": "Vigneshwaran S",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-14",
-    "merged_at": "2026-07-21",
-    "closed_at": "2026-07-21",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17416"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8798"
   },
   {
     "number": 8783,
@@ -5003,77 +4934,5 @@
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8525"
-  },
-  {
-    "number": 8520,
-    "title": "AB#690552 Guest Access: Address follow-up review findings across membership, content, and gradebook APIs",
-    "author_login": "harshitha786",
-    "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Closed",
-    "repo": "Learn",
-    "team": "Oxygen",
-    "created_at": "2026-07-14",
-    "merged_at": null,
-    "closed_at": "2026-08-05",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "alwongbb",
-      "lanceneumannblackboard",
-      "sharmilahameed"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8520"
-  },
-  {
-    "number": 8517,
-    "title": "Feature/AB#690196: Add LTI Platform Notification Service (PNS) claim to LTI 1.3 launches (M1)",
-    "author_login": "Dinesh-Chandra832",
-    "author_name": "Dinesh Chandra",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-07-14",
-    "merged_at": "2026-07-29",
-    "closed_at": "2026-07-29",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8517"
-  },
-  {
-    "number": 8515,
-    "title": "AB#689765-Bugfix/ab 689765 no permission dialog when adding notes to student for anonymously graded assignment",
-    "author_login": "BavithraM",
-    "author_name": "Bavithra M",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Mars",
-    "created_at": "2026-07-14",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8515"
   }
 ]

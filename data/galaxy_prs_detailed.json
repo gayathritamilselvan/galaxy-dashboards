@@ -1637,8 +1637,10 @@
       "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17757"
   },
   {
@@ -1796,7 +1798,8 @@
     ],
     "changes_requested_by": [
       "bbnkamper",
-      "priceld"
+      "priceld",
+      "stormojm"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17737"
@@ -3089,51 +3092,6 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17504"
-  },
-  {
-    "number": 17482,
-    "title": "Bugfix/AB#684633-Average submission time for assessment is truncated to the largest unit",
-    "author_login": "Saimanimaran",
-    "author_name": "Sai Manimaran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-16",
-    "merged_at": "2026-08-13",
-    "closed_at": "2026-08-13",
-    "approvals": [
-      "ces",
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17482"
-  },
-  {
-    "number": 17467,
-    "title": "Feature/AB#688125-Implement points possible column in list view",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-16",
-    "merged_at": "2026-07-31",
-    "closed_at": "2026-07-31",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17467"
   },
   {
     "number": 8805,
@@ -4674,98 +4632,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8549"
-  },
-  {
-    "number": 8541,
-    "title": "Bugfix - AB#689442 institutional hierarchy course user manager node filter",
-    "author_login": "akash05-bb",
-    "author_name": "Akash M",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Starlite",
-    "created_at": "2026-07-16",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8541"
-  },
-  {
-    "number": 8540,
-    "title": "AB#672285-Remove duplicate users_ak3 index",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Mars",
-    "created_at": "2026-07-16",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "sakthi-selvapriya"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8540"
-  },
-  {
-    "number": 8539,
-    "title": "Feature/AB#691079: UI warning indicator for LTI 1.1/4000.21.0",
-    "author_login": "pkumarr07",
-    "author_name": "Pradeep Kumar R",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-07-16",
-    "merged_at": "2026-07-16",
-    "closed_at": "2026-07-16",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8539"
-  },
-  {
-    "number": 8537,
-    "title": "AB#478008: Unavailable course and org roles are still available for enrolments via sis integration",
-    "author_login": "pkumarr07",
-    "author_name": "Pradeep Kumar R",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-07-16",
-    "merged_at": "2026-08-12",
-    "closed_at": "2026-08-12",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8537"
   }
 ]

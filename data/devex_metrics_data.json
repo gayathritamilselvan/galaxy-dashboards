@@ -9556,7 +9556,7 @@
       "prs_authored": 9,
       "avg_pr_age": 548.8,
       "avg_pr_size": 208.4,
-      "avg_review_cycle": 0.33
+      "avg_review_cycle": 0.44
     },
     {
       "member": "bhuvaneswarisbb",
@@ -9586,7 +9586,7 @@
       "prs_authored": 17,
       "avg_pr_age": 382.5,
       "avg_pr_size": 660.0,
-      "avg_review_cycle": 1.12
+      "avg_review_cycle": 1.18
     },
     {
       "member": "saimanimaran",
@@ -9605,7 +9605,7 @@
       "period": "POST_S12",
       "prs_authored": 12,
       "avg_pr_age": 211.3,
-      "avg_pr_size": 276.1,
+      "avg_pr_size": 276.6,
       "avg_review_cycle": 0.33
     },
     {
@@ -9746,7 +9746,7 @@
       "prs_authored": 5,
       "avg_pr_age": 1021.2,
       "avg_pr_size": 307.4,
-      "avg_review_cycle": 1.8
+      "avg_review_cycle": 2.0
     },
     {
       "member": "priyadarshinisaravanan",
@@ -10535,7 +10535,7 @@
       "period": "ALL",
       "prs_authored": 31,
       "avg_pr_age": 280.1,
-      "avg_pr_size": 240.9,
+      "avg_pr_size": 241.1,
       "avg_review_cycle": 0.48
     },
     {
@@ -10806,7 +10806,7 @@
       "prs_authored": 42,
       "avg_pr_age": 355.3,
       "avg_pr_size": 614.5,
-      "avg_review_cycle": 0.86
+      "avg_review_cycle": 0.88
     },
     {
       "member": "srujankusuma3232",
@@ -10946,7 +10946,7 @@
       "prs_authored": 11,
       "avg_pr_age": 710.0,
       "avg_pr_size": 227.7,
-      "avg_review_cycle": 1.55
+      "avg_review_cycle": 1.64
     },
     {
       "member": "harshitha786",
@@ -10966,7 +10966,7 @@
       "prs_authored": 15,
       "avg_pr_age": 409.5,
       "avg_pr_size": 263.7,
-      "avg_review_cycle": 0.26
+      "avg_review_cycle": 0.33
     },
     {
       "member": "ravi-anthology",
@@ -11050,5 +11050,5 @@
     }
   ],
   "total_prs": 686,
-  "fetched_at": "2026-08-15 14:13:40"
+  "fetched_at": "2026-08-16 04:28:15"
 }

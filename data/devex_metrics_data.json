@@ -4191,13 +4191,13 @@
       "display_name": "Sai Manimaran",
       "team": "Mars",
       "period": "POST_S12",
-      "reviews_submitted": 201,
+      "reviews_submitted": 202,
       "prs_reviewed": 50,
-      "approval_rate": 16.9,
-      "avg_response_time": 130.5,
-      "comment_count": 155,
+      "approval_rate": 16.8,
+      "avg_response_time": 131.1,
+      "comment_count": 156,
       "prs_commented_on": 18,
-      "comments_on_reviewed": 155,
+      "comments_on_reviewed": 156,
       "avg_comments_on_reviewed": 3.1
     },
     {
@@ -6193,13 +6193,13 @@
       "display_name": "Sai Manimaran",
       "team": "Mars",
       "period": "ALL",
-      "reviews_submitted": 490,
+      "reviews_submitted": 491,
       "prs_reviewed": 124,
       "approval_rate": 15.7,
-      "avg_response_time": 155.5,
-      "comment_count": 369,
+      "avg_response_time": 155.7,
+      "comment_count": 370,
       "prs_commented_on": 53,
-      "comments_on_reviewed": 369,
+      "comments_on_reviewed": 370,
       "avg_comments_on_reviewed": 3.0
     },
     {
@@ -9016,7 +9016,7 @@
       "prs_authored": 13,
       "avg_pr_age": 211.3,
       "avg_pr_size": 346.5,
-      "avg_review_cycle": 0.38
+      "avg_review_cycle": 0.46
     },
     {
       "member": "anmolgupta-anthology",
@@ -9056,7 +9056,7 @@
       "prs_authored": 8,
       "avg_pr_age": 130.8,
       "avg_pr_size": 276.0,
-      "avg_review_cycle": 0.88
+      "avg_review_cycle": 1.0
     },
     {
       "member": "manoharan100",
@@ -9165,7 +9165,7 @@
       "period": "POST_S12",
       "prs_authored": 13,
       "avg_pr_age": 171.7,
-      "avg_pr_size": 256.5,
+      "avg_pr_size": 256.3,
       "avg_review_cycle": 0.38
     },
     {
@@ -9535,7 +9535,7 @@
       "period": "POST_S12",
       "prs_authored": 8,
       "avg_pr_age": 108.9,
-      "avg_pr_size": 363.5,
+      "avg_pr_size": 354.4,
       "avg_review_cycle": 1.0
     },
     {
@@ -9556,7 +9556,7 @@
       "prs_authored": 9,
       "avg_pr_age": 548.8,
       "avg_pr_size": 208.4,
-      "avg_review_cycle": 0.44
+      "avg_review_cycle": 0.56
     },
     {
       "member": "bhuvaneswarisbb",
@@ -9585,8 +9585,8 @@
       "period": "POST_S12",
       "prs_authored": 17,
       "avg_pr_age": 382.5,
-      "avg_pr_size": 660.0,
-      "avg_review_cycle": 1.18
+      "avg_pr_size": 664.8,
+      "avg_review_cycle": 1.24
     },
     {
       "member": "saimanimaran",
@@ -9765,7 +9765,7 @@
       "period": "POST_S12",
       "prs_authored": 6,
       "avg_pr_age": 187.7,
-      "avg_pr_size": 254.5,
+      "avg_pr_size": 262.7,
       "avg_review_cycle": 0.33
     },
     {
@@ -9825,7 +9825,7 @@
       "period": "POST_S12",
       "prs_authored": 5,
       "avg_pr_age": 323.3,
-      "avg_pr_size": 148.8,
+      "avg_pr_size": 154.0,
       "avg_review_cycle": 1.0
     },
     {
@@ -10526,7 +10526,7 @@
       "prs_authored": 27,
       "avg_pr_age": 293.5,
       "avg_pr_size": 296.7,
-      "avg_review_cycle": 0.66
+      "avg_review_cycle": 0.7
     },
     {
       "member": "subbalakshmi-bb",
@@ -10575,7 +10575,7 @@
       "period": "ALL",
       "prs_authored": 51,
       "avg_pr_age": 189.4,
-      "avg_pr_size": 321.7,
+      "avg_pr_size": 321.6,
       "avg_review_cycle": 0.61
     },
     {
@@ -10746,7 +10746,7 @@
       "prs_authored": 16,
       "avg_pr_age": 161.0,
       "avg_pr_size": 313.9,
-      "avg_review_cycle": 0.69
+      "avg_review_cycle": 0.75
     },
     {
       "member": "smurugasan-bbdn",
@@ -10755,7 +10755,7 @@
       "period": "ALL",
       "prs_authored": 20,
       "avg_pr_age": 198.4,
-      "avg_pr_size": 308.7,
+      "avg_pr_size": 311.2,
       "avg_review_cycle": 0.55
     },
     {
@@ -10805,8 +10805,8 @@
       "period": "ALL",
       "prs_authored": 42,
       "avg_pr_age": 355.3,
-      "avg_pr_size": 614.5,
-      "avg_review_cycle": 0.88
+      "avg_pr_size": 616.4,
+      "avg_review_cycle": 0.91
     },
     {
       "member": "srujankusuma3232",
@@ -10815,7 +10815,7 @@
       "period": "ALL",
       "prs_authored": 22,
       "avg_pr_age": 164.6,
-      "avg_pr_size": 593.6,
+      "avg_pr_size": 590.3,
       "avg_review_cycle": 1.18
     },
     {
@@ -10825,7 +10825,7 @@
       "period": "ALL",
       "prs_authored": 17,
       "avg_pr_age": 288.8,
-      "avg_pr_size": 156.5,
+      "avg_pr_size": 158.0,
       "avg_review_cycle": 1.0
     },
     {
@@ -10966,7 +10966,7 @@
       "prs_authored": 15,
       "avg_pr_age": 409.5,
       "avg_pr_size": 263.7,
-      "avg_review_cycle": 0.33
+      "avg_review_cycle": 0.4
     },
     {
       "member": "ravi-anthology",
@@ -11050,5 +11050,5 @@
     }
   ],
   "total_prs": 686,
-  "fetched_at": "2026-08-16 14:14:17"
+  "fetched_at": "2026-08-17 04:36:18"
 }

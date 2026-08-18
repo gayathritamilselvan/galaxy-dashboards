@@ -1,5 +1,96 @@
 [
   {
+    "number": 18073,
+    "title": "Bugfix/ab 690828 group filter carry flex grading new grid view",
+    "author_login": "MohamedTharik8883",
+    "author_name": "Mohamed Tharik",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-08-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18073"
+  },
+  {
+    "number": 18069,
+    "title": "Bugfix - AB#694043: Improve Column Header Text Contrast for Accessibility",
+    "author_login": "akash05-bb",
+    "author_name": "Akash M",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-08-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18069"
+  },
+  {
+    "number": 18064,
+    "title": "Bugfix/AB#694040 -Implement AX Fix for Assessment Details panel Voice over points to unknown div",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18064"
+  },
+  {
+    "number": 18063,
+    "title": "AB#693365 - added default option in line height submenu localization",
+    "author_login": "kesavanazhagarsamy",
+    "author_name": "Kesavan Azhagarsamy",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-08-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18063"
+  },
+  {
     "number": 18057,
     "title": "Bugfix/AB#681630 - LTI frame at 400% zoom is too hard to use",
     "author_login": "Dinesh-Chandra832",
@@ -143,9 +234,10 @@
     "created_at": "2026-08-14",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -188,9 +280,10 @@
     "created_at": "2026-08-13",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -664,7 +757,7 @@
     "title": "AB#689407- Fix accommodation data carrying over to next cell",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-10",
@@ -987,9 +1080,10 @@
     "created_at": "2026-08-07",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -1010,17 +1104,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "priceld"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17837"
   },
   {
@@ -1132,10 +1223,8 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "johntrianat"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17826"
   },
   {
@@ -1419,7 +1508,7 @@
     "title": " AB#525123-Wrong century is selected for 2-digit years in \"en_UK\" Locale",
     "author_login": "kalimuthupalraj",
     "author_name": "Kalimuthu Palraj",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-08-05",
@@ -1723,15 +1812,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
-      "team",
-      "tech"
+      "ces"
     ],
     "pending": [
+      "Team Approval",
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "stormojm",
       "subashree-b"
     ],
     "changes_addressed": "no",
@@ -3124,6 +3212,28 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17526"
   },
   {
+    "number": 8831,
+    "title": "Prevent Grade Center hang with missing cache data",
+    "author_login": "PriyadarshiniSaravanan",
+    "author_name": "Priyadarshini S",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Elite",
+    "created_at": "2026-08-18",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8831"
+  },
+  {
     "number": 8805,
     "title": "AB#694724- added toggle logic integration with ultra",
     "author_login": "AnmolGupta-Anthology",
@@ -3157,10 +3267,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3255,8 +3365,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "dinesh-chandra832"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8783"
   },
   {
@@ -3340,12 +3452,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
       "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3486,8 +3598,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "sakthi-selvapriya"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8748"
   },
   {
@@ -3518,7 +3632,7 @@
     "title": "AB#693790 - On-behalf receipt consumers: submitter-name snapshot, email attribution, content-exchange carry",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Supernova",
     "created_at": "2026-08-07",
@@ -3541,7 +3655,7 @@
     "title": "AB#693789 - Expose on-behalf attribution (submitter id + reason) on AttemptReceiptTORest",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Supernova",
     "created_at": "2026-08-07",
@@ -3564,7 +3678,7 @@
     "title": "AB#693788 - Submit-on-behalf REST endpoint (gate, validation, error mapping)",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Starlite",
     "created_at": "2026-08-07",
@@ -3610,7 +3724,7 @@
     "title": "AB#693787 - Implements the end-to-end flow for submitting a draft attempt on behalf of a student.",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Starlite",
     "created_at": "2026-08-07",
@@ -3633,7 +3747,7 @@
     "title": "AB#693786 - Added attributes for Submit Draft Attempt on Behalf feature",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Starlite",
     "created_at": "2026-08-07",

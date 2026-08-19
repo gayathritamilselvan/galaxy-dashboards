@@ -1,5 +1,27 @@
 [
   {
+    "number": 18099,
+    "title": "AB#696683-Overall Feedback file upload issue",
+    "author_login": "sharmilahameed",
+    "author_name": "Sharmila Begam Hameed",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-08-19",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18099"
+  },
+  {
     "number": 18091,
     "title": "feature/AB#695002-accommodation-TC= 696695",
     "author_login": "DineshRajendranBB",
@@ -78,12 +100,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -101,10 +123,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -161,12 +183,12 @@
     "title": "Bugfix/AB#694045 - Fix color contrast for \"No tasks pending\" empty state text",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-08-17",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-19",
+    "closed_at": "2026-08-19",
     "approvals": [
       "team",
       "tech",
@@ -250,17 +272,17 @@
     "title": "AB#693365 - Line Height is Inconsistent for Indented/Non-Indented Text",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-08-14",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -440,12 +462,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -508,12 +530,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces"
+      "ces",
+      "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -614,12 +636,12 @@
     "title": "AB#694655 - No students cell styles and Edit Icon cell changes",
     "author_login": "VigneshwaranSaravanan",
     "author_name": "Vigneshwaran S",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-08-11",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-19",
+    "closed_at": "2026-08-19",
     "approvals": [
       "ces",
       "team",
@@ -1115,15 +1137,15 @@
   },
   {
     "number": 17837,
-    "title": "AB#694309-Improve flashcard student view focus accessibility",
+    "title": "AB#694739-Improve flashcard student view focus accessibility",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-19",
+    "closed_at": "2026-08-19",
     "approvals": [
       "ces",
       "team",
@@ -1227,7 +1249,7 @@
   },
   {
     "number": 17826,
-    "title": "AB#693102-Integrated forced sequence support for AI flashcard learning activities",
+    "title": "AB#694739-Integrated forced sequence support for AI flashcard learning activities",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
     "state": "Open",
@@ -1460,15 +1482,17 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team",
-      "tech"
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "priceld"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17799"
   },
   {
@@ -1833,12 +1857,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces"
+      "ces",
+      "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [
       "subashree-b"
@@ -1859,11 +1883,11 @@
     "closed_at": null,
     "approvals": [
       "ces",
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [
       "stormojm"
@@ -2173,12 +2197,12 @@
     "title": "AB#691988: click functionality for progress button transition",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-07-30",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-19",
+    "closed_at": "2026-08-19",
     "approvals": [
       "ces",
       "team",
@@ -3231,6 +3255,117 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17526"
   },
   {
+    "number": 8852,
+    "title": "bugfix/AB#579025-Fix course export file access errors for roles without archive/restore entitlement",
+    "author_login": "AsmirKhan7",
+    "author_name": "Asmir Khan",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Elite",
+    "created_at": "2026-08-19",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8852"
+  },
+  {
+    "number": 8851,
+    "title": "AB#693799 - Anonymous-column draft retrieval (backend): prove anonymity-blind submit",
+    "author_login": "nravikumar-bbdn",
+    "author_name": "Ravi Kumar N",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Starlite",
+    "created_at": "2026-08-19",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8851"
+  },
+  {
+    "number": 8850,
+    "title": "Bugifx/AB#696025 - Fix student activity page notStartedCount to respect ACL release conditions in statistics endpoint",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-08-19",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8850"
+  },
+  {
+    "number": 8843,
+    "title": "AB#534264-Fix AutoArchiveOnCourseDelete for cross-listed courses on DSK purge",
+    "author_login": "Anshu972438",
+    "author_name": "Anshu",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Supernova",
+    "created_at": "2026-08-19",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8843"
+  },
+  {
+    "number": 8842,
+    "title": "AB#694613 Fix incorrect average duration calculation in Question Analysis report",
+    "author_login": "SuryaMadhanlal-5252",
+    "author_name": "Surya Madhanlal",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Cholas",
+    "created_at": "2026-08-19",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8842"
+  },
+  {
     "number": 8841,
     "title": "AB#575844 Google Meet LTI Deeplink does not apply time restrictions to Ultra Content Items and updated it in javadoc",
     "author_login": "smurugasan-bbdn",
@@ -3263,9 +3398,10 @@
     "created_at": "2026-08-18",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"

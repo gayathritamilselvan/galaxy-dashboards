@@ -1,12 +1,35 @@
 [
   {
-    "number": 18141,
-    "title": "Bugfix/AB#696777-Implemented Invalidation for Release condition on Student Activity",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
+    "number": 18156,
+    "title": "AB#696848 - Overall grade shows raw negative value instead of \"F\" ",
+    "author_login": "nravikumar-bbdn",
+    "author_name": "Ravi Kumar N",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18156"
+  },
+  {
+    "number": 18154,
+    "title": "AB#697119 - Search filter is not cleared when navigating within a folder/LM after applying search",
+    "author_login": "kesavanazhagarsamy",
+    "author_name": "Kesavan Azhagarsamy",
     "state": "Draft",
     "repo": "Ultra",
-    "team": "Pandias",
+    "team": "Supernova",
     "created_at": "2026-08-20",
     "merged_at": null,
     "closed_at": null,
@@ -19,6 +42,77 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18154"
+  },
+  {
+    "number": 18153,
+    "title": "Bugfix/AB#696959 Implement Submission Activity student  count for Release Condition",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18153"
+  },
+  {
+    "number": 18149,
+    "title": "AB#696054 - New Submission View - Data mismatch after resetting the filter",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18149"
+  },
+  {
+    "number": 18141,
+    "title": "Bugfix/AB#696777-Implemented Invalidation for Release condition on Student Activity",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "nishavijayakumar"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18141"
   },
   {
@@ -32,15 +126,18 @@
     "created_at": "2026-08-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "kirubakaranrbb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18099"
   },
   {
@@ -54,12 +151,13 @@
     "created_at": "2026-08-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -92,7 +190,7 @@
     "title": "Bugfix - AB#694043: Improve Column Header Text Contrast for Accessibility",
     "author_login": "akash05-bb",
     "author_name": "Akash M",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-08-18",
@@ -115,7 +213,7 @@
     "title": "Bugfix/AB#694040 -Implement AX Fix for Assessment Details panel Voice over points to unknown div",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-18",
@@ -123,10 +221,10 @@
     "closed_at": null,
     "approvals": [
       "team",
+      "tech",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -430,12 +528,12 @@
     "title": "Bugfix/AB#694044-Implement AX Fix for More Options buttons are named identically",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-13",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-20",
+    "closed_at": "2026-08-20",
     "approvals": [
       "ces",
       "team",
@@ -687,12 +785,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -865,7 +963,7 @@
     "title": "AB#693795 - Submission Details 'Submitted by' line for on-behalf attempts",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-10",
@@ -910,18 +1008,19 @@
     "title": "AB#693793 - Confirm dialog for submit draft attempt on behalf",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "vs"
+    ],
     "pending": [
       "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1021,7 +1120,7 @@
     "title": "AB#693792 - Submissions List menu action + type gate for submit draft attempt on behalf",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-10",
@@ -1137,19 +1236,19 @@
     "title": "AB#693791 - FE data layer for submit draft attempt on behalf (api-client, data-service, hook, flag key)",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-08-07",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "vs"
     ],
     "pending": [
+      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1227,12 +1326,12 @@
     "title": "bugfix/AB#690430-feedback label displayed inconsistently",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-07",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-20",
+    "closed_at": "2026-08-20",
     "approvals": [
       "ces",
       "team",
@@ -1403,7 +1502,7 @@
   },
   {
     "number": 17804,
-    "title": "passing content id to memebership id",
+    "title": "Bugfix/691265-Download Submission - RC related data isnt getting filtered ",
     "author_login": "LalithBB",
     "author_name": "Lalith",
     "state": "Draft",
@@ -1535,8 +1634,7 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "joe-soellner",
-      "welstrec"
+      "joe-soellner"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17792"
@@ -1617,12 +1715,12 @@
     "title": "AB#691052- fix for visibility behaviour for batch edit and course outline dropdown",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-05",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-08-20",
     "approvals": [
       "team",
       "tech",
@@ -2051,7 +2149,7 @@
   },
   {
     "number": 17737,
-    "title": "Prevent Quill crash for tables nested inside list items",
+    "title": "AB#684577 - Prevent Quill crash for tables nested inside list items",
     "author_login": "PriyadarshiniSaravanan",
     "author_name": "Priyadarshini S",
     "state": "Open",
@@ -3160,6 +3258,119 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17545"
   },
   {
+    "number": 8873,
+    "title": "AB#505962-Fix guest privilege escalation on Goals/Alignment picker actions (backport 4001.0.0)",
+    "author_login": "harshitha786",
+    "author_name": "Mogveera Harshitha Manjunath",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8873"
+  },
+  {
+    "number": 8870,
+    "title": "Bugfix/AB#690550 guest access follow up security api fixes backport 4001.0.0",
+    "author_login": "harshitha786",
+    "author_name": "Mogveera Harshitha Manjunath",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8870"
+  },
+  {
+    "number": 8867,
+    "title": "Bugfix/AB#565298 Guest permitted edit course - backport to 4001.0.0",
+    "author_login": "harshitha786",
+    "author_name": "Mogveera Harshitha Manjunath",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8867"
+  },
+  {
+    "number": 8866,
+    "title": "Bugfix/AB#696812 - Filter non-participants list by ACL release conditions on discussion student activity page",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8866"
+  },
+  {
+    "number": 8865,
+    "title": "Bugfix/AB#693389 Gradebook Download file Include Unposted Attempt Grades feedback",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Pandias",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8865"
+  },
+  {
     "number": 8856,
     "title": "AB#693800 - Anonymous-column submit + validation (backend): discriminated no-draft outcome",
     "author_login": "bhuvaneswarisbb",
@@ -3192,9 +3403,10 @@
     "created_at": "2026-08-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -3205,7 +3417,7 @@
   },
   {
     "number": 8851,
-    "title": "AB#693799 - Anonymous-column draft retrieval (backend): prove anonymity-blind submit",
+    "title": "AB#693799 - Anonymous Column Submit draft attempt validation",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
     "state": "Draft",
@@ -3214,10 +3426,11 @@
     "created_at": "2026-08-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3230,16 +3443,17 @@
     "title": "Bugifx/AB#696025 - Fix student activity page notStartedCount to respect ACL release conditions in statistics endpoint",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-08-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3283,11 +3497,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8842"
@@ -3316,10 +3529,10 @@
   },
   {
     "number": 8831,
-    "title": "Prevent Grade Center hang with missing cache data",
+    "title": "AB#693224 - Prevent Grade Center hang with missing cache data",
     "author_login": "PriyadarshiniSaravanan",
     "author_name": "Priyadarshini S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Elite",
     "created_at": "2026-08-18",
@@ -3462,17 +3675,16 @@
     "created_at": "2026-08-13",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "dinesh-chandra832"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8783"
   },
   {
@@ -3533,13 +3745,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8773"
@@ -3678,6 +3889,7 @@
     ],
     "changes_requested_by": [
       "ganeshsbb",
+      "indumathithulasi2203",
       "timkack"
     ],
     "changes_addressed": "no",
@@ -4171,12 +4383,12 @@
     "title": "AB#691988: progress button render based on progress tracking toggle for flashcards implementation",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Cholas",
     "created_at": "2026-07-30",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-20",
+    "closed_at": "2026-08-20",
     "approvals": [
       "ces",
       "team",

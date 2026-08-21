@@ -1,5 +1,115 @@
 [
   {
+    "number": 18172,
+    "title": "AB#694048  AX:Posted text on the Grade Details does not meet enhanced contrast requirements",
+    "author_login": "ramanidharanr",
+    "author_name": "Ramanidharan R",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-08-21",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18172"
+  },
+  {
+    "number": 18166,
+    "title": "refactoring visibility restrictions",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18166"
+  },
+  {
+    "number": 18164,
+    "title": "Bugfix/AB#696855 - Prevent identity-change collapse from stealing keyboard focus in Grade Details",
+    "author_login": "ranjith-r-anthology",
+    "author_name": "Ranjith Ramasamy",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Celeste",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18164"
+  },
+  {
+    "number": 18162,
+    "title": "AB#693801 - Submit-on-behalf: anonymous-column menu action and outcome handling",
+    "author_login": "bhuvaneswarisbb",
+    "author_name": "Bhuvaneswari S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18162"
+  },
+  {
+    "number": 18161,
+    "title": "AB#693801 - Submit-on-behalf: discriminated no-draft outcome (data layer)",
+    "author_login": "bhuvaneswarisbb",
+    "author_name": "Bhuvaneswari S",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-08-20",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18161"
+  },
+  {
     "number": 18156,
     "title": "AB#696848 - Overall grade shows raw negative value instead of \"F\" ",
     "author_login": "nravikumar-bbdn",
@@ -11,13 +121,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18156"
@@ -120,7 +229,7 @@
     "title": "AB#696683-Overall Feedback file upload issue",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-19",
@@ -423,11 +532,10 @@
     "approvals": [
       "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18007"
@@ -445,11 +553,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -709,22 +817,24 @@
     "title": "AB#694740-Restrict flashcard add/delete once a student has started the activity",
     "author_login": "arunkumarkosna",
     "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-11",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "amyers-blackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17914"
   },
   {
@@ -986,18 +1096,19 @@
     "title": "AB#693794 - Instructor submission-receipt modal for submit draft attempt on behalf",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "vs"
+    ],
     "pending": [
       "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1022,8 +1133,10 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17863"
   },
   {
@@ -1134,8 +1247,10 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "davtohbb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17856"
   },
   {
@@ -1180,6 +1295,7 @@
       "CES Approval"
     ],
     "changes_requested_by": [
+      "ewpreston",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1250,8 +1366,10 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17840"
   },
   {
@@ -3075,87 +3193,16 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17572"
   },
   {
-    "number": 17560,
-    "title": "feature/AB#688608 - LOR- Source Information component with fetched data PR2",
-    "author_login": "manoharan100",
-    "author_name": "Manoharan",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-07-21",
+    "number": 8879,
+    "title": "implementing logic for visibility restriction",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Cholas",
+    "created_at": "2026-08-20",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17560"
-  },
-  {
-    "number": 17559,
-    "title": "Feature/AB#672809 - Unsaved changes confirmation when switching tabs for document and LM",
-    "author_login": "kesavanazhagarsamy",
-    "author_name": "Kesavan Azhagarsamy",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-07-21",
-    "merged_at": "2026-08-12",
-    "closed_at": "2026-08-12",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "covertcj",
-      "priceld"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17559"
-  },
-  {
-    "number": 17558,
-    "title": "bugfix/AB#687912-Quarantine-Fix-PTID=199",
-    "author_login": "Vignesh440-ai",
-    "author_name": "Vignesh",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-21",
-    "merged_at": "2026-07-23",
-    "closed_at": "2026-07-23",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17558"
-  },
-  {
-    "number": 17554,
-    "title": "bugfix/AB#688144-WDIO-quarantine-fix-ptid=2973",
-    "author_login": "Prasannajayasankar",
-    "author_name": "Prasanna Jayasankar",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-21",
-    "merged_at": null,
-    "closed_at": "2026-08-06",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -3165,97 +3212,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17554"
-  },
-  {
-    "number": 17552,
-    "title": "Bugfix/AB#687918 quarantine fix ptid 2491 2490 2766",
-    "author_login": "mjaifank",
-    "author_name": "Mjaifan K",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-21",
-    "merged_at": "2026-07-22",
-    "closed_at": "2026-07-22",
-    "approvals": [
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17552"
-  },
-  {
-    "number": 17551,
-    "title": "Bugfix/AB#691692-Grade Schemas Are Displayed Instead of Grades in the Gradebook Sidebar for Add Calculation and Add Total Calculation",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-21",
-    "merged_at": "2026-07-27",
-    "closed_at": "2026-07-27",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17551"
-  },
-  {
-    "number": 17546,
-    "title": "bugfix/AB#687893-Quarantine-Fix-PTID=2493",
-    "author_login": "Vignesh440-ai",
-    "author_name": "Vignesh",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-21",
-    "merged_at": "2026-07-21",
-    "closed_at": "2026-07-21",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17546"
-  },
-  {
-    "number": 17545,
-    "title": "bugfix/AB#687918-quarantine-fix-upload-gradebook",
-    "author_login": "mjaifank",
-    "author_name": "Mjaifan K",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-21",
-    "merged_at": null,
-    "closed_at": "2026-07-21",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17545"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/8879"
   },
   {
     "number": 8873,
@@ -3510,15 +3467,16 @@
     "title": "AB#575844 Google Meet LTI Deeplink does not apply time restrictions to Ultra Content Items and updated it in javadoc",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Mars",
     "created_at": "2026-08-19",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -3585,11 +3543,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3637,8 +3595,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "dinesh-chandra832"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8799"
   },
   {
@@ -3683,8 +3643,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "pkumarr07"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8783"
   },
   {
@@ -3722,13 +3684,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8779"
@@ -3978,11 +3939,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team",
-      "tech"
+      "ces"
     ],
     "pending": [
-      "CES Approval",
+      "Team Approval",
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -4895,49 +4856,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8580"
-  },
-  {
-    "number": 8572,
-    "title": "AB#690628 Fix: Gradebook breaks when group member added after assignment creation",
-    "author_login": "SuryaMadhanlal-5252",
-    "author_name": "Surya Madhanlal",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Cholas",
-    "created_at": "2026-07-21",
-    "merged_at": "2026-08-17",
-    "closed_at": "2026-08-17",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8572"
-  },
-  {
-    "number": 8571,
-    "title": "Bugfix/AB#576446 - Fix: Anonymous item submission counts wrong after release condition change",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-07-21",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8571"
   }
 ]

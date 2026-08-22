@@ -1,5 +1,28 @@
 [
   {
+    "number": 18189,
+    "title": "AB#696807-Generic Oops error is displayed when an invalid Rubric ID is provided in the Rubric Report URL",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-08-21",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18189"
+  },
+  {
     "number": 18180,
     "title": "AB#697324 - Submit-on-behalf: non-anonymous columns on the per-student Course Grades page",
     "author_login": "nravikumar-bbdn",
@@ -63,8 +86,11 @@
     "pending": [
       "Tech Lead Review"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm",
+      "welstrec"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18178"
   },
   {
@@ -583,15 +609,16 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+    "pending": [],
+    "changes_requested_by": [
+      "stormojm"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18013"
   },
   {
@@ -621,12 +648,12 @@
     "title": "AB#684815: [RTE] - Update default color text label to reflect light/dark theme based text label",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-08-14",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-21",
+    "closed_at": "2026-08-21",
     "approvals": [
       "ces",
       "team",
@@ -657,8 +684,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17998"
   },
   {
@@ -1209,8 +1238,11 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "jkhan07",
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17864"
   },
   {
@@ -1225,17 +1257,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17863"
   },
   {
@@ -1458,17 +1488,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17840"
   },
   {
@@ -1843,17 +1871,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "joe-soellner"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17792"
   },
   {
@@ -1901,8 +1926,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17788"
   },
   {
@@ -1963,11 +1990,12 @@
     "created_at": "2026-08-05",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "ces"
+    ],
     "pending": [
       "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -3203,95 +3231,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17589"
   },
   {
-    "number": 17579,
-    "title": "Bugfix/AB#691843 Todo panel count not updating after grid view grade edit",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-22",
-    "merged_at": "2026-07-28",
-    "closed_at": "2026-07-28",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17579"
-  },
-  {
-    "number": 17576,
-    "title": "AB#691846 - Spectator role can access grade submission and post individual grade button",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-22",
-    "merged_at": "2026-08-06",
-    "closed_at": "2026-08-06",
-    "approvals": [
-      "ces",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17576"
-  },
-  {
-    "number": 17575,
-    "title": "feature/AB#688128-adding last access logic in grid view",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-22",
-    "merged_at": null,
-    "closed_at": "2026-07-23",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17575"
-  },
-  {
-    "number": 17572,
-    "title": "Bugfix/AB#689919 - Heading level skipped (H1 to H3, missing H2)",
-    "author_login": "VigneshwaranSaravanan",
-    "author_name": "Vigneshwaran S",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-22",
-    "merged_at": "2026-07-28",
-    "closed_at": "2026-07-28",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17572"
-  },
-  {
     "number": 8879,
     "title": "implementing logic for visibility restriction",
     "author_login": "AnmolGupta-Anthology",
@@ -3408,19 +3347,19 @@
     "title": "Bugfix/AB#693389 Gradebook Download file Include Unposted Attempt Grades feedback",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Pandias",
     "created_at": "2026-08-20",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "vs"
     ],
     "pending": [
+      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3621,11 +3560,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -4841,119 +4780,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8596"
-  },
-  {
-    "number": 8586,
-    "title": "Bugfix/AB#691713 - Fix: Reminders count includes students excluded by release condition",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-07-22",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "lanceneumannblackboard"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8586"
-  },
-  {
-    "number": 8584,
-    "title": "AB#578569 Update add and delete query for high enrolment users",
-    "author_login": "MartinRodgers0007",
-    "author_name": "Martin Rodgers",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-07-22",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8584"
-  },
-  {
-    "number": 8583,
-    "title": "AB#672111 Overall grade is showing up blank and undefined",
-    "author_login": "ramanidharanr",
-    "author_name": "Ramanidharan R",
-    "state": "Draft",
-    "repo": "Learn",
-    "team": "Elite",
-    "created_at": "2026-07-22",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8583"
-  },
-  {
-    "number": 8582,
-    "title": "AB#578569 Update add and delete query for high enrolment users",
-    "author_login": "MartinRodgers0007",
-    "author_name": "Martin Rodgers",
-    "state": "Closed",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-07-22",
-    "merged_at": null,
-    "closed_at": "2026-07-22",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8582"
-  },
-  {
-    "number": 8580,
-    "title": "AB#669069-Ultra access codes come back after being disabled/removed",
-    "author_login": "kalimuthupalraj",
-    "author_name": "Kalimuthu Palraj",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Celeste",
-    "created_at": "2026-07-22",
-    "merged_at": "2026-07-23",
-    "closed_at": "2026-07-23",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8580"
   }
 ]

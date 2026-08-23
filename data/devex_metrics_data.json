@@ -5157,14 +5157,14 @@
       "display_name": "Arun Kumar Kosna",
       "team": "Cholas",
       "period": "POST_S12",
-      "reviews_submitted": 126,
+      "reviews_submitted": 133,
       "prs_reviewed": 27,
-      "approval_rate": 11.1,
-      "avg_response_time": 140.0,
-      "comment_count": 107,
+      "approval_rate": 10.5,
+      "avg_response_time": 144.7,
+      "comment_count": 114,
       "prs_commented_on": 22,
-      "comments_on_reviewed": 107,
-      "avg_comments_on_reviewed": 4.0
+      "comments_on_reviewed": 114,
+      "avg_comments_on_reviewed": 4.2
     },
     {
       "member": "arunkumarkosna",
@@ -6431,14 +6431,14 @@
       "display_name": "Arun Kumar Kosna",
       "team": "Cholas",
       "period": "ALL",
-      "reviews_submitted": 385,
+      "reviews_submitted": 392,
       "prs_reviewed": 71,
-      "approval_rate": 9.1,
-      "avg_response_time": 121.0,
-      "comment_count": 281,
+      "approval_rate": 8.9,
+      "avg_response_time": 122.8,
+      "comment_count": 288,
       "prs_commented_on": 47,
-      "comments_on_reviewed": 281,
-      "avg_comments_on_reviewed": 4.0
+      "comments_on_reviewed": 288,
+      "avg_comments_on_reviewed": 4.1
     },
     {
       "member": "kesavanazhagarsamy",
@@ -9185,7 +9185,7 @@
       "period": "POST_S12",
       "prs_authored": 15,
       "avg_pr_age": 280.9,
-      "avg_pr_size": 353.9,
+      "avg_pr_size": 418.4,
       "avg_review_cycle": 0.47
     },
     {
@@ -9455,7 +9455,7 @@
       "period": "POST_S12",
       "prs_authored": 15,
       "avg_pr_age": 230.9,
-      "avg_pr_size": 736.3,
+      "avg_pr_size": 589.1,
       "avg_review_cycle": 0.33
     },
     {
@@ -10284,7 +10284,7 @@
       "team": "Supernova",
       "period": "S12",
       "prs_authored": 2,
-      "avg_pr_age": 532.1,
+      "avg_pr_age": 1061.6,
       "avg_pr_size": 85.0,
       "avg_review_cycle": 0.0
     },
@@ -10525,7 +10525,7 @@
       "period": "ALL",
       "prs_authored": 29,
       "avg_pr_age": 326.0,
-      "avg_pr_size": 304.0,
+      "avg_pr_size": 337.3,
       "avg_review_cycle": 0.69
     },
     {
@@ -10645,7 +10645,7 @@
       "period": "ALL",
       "prs_authored": 45,
       "avg_pr_age": 283.1,
-      "avg_pr_size": 468.0,
+      "avg_pr_size": 418.9,
       "avg_review_cycle": 0.58
     },
     {
@@ -10854,7 +10854,7 @@
       "team": "Supernova",
       "period": "ALL",
       "prs_authored": 17,
-      "avg_pr_age": 179.3,
+      "avg_pr_age": 241.6,
       "avg_pr_size": 79.7,
       "avg_review_cycle": 0.0
     },
@@ -11050,5 +11050,5 @@
     }
   ],
   "total_prs": 726,
-  "fetched_at": "2026-08-22 14:14:18"
+  "fetched_at": "2026-08-23 14:22:05"
 }

@@ -143,7 +143,7 @@
   },
   {
     "number": 18166,
-    "title": "refactoring visibility restrictions",
+    "title": "AB#691052 - refactoring visibility restrictions",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
     "state": "Draft",
@@ -3142,97 +3142,8 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17609"
   },
   {
-    "number": 17600,
-    "title": "Feature/AB#691811 Move banner from home to tabbedHome",
-    "author_login": "srujankusuma3232",
-    "author_name": "Srujan Kusuma",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-07-23",
-    "merged_at": "2026-07-27",
-    "closed_at": "2026-07-27",
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17600"
-  },
-  {
-    "number": 17595,
-    "title": "AB#691052- visibility dropdown confirmation pop up mapping with delete last card",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-07-23",
-    "merged_at": "2026-08-12",
-    "closed_at": "2026-08-12",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17595"
-  },
-  {
-    "number": 17593,
-    "title": "Feature/AB#688128-Add a \"last Access\" toggle into gradebook settings for displaying the info in the grid",
-    "author_login": "LalithBB",
-    "author_name": "Lalith",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-23",
-    "merged_at": "2026-08-12",
-    "closed_at": "2026-08-12",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17593"
-  },
-  {
-    "number": 17589,
-    "title": "Bugfix/AB#689923-Added Ax for Ungraded gradePill in Grades Panel",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-23",
-    "merged_at": "2026-07-28",
-    "closed_at": "2026-07-28",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17589"
-  },
-  {
     "number": 8879,
-    "title": "implementing logic for visibility restriction",
+    "title": "AB#691052- implementing logic for visibility restriction",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
     "state": "Draft",
@@ -4711,74 +4622,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8606"
-  },
-  {
-    "number": 8600,
-    "title": "Bugfix/AB#690550 Guest Access follow-up security and API fixes",
-    "author_login": "harshitha786",
-    "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Oxygen",
-    "created_at": "2026-07-23",
-    "merged_at": "2026-08-19",
-    "closed_at": "2026-08-19",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [
-      "lanceneumannblackboard"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8600"
-  },
-  {
-    "number": 8599,
-    "title": "Bugfix/AB#692002 Implement Gradebook Upload and Download Include only Assigned Students",
-    "author_login": "rajeshblackboard",
-    "author_name": "Rajesh",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Pandias",
-    "created_at": "2026-07-23",
-    "merged_at": "2026-08-14",
-    "closed_at": "2026-08-14",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8599"
-  },
-  {
-    "number": 8596,
-    "title": "AB#691987 - Platform notification service background task",
-    "author_login": "vakrams",
-    "author_name": "Vakram S",
-    "state": "Draft",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-07-23",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8596"
   }
 ]

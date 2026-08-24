@@ -1,5 +1,121 @@
 [
   {
+    "number": 18229,
+    "title": "AB#697216: AX -Duplicate ID affects the accessible name of the Move to dialog",
+    "author_login": "manoharan100",
+    "author_name": "Manoharan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-08-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18229"
+  },
+  {
+    "number": 18227,
+    "title": "Bugfix/AB#687500 new grade grid uia fix",
+    "author_login": "mjaifank",
+    "author_name": "Mjaifan K",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-08-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18227"
+  },
+  {
+    "number": 18221,
+    "title": "AB#691052 - report flashcard card state and remove the local visibility rule",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-08-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18221"
+  },
+  {
+    "number": 18218,
+    "title": "Bugfix/AB#694052-Implement inconsistent focus in Grid view",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-08-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [
+      "nishavijayakumar"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18218"
+  },
+  {
+    "number": 18216,
+    "title": "bugfix/AB#687914-Quarantine-Fix-PTID=2767",
+    "author_login": "Vignesh440-ai",
+    "author_name": "Vignesh",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-08-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18216"
+  },
+  {
     "number": 18214,
     "title": "Bugfix/AB#697559 Implement Student Activity  for Discussion Content Type ",
     "author_login": "arunkumaranth",
@@ -34,11 +150,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -109,7 +225,6 @@
       "Tech Lead Review"
     ],
     "changes_requested_by": [
-      "stormojm",
       "welstrec"
     ],
     "changes_addressed": "no",
@@ -165,20 +280,20 @@
   },
   {
     "number": 18166,
-    "title": "AB#691052 - refactoring visibility restrictions",
+    "title": "AB#691052 - adopt the no-answerable-content visibility reason code",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-20",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -233,7 +348,7 @@
   },
   {
     "number": 18161,
-    "title": "AB#693801 - Submit-on-behalf: discriminated no-draft outcome (data layer)",
+    "title": "AB#693801 - Submit-on-behalf: discriminated no-draft outcome (data layer) - Anonymous flow",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
     "state": "Draft",
@@ -316,8 +431,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "nishavijayakumar"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18153"
   },
   {
@@ -348,24 +465,22 @@
     "title": "Bugfix/AB#696777-Implemented Invalidation for Release condition on Student Activity",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-20",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [
-      "nishavijayakumar"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18141"
   },
   {
@@ -520,11 +635,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -535,17 +650,17 @@
     "title": "AB#694041 AX:Focus can be obscured upon Reflow",
     "author_login": "ramanidharanr",
     "author_name": "Ramanidharan R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-08-17",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -764,12 +879,12 @@
     "title": "Feature/AB#695332 Anonymous file submission receipt modal with submission link",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-13",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-24",
+    "closed_at": "2026-08-24",
     "approvals": [
       "ces",
       "team",
@@ -959,8 +1074,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "nravikumar-bbdn"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17927"
   },
   {
@@ -1062,12 +1179,12 @@
     "title": "feature/AB#694650 -Journal - display accommodation flag, if student has accommodation",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-08-11",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-24",
+    "closed_at": "2026-08-24",
     "approvals": [
       "ces",
       "team",
@@ -1263,6 +1380,7 @@
     ],
     "changes_requested_by": [
       "jkhan07",
+      "johntrianat",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1786,8 +1904,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "nishavijayakumar"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17804"
   },
   {
@@ -3079,17 +3199,17 @@
     "title": "AB#691052- implementing logic for visibility restriction",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Cholas",
     "created_at": "2026-08-20",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3244,10 +3364,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3381,12 +3501,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",

@@ -1,5 +1,115 @@
 [
   {
+    "number": 18249,
+    "title": "Bugfix/AB#694168-Incorrect action button behavior for spectator role",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-08-25",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18249"
+  },
+  {
+    "number": 18242,
+    "title": "Bugfix - AB#696191: ax feedback buttons keyboard accessibility",
+    "author_login": "akash05-bb",
+    "author_name": "Akash M",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-08-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18242"
+  },
+  {
+    "number": 18238,
+    "title": "AB#696152 Fixed the due dates show selected state",
+    "author_login": "smurugasan-bbdn",
+    "author_name": "Sounder Murugasan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-08-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18238"
+  },
+  {
+    "number": 18236,
+    "title": "AB#694727- Flashcard activity showing \"no flashcards\" after student preview discard",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-08-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18236"
+  },
+  {
+    "number": 18235,
+    "title": "Bugfix/AB#684399 Copy and Paste Table from Word doesn't preserve first Column's Width",
+    "author_login": "MartinRodgers0007",
+    "author_name": "Martin Rodgers",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-08-24",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18235"
+  },
+  {
     "number": 18229,
     "title": "AB#697216: AX -Duplicate ID affects the accessible name of the Move to dialog",
     "author_login": "manoharan100",
@@ -10,9 +120,10 @@
     "created_at": "2026-08-24",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -56,13 +167,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18221"
@@ -290,15 +400,16 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+    "pending": [],
+    "changes_requested_by": [
+      "sergioml-bb"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18166"
   },
   {
@@ -373,12 +484,12 @@
     "title": "AB#696848 - Overall grade shows raw negative value instead of \"F\" ",
     "author_login": "nravikumar-bbdn",
     "author_name": "Ravi Kumar N",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-08-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-24",
+    "closed_at": "2026-08-24",
     "approvals": [
       "ces",
       "team",
@@ -565,11 +676,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -588,13 +699,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18064"
@@ -1014,12 +1124,12 @@
     "title": "AB#694054 - Heading level skips in grade detail panel",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-12",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-24",
+    "closed_at": "2026-08-24",
     "approvals": [
       "ces",
       "vs"
@@ -1093,11 +1203,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "amyers-blackboard"
@@ -1379,8 +1489,10 @@
       "CES Approval"
     ],
     "changes_requested_by": [
+      "bbnkamper",
       "jkhan07",
       "johntrianat",
+      "sergioml-bb",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1996,10 +2108,8 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "priceld"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17799"
   },
   {
@@ -3207,11 +3317,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3440,8 +3550,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "skarunanithi20"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8843"
   },
   {
@@ -3501,12 +3613,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3942,12 +4054,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces"
+      "ces",
+      "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "Value Stream Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",

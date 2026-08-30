@@ -1,7 +1,7 @@
 [
   {
     "number": 18374,
-    "title": "Feature - AB#698177 - Navigate from the details panel to the LOR page",
+    "title": "feature/AB#698177 - LOR Source Information: Navigate from Details Panel to LOR Page PR4",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
     "state": "Draft",
@@ -23,7 +23,7 @@
   },
   {
     "number": 18373,
-    "title": "Feature - AB#688609 - Add routing support for linking to the LOR panel",
+    "title": "feature/AB#688609 - LOR Source Information: Routing Layer for LOR Panel Links PR3",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
     "state": "Draft",
@@ -693,7 +693,7 @@
   },
   {
     "number": 18221,
-    "title": "AB#691052 - report flashcard card state and remove the local visibility rule",
+    "title": "AB#698020 - report flashcard card state and remove the local visibility rule",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
     "state": "Open",
@@ -931,15 +931,15 @@
   },
   {
     "number": 18166,
-    "title": "AB#691052 - adopt the no-answerable-content visibility reason code",
+    "title": "AB#698020 - adopt the no-answerable-content visibility reason code",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-29",
+    "closed_at": "2026-08-29",
     "approvals": [
       "ces",
       "team",
@@ -3343,231 +3343,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17716"
   },
   {
-    "number": 17714,
-    "title": "AB#691988: click functionality for progress button transition",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-07-30",
-    "merged_at": "2026-08-19",
-    "closed_at": "2026-08-19",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17714"
-  },
-  {
-    "number": 17711,
-    "title": "AB#691815 Do not trigger mails for duplicate feature",
-    "author_login": "smurugasan-bbdn",
-    "author_name": "Sounder Murugasan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-07-30",
-    "merged_at": "2026-08-17",
-    "closed_at": "2026-08-17",
-    "approvals": [
-      "ces",
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17711"
-  },
-  {
-    "number": 17702,
-    "title": "Feature/AB#692720 Display the searched receipt ID details in the Submission Details section of the Grade Details panel",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-30",
-    "merged_at": "2026-08-10",
-    "closed_at": "2026-08-10",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17702"
-  },
-  {
-    "number": 17688,
-    "title": "Bugfix/AB#692002 Implement Offline Download Include only Assigned Students",
-    "author_login": "rajeshblackboard",
-    "author_name": "Rajesh",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-29",
-    "merged_at": "2026-08-14",
-    "closed_at": "2026-08-14",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17688"
-  },
-  {
-    "number": 17686,
-    "title": "AB#690270 - Grid view search displays incorrect results submission receipt Backport PR",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-07-29",
-    "merged_at": "2026-07-30",
-    "closed_at": "2026-07-30",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17686"
-  },
-  {
-    "number": 17685,
-    "title": " AB#693102-Integrated forced sequence support for AI flashcard learning activities",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-07-29",
-    "merged_at": null,
-    "closed_at": "2026-08-07",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17685"
-  },
-  {
-    "number": 17683,
-    "title": " AB#693102-Integrated forced sequence support for AI flashcard learning activities",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-07-29",
-    "merged_at": null,
-    "closed_at": "2026-07-29",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17683"
-  },
-  {
-    "number": 17680,
-    "title": "bugfix/AB#539328-Deletion of folders/modules causes false warnings during batch edit",
-    "author_login": "MartinRodgers0007",
-    "author_name": "Martin Rodgers",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-29",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17680"
-  },
-  {
-    "number": 17679,
-    "title": "Bugfix/AB#692316 - Show send remainder count based on the content release condition",
-    "author_login": "VigneshwaranSaravanan",
-    "author_name": "Vigneshwaran S",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-07-29",
-    "merged_at": "2026-08-25",
-    "closed_at": "2026-08-25",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17679"
-  },
-  {
-    "number": 17674,
-    "title": "Feature/AB#688918 Add File Size to Submission Details in Gradebook Grade Detail - Backport 4000.21.0",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-07-29",
-    "merged_at": "2026-07-30",
-    "closed_at": "2026-07-30",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17674"
-  },
-  {
     "number": 8978,
     "title": "Bugfix/AB#694495 Fix delegated-grading reconciler check to fall back to entitlements when no grader row exists",
     "author_login": "harshitha786",
@@ -3772,7 +3547,7 @@
   },
   {
     "number": 8879,
-    "title": "AB#691052- implementing logic for visibility restriction",
+    "title": "AB#698020- implementing logic for visibility restriction",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
     "state": "Open",
@@ -4920,119 +4695,5 @@
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8665"
-  },
-  {
-    "number": 8657,
-    "title": "AB#691988: progress button render based on progress tracking toggle for flashcards implementation",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Cholas",
-    "created_at": "2026-07-30",
-    "merged_at": "2026-08-20",
-    "closed_at": "2026-08-20",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8657"
-  },
-  {
-    "number": 8653,
-    "title": "bugfix/AB#693258-gradebook setting studentId and nameFormat - import export copy support",
-    "author_login": "nishavijayakumar",
-    "author_name": "Nisha Vijayakumar",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-07-30",
-    "merged_at": "2026-07-31",
-    "closed_at": "2026-07-31",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8653"
-  },
-  {
-    "number": 8649,
-    "title": "Bugfix/AB#664256 -Draft-TLA-fix",
-    "author_login": "ranjith-r-anthology",
-    "author_name": "Ranjith Ramasamy",
-    "state": "Closed",
-    "repo": "Learn",
-    "team": "Celeste",
-    "created_at": "2026-07-30",
-    "merged_at": null,
-    "closed_at": "2026-07-31",
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8649"
-  },
-  {
-    "number": 8641,
-    "title": "AB#688550 Eliminate N+1 classmate DB queries in UserRestService",
-    "author_login": "AnbalaganGanesan",
-    "author_name": "Anbalagan Ganesan",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Oxygen",
-    "created_at": "2026-07-29",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "vs"
-    ],
-    "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8641"
-  },
-  {
-    "number": 8639,
-    "title": "AB#691473 - Specific members or users rule excludes other rules from release conditions ultra",
-    "author_login": "Subashree-b",
-    "author_name": "Subashree B",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Elite",
-    "created_at": "2026-07-29",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "pkumarr07"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8639"
   }
 ]

@@ -9015,7 +9015,7 @@
       "period": "POST_S12",
       "prs_authored": 11,
       "avg_pr_age": 140.3,
-      "avg_pr_size": 328.8,
+      "avg_pr_size": 339.5,
       "avg_review_cycle": 0.91
     },
     {
@@ -9045,7 +9045,7 @@
       "period": "POST_S12",
       "prs_authored": 12,
       "avg_pr_age": 338.4,
-      "avg_pr_size": 724.4,
+      "avg_pr_size": 646.6,
       "avg_review_cycle": 0.75
     },
     {
@@ -9604,8 +9604,8 @@
       "team": "Cholas",
       "period": "POST_S12",
       "prs_authored": 16,
-      "avg_pr_age": 280.9,
-      "avg_pr_size": 431.6,
+      "avg_pr_age": 274.4,
+      "avg_pr_size": 431.1,
       "avg_review_cycle": 0.62
     },
     {
@@ -10534,8 +10534,8 @@
       "team": "Cholas",
       "period": "ALL",
       "prs_authored": 30,
-      "avg_pr_age": 324.4,
-      "avg_pr_size": 347.1,
+      "avg_pr_age": 320.7,
+      "avg_pr_size": 346.8,
       "avg_review_cycle": 0.76
     },
     {
@@ -10755,7 +10755,7 @@
       "period": "ALL",
       "prs_authored": 19,
       "avg_pr_age": 161.8,
-      "avg_pr_size": 338.5,
+      "avg_pr_size": 344.7,
       "avg_review_cycle": 0.74
     },
     {
@@ -10965,7 +10965,7 @@
       "period": "ALL",
       "prs_authored": 18,
       "avg_pr_age": 473.8,
-      "avg_pr_size": 1273.4,
+      "avg_pr_size": 1221.5,
       "avg_review_cycle": 1.17
     },
     {
@@ -11060,5 +11060,5 @@
     }
   ],
   "total_prs": 769,
-  "fetched_at": "2026-08-28 23:36:26"
+  "fetched_at": "2026-08-30 09:47:15"
 }

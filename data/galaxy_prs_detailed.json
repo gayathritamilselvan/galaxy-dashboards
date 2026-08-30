@@ -48,12 +48,12 @@
     "title": "Bugfix/AB#668991 external guests unable to view images ultra backport 4001.0.0",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-08-28",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-30",
+    "closed_at": "2026-08-30",
     "approvals": [
       "tech",
       "vs"
@@ -3391,12 +3391,12 @@
     "title": "Bugfix/AB#668991 external guests unable to view images backport 4001.0.0",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-08-28",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-08-30",
+    "closed_at": "2026-08-30",
     "approvals": [
       "tech",
       "vs"

@@ -1,5 +1,138 @@
 [
   {
+    "number": 18458,
+    "title": "AB#696202 - AX:Favorited course icon is hidden from screen readers",
+    "author_login": "AdhithiyaHBB",
+    "author_name": "Adhithiya H",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Nayakas",
+    "created_at": "2026-09-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18458"
+  },
+  {
+    "number": 18456,
+    "title": "Bugfix - AB#696172: ax focus drops successful submission modal",
+    "author_login": "akash05-bb",
+    "author_name": "Akash M",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-09-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18456"
+  },
+  {
+    "number": 18455,
+    "title": "AB#696683-Overall Feedback file upload issue- #18099 ",
+    "author_login": "sharmilahameed",
+    "author_name": "Sharmila Begam Hameed",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-09-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18455"
+  },
+  {
+    "number": 18454,
+    "title": "Bugfix/AB#696144 - AX: purple background on selected date does not meet aaa contrast requirements",
+    "author_login": "Saimanimaran",
+    "author_name": "Sai Manimaran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-09-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18454"
+  },
+  {
+    "number": 18439,
+    "title": "AB#696185 - AX:Feedback and Replies icons are not recognized by screenreader",
+    "author_login": "kesavanazhagarsamy",
+    "author_name": "Kesavan Azhagarsamy",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-09-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18439"
+  },
+  {
+    "number": 18438,
+    "title": "Bugfix/AB#696176 Fix error text contrast on assessment overview",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Nayakas",
+    "created_at": "2026-09-01",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18438"
+  },
+  {
     "number": 18434,
     "title": "Feature/AB#699195 Implement AI Writing tools  options for Overall feedback section",
     "author_login": "arunkumaranth",
@@ -17,8 +150,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "nishavijayakumar"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18434"
   },
   {
@@ -94,12 +229,12 @@
     "title": "Bugfix/AB#668991 external guests unable to view images ultra backport 4001.2.0",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Oxygen",
     "created_at": "2026-08-31",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-01",
+    "closed_at": "2026-09-01",
     "approvals": [
       "team",
       "tech",
@@ -140,17 +275,18 @@
     "title": "AB#689407- Guard sorting with the grade detail discard confirmation",
     "author_login": "gulshan-antho",
     "author_name": "Gulshan Kumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-31",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "ces",
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -217,10 +353,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -335,17 +471,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "dsoto-bb",
-      "tbednarekbb",
-      "welstrec"
+      "tbednarekbb"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18352"
@@ -680,12 +814,12 @@
     "title": "AB#698269 \u2013 AX: New Gradebook Grid View \u2013 Replace <a href> with a <button> to support Space bar interaction.",
     "author_login": "BharathiKannaa",
     "author_name": "Bharathi Kanna",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-08-25",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-01",
     "approvals": [
       "team",
       "tech"
@@ -1072,10 +1206,8 @@
     "pending": [
       "Tech Lead Review"
     ],
-    "changes_requested_by": [
-      "welstrec"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18178"
   },
   {
@@ -1336,20 +1468,19 @@
     "title": "AB#696683-Overall Feedback file upload issue",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-19",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-02",
+    "closed_at": "2026-09-02",
     "approvals": [
       "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "johntrianat",
       "kirubakaranrbb",
@@ -2109,10 +2240,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17882"
   },
   {
@@ -2851,12 +2980,12 @@
     "title": "feature/AB#690700 - Learning Object Repository: Managed Pill for LOR Objects in course outline",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-08-05",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-01",
+    "closed_at": "2026-09-01",
     "approvals": [
       "ces",
       "team",
@@ -2914,6 +3043,7 @@
       "CES Approval"
     ],
     "changes_requested_by": [
+      "covertcj",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -3405,27 +3535,26 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17737"
   },
   {
-    "number": 17736,
-    "title": "AB#670546 Submission points are higher than the maximum allowed by the rubric",
-    "author_login": "ramanidharanr",
-    "author_name": "Ramanidharan R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-08-02",
-    "merged_at": "2026-08-11",
-    "closed_at": "2026-08-11",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
+    "number": 9018,
+    "title": "AB#429264 - No Time Limit + Prohibit late submissions + Unlimited accommodation not submitting attempt",
+    "author_login": "BharathiKannaa",
+    "author_name": "Bharathi Kanna",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Starlite",
+    "created_at": "2026-09-02",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
     "pending": [
-      "Team Approval"
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17736"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9018"
   },
   {
     "number": 9006,
@@ -3454,12 +3583,12 @@
     "title": "Bugfix/AB#668991 external guests unable to view images backport 4001.2.0",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-08-31",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-01",
+    "closed_at": "2026-09-01",
     "approvals": [
       "team",
       "tech",
@@ -3847,11 +3976,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -3926,7 +4055,7 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "skarunanithi20"
+      "swathi-karunanithii"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8843"
@@ -4085,8 +4214,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "esnadoval"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8799"
   },
   {

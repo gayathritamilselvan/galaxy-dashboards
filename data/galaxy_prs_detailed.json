@@ -1,5 +1,27 @@
 [
   {
+    "number": 18546,
+    "title": "bugfix/698071-adding accommodation icon to jorunal peek panel",
+    "author_login": "LalithBB",
+    "author_name": "Lalith",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-09-04",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18546"
+  },
+  {
     "number": 18536,
     "title": "Bugfix/AB#696167 AX:Course outline is difficult to use at high zoom",
     "author_login": "MartinRodgers0007",
@@ -26,17 +48,17 @@
     "title": "AB#696683-Overall Feedback file upload issue (#18099)",
     "author_login": "sharmilahameed",
     "author_name": "Sharmila Begam Hameed",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-09-03",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-04",
+    "closed_at": "2026-09-04",
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -273,18 +295,19 @@
     "title": "AB#699033 - Route anonymous submission lists on their own feature flag",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -378,8 +401,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "kirubakaranrbb"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18465"
   },
   {
@@ -507,9 +532,10 @@
     "created_at": "2026-09-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -571,19 +597,19 @@
     "title": "Feature/AB#699195 Implement AI Writing tools  options for Overall feedback section",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-09-01",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "vs"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -917,6 +943,7 @@
     ],
     "changes_requested_by": [
       "aakash-ram-s",
+      "stamilmani",
       "tbednarekbb"
     ],
     "changes_addressed": "no",
@@ -1881,12 +1908,12 @@
     "title": "Bugfix/AB#696777-Implemented Invalidation for Release condition on Student Activity",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-04",
+    "closed_at": "2026-09-04",
     "approvals": [
       "ces",
       "team",
@@ -2178,12 +2205,12 @@
     "title": "AB#693365 - Line Height is Inconsistent for Indented/Non-Indented Text",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-08-14",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-04",
+    "closed_at": "2026-09-04",
     "approvals": [
       "ces",
       "team",
@@ -3555,21 +3582,43 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17783"
   },
   {
+    "number": 9053,
+    "title": "AB#565096  Inefficient querying in Data Source manager panel leads to hang",
+    "author_login": "smurugasan-bbdn",
+    "author_name": "Sounder Murugasan",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Mars",
+    "created_at": "2026-09-04",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9053"
+  },
+  {
     "number": 9019,
     "title": "AB#697676 - PNS: Clear notice-handler registrations on clone",
     "author_login": "vakrams",
     "author_name": "Vakram S",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Nayakas",
     "created_at": "2026-09-02",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3666,11 +3715,8 @@
       "Team Approval",
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "ashish-anthology",
-      "pkumarr07"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8978"
   },
   {
@@ -4050,17 +4096,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval"
+      "Team Approval"
     ],
-    "changes_requested_by": [
-      "esnadoval"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8851"
   },
   {
@@ -4105,10 +4149,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "swathi-karunanithii"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8843"
   },
   {

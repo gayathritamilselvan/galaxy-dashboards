@@ -1,5 +1,138 @@
 [
   {
+    "number": 18575,
+    "title": "AB#700119 - Move the submission list query builders into submission-list-utils",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-09-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18575"
+  },
+  {
+    "number": 18574,
+    "title": "AB#700118 - Let the originality service hook tolerate an unresolved column id",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-09-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18574"
+  },
+  {
+    "number": 18573,
+    "title": "AB#700117 - Add a bulkViewExpand option to loadGradebookGradesByQuery",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-09-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18573"
+  },
+  {
+    "number": 18570,
+    "title": "Bugfix/AB#694439 VoiceOver table-cursor navigation resets to grid start at virtualization boundary",
+    "author_login": "gowthamanpalani",
+    "author_name": "Gowthaman Palani",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-09-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18570"
+  },
+  {
+    "number": 18569,
+    "title": "AB#700091 - Wire the submission list view and table to the normalised row source",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-09-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18569"
+  },
+  {
+    "number": 18568,
+    "title": "AB#699034 - Add useSubmissionListRows, a grades-backed row source for anonymous columns",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-09-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18568"
+  },
+  {
     "number": 18561,
     "title": "Bugfix/AB#699574-course-grades-exception-details-load-loop",
     "author_login": "Saimanimaran",
@@ -24,26 +157,25 @@
   },
   {
     "number": 18546,
-    "title": "bugfix/698071-adding accommodation icon to jorunal peek panel",
+    "title": "Bugfix/AB#698071-adding accommodation icon to journal peek panel",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-04",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [
-      "nishavijayakumar"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18546"
   },
   {
@@ -93,7 +225,7 @@
   },
   {
     "number": 18523,
-    "title": "Rubric invalid column",
+    "title": "AB#696806 - Rubric Report Invalid column",
     "author_login": "PriyadarshiniSaravanan",
     "author_name": "Priyadarshini S",
     "state": "Draft",
@@ -200,8 +332,11 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "dsoto-bb",
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18497"
   },
   {
@@ -216,10 +351,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -373,17 +508,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
+      "tech",
       "vs"
     ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "pkumarr07"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18468"
   },
   {
@@ -483,22 +615,24 @@
     "title": "AB#696202 - AX:Favorited course icon is hidden from screen readers",
     "author_login": "AdhithiyaHBB",
     "author_name": "Adhithiya H",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Nayakas",
     "created_at": "2026-09-02",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "welstrec"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18458"
   },
   {
@@ -566,8 +700,10 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "jkhan07"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18454"
   },
   {
@@ -598,24 +734,22 @@
     "title": "Bugfix/AB#696176 Fix error text contrast on assessment overview",
     "author_login": "pkumarr07",
     "author_name": "Pradeep Kumar R",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Nayakas",
     "created_at": "2026-09-01",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "dinesh-chandra832"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18438"
   },
   {
@@ -660,8 +794,10 @@
       "Tech Lead Review",
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18429"
   },
   {
@@ -669,7 +805,7 @@
     "title": "AB#699193- disabling edit button when deleting",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-31",
@@ -753,6 +889,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
+      "jkhan07",
+      "johntrianat",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1147,7 +1285,7 @@
     "title": "Bugfix/694056-AX:Many elements' focus state may be at least partially obscured",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-08-26",
@@ -3043,6 +3181,51 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17854"
   },
   {
+    "number": 9067,
+    "title": "AB#696806 rubric report invalid column",
+    "author_login": "PriyadarshiniSaravanan",
+    "author_name": "Priyadarshini S",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Elite",
+    "created_at": "2026-09-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9067"
+  },
+  {
+    "number": 9066,
+    "title": " Feature/AB#697938 Implement Write path for manual_score numerator and denominator",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Pandias",
+    "created_at": "2026-09-07",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9066"
+  },
+  {
     "number": 9053,
     "title": "AB#565096  Inefficient querying in Data Source manager panel leads to hang",
     "author_login": "smurugasan-bbdn",
@@ -3238,10 +3421,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
+      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3367,12 +3550,12 @@
     "title": "AB#698020- implementing logic for visibility restriction",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Cholas",
     "created_at": "2026-08-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-07",
+    "closed_at": "2026-09-07",
     "approvals": [
       "ces",
       "team",
@@ -3767,7 +3950,8 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "esnadoval"
+      "esnadoval",
+      "sakthi-selvapriya"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8799"

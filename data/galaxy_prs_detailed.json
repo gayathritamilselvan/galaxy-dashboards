@@ -1,5 +1,140 @@
 [
   {
+    "number": 18588,
+    "title": "AB#698020 backport adopting restriction behaviour from learn to 4001.2",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-09-08",
+    "merged_at": "2026-09-08",
+    "closed_at": "2026-09-08",
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18588"
+  },
+  {
+    "number": 18586,
+    "title": "AB#698007 Invalidate flashcard activity-run cache on student preview \u2026",
+    "author_login": "arunkumarkosna",
+    "author_name": "Arun Kumar Kosna",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-09-08",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18586"
+  },
+  {
+    "number": 18582,
+    "title": "Bugfix/AB#696171 - Fix skipped heading level on Assignment attempt authoring page",
+    "author_login": "ranjith-r-anthology",
+    "author_name": "Ranjith Ramasamy",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Celeste",
+    "created_at": "2026-09-08",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18582"
+  },
+  {
+    "number": 18581,
+    "title": "AB#699859-Clearing feedback cleared the submission detail in grid view ",
+    "author_login": "sharmilahameed",
+    "author_name": "Sharmila Begam Hameed",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-09-08",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18581"
+  },
+  {
+    "number": 18580,
+    "title": "Bugfix/AB#696149 AX:Calendar setting heading receive a focus indicator",
+    "author_login": "MartinRodgers0007",
+    "author_name": "Martin Rodgers",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-09-08",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18580"
+  },
+  {
+    "number": 18579,
+    "title": "AB#698020 backport adopt visibility restriction with reason code to 4001.2.0",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-09-08",
+    "merged_at": "2026-09-08",
+    "closed_at": "2026-09-08",
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18579"
+  },
+  {
     "number": 18575,
     "title": "AB#700119 - Move the submission list query builders into submission-list-utils",
     "author_login": "nishavijayakumar",
@@ -26,21 +161,24 @@
     "title": "AB#700118 - Let the originality service hook tolerate an unresolved column id",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-07",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "amyers-blackboard"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18574"
   },
   {
@@ -48,16 +186,17 @@
     "title": "AB#700117 - Add a bulkViewExpand option to loadGradebookGradesByQuery",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-07",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -183,15 +322,16 @@
     "title": "Bugfix/AB#696167 AX:Course outline is difficult to use at high zoom",
     "author_login": "MartinRodgers0007",
     "author_name": "Martin Rodgers",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-03",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -250,7 +390,7 @@
     "title": "AB#696158 Fix(calendar): enable Space key activation for month day cells",
     "author_login": "Anshu972438",
     "author_name": "Anshu",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-09-03",
@@ -333,8 +473,7 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "dsoto-bb",
-      "stormojm"
+      "dsoto-bb"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18497"
@@ -373,10 +512,11 @@
     "created_at": "2026-09-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -395,10 +535,11 @@
     "created_at": "2026-09-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -417,10 +558,11 @@
     "created_at": "2026-09-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -456,20 +598,19 @@
     "title": "AB#699033 - Route anonymous submission lists on their own feature flag",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-08",
+    "closed_at": "2026-09-08",
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18472"
@@ -479,17 +620,18 @@
     "title": "AB#696165-AX skipped heading level on tools page",
     "author_login": "BavithraM",
     "author_name": "Bavithra M",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-09-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "ces",
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -546,16 +688,17 @@
     "title": "AB#698145 Fix journal grid-view error when \"Hide unavailable students\" is enabled",
     "author_login": "SuryaMadhanlal-5252",
     "author_name": "Surya Madhanlal",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-09-02",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -700,10 +843,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "jkhan07"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18454"
   },
   {
@@ -757,19 +898,19 @@
     "title": "Feature/AB#699195 Implement AI Writing tools  options for Overall feedback section",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-09-01",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-08",
+    "closed_at": "2026-09-08",
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -812,11 +953,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -828,12 +969,12 @@
     "title": "AB#698020 - BACKPORT-release/4001.2.0 - adopt visibility restriction with reason code",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-31",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-08",
     "approvals": [
       "team",
       "tech"
@@ -939,7 +1080,6 @@
       "Team Approval"
     ],
     "changes_requested_by": [
-      "ganeshsbb",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1655,12 +1795,12 @@
     "title": "AB#698020 - report flashcard card state and remove the local visibility rule",
     "author_login": "AnmolGupta-Anthology",
     "author_name": "Anmol Gupta",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Cholas",
     "created_at": "2026-08-24",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-07",
+    "closed_at": "2026-09-07",
     "approvals": [
       "ces",
       "team",
@@ -1736,17 +1876,14 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "bbnkamper"
-    ],
-    "changes_addressed": "no",
+    "pending": [],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18214"
   },
   {
@@ -1929,10 +2066,8 @@
     "pending": [
       "Tech Lead Review"
     ],
-    "changes_requested_by": [
-      "tbednarekbb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18164"
   },
   {
@@ -1947,15 +2082,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "vs"
     ],
     "pending": [
+      "Team Approval",
       "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
-      "subashree-b"
+      "dsoto-bb"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18162"
@@ -2017,13 +2152,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18154"
@@ -2479,7 +2613,6 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "dsoto-bb",
       "johntrianat"
     ],
     "changes_addressed": "no",
@@ -2719,12 +2852,12 @@
     "title": "AB#694300 - New Grid View - Overall Grade Override Discarded When Entered Value Rounds to Displayed Score",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-08-11",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-08",
+    "closed_at": "2026-09-08",
     "approvals": [
       "ces",
       "team",
@@ -3181,6 +3314,51 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17854"
   },
   {
+    "number": 9074,
+    "title": "AB#698020 backport implementing restriction for activity in existing mechanism to 4001.2",
+    "author_login": "AnmolGupta-Anthology",
+    "author_name": "Anmol Gupta",
+    "state": "Merged",
+    "repo": "Learn",
+    "team": "Cholas",
+    "created_at": "2026-09-08",
+    "merged_at": "2026-09-08",
+    "closed_at": "2026-09-08",
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9074"
+  },
+  {
+    "number": 9073,
+    "title": "AB#679707 - AI Summarization Support Summarizing in Overall Feedback's Language",
+    "author_login": "rag-bbdn",
+    "author_name": "Ragavendran",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Mars",
+    "created_at": "2026-09-08",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9073"
+  },
+  {
     "number": 9067,
     "title": "AB#696806 rubric report invalid column",
     "author_login": "PriyadarshiniSaravanan",
@@ -3214,9 +3392,10 @@
     "created_at": "2026-09-07",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -3421,12 +3600,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
       "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3512,10 +3691,11 @@
     "created_at": "2026-08-25",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team",
+      "tech"
+    ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3942,13 +4122,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "esnadoval",
       "sakthi-selvapriya"

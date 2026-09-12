@@ -1,25 +1,73 @@
 [
   {
+    "number": 18676,
+    "title": "AB#696201 - AX: Instructions for New Link form are not provided for asterisks",
+    "author_login": "manoharan100",
+    "author_name": "Manoharan",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-09-11",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18676"
+  },
+  {
+    "number": 18674,
+    "title": "bugfix/AB#701168-Fix for due date not clear for manual column from grid view",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-09-11",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18674"
+  },
+  {
     "number": 18645,
     "title": "AB#696138 - AX:Red text does not meet enhanced color contrast requirements",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-09-10",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "team",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18645"
   },
   {
@@ -164,12 +212,12 @@
     "title": "Bugfix/AB#687915 wdio quarantine fix ptid=4310",
     "author_login": "Prasannajayasankar",
     "author_name": "Prasanna Jayasankar",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-09-09",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-11",
+    "closed_at": "2026-09-11",
     "approvals": [
       "team",
       "vs"
@@ -433,8 +481,7 @@
       "CES Approval"
     ],
     "changes_requested_by": [
-      "amyers-blackboard",
-      "dsoto-bb"
+      "amyers-blackboard"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18574"
@@ -512,7 +559,7 @@
     "title": "AB#699034 - Add useSubmissionListRows, a grades-backed row source for anonymous columns",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-07",
@@ -558,12 +605,12 @@
     "title": "Bugfix/AB#698071-adding accommodation icon to journal peek panel",
     "author_login": "LalithBB",
     "author_name": "Lalith",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-04",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-11",
+    "closed_at": "2026-09-11",
     "approvals": [
       "ces",
       "team",
@@ -774,11 +821,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
       "amyers-blackboard"
@@ -1102,8 +1149,10 @@
       "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18454"
   },
   {
@@ -1147,8 +1196,11 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "dsoto-bb",
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18438"
   },
   {
@@ -1186,12 +1238,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1934,19 +1986,19 @@
     "title": "AB#696152 Fixed the due dates show selected state",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-24",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-11",
+    "closed_at": "2026-09-11",
     "approvals": [
+      "ces",
       "team",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -2942,118 +2994,49 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/17975"
   },
   {
-    "number": 17954,
-    "title": "AB#694047 Assignment text contrast issue to make it as readable",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-08-12",
-    "merged_at": "2026-08-26",
-    "closed_at": "2026-08-26",
+    "number": 9121,
+    "title": "Bugfix/AB#697836 - Backport-4001.2.0-Return isAvailable to roles entitled to view accommodations",
+    "author_login": "aarthirajaram",
+    "author_name": "Aarthi Rajaram",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pallavas",
+    "created_at": "2026-09-12",
+    "merged_at": null,
+    "closed_at": null,
     "approvals": [
-      "ces",
-      "team",
-      "vs"
+      "team"
     ],
     "pending": [
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17954"
-  },
-  {
-    "number": 17951,
-    "title": "Bugfix - AB#694608 - Students shown as non participants in gradable discussions",
-    "author_login": "KirubakaranRBB",
-    "author_name": "Kirubakaran R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-08-12",
-    "merged_at": "2026-08-13",
-    "closed_at": "2026-08-13",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17951"
-  },
-  {
-    "number": 17943,
-    "title": "AB#694049 - AX : Overall grade sort button nested interactive element",
-    "author_login": "BharathiKannaa",
-    "author_name": "Bharathi Kanna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-08-12",
-    "merged_at": "2026-08-21",
-    "closed_at": "2026-08-21",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17943"
-  },
-  {
-    "number": 17940,
-    "title": "AB#694054 - Heading level skips in grade detail panel",
-    "author_login": "rag-bbdn",
-    "author_name": "Ragavendran",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-08-12",
-    "merged_at": "2026-08-24",
-    "closed_at": "2026-08-24",
-    "approvals": [
-      "ces",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17940"
-  },
-  {
-    "number": 17936,
-    "title": "AB#693796 - Added localization keys for Submit Draft Attempt on Behalf",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-08-12",
-    "merged_at": "2026-08-28",
-    "closed_at": "2026-08-28",
-    "approvals": [
-      "ces",
-      "tech"
-    ],
-    "pending": [
-      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17936"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9121"
+  },
+  {
+    "number": 9109,
+    "title": "Bugfix - AB#699963 - Closed course guard assumes all POSTS are data-modifying and blocks the submission area of the grade center",
+    "author_login": "KirubakaranRBB",
+    "author_name": "Kirubakaran R",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Elite",
+    "created_at": "2026-09-11",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9109"
   },
   {
     "number": 9093,
@@ -3360,18 +3343,18 @@
     "title": " Feature/AB#697938 Implement Write path for manual_score numerator and denominator",
     "author_login": "rajeshblackboard",
     "author_name": "Rajesh",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Pandias",
     "created_at": "2026-09-07",
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
+      "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
-      "Tech Lead Review",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -3415,11 +3398,10 @@
     "approvals": [
       "ces",
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
-    "pending": [
-      "Value Stream Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/9019"
@@ -3677,7 +3659,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "amyers-blackboard"
+      "amyers-blackboard",
+      "pkumarr07"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8948"
@@ -3800,12 +3783,12 @@
     "title": "Bugfix/AB#696812 - Filter non-participants list by ACL release conditions on discussion student activity page",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-08-20",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-11",
+    "closed_at": "2026-09-11",
     "approvals": [
       "ces",
       "team",
@@ -4205,50 +4188,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8779"
-  },
-  {
-    "number": 8773,
-    "title": "AB#694480 - PNS Notice Delivery Message Queue",
-    "author_login": "vakrams",
-    "author_name": "Vakram S",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-08-12",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8773"
-  },
-  {
-    "number": 8766,
-    "title": "AB#693796 - Added localization keys for Submit Draft Attempt on Behalf",
-    "author_login": "nravikumar-bbdn",
-    "author_name": "Ravi Kumar N",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Starlite",
-    "created_at": "2026-08-12",
-    "merged_at": "2026-08-28",
-    "closed_at": "2026-08-28",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8766"
   }
 ]

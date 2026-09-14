@@ -1,5 +1,30 @@
 [
   {
+    "number": 18704,
+    "title": "AB#544882: Localisation change",
+    "author_login": "Hariharan-r-k",
+    "author_name": "Hariharan R K",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-09-14",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval"
+    ],
+    "changes_requested_by": [
+      "amyers-blackboard"
+    ],
+    "changes_addressed": "no",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18704"
+  },
+  {
     "number": 18676,
     "title": "AB#696201 - AX: Instructions for New Link form are not provided for asterisks",
     "author_login": "manoharan100",
@@ -450,13 +475,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18575"
@@ -480,10 +504,8 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "amyers-blackboard"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18574"
   },
   {
@@ -505,8 +527,10 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18573"
   },
   {
@@ -827,10 +851,8 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "amyers-blackboard"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18478"
   },
   {
@@ -868,16 +890,14 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
-    "changes_requested_by": [
-      "dsoto-bb"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18475"
   },
   {
@@ -1814,8 +1834,10 @@
       "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "toni-d1"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18284"
   },
   {
@@ -2416,17 +2438,15 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18161"
   },
   {
@@ -2790,208 +2810,6 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18051"
-  },
-  {
-    "number": 18013,
-    "title": "AB#698020- added toggle gate logics for learning activity",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-08-14",
-    "merged_at": "2026-09-02",
-    "closed_at": "2026-09-02",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18013"
-  },
-  {
-    "number": 18010,
-    "title": "AB#693365 - Line Height is Inconsistent for Indented/Non-Indented Text",
-    "author_login": "kesavanazhagarsamy",
-    "author_name": "Kesavan Azhagarsamy",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-08-14",
-    "merged_at": "2026-09-04",
-    "closed_at": "2026-09-04",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18010"
-  },
-  {
-    "number": 18007,
-    "title": "AB#684815: [RTE] - Update default color text label to reflect light/dark theme based text label",
-    "author_login": "manoharan100",
-    "author_name": "Manoharan",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-08-14",
-    "merged_at": "2026-08-21",
-    "closed_at": "2026-08-21",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18007"
-  },
-  {
-    "number": 17998,
-    "title": "AB#694727 \u2014 Show flashcard in activity stream",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-08-13",
-    "merged_at": "2026-08-26",
-    "closed_at": "2026-08-26",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17998"
-  },
-  {
-    "number": 17993,
-    "title": "AB#694739-Localization strings for Flashcard Delete/Add Restrcition Error",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-08-13",
-    "merged_at": "2026-08-14",
-    "closed_at": "2026-08-14",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17993"
-  },
-  {
-    "number": 17984,
-    "title": "AB#693411 - AX Issue Focus Is Lost When Clicking the \"X\" Button in the filter chips",
-    "author_login": "MohamedTharik8883",
-    "author_name": "Mohamed Tharik",
-    "state": "Open",
-    "repo": "Ultra",
-    "team": "Starlite",
-    "created_at": "2026-08-13",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17984"
-  },
-  {
-    "number": 17978,
-    "title": "Feature/AB#695332 Anonymous file submission receipt modal with submission link",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-08-13",
-    "merged_at": "2026-08-24",
-    "closed_at": "2026-08-24",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17978"
-  },
-  {
-    "number": 17977,
-    "title": "Bugfix/AB#694044-Implement AX Fix for More Options buttons are named identically",
-    "author_login": "arunkumaranth",
-    "author_name": "Arunkumar",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-08-13",
-    "merged_at": "2026-08-20",
-    "closed_at": "2026-08-20",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17977"
-  },
-  {
-    "number": 17975,
-    "title": "Bugfix/AB#687118 Fix VoiceOver announcement for guest access tooltip during keyboard navigation",
-    "author_login": "harshitha786",
-    "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Oxygen",
-    "created_at": "2026-08-13",
-    "merged_at": "2026-08-25",
-    "closed_at": "2026-08-25",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/17975"
   },
   {
     "number": 9121,
@@ -4004,189 +3822,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8831"
-  },
-  {
-    "number": 8805,
-    "title": "AB#698020- added toggle logic integration with ultra",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Cholas",
-    "created_at": "2026-08-14",
-    "merged_at": "2026-09-02",
-    "closed_at": "2026-09-02",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8805"
-  },
-  {
-    "number": 8801,
-    "title": "AB#694727-Show Flashcard availability in the Activity Stream",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Cholas",
-    "created_at": "2026-08-14",
-    "merged_at": "2026-08-26",
-    "closed_at": "2026-08-26",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8801"
-  },
-  {
-    "number": 8800,
-    "title": "AB#689765-backport 4001.0.0 no permission dialog when adding notes to student for anonymously graded assignment",
-    "author_login": "BavithraM",
-    "author_name": "Bavithra M",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Mars",
-    "created_at": "2026-08-14",
-    "merged_at": "2026-08-14",
-    "closed_at": "2026-08-14",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8800"
-  },
-  {
-    "number": 8799,
-    "title": "AB#692446: Asset Processor returns HTML wrapper instead of original PDF for file upload submissions",
-    "author_login": "pkumarr07",
-    "author_name": "Pradeep Kumar R",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-08-14",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "esnadoval",
-      "sakthi-selvapriya"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8799"
-  },
-  {
-    "number": 8798,
-    "title": "AB#689765-backport no permission dialog when adding notes to student for anonymously graded assignment",
-    "author_login": "BavithraM",
-    "author_name": "Bavithra M",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Mars",
-    "created_at": "2026-08-14",
-    "merged_at": "2026-08-17",
-    "closed_at": "2026-08-17",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8798"
-  },
-  {
-    "number": 8783,
-    "title": "Feature/AB#694481 - PNS-asset-processor-submission-dispatch",
-    "author_login": "AdhithiyaHBB",
-    "author_name": "Adhithiya H",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-08-13",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [
-      "pkumarr07"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8783"
-  },
-  {
-    "number": 8781,
-    "title": "AB#694724- added string for learning activity tool",
-    "author_login": "AnmolGupta-Anthology",
-    "author_name": "Anmol Gupta",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Cholas",
-    "created_at": "2026-08-13",
-    "merged_at": "2026-08-14",
-    "closed_at": "2026-08-14",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8781"
-  },
-  {
-    "number": 8779,
-    "title": "Feature/AB#694479: Add PNS notice model and notice JWT signing (PR#4a)",
-    "author_login": "Dinesh-Chandra832",
-    "author_name": "Dinesh Chandra",
-    "state": "Open",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-08-13",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8779"
   }
 ]

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="900">
+<title>Daily Bug Comment Check — Learn\Maintenance\Elite</title>
+<style>
+  .viz-root {
+    color-scheme: dark;
+    --surface-1: #1a1a19;
+    --page-plane: #0d0d0d;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted: #898781;
+    --gridline: #2c2c2a;
+    --border: rgba(255,255,255,0.10);
+    --status-good: #0ca30c;
+    --status-warning: #fab219;
+    --status-serious: #ec835a;
+    --status-critical: #d03b3b;
+    --series-blue: #3987e5;
+    --series-orange: #d95926;
+    --series-aqua: #199e70;
+    --series-violet: #9085e9;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--page-plane);
+    color: var(--text-primary);
+  }
+  .page { max-width: 1080px; margin: 0 auto; padding: 32px 24px 64px; }
+  header.page-head { margin-bottom: 24px; }
+  h1 {
+    font-size: 22px;
+    margin: 0 0 4px;
+    background: linear-gradient(90deg, var(--series-blue), var(--series-violet));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+  }
+  .subhead { color: var(--text-secondary); font-size: 14px; margin: 0; }
+  .meta-row { color: var(--text-muted); font-size: 12px; margin-top: 8px; }
+  .stat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 24px 0; }
+  .stat-tile {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-top: 3px solid var(--accent, var(--border));
+    border-radius: 8px;
+    padding: 16px;
+  }
+  .stat-tile .label { color: var(--text-secondary); font-size: 12px; margin-bottom: 8px; font-weight: 500; }
+  .stat-tile .value { font-size: 30px; font-weight: 700; line-height: 1.1; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+  .stat-tile .value.accent-critical { color: var(--status-critical); }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    font-size: 13px;
+  }
+  thead th {
+    text-align: left;
+    font-weight: 700;
+    color: var(--series-blue);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 12px;
+    background: rgba(57, 135, 229, 0.08);
+    border-bottom: 1px solid var(--gridline);
+  }
+  tbody td { padding: 12px; border-bottom: 1px solid var(--gridline); vertical-align: top; color: var(--text-primary); }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover td { background: rgba(255,255,255,0.03); }
+  td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  td.title-cell { max-width: 360px; color: var(--text-secondary); }
+  a.bug-link { color: var(--series-blue); text-decoration: none; font-weight: 600; }
+  a.bug-link:hover { text-decoration: underline; }
+  .status-pill { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; white-space: nowrap; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+  .status-warning .status-dot { background: var(--status-warning); }
+  .status-serious .status-dot { background: var(--status-serious); }
+  .status-critical .status-dot { background: var(--status-critical); }
+  .status-warning { color: var(--status-warning); }
+  .status-serious { color: var(--status-serious); }
+  .status-critical { color: var(--status-critical); }
+  .empty-state { text-align: center; color: var(--text-secondary); padding: 24px; }
+  footer { margin-top: 16px; color: var(--text-muted); font-size: 12px; }
+  a.nav-back { color: var(--series-blue); font-size: 13px; text-decoration: none; }
+  a.nav-back:hover { text-decoration: underline; }
+  @media (max-width: 720px) {
+    .stat-grid { grid-template-columns: repeat(2, 1fr); }
+    td.title-cell { max-width: 160px; }
+  }
+</style>
+</head>
+<body>
+  <div class="viz-root page">
+    <p style="margin:0 0 12px;"><a class="nav-back" href="index.html">&larr; All dashboards</a></p>
+    <header class="page-head">
+      <div class="head-text">
+        <h1>Daily Bug Comment Check — Learn\Maintenance\Elite</h1>
+        <p class="subhead">Active bugs (In Progress, In Review, Branch Testing, Awaiting DoD, Rejected) with no comment update in the last 2+ days. Please add your latest progress.</p>
+        <p class="meta-row">Generated 16 Sep 2026, 10:15 UTC · auto-refreshes 9:00 AM & 7:00 PM IST via GitHub Actions</p>
+      </div>
+    </header>
+
+    <div class="stat-grid">
+      <div class="stat-tile" style="--accent: var(--series-blue);">
+        <div class="label">Active bugs checked</div>
+        <div class="value">11</div>
+      </div>
+      <div class="stat-tile" style="--accent: var(--series-orange);">
+        <div class="label">Flagged — stale comments</div>
+        <div class="value">2</div>
+      </div>
+      <div class="stat-tile" style="--accent: var(--series-aqua);">
+        <div class="label">Oldest gap</div>
+        <div class="value ">6d</div>
+      </div>
+      <div class="stat-tile" style="--accent: var(--series-violet);">
+        <div class="label">Most flagged assignee</div>
+        <div class="value" style="font-size:18px;">Subashree B (1)</div>
+      </div>
+    </div>
+
+    <table>
+      <thead>
+        <tr><th>Bug</th><th>Title</th><th>Assignee</th><th>State</th><th>Last Activity</th><th>Gap</th></tr>
+      </thead>
+      <tbody>
+        
+            <tr>
+              <td><a class="bug-link" href="https://dev.azure.com/Blackboard-01/Learn/_workitems/edit/686540" target="_blank" rel="noopener">#686540</a></td>
+              <td class="title-cell">Comment annotations downloaded and re-uploaded are flattened as yellow rectangle annotations</td>
+              <td>Subashree B</td>
+              <td>In Progress</td>
+              <td class="num">10 Sep 2026</td>
+              <td class="num">
+                <span class="status-pill status-serious">
+                  <span class="status-dot"></span>Serious · 6d
+                </span>
+              </td>
+            </tr>
+
+            <tr>
+              <td><a class="bug-link" href="https://dev.azure.com/Blackboard-01/Learn/_workitems/edit/696957" target="_blank" rel="noopener">#696957</a></td>
+              <td class="title-cell">Gradebook New Grid View – Overall Grade pill announces raw localization key &quot;gradePill.errors.undefined&quot; to screen readers when clearing an invalid value</td>
+              <td>Pavankumar Gandi</td>
+              <td>Branch Testing</td>
+              <td class="num">10 Sep 2026</td>
+              <td class="num">
+                <span class="status-pill status-serious">
+                  <span class="status-dot"></span>Serious · 5d
+                </span>
+              </td>
+            </tr>
+      </tbody>
+    </table>
+
+    <footer>Source: Azure DevOps · Blackboard-01/Learn · Last activity falls back to System.ChangedDate when a bug has no comments.</footer>
+  </div>
+</body>
+</html>

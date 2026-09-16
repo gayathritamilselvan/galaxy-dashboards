@@ -388,6 +388,7 @@ full_html = f'''<!DOCTYPE html>
         <div style="text-align:right">
             <div class="meta" id="lastUpdated">Last refresh: {NOW}</div>
             <div class="meta">Auto refresh schedule: 09:00 and 19:00</div>
+            <div class="meta"><a href="bug-comment-check.html" style="color:#58a6ff;">Daily Bug Comment Check &rarr;</a></div>
             <button class="refresh-btn" onclick="refreshDashboard()">&#x21bb; Refresh</button>
         </div>
     </div>

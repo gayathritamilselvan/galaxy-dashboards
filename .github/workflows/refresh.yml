@@ -30,11 +30,17 @@ jobs:
           GITHUB_TOKEN_PAT: ${{ secrets.GH_PAT_TOKEN }}
         run: python scripts/ci_refresh.py
 
+      - name: Run bug comment check refresh
+        continue-on-error: true  # don't let a bug-dashboard failure block the other dashboards' commit/push
+        env:
+          ADO_PAT: ${{ secrets.ADO_PAT }}
+        run: python scripts/refresh_bug_comment_check.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html devex-metrics.html pr-metrics.html data/
+          git add index.html devex-metrics.html pr-metrics.html bug-comment-check.html data/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

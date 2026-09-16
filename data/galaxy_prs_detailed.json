@@ -1,5 +1,186 @@
 [
   {
+    "number": 18740,
+    "title": "AB#696134 fix(institution-page): add missing h1 on Institution Page for instructors/students",
+    "author_login": "SuryaMadhanlal-5252",
+    "author_name": "Surya Madhanlal",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Cholas",
+    "created_at": "2026-09-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18740"
+  },
+  {
+    "number": 18739,
+    "title": "Bugfix - AB#695889 :Rubric Section invisible grade submission",
+    "author_login": "akash05-bb",
+    "author_name": "Akash M",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-09-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18739"
+  },
+  {
+    "number": 18727,
+    "title": "AB#699861 - Save button incorrectly enabled for attempt feedback in Flex grading",
+    "author_login": "rag-bbdn",
+    "author_name": "Ragavendran",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-09-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18727"
+  },
+  {
+    "number": 18722,
+    "title": "Bugfix/AB#697159 cell direct grade editing",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-09-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18722"
+  },
+  {
+    "number": 18721,
+    "title": "Bugfix/AB#701370-Unable to set future due dates backport-4000.21.0",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-09-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18721"
+  },
+  {
+    "number": 18720,
+    "title": "Bugfix/AB#701370- Unable to set future due dates backport-4001.0.0",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-09-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "vs"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18720"
+  },
+  {
+    "number": 18719,
+    "title": "Bugfix/AB#701370-Unable to set future due dates backport-4001.2.0",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-09-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "vs"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18719"
+  },
+  {
+    "number": 18718,
+    "title": "AB#696806 - Rubric Report Invalid column",
+    "author_login": "PriyadarshiniSaravanan",
+    "author_name": "Priyadarshini S",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Elite",
+    "created_at": "2026-09-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18718"
+  },
+  {
     "number": 18704,
     "title": "AB#544882: Localisation change",
     "author_login": "Hariharan-r-k",
@@ -29,32 +210,9 @@
     "title": "AB#696201 - AX: Instructions for New Link form are not provided for asterisks",
     "author_login": "manoharan100",
     "author_name": "Manoharan",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Supernova",
-    "created_at": "2026-09-11",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18676"
-  },
-  {
-    "number": 18674,
-    "title": "bugfix/AB#701168-Fix for due date not clear for manual column from grid view",
-    "author_login": "nishavijayakumar",
-    "author_name": "Nisha Vijayakumar",
     "state": "Open",
     "repo": "Ultra",
-    "team": "Pallavas",
+    "team": "Supernova",
     "created_at": "2026-09-11",
     "merged_at": null,
     "closed_at": null,
@@ -66,6 +224,28 @@
     "pending": [
       "CES Approval"
     ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18676"
+  },
+  {
+    "number": 18674,
+    "title": "bugfix/AB#701168-Fix for due date not clear for manual column from grid view",
+    "author_login": "nishavijayakumar",
+    "author_name": "Nisha Vijayakumar",
+    "state": "Merged",
+    "repo": "Ultra",
+    "team": "Pallavas",
+    "created_at": "2026-09-11",
+    "merged_at": "2026-09-16",
+    "closed_at": "2026-09-16",
+    "approvals": [
+      "ces",
+      "team",
+      "tech",
+      "vs"
+    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18674"
@@ -130,10 +310,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -376,12 +556,12 @@
     "title": "Bugfix/AB#696171 - Fix skipped heading level on Assignment attempt authoring page",
     "author_login": "ranjith-r-anthology",
     "author_name": "Ranjith Ramasamy",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-09-08",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-16",
+    "closed_at": "2026-09-16",
     "approvals": [
       "ces",
       "team",
@@ -497,13 +677,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18574"
@@ -567,10 +746,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -696,15 +875,15 @@
   },
   {
     "number": 18523,
-    "title": "AB#696806 - Rubric Report Invalid column",
+    "title": "Rubric Report Invalid column",
     "author_login": "PriyadarshiniSaravanan",
     "author_name": "Priyadarshini S",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Elite",
     "created_at": "2026-09-03",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-15",
     "approvals": [],
     "pending": [
       "Team Approval",
@@ -723,12 +902,12 @@
     "title": "AB#696158-Fix(calendar): enable Space key activation for month day cells",
     "author_login": "Anshu972438",
     "author_name": "Anshu",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-09-03",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-16",
+    "closed_at": "2026-09-16",
     "approvals": [
       "team"
     ],
@@ -873,8 +1052,10 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "stormojm"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18477"
   },
   {
@@ -949,12 +1130,12 @@
     "title": "AB#696165-AX skipped heading level on tools page",
     "author_login": "BavithraM",
     "author_name": "Bavithra M",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-09-02",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-15",
+    "closed_at": "2026-09-15",
     "approvals": [
       "ces",
       "team",
@@ -1099,10 +1280,8 @@
       "vs"
     ],
     "pending": [],
-    "changes_requested_by": [
-      "stormojm"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18458"
   },
   {
@@ -1155,12 +1334,12 @@
     "title": "Bugfix/AB#696144 - AX: purple background on selected date does not meet aaa contrast requirements",
     "author_login": "Saimanimaran",
     "author_name": "Sai Manimaran",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-09-02",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-15",
     "approvals": [
       "ces",
       "team"
@@ -1589,12 +1768,12 @@
     "title": "AB#696182 Unselected tab text color in Discussion page contrast issue fix",
     "author_login": "pradeep-prasath123",
     "author_name": "Pradeep Prasath",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Mars",
     "created_at": "2026-08-27",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-15",
     "approvals": [
       "team"
     ],
@@ -1661,12 +1840,12 @@
     "title": "Bugfix/AB#697159 Eliminate the phantom edit-icon row",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-27",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-16",
     "approvals": [
       "ces",
       "team",
@@ -1683,12 +1862,12 @@
     "title": "Bugfix/AB#697159 Add grid Sub header Row navigation & button-visibility hooks",
     "author_login": "PrasannakumarG32",
     "author_name": "Prasanna Kumar G",
-    "state": "Draft",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-27",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-16",
     "approvals": [
       "team",
       "tech",
@@ -1759,12 +1938,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "vs"
     ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
-      "CES Approval"
+      "Tech Lead Review"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -1775,12 +1954,12 @@
     "title": "AB#696194 AX:Class average text is conflated",
     "author_login": "manojchandrashekar29",
     "author_name": "Manoj C",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-08-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-15",
+    "closed_at": "2026-09-15",
     "approvals": [
       "ces",
       "team",
@@ -1804,13 +1983,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18291"
@@ -1834,10 +2012,8 @@
       "Tech Lead Review",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "toni-d1"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18284"
   },
   {
@@ -2290,12 +2466,12 @@
     "title": "Bugfix/AB#696174 -  Fix hotspot keyboard shortcut tooltip not announced to screen readers",
     "author_login": "ranjith-r-anthology",
     "author_name": "Ranjith Ramasamy",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Celeste",
     "created_at": "2026-08-21",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-16",
     "approvals": [
       "ces",
       "team",
@@ -2420,10 +2596,8 @@
       "Team Approval",
       "Tech Lead Review"
     ],
-    "changes_requested_by": [
-      "covertcj"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18162"
   },
   {
@@ -2812,16 +2986,85 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18051"
   },
   {
+    "number": 9148,
+    "title": "Bugfix/AB#687241 - Send EULA service claim for asset processor settings, report and submission notice",
+    "author_login": "Dinesh-Chandra832",
+    "author_name": "Dinesh Chandra",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-09-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9148"
+  },
+  {
+    "number": 9147,
+    "title": "Feature/ AB#701595 Offline Gradebook support for score numerator/denominator; drop Overall Grade/Calculated parsing on CSV upload",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Pandias",
+    "created_at": "2026-09-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team",
+      "tech"
+    ],
+    "pending": [
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9147"
+  },
+  {
+    "number": 9146,
+    "title": "AB#701250: CourseTORest.instructorsMembership should be capped to a reasonable amount",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-09-15",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9146"
+  },
+  {
     "number": 9121,
     "title": "Bugfix/AB#697836 - Backport-4001.2.0-Return isAvailable to roles entitled to view accommodations",
     "author_login": "aarthirajaram",
     "author_name": "Aarthi Rajaram",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Pallavas",
     "created_at": "2026-09-12",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-15",
+    "closed_at": "2026-09-15",
     "approvals": [
       "team"
     ],
@@ -2861,21 +3104,24 @@
     "title": " Bugfix/AB#695697 Memoize guest course membership lookup to avoid per-item DB round-trips",
     "author_login": "harshitha786",
     "author_name": "Mogveera Harshitha Manjunath",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Oxygen",
     "created_at": "2026-09-10",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "pkumarr07"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/9093"
   },
   {
@@ -3114,7 +3360,7 @@
     "title": "AB#679707 - AI Summarization Support Summarizing in Overall Feedback's Language",
     "author_login": "rag-bbdn",
     "author_name": "Ragavendran",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Mars",
     "created_at": "2026-09-08",
@@ -3143,11 +3389,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
@@ -3184,7 +3430,7 @@
     "title": "AB#565096  Inefficient querying in Data Source manager panel leads to hang",
     "author_login": "smurugasan-bbdn",
     "author_name": "Sounder Murugasan",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Mars",
     "created_at": "2026-09-04",
@@ -3243,10 +3489,8 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [
-      "swathi-karunanithii"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/9018"
   },
   {
@@ -3470,14 +3714,13 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [
-      "amyers-blackboard",
       "pkumarr07"
     ],
     "changes_addressed": "no",
@@ -3488,12 +3731,12 @@
     "title": "Bugfix/AB#684398-Saving a Document adds </br> into empty table cells",
     "author_login": "Hariharan-r-k",
     "author_name": "Hariharan R K",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Learn",
     "team": "Supernova",
     "created_at": "2026-08-25",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-15",
     "approvals": [
       "ces",
       "team",
@@ -3668,12 +3911,12 @@
     "title": "bugfix/AB#579025-Fix course export file access errors for roles without archive/restore entitlement",
     "author_login": "AsmirKhan7",
     "author_name": "Asmir Khan",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Learn",
     "team": "Elite",
     "created_at": "2026-08-19",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-15",
+    "closed_at": "2026-09-15",
     "approvals": [
       "ces",
       "team",

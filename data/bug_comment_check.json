@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-16T12:10:29.766347+00:00",
-  "generated_at_display": "16 Sep 2026, 12:10 UTC",
+  "generated_at_utc": "2026-09-17T09:17:07.456984+00:00",
+  "generated_at_display": "17 Sep 2026, 09:17 UTC",
   "area_path": "Learn\\Maintenance\\Elite",
   "active_states": [
     "In Progress",
@@ -10,7 +10,7 @@
     "Rejected"
   ],
   "stale_days_threshold": 2,
-  "total_active_bugs": 11,
+  "total_active_bugs": 13,
   "flagged": [
     {
       "id": 686540,
@@ -19,16 +19,7 @@
       "state": "In Progress",
       "last_activity_date": "10 Sep 2026",
       "last_activity_source": "comment",
-      "days_since": 6
-    },
-    {
-      "id": 696957,
-      "title": "Gradebook New Grid View \u2013 Overall Grade pill announces raw localization key \"gradePill.errors.undefined\" to screen readers when clearing an invalid value",
-      "assignee": "Pavankumar Gandi",
-      "state": "Branch Testing",
-      "last_activity_date": "10 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 6
+      "days_since": 7
     }
   ]
 }

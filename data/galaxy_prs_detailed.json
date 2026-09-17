@@ -1,5 +1,94 @@
 [
   {
+    "number": 18764,
+    "title": "Feature/AB#700360 - Include Overall Grade column in Grade History download Item Picker",
+    "author_login": "rajeshblackboard",
+    "author_name": "Rajesh",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18764"
+  },
+  {
+    "number": 18762,
+    "title": "AB#688952 - Give the cell-info group and anonymous icons accessible names",
+    "author_login": "gulshan-antho",
+    "author_name": "Gulshan Kumar",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Mars",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18762"
+  },
+  {
+    "number": 18761,
+    "title": "AB#696141-view my activity links are not unique",
+    "author_login": "Anshu972438",
+    "author_name": "Anshu",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18761"
+  },
+  {
+    "number": 18741,
+    "title": "bugfix/AB-511048-filter-terms-base-navigation-courses",
+    "author_login": "SAAnthology",
+    "author_name": "Sai Anthro",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Oxygen",
+    "created_at": "2026-09-16",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18741"
+  },
+  {
     "number": 18740,
     "title": "AB#696134 fix(institution-page): add missing h1 on Institution Page for instructors/students",
     "author_login": "SuryaMadhanlal-5252",
@@ -10,9 +99,10 @@
     "created_at": "2026-09-16",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -26,7 +116,7 @@
     "title": "Bugfix - AB#695889 :Rubric Section invisible grade submission",
     "author_login": "akash05-bb",
     "author_name": "Akash M",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-09-16",
@@ -93,12 +183,12 @@
     "title": "Bugfix/AB#701370-Unable to set future due dates backport-4000.21.0",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-09-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-16",
+    "closed_at": "2026-09-16",
     "approvals": [
       "team",
       "tech",
@@ -116,18 +206,18 @@
     "title": "Bugfix/AB#701370- Unable to set future due dates backport-4001.0.0",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-09-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-16",
+    "closed_at": "2026-09-16",
     "approvals": [
       "team",
+      "tech",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -139,18 +229,18 @@
     "title": "Bugfix/AB#701370-Unable to set future due dates backport-4001.2.0",
     "author_login": "arunkumaranth",
     "author_name": "Arunkumar",
-    "state": "Draft",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-09-15",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-16",
+    "closed_at": "2026-09-16",
     "approvals": [
       "team",
+      "tech",
       "vs"
     ],
     "pending": [
-      "Tech Lead Review",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -169,15 +259,16 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
+    "pending": [],
+    "changes_requested_by": [
+      "john-ricaurte-blackboard"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18718"
   },
   {
@@ -287,11 +378,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team"
     ],
     "pending": [
       "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -739,7 +830,7 @@
     "title": "AB#700091 - Wire the submission list view and table to the normalised row source",
     "author_login": "nishavijayakumar",
     "author_name": "Nisha Vijayakumar",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-07",
@@ -747,11 +838,11 @@
     "closed_at": null,
     "approvals": [
       "team",
-      "tech"
+      "tech",
+      "vs"
     ],
     "pending": [
-      "CES Approval",
-      "Value Stream Approval"
+      "CES Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -769,15 +860,16 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
+    "pending": [],
+    "changes_requested_by": [
+      "stormojm"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18568"
   },
   {
@@ -1053,6 +1145,7 @@
     ],
     "pending": [],
     "changes_requested_by": [
+      "lanceneumannblackboard",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1529,17 +1622,16 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team"
+      "ces",
+      "team",
+      "tech"
     ],
     "pending": [
-      "Tech Lead Review",
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
       "davtohbb",
       "jkhan07",
-      "johntrianat",
       "stormojm"
     ],
     "changes_addressed": "no",
@@ -1887,12 +1979,12 @@
     "title": "bugfix/AB#697213- AX - Broken aria-describedby reference in Move to dialog",
     "author_login": "bhuvaneswarisbb",
     "author_name": "Bhuvaneswari S",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-08-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-16",
+    "closed_at": "2026-09-16",
     "approvals": [
       "ces",
       "team",
@@ -2122,11 +2214,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech"
     ],
     "pending": [
-      "CES Approval",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -2425,13 +2517,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "ces",
       "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "CES Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [
       "bbnkamper"
     ],
@@ -2788,12 +2879,12 @@
     "title": "AB#690828 - Grade Count and Flexible Grading Icon Enable/Disable Based on Group and Membership Filters",
     "author_login": "MohamedTharik8883",
     "author_name": "Mohamed Tharik",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Starlite",
     "created_at": "2026-08-18",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-17",
+    "closed_at": "2026-09-17",
     "approvals": [
       "team"
     ],
@@ -2875,81 +2966,36 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18063"
   },
   {
-    "number": 18057,
-    "title": "Bugfix/AB#681630 - LTI frame at 400% zoom is too hard to use",
-    "author_login": "Dinesh-Chandra832",
-    "author_name": "Dinesh Chandra",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Nayakas",
-    "created_at": "2026-08-17",
-    "merged_at": "2026-09-10",
-    "closed_at": "2026-09-10",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
+    "number": 9168,
+    "title": "initial fix",
+    "author_login": "Ashish-Anthology",
+    "author_name": "Ashish Sah",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
     ],
-    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18057"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9168"
   },
   {
-    "number": 18054,
-    "title": "AB#694041 AX:Focus can be obscured upon Reflow",
-    "author_login": "ramanidharanr",
-    "author_name": "Ramanidharan R",
-    "state": "Merged",
-    "repo": "Ultra",
+    "number": 9162,
+    "title": "AB#695764-Public Gradebook REST API should respect engagement dates when updating due dates",
+    "author_login": "PriyadarshiniSaravanan",
+    "author_name": "Priyadarshini S",
+    "state": "Draft",
+    "repo": "Learn",
     "team": "Elite",
-    "created_at": "2026-08-17",
-    "merged_at": "2026-09-03",
-    "closed_at": "2026-09-03",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18054"
-  },
-  {
-    "number": 18053,
-    "title": "Bugfix/AB#694045 - Fix color contrast for \"No tasks pending\" empty state text",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Pallavas",
-    "created_at": "2026-08-17",
-    "merged_at": "2026-08-19",
-    "closed_at": "2026-08-19",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18053"
-  },
-  {
-    "number": 18052,
-    "title": "AB#694740 Show Changes-not-allowed modal when flashcard add/delete is blocked by a student run",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-08-17",
+    "created_at": "2026-09-16",
     "merged_at": null,
     "closed_at": null,
     "approvals": [],
@@ -2961,29 +3007,7 @@
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18052"
-  },
-  {
-    "number": 18051,
-    "title": "AB#694740 Hide flashcard add/delete controls once a student has started the activity",
-    "author_login": "arunkumarkosna",
-    "author_name": "Arun Kumar Kosna",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Cholas",
-    "created_at": "2026-08-17",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18051"
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9162"
   },
   {
     "number": 9148,
@@ -2997,10 +3021,10 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3043,12 +3067,12 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "tech"
+      "ces",
+      "tech",
+      "vs"
     ],
     "pending": [
-      "Team Approval",
-      "CES Approval",
-      "Value Stream Approval"
+      "Team Approval"
     ],
     "changes_requested_by": [],
     "changes_addressed": "na",
@@ -3088,9 +3112,10 @@
     "created_at": "2026-09-11",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "team"
+    ],
     "pending": [
-      "Team Approval",
       "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
@@ -3189,7 +3214,8 @@
       "Value Stream Approval"
     ],
     "changes_requested_by": [
-      "pkumarr07"
+      "pkumarr07",
+      "sakthi-selvapriya"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/learn/pull/9086"
@@ -3475,7 +3501,7 @@
     "title": "AB#429264 - No Time Limit + Prohibit late submissions + Unlimited accommodation not submitting attempt",
     "author_login": "BharathiKannaa",
     "author_name": "Bharathi Kanna",
-    "state": "Draft",
+    "state": "Open",
     "repo": "Learn",
     "team": "Starlite",
     "created_at": "2026-09-02",

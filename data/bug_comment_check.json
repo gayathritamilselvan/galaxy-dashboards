@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-17T09:17:07.456984+00:00",
-  "generated_at_display": "17 Sep 2026, 09:17 UTC",
+  "generated_at_utc": "2026-09-17T18:09:18.055259+00:00",
+  "generated_at_display": "17 Sep 2026, 18:09 UTC",
   "area_path": "Learn\\Maintenance\\Elite",
   "active_states": [
     "In Progress",
@@ -20,6 +20,24 @@
       "last_activity_date": "10 Sep 2026",
       "last_activity_source": "comment",
       "days_since": 7
+    },
+    {
+      "id": 696155,
+      "title": "AX:\nScreen reader should announce when calendar view has changed to today",
+      "assignee": "Kirubakaran Rajangam",
+      "state": "Awaiting DoD",
+      "last_activity_date": "15 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 699803,
+      "title": "Voltron - REST API cold-start latency regression on /contents?expand=gradebookCategory",
+      "assignee": "Subashree B",
+      "state": "In Progress",
+      "last_activity_date": "15 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
     }
   ]
 }

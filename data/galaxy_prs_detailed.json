@@ -1,5 +1,118 @@
 [
   {
+    "number": 18786,
+    "title": "AB#693409 ident doesnt update child ist markers",
+    "author_login": "Hariharan-r-k",
+    "author_name": "Hariharan R K",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Supernova",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18786"
+  },
+  {
+    "number": 18782,
+    "title": "AB#699035 - Withhold student identity on anonymous submission rows",
+    "author_login": "arunkumaranth",
+    "author_name": "Arunkumar",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18782"
+  },
+  {
+    "number": 18773,
+    "title": "Bugfix AB#696154 : AX-hide-weekday-letters-from-screen-readers",
+    "author_login": "akash05-bb",
+    "author_name": "Akash M",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Starlite",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18773"
+  },
+  {
+    "number": 18772,
+    "title": "AB#558027 - Remove the Institutional Hierarchy UEF feature flag",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Open",
+    "repo": "Ultra",
+    "team": "Nayakas",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "ces",
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "Team Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18772"
+  },
+  {
+    "number": 18771,
+    "title": "bugfix/AB#697957 Invalidate bulk view grades upon changing the exception Backport 4001.2.0",
+    "author_login": "PrasannakumarG32",
+    "author_name": "Prasanna Kumar G",
+    "state": "Draft",
+    "repo": "Ultra",
+    "team": "Pandias",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "team"
+    ],
+    "pending": [
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/ultra/pull/18771"
+  },
+  {
     "number": 18764,
     "title": "Feature/AB#700360 - Include Overall Grade column in Grade History download Item Picker",
     "author_login": "rajeshblackboard",
@@ -266,7 +379,8 @@
     ],
     "pending": [],
     "changes_requested_by": [
-      "john-ricaurte-blackboard"
+      "john-ricaurte-blackboard",
+      "sharmilahameed"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18718"
@@ -346,12 +460,12 @@
     "title": "AB#696138 - AX:Red text does not meet enhanced color contrast requirements",
     "author_login": "kesavanazhagarsamy",
     "author_name": "Kesavan Azhagarsamy",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Supernova",
     "created_at": "2026-09-10",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-17",
     "approvals": [
       "team",
       "tech",
@@ -531,12 +645,12 @@
     "title": "bugfix/AB#697815-Quarantine-Fix-PTID=574462",
     "author_login": "Vignesh440-ai",
     "author_name": "Vignesh",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Pallavas",
     "created_at": "2026-09-09",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-17",
     "approvals": [
       "team"
     ],
@@ -707,8 +821,11 @@
       "CES Approval",
       "Value Stream Approval"
     ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
+    "changes_requested_by": [
+      "covertcj",
+      "welstrec"
+    ],
+    "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18580"
   },
   {
@@ -1474,12 +1591,12 @@
     "title": "Bugfix/AB#696176 Fix error text contrast on assessment overview",
     "author_login": "pkumarr07",
     "author_name": "Pradeep Kumar R",
-    "state": "Open",
+    "state": "Closed",
     "repo": "Ultra",
     "team": "Nayakas",
     "created_at": "2026-09-01",
     "merged_at": null,
-    "closed_at": null,
+    "closed_at": "2026-09-17",
     "approvals": [
       "team",
       "tech",
@@ -1622,17 +1739,16 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "ces",
-      "team",
-      "tech"
+      "ces"
     ],
     "pending": [
+      "Team Approval",
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
       "davtohbb",
-      "jkhan07",
-      "stormojm"
+      "jkhan07"
     ],
     "changes_addressed": "no",
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18400"
@@ -2068,12 +2184,12 @@
     "title": "bugfix/AB#697957-invalidating bulk view grades upon changing the exception",
     "author_login": "Subbalakshmi-bb",
     "author_name": "Subbalakshmi",
-    "state": "Open",
+    "state": "Merged",
     "repo": "Ultra",
     "team": "Pandias",
     "created_at": "2026-08-26",
-    "merged_at": null,
-    "closed_at": null,
+    "merged_at": "2026-09-17",
+    "closed_at": "2026-09-17",
     "approvals": [
       "ces",
       "team",
@@ -2966,6 +3082,73 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18063"
   },
   {
+    "number": 9179,
+    "title": "AB#698907 Fix inconsistent course assessment attempt counts",
+    "author_login": "sharmilahameed",
+    "author_name": "Sharmila Begam Hameed",
+    "state": "Draft",
+    "repo": "Learn",
+    "team": "Mars",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9179"
+  },
+  {
+    "number": 9178,
+    "title": "Bugfix/AB#702092 Backport missing guest access follow-up test coverage to 4001.2.0",
+    "author_login": "harshitha786",
+    "author_name": "Mogveera Harshitha Manjunath",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Oxygen",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [],
+    "pending": [
+      "Team Approval",
+      "Tech Lead Review",
+      "CES Approval",
+      "Value Stream Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9178"
+  },
+  {
+    "number": 9176,
+    "title": "AB#558027 - Remove the Institutional Hierarchy UEF feature flag",
+    "author_login": "pkumarr07",
+    "author_name": "Pradeep Kumar R",
+    "state": "Open",
+    "repo": "Learn",
+    "team": "Nayakas",
+    "created_at": "2026-09-17",
+    "merged_at": null,
+    "closed_at": null,
+    "approvals": [
+      "tech",
+      "vs"
+    ],
+    "pending": [
+      "Team Approval",
+      "CES Approval"
+    ],
+    "changes_requested_by": [],
+    "changes_addressed": "na",
+    "html_url": "https://github.com/blackboard-learn/learn/pull/9176"
+  },
+  {
     "number": 9168,
     "title": "initial fix",
     "author_login": "Ashish-Anthology",
@@ -3068,12 +3251,11 @@
     "closed_at": null,
     "approvals": [
       "ces",
+      "team",
       "tech",
       "vs"
     ],
-    "pending": [
-      "Team Approval"
-    ],
+    "pending": [],
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/9146"
@@ -3232,11 +3414,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team",
-      "tech"
+      "ces"
     ],
     "pending": [
-      "CES Approval",
+      "Team Approval",
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [],
@@ -3322,11 +3504,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
-      "team",
-      "tech"
+      "ces"
     ],
     "pending": [
-      "CES Approval",
+      "Team Approval",
+      "Tech Lead Review",
       "Value Stream Approval"
     ],
     "changes_requested_by": [
@@ -3392,10 +3574,11 @@
     "created_at": "2026-09-08",
     "merged_at": null,
     "closed_at": null,
-    "approvals": [],
+    "approvals": [
+      "tech"
+    ],
     "pending": [
       "Team Approval",
-      "Tech Lead Review",
       "CES Approval",
       "Value Stream Approval"
     ],
@@ -3746,10 +3929,8 @@
     "pending": [
       "CES Approval"
     ],
-    "changes_requested_by": [
-      "pkumarr07"
-    ],
-    "changes_addressed": "no",
+    "changes_requested_by": [],
+    "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8948"
   },
   {

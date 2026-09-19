@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-17T18:09:18.055259+00:00",
-  "generated_at_display": "17 Sep 2026, 18:09 UTC",
+  "generated_at_utc": "2026-09-19T08:39:11.306672+00:00",
+  "generated_at_display": "19 Sep 2026, 08:39 UTC",
   "area_path": "Learn\\Maintenance\\Elite",
   "active_states": [
     "In Progress",
@@ -10,25 +10,34 @@
     "Rejected"
   ],
   "stale_days_threshold": 2,
-  "total_active_bugs": 13,
+  "total_active_bugs": 15,
   "flagged": [
     {
-      "id": 686540,
-      "title": "Comment annotations downloaded and re-uploaded are flattened as yellow rectangle annotations",
-      "assignee": "Subashree B",
+      "id": 689252,
+      "title": "Delay observed when returning from the Submissions page after opening items loaded via lazy loading in Gradebook List View",
+      "assignee": "Priyadarshini S",
       "state": "In Progress",
-      "last_activity_date": "10 Sep 2026",
+      "last_activity_date": "17 Aug 2026",
       "last_activity_source": "comment",
-      "days_since": 7
+      "days_since": 32
     },
     {
-      "id": 696155,
-      "title": "AX:\nScreen reader should announce when calendar view has changed to today",
-      "assignee": "Kirubakaran Rajangam",
+      "id": 684577,
+      "title": "Vague fatal errors occur when viewing or using certain McGraw Hill Pools",
+      "assignee": "Priyadarshini S",
       "state": "Awaiting DoD",
-      "last_activity_date": "15 Sep 2026",
+      "last_activity_date": "16 Sep 2026",
       "last_activity_source": "comment",
-      "days_since": 2
+      "days_since": 3
+    },
+    {
+      "id": 698145,
+      "title": "Journal Submission Fails to Open from Gradebook Grid View When Students Visibility Is Enabled",
+      "assignee": "Pavankumar Gandi",
+      "state": "Branch Testing",
+      "last_activity_date": "16 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 3
     },
     {
       "id": 699803,
@@ -36,6 +45,42 @@
       "assignee": "Subashree B",
       "state": "In Progress",
       "last_activity_date": "15 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 3
+    },
+    {
+      "id": 699963,
+      "title": "ClosedCourseGuard assumes all POSTS are data-modifying and blocks the submission area of the grade center",
+      "assignee": "Kirubakaran Rajangam",
+      "state": "In Progress",
+      "last_activity_date": "16 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 3
+    },
+    {
+      "id": 696134,
+      "title": "AX:\nInstitutions page does not have a level 1 heading",
+      "assignee": "Surya Madhanlal",
+      "state": "In Review",
+      "last_activity_date": "17 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 696680,
+      "title": "Search Box Position is Inconsistent",
+      "assignee": "Surya Madhanlal",
+      "state": "In Progress",
+      "last_activity_date": "17 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 696957,
+      "title": "Gradebook New Grid View \u2013 Overall Grade pill announces raw localization key \"gradePill.errors.undefined\" to screen readers when clearing an invalid value",
+      "assignee": "Pavankumar Gandi",
+      "state": "Branch Testing",
+      "last_activity_date": "17 Sep 2026",
       "last_activity_source": "comment",
       "days_since": 2
     }

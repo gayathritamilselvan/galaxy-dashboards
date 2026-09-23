@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-20T17:21:32.411564+00:00",
-  "generated_at_display": "20 Sep 2026, 17:21 UTC",
+  "generated_at_utc": "2026-09-23T09:14:00.459492+00:00",
+  "generated_at_display": "23 Sep 2026, 09:14 UTC",
   "area_path": "Learn\\Maintenance\\Elite",
   "active_states": [
     "In Progress",
@@ -10,106 +10,16 @@
     "Rejected"
   ],
   "stale_days_threshold": 2,
-  "total_active_bugs": 15,
+  "total_active_bugs": 17,
   "flagged": [
-    {
-      "id": 689252,
-      "title": "Delay observed when returning from the Submissions page after opening items loaded via lazy loading in Gradebook List View",
-      "assignee": "Priyadarshini S",
-      "state": "In Progress",
-      "last_activity_date": "17 Aug 2026",
-      "last_activity_source": "comment",
-      "days_since": 34
-    },
-    {
-      "id": 699803,
-      "title": "Voltron - REST API cold-start latency regression on /contents?expand=gradebookCategory",
-      "assignee": "Subashree B",
-      "state": "In Progress",
-      "last_activity_date": "15 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 5
-    },
-    {
-      "id": 684577,
-      "title": "Vague fatal errors occur when viewing or using certain McGraw Hill Pools",
-      "assignee": "Priyadarshini S",
-      "state": "Awaiting DoD",
-      "last_activity_date": "16 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 4
-    },
-    {
-      "id": 698145,
-      "title": "Journal Submission Fails to Open from Gradebook Grid View When Students Visibility Is Enabled",
-      "assignee": "Pavankumar Gandi",
-      "state": "Branch Testing",
-      "last_activity_date": "16 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 4
-    },
-    {
-      "id": 699963,
-      "title": "ClosedCourseGuard assumes all POSTS are data-modifying and blocks the submission area of the grade center",
-      "assignee": "Kirubakaran Rajangam",
-      "state": "In Progress",
-      "last_activity_date": "16 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 4
-    },
-    {
-      "id": 696134,
-      "title": "AX:\nInstitutions page does not have a level 1 heading",
-      "assignee": "Surya Madhanlal",
-      "state": "In Review",
-      "last_activity_date": "17 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 3
-    },
-    {
-      "id": 696680,
-      "title": "Search Box Position is Inconsistent",
-      "assignee": "Surya Madhanlal",
-      "state": "In Progress",
-      "last_activity_date": "17 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 3
-    },
     {
       "id": 696957,
       "title": "Gradebook New Grid View \u2013 Overall Grade pill announces raw localization key \"gradePill.errors.undefined\" to screen readers when clearing an invalid value",
-      "assignee": "Pavankumar Gandi",
+      "assignee": "Vignesh Gajendiran",
       "state": "Branch Testing",
       "last_activity_date": "17 Sep 2026",
       "last_activity_source": "comment",
-      "days_since": 3
-    },
-    {
-      "id": 686540,
-      "title": "Comment annotations downloaded and re-uploaded are flattened as yellow rectangle annotations",
-      "assignee": "Subashree B",
-      "state": "In Progress",
-      "last_activity_date": "18 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 2
-    },
-    {
-      "id": 691473,
-      "title": "Specific members or users rule excludes other rules from release conditions in Ultra",
-      "assignee": "Subashree B",
-      "state": "Awaiting DoD",
-      "last_activity_date": "18 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 2
-    },
-    {
-      "id": 695764,
-      "title": "Public Gradebook REST API should respect engagement dates when updating due dates",
-      "assignee": "Priyadarshini S",
-      "state": "In Review",
-      "last_activity_date": "18 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 2
+      "days_since": 6
     },
     {
       "id": 696155,
@@ -118,16 +28,7 @@
       "state": "Awaiting DoD",
       "last_activity_date": "18 Sep 2026",
       "last_activity_source": "comment",
-      "days_since": 2
-    },
-    {
-      "id": 696806,
-      "title": "Rubric report can be generated for gradebook items that do not support or have an associated rubric by modifying the columnId in the report URL",
-      "assignee": "Priyadarshini S",
-      "state": "In Review",
-      "last_activity_date": "18 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 2
+      "days_since": 4
     },
     {
       "id": 701903,
@@ -135,6 +36,42 @@
       "assignee": "Kirubakaran Rajangam",
       "state": "In Progress",
       "last_activity_date": "18 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 4
+    },
+    {
+      "id": 702203,
+      "title": "Multiple Alerts on DocAnnotator - pspdfkit, Doc Annotate conversion Lambda",
+      "assignee": "Sundaresan Kumbeswaran",
+      "state": "In Progress",
+      "last_activity_date": "18 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 4
+    },
+    {
+      "id": 696134,
+      "title": "AX:\nInstitutions page does not have a level 1 heading",
+      "assignee": "Surya Madhanlal",
+      "state": "In Review",
+      "last_activity_date": "21 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 696680,
+      "title": "Search Box Position is Inconsistent",
+      "assignee": "Surya Madhanlal",
+      "state": "In Progress",
+      "last_activity_date": "21 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 699963,
+      "title": "ClosedCourseGuard assumes all POSTS are data-modifying and blocks the submission area of the grade center",
+      "assignee": "Kirubakaran Rajangam",
+      "state": "In Review",
+      "last_activity_date": "21 Sep 2026",
       "last_activity_source": "comment",
       "days_since": 2
     }

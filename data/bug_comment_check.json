@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-23T09:14:00.459492+00:00",
-  "generated_at_display": "23 Sep 2026, 09:14 UTC",
+  "generated_at_utc": "2026-09-26T17:47:53.345334+00:00",
+  "generated_at_display": "26 Sep 2026, 17:47 UTC",
   "area_path": "Learn\\Maintenance\\Elite",
   "active_states": [
     "In Progress",
@@ -10,43 +10,16 @@
     "Rejected"
   ],
   "stale_days_threshold": 2,
-  "total_active_bugs": 17,
+  "total_active_bugs": 16,
   "flagged": [
     {
-      "id": 696957,
-      "title": "Gradebook New Grid View \u2013 Overall Grade pill announces raw localization key \"gradePill.errors.undefined\" to screen readers when clearing an invalid value",
-      "assignee": "Vignesh Gajendiran",
-      "state": "Branch Testing",
-      "last_activity_date": "17 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 6
-    },
-    {
-      "id": 696155,
-      "title": "AX:\nScreen reader should announce when calendar view has changed to today",
-      "assignee": "Kirubakaran Rajangam",
-      "state": "Awaiting DoD",
-      "last_activity_date": "18 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 4
-    },
-    {
-      "id": 701903,
-      "title": "Discussion Feedback entry fails for students retrieved via gradebook search -> Displays \"Your instructor hasn't added feedback\"",
-      "assignee": "Kirubakaran Rajangam",
+      "id": 689252,
+      "title": "Delay observed when returning from the Submissions page after opening items loaded via lazy loading in Gradebook List View",
+      "assignee": "Priyadarshini S",
       "state": "In Progress",
-      "last_activity_date": "18 Sep 2026",
+      "last_activity_date": "17 Aug 2026",
       "last_activity_source": "comment",
-      "days_since": 4
-    },
-    {
-      "id": 702203,
-      "title": "Multiple Alerts on DocAnnotator - pspdfkit, Doc Annotate conversion Lambda",
-      "assignee": "Sundaresan Kumbeswaran",
-      "state": "In Progress",
-      "last_activity_date": "18 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 4
+      "days_since": 40
     },
     {
       "id": 696134,
@@ -55,7 +28,7 @@
       "state": "In Review",
       "last_activity_date": "21 Sep 2026",
       "last_activity_source": "comment",
-      "days_since": 2
+      "days_since": 5
     },
     {
       "id": 696680,
@@ -64,14 +37,113 @@
       "state": "In Progress",
       "last_activity_date": "21 Sep 2026",
       "last_activity_source": "comment",
+      "days_since": 5
+    },
+    {
+      "id": 699803,
+      "title": "Voltron - REST API cold-start latency regression on /contents?expand=gradebookCategory",
+      "assignee": "Subashree B",
+      "state": "In Progress",
+      "last_activity_date": "22 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 4
+    },
+    {
+      "id": 702273,
+      "title": "Return to the Gradable Items Modal - Unexpected behavior",
+      "assignee": "Surya Madhanlal",
+      "state": "In Progress",
+      "last_activity_date": "22 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 4
+    },
+    {
+      "id": 686540,
+      "title": "Comment annotations downloaded and re-uploaded are flattened as yellow rectangle annotations",
+      "assignee": "Subashree B",
+      "state": "In Progress",
+      "last_activity_date": "23 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 3
+    },
+    {
+      "id": 695764,
+      "title": "Public Gradebook REST API should respect engagement dates when updating due dates",
+      "assignee": "Pavankumar Gandi",
+      "state": "Branch Testing",
+      "last_activity_date": "23 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 3
+    },
+    {
+      "id": 701903,
+      "title": "Discussion Feedback entry fails for students retrieved via gradebook search -> Displays \"Your instructor hasn't added feedback\"",
+      "assignee": "Kirubakaran Rajangam",
+      "state": "In Review",
+      "last_activity_date": "23 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 3
+    },
+    {
+      "id": 691473,
+      "title": "Specific members or users rule excludes other rules from release conditions in Ultra",
+      "assignee": "Subashree B",
+      "state": "Awaiting DoD",
+      "last_activity_date": "24 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 693553,
+      "title": "Permanent DocViewer Failure if 51 or more documents submitted in one attempt",
+      "assignee": "Subashree B",
+      "state": "In Progress",
+      "last_activity_date": "24 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 695667,
+      "title": "docviewer cleanup error recurring hourly",
+      "assignee": "Sundaresan Kumbeswaran",
+      "state": "Awaiting DoD",
+      "last_activity_date": "24 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 696806,
+      "title": "Rubric report can be generated for gradebook items that do not support or have an associated rubric by modifying the columnId in the report URL",
+      "assignee": "Pavankumar Gandi",
+      "state": "Branch Testing",
+      "last_activity_date": "24 Sep 2026",
+      "last_activity_source": "comment",
       "days_since": 2
     },
     {
       "id": 699963,
       "title": "ClosedCourseGuard assumes all POSTS are data-modifying and blocks the submission area of the grade center",
-      "assignee": "Kirubakaran Rajangam",
+      "assignee": "Pavankumar Gandi",
+      "state": "Branch Testing",
+      "last_activity_date": "24 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 702103,
+      "title": "Enabling automatic zeros after the due dates of an existing peer assignment breaks the new grading activities count in the course navigation bar",
+      "assignee": "Priyadarshini S",
       "state": "In Review",
-      "last_activity_date": "21 Sep 2026",
+      "last_activity_date": "24 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 2
+    },
+    {
+      "id": 702203,
+      "title": "Multiple Alerts on DocAnnotator - pspdfkit, Doc Annotate conversion Lambda",
+      "assignee": "Sundaresan Kumbeswaran",
+      "state": "In Progress",
+      "last_activity_date": "24 Sep 2026",
       "last_activity_source": "comment",
       "days_since": 2
     }

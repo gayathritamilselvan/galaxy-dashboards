@@ -9174,7 +9174,7 @@
       "team": "Elite",
       "period": "POST_S12",
       "prs_authored": 11,
-      "avg_pr_age": 437.3,
+      "avg_pr_age": 566.5,
       "avg_pr_size": 159.8,
       "avg_review_cycle": 0.18
     },
@@ -9924,7 +9924,7 @@
       "team": "Celeste",
       "period": "POST_S12",
       "prs_authored": 10,
-      "avg_pr_age": 478.1,
+      "avg_pr_age": 622.7,
       "avg_pr_size": 251.4,
       "avg_review_cycle": 1.2
     },
@@ -10704,7 +10704,7 @@
       "team": "Elite",
       "period": "ALL",
       "prs_authored": 21,
-      "avg_pr_age": 433.5,
+      "avg_pr_age": 501.2,
       "avg_pr_size": 155.1,
       "avg_review_cycle": 0.62
     },
@@ -10954,7 +10954,7 @@
       "team": "Celeste",
       "period": "ALL",
       "prs_authored": 15,
-      "avg_pr_age": 628.7,
+      "avg_pr_age": 739.9,
       "avg_pr_size": 189.3,
       "avg_review_cycle": 0.8
     },
@@ -11070,5 +11070,5 @@
     }
   ],
   "total_prs": 937,
-  "fetched_at": "2026-09-26 17:47:51"
+  "fetched_at": "2026-09-27 09:54:54"
 }

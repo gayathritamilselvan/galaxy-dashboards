@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-26T17:47:53.345334+00:00",
-  "generated_at_display": "26 Sep 2026, 17:47 UTC",
+  "generated_at_utc": "2026-09-27T09:54:56.448278+00:00",
+  "generated_at_display": "27 Sep 2026, 09:54 UTC",
   "area_path": "Learn\\Maintenance\\Elite",
   "active_states": [
     "In Progress",
@@ -28,7 +28,7 @@
       "state": "In Review",
       "last_activity_date": "21 Sep 2026",
       "last_activity_source": "comment",
-      "days_since": 5
+      "days_since": 6
     },
     {
       "id": 696680,
@@ -37,7 +37,7 @@
       "state": "In Progress",
       "last_activity_date": "21 Sep 2026",
       "last_activity_source": "comment",
-      "days_since": 5
+      "days_since": 6
     },
     {
       "id": 699803,
@@ -45,6 +45,15 @@
       "assignee": "Subashree B",
       "state": "In Progress",
       "last_activity_date": "22 Sep 2026",
+      "last_activity_source": "comment",
+      "days_since": 5
+    },
+    {
+      "id": 695764,
+      "title": "Public Gradebook REST API should respect engagement dates when updating due dates",
+      "assignee": "Pavankumar Gandi",
+      "state": "Branch Testing",
+      "last_activity_date": "23 Sep 2026",
       "last_activity_source": "comment",
       "days_since": 4
     },
@@ -58,20 +67,20 @@
       "days_since": 4
     },
     {
-      "id": 686540,
-      "title": "Comment annotations downloaded and re-uploaded are flattened as yellow rectangle annotations",
-      "assignee": "Subashree B",
-      "state": "In Progress",
-      "last_activity_date": "23 Sep 2026",
+      "id": 695667,
+      "title": "docviewer cleanup error recurring hourly",
+      "assignee": "Sundaresan Kumbeswaran",
+      "state": "Awaiting DoD",
+      "last_activity_date": "24 Sep 2026",
       "last_activity_source": "comment",
       "days_since": 3
     },
     {
-      "id": 695764,
-      "title": "Public Gradebook REST API should respect engagement dates when updating due dates",
+      "id": 696806,
+      "title": "Rubric report can be generated for gradebook items that do not support or have an associated rubric by modifying the columnId in the report URL",
       "assignee": "Pavankumar Gandi",
       "state": "Branch Testing",
-      "last_activity_date": "23 Sep 2026",
+      "last_activity_date": "24 Sep 2026",
       "last_activity_source": "comment",
       "days_since": 3
     },
@@ -103,20 +112,11 @@
       "days_since": 2
     },
     {
-      "id": 695667,
-      "title": "docviewer cleanup error recurring hourly",
-      "assignee": "Sundaresan Kumbeswaran",
+      "id": 698145,
+      "title": "Journal Submission Fails to Open from Gradebook Grid View When Students Visibility Is Enabled",
+      "assignee": "Surya Madhanlal",
       "state": "Awaiting DoD",
-      "last_activity_date": "24 Sep 2026",
-      "last_activity_source": "comment",
-      "days_since": 2
-    },
-    {
-      "id": 696806,
-      "title": "Rubric report can be generated for gradebook items that do not support or have an associated rubric by modifying the columnId in the report URL",
-      "assignee": "Pavankumar Gandi",
-      "state": "Branch Testing",
-      "last_activity_date": "24 Sep 2026",
+      "last_activity_date": "25 Sep 2026",
       "last_activity_source": "comment",
       "days_since": 2
     },

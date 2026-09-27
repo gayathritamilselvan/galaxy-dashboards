@@ -541,11 +541,11 @@
     "merged_at": null,
     "closed_at": null,
     "approvals": [
+      "team",
       "tech",
       "vs"
     ],
     "pending": [
-      "Team Approval",
       "CES Approval"
     ],
     "changes_requested_by": [],
@@ -2825,125 +2825,6 @@
     "html_url": "https://github.com/blackboard-learn/ultra/pull/18352"
   },
   {
-    "number": 18335,
-    "title": "AB#696182 Unselected tab text color in Discussion page contrast issue fix",
-    "author_login": "pradeep-prasath123",
-    "author_name": "Pradeep Prasath",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Mars",
-    "created_at": "2026-08-27",
-    "merged_at": null,
-    "closed_at": "2026-09-15",
-    "approvals": [
-      "team"
-    ],
-    "pending": [
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [
-      "jkhan07",
-      "johntrianat",
-      "tbednarekbb"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18335"
-  },
-  {
-    "number": 18334,
-    "title": "AB#697880 Overall Grade Pill Displays \"...\" Instead of Percentage After Changing Overall Grade Calculation Type from Letter to Percentage",
-    "author_login": "ramanidharanr",
-    "author_name": "Ramanidharan R",
-    "state": "Merged",
-    "repo": "Ultra",
-    "team": "Elite",
-    "created_at": "2026-08-27",
-    "merged_at": "2026-09-10",
-    "closed_at": "2026-09-10",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18334"
-  },
-  {
-    "number": 18332,
-    "title": "Flexgrading issue fix",
-    "author_login": "Subbalakshmi-bb",
-    "author_name": "Subbalakshmi",
-    "state": "Draft",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-08-27",
-    "merged_at": null,
-    "closed_at": null,
-    "approvals": [],
-    "pending": [
-      "Team Approval",
-      "Tech Lead Review",
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18332"
-  },
-  {
-    "number": 18331,
-    "title": "Bugfix/AB#697159 Eliminate the phantom edit-icon row",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-08-27",
-    "merged_at": null,
-    "closed_at": "2026-09-16",
-    "approvals": [
-      "ces",
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18331"
-  },
-  {
-    "number": 18330,
-    "title": "Bugfix/AB#697159 Add grid Sub header Row navigation & button-visibility hooks",
-    "author_login": "PrasannakumarG32",
-    "author_name": "Prasanna Kumar G",
-    "state": "Closed",
-    "repo": "Ultra",
-    "team": "Pandias",
-    "created_at": "2026-08-27",
-    "merged_at": null,
-    "closed_at": "2026-09-16",
-    "approvals": [
-      "team",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "CES Approval"
-    ],
-    "changes_requested_by": [
-      "dsoto-bb"
-    ],
-    "changes_addressed": "no",
-    "html_url": "https://github.com/blackboard-learn/ultra/pull/18330"
-  },
-  {
     "number": 9254,
     "title": "AB#701494 Enrolling users from the roster shows undefined undefined backport 4001.4.0",
     "author_login": "vijay-8421",
@@ -4232,74 +4113,5 @@
     "changes_requested_by": [],
     "changes_addressed": "na",
     "html_url": "https://github.com/blackboard-learn/learn/pull/8976"
-  },
-  {
-    "number": 8974,
-    "title": "AB#691781 Fix activity_accumulator_queue pk1 conflicts blocking question analysis",
-    "author_login": "sharmilahameed",
-    "author_name": "Sharmila Begam Hameed",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Mars",
-    "created_at": "2026-08-27",
-    "merged_at": "2026-09-21",
-    "closed_at": "2026-09-21",
-    "approvals": [
-      "ces",
-      "tech",
-      "vs"
-    ],
-    "pending": [
-      "Team Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8974"
-  },
-  {
-    "number": 8972,
-    "title": "Bugfix/AB#697836 - Return isAvailable to roles entitled to view accommodations",
-    "author_login": "aarthirajaram",
-    "author_name": "Aarthi Rajaram",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Pallavas",
-    "created_at": "2026-08-27",
-    "merged_at": "2026-09-03",
-    "closed_at": "2026-09-03",
-    "approvals": [
-      "ces",
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8972"
-  },
-  {
-    "number": 8969,
-    "title": "Bugfix/AB#684180 - Prevent HTTP 414 after large package upload in Ultra content picker - BACKPORT TO 4001.0.0",
-    "author_login": "Dinesh-Chandra832",
-    "author_name": "Dinesh Chandra",
-    "state": "Merged",
-    "repo": "Learn",
-    "team": "Nayakas",
-    "created_at": "2026-08-27",
-    "merged_at": "2026-08-27",
-    "closed_at": "2026-08-27",
-    "approvals": [
-      "team",
-      "tech"
-    ],
-    "pending": [
-      "CES Approval",
-      "Value Stream Approval"
-    ],
-    "changes_requested_by": [],
-    "changes_addressed": "na",
-    "html_url": "https://github.com/blackboard-learn/learn/pull/8969"
   }
 ]
